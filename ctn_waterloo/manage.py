@@ -29,10 +29,10 @@ def up(destination, link=None):
     subprocess.call(['rsync', '-Pah', '--del', freezer.root + '/', destination])
 
     if link is not None:
-        destparts = desination.split(':')
+        destparts = destination.split(':')
         print '### Linking', link
         subprocess.call(['ssh', destparts[0],
-                         "'ln -s " + link + " " + destparts[1]])
+                         "'ln -s " + link + " " + destparts[1] + "'"])
 
 
 @manager.shell
