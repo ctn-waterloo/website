@@ -21,8 +21,7 @@ the things I've been thinking about recently you can check out my blog here:
 
 I received my Master's degree (MMath) in Computer Science at Waterloo (2010),
 with my thesis: 
-[NOCH: A biologically plausible framework for models of neural motor control]
-(http://www.uwspace.uwaterloo.ca/bitstream/10012/4949/1/main.pdf).
+[NOCH: A biologically plausible framework for models of neural motor control](http://www.uwspace.uwaterloo.ca/bitstream/10012/4949/1/main.pdf).
 
 My undergraduate degree was in Computer Science (BCSH), received from Acadia
 University (2007), with my thesis: The algebraic properties of Template Guided
