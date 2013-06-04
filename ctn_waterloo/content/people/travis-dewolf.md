@@ -84,4 +84,4 @@ cnrglab/files/files/NOCH.pdf)
   
 If you are interested in talking with me or would like to give me lots of
 money to work for you please don't hesitate to send me an email at
-[tdewolf@uwaterloo.ca](http://mailto:tdewolf@uwaterloo.ca).
+[tdewolf@uwaterloo.ca](mailto:tdewolf@uwaterloo.ca).
