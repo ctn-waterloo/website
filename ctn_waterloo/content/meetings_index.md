@@ -1,0 +1,2 @@
+title: Meetings
+calendar: <iframe src="https://www.google.com/calendar/embed?title=CNRG%20%26%20PAS2464&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=cnrg.uwaterloo%40gmail.com&amp;color=%23A32929&amp;src=efvt671liptiaaten4tq7ip2rk%40group.calendar.google.com&amp;color=%23856508&amp;ctz=America%2FToronto" style=" border-width:0 " width="100%" height="300" frameborder="0" scrolling="no"></iframe>

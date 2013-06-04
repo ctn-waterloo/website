@@ -1,0 +1,53 @@
+title: "Lab meetings: 2010"
+year: 2010
+
+- **Jan 8**: Travis presents the NOCH: framework for biologically plausible models of neural motor control [[pdf](?q=system/files/NOCH.pdf)].
+- **Jan 15**: Roundtable
+- **Jan 22**: No meeting (Marsat talk in biology)
+- **Jan 29**: No meeting (Chris out of town)
+- **Feb 5**: Charlie Tang recent machine vision results (denoising deep belief network)
+- **Feb 12**: Bruce McKay is giving a talk B2-350
+- **Feb 19**: Cosyne Poster practise & roundtable
+- **Feb 26**: No meeting (Cosyne)
+- **Mar 5**: Roundtable
+- **Mar 12**: CTN interview (no meeting)
+- **Mar 19**: Cosyne Summary (Bruce & Chris)
+- **Mar 26**: Cancelled (Unlimited workshops)
+- **Apr 2**: Cancelled (Good Friday)
+- **Apr 9**: Roundtable
+- **Apr 16**: Travis poster presentation
+- **Apr 23**: Roundtable
+- **Apr 30**: Eric presenting Nengo improvements
+- **May 7**: Roundtable (welcome new folks)
+- **May 14**: Jacqueline presenting Raven's vision work [[pdf](?q=system/files/raven.pdf)].
+- **Jan 15**: Roundtable
+- **May 21**: Travis report from NCM
+- **May 28**: Roundtable
+- **June 4**: Mo meeting (Chris in Brussels)
+- **June 11**: Roundtable
+- **June 18**: Cancelled (too many in Ottawa)
+- **June 29**: Report on Summer School
+- **July 2**: Cancelled (Chris in BC)
+- **July 9**: Cancelled (Chris in BC)
+- **July 16**: Report from Charlie on ICML [[pdf](?q=system/files/icml_ctn.pdf)]
+- **July 23**: Scott (works with Paul) on part-whole
+- **July 30**: Roundtable
+- **Aug 6**: Cog Sci Presentation practise
+- **Aug 13**: Cancelled (at Cogsci)
+- **Aug 20**: Cancelled (Chris away)
+- **Aug 27**: Cancelled (Chris away)
+- **Sept 3**: Roundtable
+- **Sept 10**: Cancelled (Chris away)
+- **Sept 17**: Trevor presenting the new software development system
+- **Sept 24**: Cog Sci talks we liked (Chris, Terry, Dan, Xuan) & website redesign (Trevor)
+- **Oct 1**: Eric Hochstein talk on kinds of cognitive models
+- **Oct 8**: roundtable
+- **Oct 15**: Steve on his hemineglect model results
+- **Oct 22**: Albert on his nonlinear dendrite models
+- **Oct 29**: Nengo UI new features (Terry lead)
+- **Nov 5**: Cancelled (Chris away)
+- **Nov 12**: Chris on rat decision making
+- **Nov 19**: Terry on conferences
+- **Nov 26**: Roundtable
+- **Dec 3**: Bruce practice talk
+- **Dec 10**: roundtable (and party!)

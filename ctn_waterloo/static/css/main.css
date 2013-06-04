@@ -1,0 +1,413 @@
+/* ==========================================================================
+   CNRG custom styles
+   ========================================================================== */
+
+/* General stuff */
+
+@media (min-width: 980px) {
+  body {
+    padding-top: 60px;
+  }
+}
+
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+}
+
+a, a:hover, a:focus {
+  color: #921907;
+}
+
+a.anchor{ /* Because # links are off with fixed top nav */
+  display: block;
+  position: relative;
+  top: -60px;
+  visibility: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #731d1d;
+}
+
+.well {
+  background-color: #fcf5e0;
+}
+
+.two-column {
+  column-count: 2;
+  column-gap: 20px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 20px;
+  -moz-column-count: 2;
+  -moz-column-gap: 20px;
+  -o-column-count: 2;
+  -o-column-gap: 20px;
+}
+
+.three-column {
+  column-count: 3;
+  column-gap: 20px;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 20px;
+  -moz-column-count: 3;
+  -moz-column-gap: 20px;
+  -o-column-count: 3;
+  -o-column-gap: 20px;
+}
+
+
+/* Navbar theming */
+
+.navbar .nav > li > a {
+  font-size: 16px;
+}
+
+.navbar .brand-active {
+  color: #000000;
+}
+
+.navbar-inverse .brand-active {
+  color: #FFFFFF;
+  background-color: #B22009;
+}
+
+.navbar-inverse .btn-navbar,
+.navbar-inverse .btn-navbar {
+  padding: 4px 12px;
+}
+
+.navbar-inverse .navbar-inner {
+  background-image: -moz-linear-gradient(top, #921907, #731D1D);
+  background-image: -ms-linear-gradient(top, #921907, #731D1D);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#921907), to(#731D1D));
+  background-image: -webkit-linear-gradient(top, #921907, #731D1D);
+  background-image: -o-linear-gradient(top, #921907, #731D1D);
+  background-image: linear-gradient(top, #921907, #731D1D);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'921907, endColorstr='#'731D1D, GradientType=0);
+}
+
+.navbar-inverse .nav .active>a, .navbar-inverse .nav .active>a:hover, .navbar-inverse .nav .active>a:focus {
+  background-color: #B22009;
+}
+
+/* Footer stuff */
+
+.footer {
+  margin-top: 50px;
+  padding-top: 20px;
+  background-color: #000000;
+  color: #505050;
+  font-size: 12px;
+}
+
+.footer a, .footer a:hover, .footer a:focus {
+  color: #707070;
+}
+
+@media (min-width: 980px) {
+  .footer {
+    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  footer {
+    margin-right: -40px;
+  }
+
+  .footer {
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+}
+
+/* nav-pills */
+
+.nav-pills>.active>a,
+.nav-pills>.active>a:hover,
+.nav-pills>.active>a:focus {
+  background-color: #B22009;
+
+}
+
+/* blog-sidenav for Blog pages */
+
+.pagination ul>.active>a,
+.pagination ul>.active>a:hover,
+.pagination ul>.active>a:focus {
+  background-color: #B22009;
+  color: #FFFFFF;
+}
+
+.pagination-sidenav li a {
+  text-align: center;
+}
+
+.pagination-sidenav {
+  position: fixed;
+  top: 60px;
+}
+
+@media (max-width: 767px) {
+  .pagination-sidenav {
+    position: static;
+  }
+  .pagination-sidenav li a {
+    width: 64.5px;
+  }
+  .pagination-sidenav li a #newer:after {
+    content: "Newer";
+  }
+  .pagination-sidenav li a #older:after {
+    content: "Older";
+  }
+  .pagination-sidenav li a #next:after {
+    content: "Next";
+  }
+  .pagination-sidenav li a #prev:after {
+    content: "Prev.";
+  }
+}
+
+@media (min-width: 768px) {
+  .pagination-sidenav li a {
+    min-width: 19px;
+  }
+}
+
+@media (min-width: 980px) {
+  .pagination-sidenav li a {
+    width: 48px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .pagination-sidenav li a {
+    width: 64.5px;
+  }
+  .pagination-sidenav li a #newer:after {
+    content: "Newer";
+  }
+  .pagination-sidenav li a #older:after {
+    content: "Older";
+  }
+  .pagination-sidenav li a #next:after {
+    content: "Next";
+  }
+  .pagination-sidenav li a #prev:after {
+    content: "Prev.";
+  }
+}
+
+
+
+
+/* header-sidenav for various pages
+   Inspired by http://marcua.net/writing/gradschool-guide/css/gradschool-guide.css */
+
+.headers-sidenav .active > a,
+.headers-sidenav .active a:hover,
+.headers-sidenav .active a:focus {
+  background-color: #B22009;
+  color: #FFFFFF;
+}
+
+.headers-sidenav {
+  text-align: right;
+  position: fixed;
+  top: 110px;
+  width: 270px;
+}
+
+@media (max-width: 767px) {
+  .headers-sidenav {
+    position: static;
+  }
+
+  .headers-sidenav {
+    width: 270px;
+  }
+}
+
+@media (min-width: 768px) {
+  .headers-sidenav {
+    width: 166px;
+  }
+}
+
+@media (min-width: 980px) {
+  .headers-sidenav {
+    width: 220px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .headers-sidenav {
+    width: 270px;
+  }
+}
+
+.headers-sidenav > li > a:hover {
+  background-color: #fcf5e0;
+}
+
+/* header-side chevron stuff */
+
+.headers-sidenav .icon-chevron-left {
+  float: left;
+  margin-top: 5px;
+  margin-right: -6px;
+  opacity: .25;
+}
+
+.headers-sidenav a:hover .icon-chevron-left {
+  opacity: .5;
+}
+
+.headers-sidenav .active .icon-chevron-left,
+.headers-sidenav .active a:hover .icon-chevron-left {
+  opacity: 1;
+}
+
+/* publications stuff */
+#publication-list .media-body > ul > li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+}
+
+.publication-controls {
+  width: 240px;
+}
+
+@media (min-width: 768px) {
+  .publication-controls {
+    position: fixed;
+    top: 60px;
+    right: 0px;
+  }
+}
+
+@media (min-width: 1120px) {
+  .publication-controls {
+    right: 150px;
+  }
+}
+
+.publication-img {
+  float: left;
+  padding: 10px;
+}
+
+/* make list.js pagination like bootstrap pagination */
+
+.pagination ul>li:first-child>.page>a, .pagination ul>li:first-child>.page>span {
+  border-left-width: 1px;
+  -webkit-border-top-left-radius: 4px;
+  -moz-border-radius-topleft: 4px;
+  border-top-left-radius: 4px;
+  -webkit-border-bottom-left-radius: 4px;
+  -moz-border-radius-bottomleft: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.pagination ul>li:last-child>.page>a, .pagination ul>li:last-child>.page>span {
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-radius-topright: 4px;
+  border-top-right-radius: 4px;
+  -webkit-border-bottom-right-radius: 4px;
+  -moz-border-radius-bottomright: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.pagination ul>li>.page>a, .pagination ul>li>.page>span {
+  float: left;
+  padding: 4px 8px;
+  line-height: 20px;
+  text-decoration: none;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-left-width: 0;
+}
+
+.pagination ul>li>.page>a:hover,
+.pagination ul>li>.page>a:focus,
+.pagination ul>li>.page>.active {
+  background-color:#f5f5f5;
+}
+
+.pagination ul .active {
+  color:#999999;
+  cursor:default;
+}
+
+.pagination ul>li>.page {
+  display: inline;
+}
+
+/* Research stuff */
+
+.research-topics>li {
+  border: 1px solid #ddd;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.research-topics img.media-object {
+  padding: 5px;
+}
+
+.research-img {
+  padding-bottom: 10px;
+  padding-right: 25px;
+}
+
+.research-unit {
+  padding: 40px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  color: inherit;
+  background-color: #eeeeee;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+.research-unit h1 {
+  margin-bottom: 8px;
+  font-size: 60px;
+  line-height: 1;
+  color: inherit;
+  letter-spacing: -1px;
+}
+
+.research-unit .lead {
+  margin-bottom: 0px;
+}
+
+/* Make nested lists display nice */
+ol.nested {
+  counter-reset: section;
+  list-style-type: none;
+}
+
+li.nested:before {
+  counter-increment: section;
+  content: counters(section, ".") ". ";
+}

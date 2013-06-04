@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %} | Research {% endblock title %}
+
+{% block main %}
+  <div class="row">
+    <div class="offset1 span9">
+      <header>
+        <div class="research-unit clearfix">
+          <img class="research-img pull-left" src="{{ page.picture }}" width="200" alt="{{ page.title }}">
+          <h1>{{ page.title }}</h1>
+          <p class="lead">{{ page.intro }}</p>
+        </div>
+      </header>
+      {{ page }}
+      <hr>
+      <h2>More information</h2>
+      <ol class="nested">{% for toc_entry in page.toc recursive %}{% if toc_entry is not mapping %}
+        <li><ol class="nested">{{ loop(toc_entry) }}
+        </ol></li>{% else %}
+        <li class="nested"><a href="{{ toc_entry.url }}">{{ toc_entry.title }}</a></li>{% endif %}{% endfor %}
+      </ol>
+    </div>
+  </div>
+{% endblock main %}

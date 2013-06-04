@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block title %} | Publications {% endblock title %}
+{% block extrajs %}
+<script>
+  var pagingOptions = {
+    pagingClass: "listjs-paging"
+    , innerWindow: 1
+    , outerWindow: 1
+  };
+  var options = {
+    valueNames: [ 'title', 'authors', 'keywords', 'year' ]
+    , page: 10
+    , plugins: [['paging', pagingOptions]]
+  };
+  var pubList = new List('publication-list', options);
+</script>
+{% endblock extrajs %}
+{% block main %}
+  <div class="row">
+    <div class="offset1 span7">
+      <header>
+        <div class="page-header">
+          <h1>Publications</h1>
+        </div>
+      </header>
+      <div id="publication-list">
+        <div class="publication-controls">
+          <input class="search search-query" type="text" placeholder="Search publications">
+            <ul class="nav nav-pills">
+              <li><a href="#" class="sort" data-sort="year">Sort by year</a></li>
+              <li><a href="#" class="sort" data-sort="title">Sort by title</a></li>
+            </ul>
+            <div class="pagination pagination-centered">
+              <ul class="listjs-paging"></ul>
+            </div>
+        </div>
+        <ul class="list">{% for pub in page.publications %}
+          <li class="media">
+            <div class="media-body">
+              <a class="pull-right" href="{{ pub.url }}">
+                <img src="{{ pub.type_image }}" width="80px">
+              </a>
+              <h4 class="media-heading title">
+                <a href="{{ pub.url }}">
+                  {{ pub.title }} <small class="year">&nbsp;&nbsp;{{ pub.year }}</small>
+                </a>
+              </h4>
+              <p class="authors">{{ ', '.join(pub.authors) }}</p>
+              <ul class="nav nav-pills">{% if pub.abstract %}
+                <li><a href="#" data-toggle="collapse" data-target="#{{ pub.citekey }}abs">Abstract</a></li>{% endif %}{% if pub.keywords %}
+                <li><a href="#" data-toggle="collapse" data-target="#{{ pub.citekey }}kw">Keywords</a></li>{% endif %}
+                <li><a href="#{{ pub.citekey }}cite" data-toggle="modal">Citation</a></li>{% if pub.pdf %}
+                <li><a href="{{ pub.pdf }}" type="application/pdf">PDF</a></li>{% endif %}{% if pub.fulltext %}
+                <li><a href="{{ pub.fulltext }}" target="_blank">Full text <i class="icon-external-link-sign"></i></a></li>{% endif %}
+              </ul>{% if pub.keywords %}
+              <div id="{{ pub.citekey }}kw" class="collapse">
+                <p class="keywords">
+                  <strong>Keywords: </strong> {{ pub.keywords }}
+                </p>
+              </div>{% endif %}{% if pub.abstract %}
+              <div id="{{ pub.citekey }}abs" class="collapse">
+                <p><strong>Abstract: </strong> {{ pub.abstract }}</p>
+              </div>{% endif %}
+              <div id="{{ pub.citekey }}cite" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="Cite this paper" aria-hidden="true">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                  <h3>Cite {{ pub.title }}</h3>
+                </div>
+                <div class="modal-body">
+                  <ul class="nav nav-tabs" id="cite">
+                    <li class="active"><a href="#{{ pub.citekey }}pt" data-toggle="tab">Plain text</a></li>
+                    <li><a href="#{{ pub.citekey }}bt" data-toggle="tab">BibTeX</a></li>
+                  </ul>
+                  <div class="tab-content">
+                    <div class="tab-pane active" id="{{ pub.citekey }}pt">
+                      <p>{{ pub.cite_plain }}</p>
+                    </div>
+                    <div class="tab-pane" id="{{ pub.citekey }}bt">
+                      <p><pre>{{ pub.cite_bibtex }}</pre></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="modal-footer">
+                  <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+                </div>
+              </div>
+            </div>
+          </li>{% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+{% endblock main %}

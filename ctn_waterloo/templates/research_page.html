@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block title %} | Research {% endblock title %}
+{% block bodytags %} data-spy="scroll" data-target=".headers-sidenav"{% endblock bodytags %}
+{% block main %}
+  <div class="row">
+    <div class="offset1 span7">
+      <article>
+        <header>
+          <a class="anchor" id="{{ page.title|slugify }}"></a>
+          <div class="page-header">
+            <h2>
+              {{ page.title}}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}
+            </h2>
+          </div>
+        </header>
+        {{ page }}
+      </article>
+    </div>
+
+    <div class="offset1 span3">
+      <nav>
+        <div class="pagination">
+          <ul class="pagination-sidenav">
+            <li{{ " class=disabled" if not page.prev }}>
+              <a href="{{ page.prev if page.prev else "#" }}">
+                <i class="icon-chevron-sign-left"></i> <span id="prev"></span>
+              </a>
+            </li>{% if page.parent %}
+            <li><a href="{{ page.parent }}">Up</a></li>{% else %}
+            <li><a href="{{ page.topic }}">Index</a></li>{% endif %}
+            <li{{ " class=disabled" if not page.next }}>
+              <a href="{{ page.next if page.next else "#"}}">
+                <span id="next"></span> <i class="icon-chevron-sign-right"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+      {% if page.headings %}
+        <nav>
+          <div class="headers-sidenav">
+            <ul class="nav nav-tabs nav-stacked">
+              <li>
+                <a href="#{{ page.title|slugify }}">
+                  <i class="icon-chevron-left"></i> {{ page.title }}
+                </a>
+              </li>
+              {% for heading in page.headings %}
+                <li>
+                  <a href="#{{ heading|slugify }}">
+                    <i class="icon-chevron-left"></i> {{ heading }}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </nav>
+      {% endif %}
+    </div>
+  </div>
+{% endblock main %}

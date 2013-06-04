@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %} | People {% endblock title %}
+
+{% block main %}
+  <div class="row">
+    <div class="offset2 span8">{% for group in page.groups %}{% if group.people %}
+      <section>
+        <header>
+          <h2>{{ group.title }}</h2>
+        </header>
+        <ul class="thumbnails">{% for person in group.people %}
+          <li class="span2">
+            <div class="thumbnail">
+              <a href="{{ person.url }}">
+                <img src="{{ person.picture }}" alt="{{ person.name }}">
+              </a>
+              <h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
+              <p>{{ person.one_liner }}</p>
+            </div>
+          </li>{% endfor %}{% endif %}
+        </ul>
+      </section>{% endfor %}
+      <hr>
+      <section>
+        <header>
+          <h2>Past members</h2>
+        </header>
+        <ul class="icons-ul">{% for alumnus in page.alumni %}
+          <li>
+            <i class="icon-li icon-smile"></i>{% if alumnus.url %}<a href="{{ alumnus.url }}" target="_blank">{{ alumnus.text }}</a>{% else %}{{ alumnus.text }}{% endif %}
+          </li>{% endfor %}
+        </ul>
+      </section>
+    </div>
+  </div>
+{% endblock main %}

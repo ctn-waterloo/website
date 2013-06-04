@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block title %} | People {% endblock title %}
+
+{% block main %}
+  <div class="row">
+    <div class="offset2 span8">
+      <div class="research-unit clearfix">
+        <header>
+          <img class="pull-right" src="{{ person.picture }}" width="200">
+          <h1>{{ person.name }}</h1>
+          <p>{{ person.title }}</p>
+          <ul class="two-column">{% for link in person.links %}
+            <li>{% if link.url %}<a href="{{ link.url }}" target="_blank">{{ link.text }}</a>{% else %}{{ link.text }}{% endif %}</li>{% endfor %}
+          </ul>
+        </header>
+      </div>
+
+      <div class="accordion" id="person">
+        <div class="accordion-group">
+          <div class="accordion-heading">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#person" href="#biography">
+              <h2>About me</h2>
+            </a>
+          </div>
+          <div id="biography" class="accordion-body collapse in">
+            <div class="accordion-inner">
+              {{ person }}
+            </div>
+          </div>
+        </div>{% if person.publications %}
+        <div class="accordion-group">
+          <div class="accordion-heading">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#person" href="#publications">
+              <h2>Publications</h2>
+            </a>
+          </div>
+          <div id="publications" class="accordion-body collapse">
+            <div class="accordion-inner">
+              <ul class="icons-ul">{% for pub in person.publications %}
+                <li>
+                  <i class="icon-li icon-file-alt"></i><a href="{{ pub.url }}">{{ pub.title }}</a>
+                </li>{% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>{% endif %}{% if person.blogposts %}
+        <div class="accordion-group">
+          <div class="accordion-heading">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#person" href="#blogposts">
+              <h2>Blog Posts</h2>
+            </a>
+          </div>
+          <div id="blogposts" class="accordion-body collapse">
+            <div class="accordion-inner">
+              <ul class="icons-ul">{% for post in person.blogposts %}
+                <li>
+                  <i class="icon-li icon-comment"></i><a href="{{ post.url }}">{{ post.title }}</a>
+                </li>{% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>{% endif %}
+      </div>
+    </div>
+  </div>
+{% endblock main %}

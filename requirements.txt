@@ -1,0 +1,6 @@
+flask
+frozen-flask
+flask-script
+markdown
+pyyaml
+pybtex

@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %} | Research {% endblock title %}
+
+{% block main %}
+  <div class="row">
+    <div class="offset1 span8">
+      <ul class="media-list research-topics">{% for topic in page.topics %}
+        <li class="media">
+          <a class="pull-left" href="{{ topic.url }}">
+            <img class="media-object" src="{{ topic.picture }}" width="100px">
+          </a>
+          <div class="media-body">
+            <a href="{{ topic.url }}">
+              <h3 class="media-heading">{{ topic.title }}</h3>
+            </a>
+            <p>{{ topic.intro }}</p>
+          </div>
+        </li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endblock main %}

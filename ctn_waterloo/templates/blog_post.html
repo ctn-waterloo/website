@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %} | Blog {% endblock title %}
+{% block bodytags %} data-spy="scroll" data-target=".headers-sidenav"{% endblock bodytags %}
+{% block main %}
+  <div class="row">
+    <div class="offset1 span7">
+      <article>
+        <header>
+          <div class="page-header">
+            <h1>{{ post.title }}{% if post.subtitle %} <small>{{ post.subtitle }}</small>{% endif %}</h1>
+            <p><small>Posted by {{ post.authorlink }} on {{ post.date|nice_date }}</small></p>
+          </div>
+        </header>
+        {{ post }}
+      </article>
+    </div>
+
+    <div class="offset1 span3">
+      <nav>
+        <div class="pagination">
+          <ul class="pagination-sidenav">
+            <li{% if not post.newer %} class="disabled"{% endif %}>
+              <a href="{{ post.newer if post.newer else "#" }}"><i class="icon-chevron-sign-left"></i> <span id="newer"></span></a>
+            </li>
+            <li><a href="{{ url_for('blog_archive') }}">Archive</a></li>
+            <li{% if not post.older %} class="disabled"{% endif %}>
+              <a href="{{ post.older if post.older else "#"}}"><span id="older"></span> <i class="icon-chevron-sign-right"></i></a>
+            </li>
+          </ul>
+        </div>
+      </nav>{% if post.headings %}
+
+      <nav>
+        <div class="headers-sidenav">
+          <ul class="nav nav-tabs nav-stacked">{% for heading in post.headings %}
+            <li>
+              <a href="#{{ heading|slugify }}">
+                <i class="icon-chevron-left"></i> {{ heading }}
+              </a>
+            </li>{% endfor %}
+          </ul>
+        </div>
+      </nav>{% endif %}
+    </div>
+  </div>
+{% endblock main %}

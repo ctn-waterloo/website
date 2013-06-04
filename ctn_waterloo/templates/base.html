@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+    <title>CNRGlab @ UWaterloo {% block title %}{% endblock title %}</title>
+    <meta name="description" content="Computational Neuroscience Research Group">
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+  </head>
+  <body{% block bodytags %}{% endblock bodytags %}>
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+
+    <nav>
+      <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+          <div class="container">
+            <a class="brand{{ " brand-active" if g.topic == 'index' }}" href="{{ url_for('index') }}">CNRGlab @ UWaterloo</a>
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <i class="icon-double-angle-down"></i>
+            </a>
+            <div class="nav-collapse collapse">
+              <ul class="nav">
+                <li{{ " class=active" if g.topic == 'about' }}>
+                  <a href="{{ url_for('about') }}">About</a>
+                </li>
+                <li{{ " class=active" if g.topic == 'blog' }}>
+                  <a href="{{ url_for('blog_index') }}">Blog</a>
+                </li>
+                <li{{ " class=active" if g.topic == 'meetings' }}>
+                  <a href="{{ url_for('meetings') }}">Meetings</a>
+                </li>
+                <li{{ " class=active" if g.topic == 'people' }}>
+                  <a href="{{ url_for('people_index') }}">People</a>
+                </li>
+                <li{{ " class=active" if g.topic == 'publications' }}>
+                  <a href="{{ url_for('publications_index') }}">Publications</a>
+                </li>
+                <li{{ " class=active" if g.topic == 'research' }}>
+                  <a href="{{ url_for('research_index') }}">Research</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+<div class="container">{% block main %}{% endblock main %}</div>
+
+    <footer>
+      <div class="row-fluid footer">
+        <div class="span5 offset1">
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">
+            <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
+          </a><br />
+          <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CNRG's website</span>
+          is licensed under a
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">
+            Creative Commons Attribution-ShareAlike 3.0 Unported License
+          </a>.
+          <p>Content and the code for generating this site can be found on
+            <a href="https://github.com/ctn-waterloo/website"><i class="icon-github"></i> Github</a>.
+          </p>
+        </div>
+        <div class="span5 text-right">{% block address %}
+          <address>
+            <strong>Computational Neuroscience Research Group,</strong> University of Waterloo<br>
+            200 University Ave W, Waterloo, ON &nbsp;&nbsp;&nbsp; N2L 3G1<br>
+            <abbr title="Phone">P:</abbr> (519) 888-4567 x38842  &nbsp;&nbsp;&nbsp;
+            <abbr title="Fax">F:</abbr> (519) 746-3097
+          </address>{% endblock address %}
+        </div>
+      </div>
+    </footer>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+      (function($) {
+        $('a[href="#"]').click(function(e) {
+          e.preventDefault();
+       });
+      })(jQuery);
+    </script>
+    <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript">
+      MathJax.Hub.Config({
+        "tex2jax": { inlineMath: [ [ '$', '$' ] ] }
+      });
+    </script>
+    <script src="{{ url_for('static', filename='js/list.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/list.paging.min.js') }}"></script>
+    {% block extrajs %}{% endblock extrajs %}
+    <script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
+  </body>
+</html>

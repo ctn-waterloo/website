@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %} | Blog{% endblock title %}
+{% block bodytags %} data-spy="scroll" data-target=".headers-sidenav"{% endblock bodytags %}
+{% block main %}
+  <div class="row">
+    <div class="offset1 span7">{% for post in page.blogposts %}
+      <article>
+        <header>
+          <a class="anchor" id="{{ post.title|slugify }}"></a>
+          <h1>
+            <a href="{{ post.url }}">
+              {{ post.title }}{% if post.subtitle %} <small>{{ post.subtitle }}</small>{% endif %}
+            </a>
+          </h1>
+        </header>
+        {{ post }}
+      </article>{% if not loop.last %}
+      <hr>{% endif %}{% endfor %}
+    </div>
+
+    <div class="offset1 span3">
+      <nav>
+        <div class="pagination">
+          <ul class="pagination-sidenav">
+            <li{% if not page.newer %} class="disabled"{% endif %}>
+              <a href="{{ page.newer if page.newer else "#" }}">
+                <i class="icon-chevron-sign-left"></i> <span id="newer"></span>
+              </a>
+            </li>
+            <li><a href="{{ url_for('blog_archive') }}">Archive</a></li>
+            <li{% if not page.older %} class="disabled"{% endif %}>
+              <a href="{{ page.older if page.older else "#" }}">
+                <span id="older"></span> <i class="icon-chevron-sign-right"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+      <nav>
+        <div class="headers-sidenav">
+          <ul class="nav nav-tabs nav-stacked">{% for post in page.blogposts %}
+            <li>
+              <a href="#{{ post.title|slugify }}">
+                <i class="icon-chevron-left"></i> {{ post.title }}
+              </a>
+            </li>{% endfor %}
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </div>
+{% endblock main %}

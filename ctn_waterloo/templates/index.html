@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block main %}
+  <div class="row">
+    <div class="span8">
+      <div class="hero-unit clearfix">
+        <img class="pull-left" src="{{ page.teaser_image }}">
+          <h1 class="text-center">
+            Computational Neuroscience Research Group<br>
+            <small>{{ page.teaser }}</small>
+          </h1>
+      </div>
+      {{ page.html|lead_paragraph|safe }}
+    </div>
+    <div class="span4">
+      {{ page.videolink }}
+      <h3>Recent publications</h3>
+      <ul class="icons-ul">{% for pub in page.publications %}
+        <li>
+          <i class="icon-li icon-file-alt"></i><a href="{{ pub.url }}">{{ pub.title }}</a>
+        </li>{% endfor %}
+      </ul>
+      <h3>Recent blog posts</h3>
+      <ul class="icons-ul">{% for post in page.blogposts %}
+        <li>
+          <i class="icon-li icon-comment"></i><a href={{ post.url }}>{{ post.title }}</a>
+        </li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endblock main %}

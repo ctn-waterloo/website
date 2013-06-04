@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block title %} | About {% endblock title %}
+
+{% block main %}
+  <div class="row">
+    <div class="offset1 span7">
+      <div class="pill-content">{% for section in sections %}
+        <div class="pill-pane{{ " active" if loop.first }}" id="{{ section.title|slugify }}">
+          <section>
+            <header>
+              <div class="page-header">
+                <h1>{{ section.title }}</h1>
+              </div>
+            </header>
+            <article>
+              {{ section }}
+            </article>
+          </section>
+        </div>{% endfor %}
+      </div>
+    </div>
+
+    <div class="offset1 span3">
+      <ul class="nav nav-pills nav-stacked">{% for section in sections %}
+        <li{{ " class=active" if loop.first }}>
+          <a href="#{{ section.title|slugify }}" data-toggle="pill">
+            {{ section.title }}
+          </a>
+        </li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endblock main %}

@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %} | Blog {% endblock title %}
+{% block bodytags %} data-spy="scroll" data-target=".headers-sidenav"{% endblock bodytags %}
+{% block main %}
+  <div class="row">
+    <div class="offset1 span7">{% for year in page.years %}
+      <section>
+        <header>
+          <a class="anchor" id="{{ year.year }}"></a>
+          <h2>{{ year.year }}</h2>
+        </header>
+        <ul class="icons-ul">{% for post in  year.blogposts %}
+          <li>
+            <i class="icon-li icon-comment"></i><a href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+          </li>{% endfor %}
+        </ul>
+      </section>{% if not loop.last %}
+      <hr>{% endif %}{% endfor %}
+    </div>
+
+    <div class="offset1 span3">
+      <nav>
+        <div class="pagination">
+          <ul class="pagination-sidenav">
+            <li class="disabled"><a href="#"><i class="icon-chevron-sign-left"></i> <span id="newer"></span></a></li>
+            <li class="active"><a href="#">Archive</a></li>
+            <li class="disabled"><a href="#"><span id="older"></span> <i class="icon-chevron-sign-right"></i></a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <nav>
+        <div class="headers-sidenav">
+          <ul class="nav nav-tabs nav-stacked">{% for year in page.years %}
+            <li>
+              <a href="#{{ year.year }}"><i class="icon-chevron-left"></i> {{year.year}}</a>
+            </li>{% endfor %}
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </div>
+{% endblock main %}

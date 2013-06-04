@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block title %} | Publications {% endblock title %}
+
+{% block main %}
+  <div class="row">
+    <div class="offset1 span7">
+      <header>
+        <h2>{{ publication.title }}</h2>
+        <img class="publication-img" src="{{ publication.type_image }}" width="160">
+        <p><em>{{ ', '.join(publication.authors) }}</em></p>
+        </header>{% if publication.abstract %}
+      <h3>Abstract</h3>
+      <p>{{ publication.abstract }}</p>{% endif %}{% if publication.pdf or publication.fulltext %}
+      <h3>Full text links</h3>
+      <ul class="thumbnails">{% if publication.pdf %}
+        <li class="span1">
+          <a href="{{ publication.pdf }}" class="thumbnail">
+            PDF
+          </a>
+        </li>{% endif %}{% if publication.fulltext %}
+        <li class="span1">
+          <a href="{{ publication.fulltext }}" class="thumbnail">
+            Link
+          </a>
+        </li>{% endif %}
+      </ul>{% endif %}{% if publication.html %}
+      <hr>
+      {{ publication }}{% endif %}
+    </div>
+    <div class="span4">
+      <h4>{{ publication.type }}</h4>
+      <dl>
+        {% for key, val in publication.cite_info.iteritems() %}
+          <dt>{{ key.capitalize() }}</dt>
+          <dd>{{ val }}</dd>
+        {% endfor %}
+      </dl>
+      <h4>Cite</h4>
+      <div class="accordion" id="citation">
+        <div class="accordion-group">
+          <div class="accordion-heading">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#citation" href="#plaintext">
+              Plain text
+            </a>
+          </div>
+          <div id="plaintext" class="accordion-body collapse">
+            <div class="accordion-inner">
+              <p>{{ publication.cite_plain }}</p>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-group">
+          <div class="accordion-heading">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#citation" href="#bibtex">
+              BibTeX
+            </a>
+          </div>
+          <div id="bibtex" class="accordion-body collapse">
+            <div class="accordion-inner">
+              <p><pre>{{ publication.cite_bibtex }}</pre></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock main %}
