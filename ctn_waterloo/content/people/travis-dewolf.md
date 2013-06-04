@@ -1,12 +1,16 @@
 name: Travis DeWolf
 email: tdewolf@uwaterloo.ca
-one_liner: One-liner 
+one_liner: Motor control, learning
 group: Grad students
 title: PhD Student
 picture: http://compneuro.uwaterloo.ca/files/travis.jpg
 links: 
-    - text: Studywolf blog
+    - text: My research blog
       url: studywolf.wordpress.com
+    - text: LinkIn 
+      url: http://ca.linkedin.com/pub/travis-dewolf/15/b28/7b9/
+    - text: Academia.edu
+      url: http://uwaterloo.academia.edu/TravisDeWolf
 
 I'm a PhD student in Systems Design Engineering here at University of
 Waterloo, researching the motor control system in the brain. To see some of
@@ -23,12 +27,12 @@ DNA Recombination theory."
 
   
 
-# Research interests
+*** Research interests ***
 
   
 My goal is to develop a formal mathematical model capturing the function and
 interaction of the neurobiological subsystems involved in motor control. This
-has lead me down a number of different interesting paths.
+has lead me down a number of different paths.
 
   
 ** Control theory **   
