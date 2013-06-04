@@ -16,7 +16,10 @@ before_script:
   - chmod 600 ~/.ssh/id_rsa
   - echo -e "Host compneuro.uwaterloo.ca\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 
-script: python manage.py up cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/ --link=/home/cnrglab/files
+script: python manage.py up cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
+
+after_script:
+  - ssh cnrglab@compneuro.uwaterloo.ca 'ln -s /home/cnrglab/files /home/cnrglab/public_html/'])
 
 env:
   global:

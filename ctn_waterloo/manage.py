@@ -22,17 +22,11 @@ def freeze(serve=False):
 
 
 @manager.command
-def up(destination, link=None):
+def up(destination):
     print '### Freezing'
     freeze()
     print '### Uploading to', destination
     subprocess.call(['rsync', '-Pah', '--del', freezer.root + '/', destination])
-
-    if link is not None:
-        destparts = destination.split(':')
-        print '### Linking', link
-        subprocess.call(['ssh', destparts[0],
-                         "'ln -s " + link + " " + destparts[1] + "'"])
 
 
 @manager.shell
