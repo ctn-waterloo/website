@@ -1,8 +1,8 @@
 name: Jeff Orchard
 email: jorchard@uwaterloo.ca
 one_liner: One-liner 
-group: Faculty
-title: Faculty
+group: Collaborator
+title: Associate Professor, School of Computer Science, University of Waterloo.
 picture: static/img/placeholder.png
 links: 
     - text: None
