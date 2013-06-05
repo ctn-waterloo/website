@@ -4,9 +4,6 @@ one_liner: Vision
 group: Grad students
 title: PhD student
 picture: static/img/placeholder.png
-links:
-    - text: None
-      url: #
 
 Just prior to the Mayan apocalypse,
 I transferred from the Master's program into the PhD program
