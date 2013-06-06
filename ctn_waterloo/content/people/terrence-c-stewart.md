@@ -1,6 +1,6 @@
 name: Terrence C. Stewart
 email: terry.stewart@gmail.com
-one_liner: One-liner
+one_liner: Cognitive architectures and the Basal Ganglia
 group: Postdocs
 title: Postdoc
 picture: /files/people/TerryStewart.png
