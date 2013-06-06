@@ -5,15 +5,15 @@ group: Postdocs
 title: Postdoc
 picture: /files/people/TerryStewart.png
 links:
-    - text: None
-      url: #
+    - text: ResearchGate
+      url: http://www.researchgate.net/profile/Terrence_Stewart/
+    - text: LinkedIn
+      url: http://ca.linkedin.com/pub/terry-stewart/2/a68/789/
 
 ## Terrence C. Stewart
 
   * tcstewar@uwaterloo.ca
   * [c.v./resume](http://www.nengo.ca/sites/nengo.ca/files/2012Nov-Stewart-cv.pdf) (as of Nov, 2012)
-
-## About me
 
   * I am one of the researchers behind [Spaun](http://nengo.ca/build-a-brain/spaunvideos), the first biologically realistic brain simulation that can perform multiple tasks.
   * I am one of the developers behind [Nengo](http://nengo.ca), an open-source software package for developing simulated brains.
