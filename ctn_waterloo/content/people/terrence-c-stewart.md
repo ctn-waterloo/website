@@ -3,7 +3,7 @@ email: terry.stewart@gmail.com
 one_liner: One-liner
 group: Postdocs
 title: Postdoc
-picture: static/img/placeholder.png
+picture: /files/people/TerryStewart.png
 links:
     - text: None
       url: #
