@@ -3,7 +3,7 @@ email: drasmuss@uwaterloo.ca
 one_liner: General intelligence and reinforcement learning
 group: Grad students
 title: PhD candidate
-picture: files/people/danielrasmussen/default_pic.jpg
+picture: http://compneuro.uwaterloo.ca/files/people/danielrasmussen/default_pic.jpg
 links: 
     - text: Google Scholar
       url: http://scholar.google.ca/citations?user=pJcUbFQAAAAJ
@@ -16,7 +16,7 @@ links:
 
 I am a PhD candidate in Computer Science at the University of Watelroo,
 working with Chris Eliasmith in the Centre for Theoretical Neuroscience.
-You can find my [full CV here](files/people/danielrasmussen/CV.pdf).
+You can find my [full CV here](http://compneuro.uwaterloo.ca/files/people/danielrasmussen/CV.pdf).
 
 ## Education
 
