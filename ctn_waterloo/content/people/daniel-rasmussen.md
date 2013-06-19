@@ -14,7 +14,7 @@ links:
     - text: ResearchGate
       url: https://www.researchgate.net/profile/Daniel_Rasmussen/
 
-I am a PhD candidate in Computer Science at the University of Watelroo,
+I am a PhD candidate in Computer Science at the University of Waterloo,
 working with Chris Eliasmith in the Centre for Theoretical Neuroscience.
 You can find my [full CV here](http://compneuro.uwaterloo.ca/files/people/danielrasmussen/CV.pdf).
 
@@ -22,10 +22,10 @@ You can find my [full CV here](http://compneuro.uwaterloo.ca/files/people/daniel
 
 I completed a Master's of Mathematics at the University of Waterloo (in the
 Centre for Theoretical Neuroscience) in 2010, with my thesis 
-[A neural modelling approach to investigating general intelligence]( http://hdl.handle.net/10012/5330).
+[A neural modelling approach to investigating general intelligence](http://hdl.handle.net/10012/5330).
 
-I did my undergrad in Sackville, NB at Mount Allison
-University. I graduated in May 2008 with a double major in Computer Science and Philosophy. 
+Prior to that I completed my undergrad at Mount Allison
+University in Sackville, NB. I graduated in 2008 with a double major in Computer Science and Philosophy. 
 
 ## Research interests
 
