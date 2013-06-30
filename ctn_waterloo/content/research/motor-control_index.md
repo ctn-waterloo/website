@@ -9,7 +9,6 @@ toc:
     - 6-muscle 3-link arm model
     - 9-muscle 3-link arm model
     - Optimal control of simple arm model
-    - - "Optimal control of simple arm model: Project status"
 
 [Relevant
 Publications](http://ctnsrv.uwaterloo.ca/cnrglab/publications?f[search]=motor)
