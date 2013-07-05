@@ -45,7 +45,7 @@
                 <li><a href="{{ pub.pdf }}" type="application/pdf">PDF</a></li>{% endif %}{% if pub.fulltext %}
                 <li><a href="{{ pub.fulltext }}" target="_blank">Full text <i class="icon-external-link-sign"></i></a></li>{% endif %}
               </ul>
-              <strong><a href="{{ pub.url }}">
+              <strong class="title"><a href="{{ pub.url }}">
                   {{ pub.title }} <small class="year">({{ pub.year }})</small>
               </a></strong>
               <p class="authors">{{ ', '.join(pub.authors) }}</p>
