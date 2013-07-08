@@ -177,7 +177,7 @@ def redirect_url(url):
     return render_template('redirect.html', new_url=redirects[url])
 
 for url in redirects:
-    app.add_url_rule(url, 'redirect_url', view_func=lambda: redirect_url(url))
+    app.add_url_rule(url, url, view_func=lambda: redirect_url(url))
 
 ### Other
 
