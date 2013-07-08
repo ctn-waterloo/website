@@ -1,7 +1,5 @@
 title: Addendum
 
-## Addendum
-
 > Neural systems are subject to significant amounts of noise. Therefore, any
 analysis of such systems must account for the effects of noise.
 

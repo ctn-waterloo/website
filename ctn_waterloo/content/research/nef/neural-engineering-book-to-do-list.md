@@ -6,9 +6,9 @@ they relate to, and provided brief descriptions of them.
 
 ### Chapter 2
 
-- Comparison to nonlinear decoding/encoding methods. Note that estimates of nonlinear decoding can be done using multiple linear decoders (since we can estimate nonlinear functions of the input signal: i.e., \hat{x}=\sum _{i}\phi ^{x}_{i}a_{i} + \sqrt{\phi _{i}^{x^{2}}a_{i}}+...). It would be useful to see if a biologically plausible nonlinear decoder could be constructed that gave significant information transfer gain.
+- Comparison to nonlinear decoding/encoding methods. Note that estimates of nonlinear decoding can be done using multiple linear decoders (since we can estimate nonlinear functions of the input signal: i.e., $\hat{x}=\sum _{i}\phi ^{x}_{i}a_{i} + \sqrt{\phi _{i}^{x^{2}}a_{i}}+...$). It would be useful to see if a biologically plausible nonlinear decoder could be constructed that gave significant information transfer gain.
 
-- It should be possible to analytically demonstrate the we expect the error due to noise to decrease as 1/N^2, as shown numerically.
+- It should be possible to analytically demonstrate the we expect the error due to noise to decrease as $1/N^2$, as shown numerically.
 
 ### Chapter 4
 
@@ -30,11 +30,11 @@ they relate to, and provided brief descriptions of them.
 
 ### Chapter 8
 
-- Most obviously, it would be valuable to adopt a better synaptic model and do a similar derivation to find the neural equivalent of standard control structures (i.e. 1/1+s\tau is a first-order approximation).
+- Most obviously, it would be valuable to adopt a better synaptic model and do a similar derivation to find the neural equivalent of standard control structures (i.e. $1/1+s\tau$ is a first-order approximation).
 
 - Our current analysis (though not the models) assumes the same PSC for each connection between populations. It would be useful to relax this assumption and see how the analysis is affected.
 
-- We are not entirely satisfied with having to define g(t)=h(t)*h(t) in order to complete the analysis. It would be cleaner if this was not done.
+- We are not entirely satisfied with having to define $g(t)=h(t)*h(t)$ in order to complete the analysis. It would be cleaner if this was not done.
 
 - It would be useful to demonstrate more typical control theoretic analyses on an example system (perhaps the neural integrator). That is, explore open and closed loop gain, show the Bode plot, etc. in general, doing signal/control analyses more extensively.
 

@@ -5,11 +5,13 @@ people:
     - Chris Eliasmith
 toc:
     - Overview of the NEF
-    - - Addendum
-      - Neural Engineering book to do list
-      - Principle 1
+    - - Principle 1
       - Principle 2
       - Principle 3
+    - Neural Engineering book
+    - - Reviews
+      - Addendum
+      - Neural Engineering book to do list
     - Quantitative summary of the NEF
     - Demonstration Videos
     - - Convolution in neurons

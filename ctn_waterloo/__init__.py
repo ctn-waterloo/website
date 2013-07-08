@@ -171,6 +171,7 @@ def research_page(topic, slug):
 redirects = {
     '/cnrglab/': '/index.html',
     '/cnrglab/index.html': '/index.html',
+    '/bookinfo.html': '/research/nef/neural-engineering-book.html',
 }
 
 def redirect_url(url):
