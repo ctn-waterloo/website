@@ -174,11 +174,11 @@ redirects = {
     '/bookinfo.html': '/research/nef/neural-engineering-book.html',
 }
 
-def redirect_url(url):
-    return render_template('redirect.html', new_url=redirects[url])
+def redirect_url():
+    return render_template('redirect.html', new_url=redirects[request.path])
 
 for url in redirects:
-    app.add_url_rule(url, url, view_func=lambda: redirect_url(url))
+    app.add_url_rule(url, 'redirect_url', redirect_url)
 
 ### Other
 
