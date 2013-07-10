@@ -1,6 +1,8 @@
 title: Cognition
 picture: static/img/placeholder.png
-intro: Cognition intro
+intro: Research into neural mechanisms behind many cognitive phenomena, 
+including working memory, syntactic generalization, structured representations, 
+associative memory, and more.
 people:
     - Daniel Rasmussen
 toc:
