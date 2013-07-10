@@ -1,5 +1,5 @@
 title: Semantic Pointer Architecture
-picture: static/img/placeholder.png
+picture: http://i.imgur.com/Tm7hBer.png
 intro: >
   Semantic pointers are neural representations that carry 
   partial semantic content and are composable into the representational 
