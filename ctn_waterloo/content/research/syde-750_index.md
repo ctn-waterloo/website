@@ -1,7 +1,8 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: static/img/placeholder.png
-intro: Materials for a systems design engineering course offered by Professor Eliasmith. Includes notes, assignments, 
-projects, slides, etc.
+intro: > 
+    Materials for a systems design engineering course offered by Professor Eliasmith.
+    Includes notes, assignments, projects, slides, etc.
 people:
     - Chris Eliasmith
     - Terry Stewart
