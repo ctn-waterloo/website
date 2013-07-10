@@ -1,6 +1,7 @@
 title: Research
 topics:
     - nef
+    - syde-750
     - spa
     - cognition
     - motor-control
@@ -8,4 +9,4 @@ topics:
     - software
     - theoretical-neuroscience
     - other
-    - syde-750
+
