@@ -1,10 +1,11 @@
 title: Semantic Pointer Architecture
 picture: static/img/placeholder.png
-intro:  Semantic pointers are neural representations that carry 
-partial semantic content and are composable into the representational 
-structures necessary to support complex cognition. These pages describe a
-cognitive architecture based on them.  This architecture has been used to build 
-the world's largest functional brain model, [Spaun](http://nengo.ca/build-a-brain/spaunvideos).
+intro: >
+  Semantic pointers are neural representations that carry 
+  partial semantic content and are composable into the representational 
+  structures necessary to support complex cognition. These pages describe a
+  cognitive architecture based on them. This architecture has been used to build 
+  the world's largest functional brain model, Spaun.
 people:
     - Chris Eliasmith
     - Xuan Choo
@@ -12,7 +13,9 @@ people:
 toc:
     - Semantic Pointer Architecture
 
-The book 'How to build a brain' [amazon link](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/) from Oxford University Press is
+The book 'How to build a brain'
+[amazon link](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/)
+from Oxford University Press is
 was published in Spring 2013. It exploits the Neural Engineering Framework (NEF) to develop
 the Semantic Pointer Architecture (SPA) for cognitive modelling. The book provides tutorials
 in [Nengo](http://nengo.ca) to explain and demonstrate many of the central concepts discussed in 
