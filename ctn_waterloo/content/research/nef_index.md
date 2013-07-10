@@ -1,5 +1,5 @@
 title: Neural Engineering Framework
-picture: static/img/placeholder.png
+picture: http://i.imgur.com/f5JyChE.png
 intro: The NEF is the main method we use for constructing neural simulations.
 people:
     - Chris Eliasmith
