@@ -23,3 +23,5 @@ the book. Information that supports the book by providing links to models,
 demos, videos, and tutorials mentioned in the book, as well as a summary of
 the Semantic Pointer Architecture (SPA) can be found on the [Nengo
 website](http://nengo.ca/build-a-brain).
+
+![Spaun](http://i.imgur.com/H1Hljcr.png)
