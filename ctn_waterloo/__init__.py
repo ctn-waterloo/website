@@ -187,12 +187,6 @@ for url in redirects:
 
 ### Other
 
-@app.errorhandler(404)
-def not_found(e):
-    """This only gets seen locally..."""
-    return render_template('404.html')
-
-
 # @app.route('/feed.atom')
 # def atom_feed():
 #     articles = sorted(
@@ -204,11 +198,23 @@ def not_found(e):
 #     xml = render_template('atom.xml', **locals())
 #     return app.response_class(xml, mimetype='application/atom+xml')
 
-@app.route('/favicon.ico')
-@app.route('/humans.txt')
-@app.route('/robots.txt')
+
+@app.errorhandler(404)
+def not_found(e):
+    """This only gets seen locally..."""
+    return render_template('404.html')
+
+serve_static = [
+    '/favicon.ico',
+    '/humans.txt',
+    '/robots.txt',
+]
+
 def static_from_root():
     return send_from_directory(app.static_folder, request.path[1:])
+
+for url in serve_static:
+    app.add_url_rule(url, 'static_from_root', static_from_root)
 
 
 TYPE_IMAGES = {
@@ -223,6 +229,7 @@ TYPE_IMAGES = {
 TYPE_TEXT = {
     'techreport': 'CTN Tech Report',
     'inbook': 'Book Chapter',
+    'inproceedings': 'Conference Proceedings',
     'proceedings': 'Conference Proceedings',
     'book': 'Book',
     'mastersthesis': 'Thesis',
