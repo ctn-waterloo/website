@@ -1,17 +1,27 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+/* humanstxt.org */
+/* The humans responsible & technology colophon */
 
-# TEAM
+/* TEAM */
+Developer & Designer: Trevor Bekolay
+Site: tbekolay@gmail.com
+Twitter: @TrevorBekolay
 
-    <name> -- <role> -- <twitter>
+/* THANKS */
+Name: Simon Sapin
+Site: http://exyr.org/
+Why?: Frozen-flask and some inspiration on exyr.org
 
-# THANKS
+Name: Nicolas Perriault
+Site: https://nicolas.perriault.net/
+Why?: Very helpful blog post!
+      https://nicolas.perriault.net/code/2012/dead-easy-yet-powerful-static-website-generator-with-flask/
 
-    <name>
+/* TECHNOLOGY COLOPHON */
 
-# TECHNOLOGY COLOPHON
+Backend:
+Python with Flask, Frozen-flask, Flask-script, markdown, pyyaml, pybtex, jinja2.
 
-    HTML5, CSS3
-    jQuery, Modernizr
+Frontend:
+Custom templates using Bootstrap, Google WebFonts, Font-awesome, modernizr, jquery, Mathjax, list.js.
 
-    http://stylebootstrap.info/
+Source: github.com/ctn-waterloo/website
