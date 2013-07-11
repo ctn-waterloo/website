@@ -1,5 +1,5 @@
 title: Software
-picture: static/img/placeholder.png
+picture: http://i.imgur.com/ygXcJ0y.png
 intro: Software we've developed, support, or use extensively.
 people:
     - Chris Eliasmith
