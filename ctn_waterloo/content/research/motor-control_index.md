@@ -1,5 +1,5 @@
 title: Motor Control
-picture: static/img/placeholder.png
+picture: http://i.imgur.com/l7ErWEq.png
 intro: Developing a biologically plausible framework for models of neural control of movement.
 people:
     - Travis DeWolf
