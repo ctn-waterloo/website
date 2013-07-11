@@ -1,5 +1,5 @@
 title: Theoretical Neuroscience
-picture: static/img/placeholder.png
+picture: http://i.imgur.com/JiZ67DA.png
 intro: Exploring general issues in theoretical neuroscience.
 people:
     - Chris Eliasmith
