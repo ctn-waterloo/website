@@ -18,9 +18,10 @@ toc:
 
 We have done work on [working memory](?q=taxonomy/term/11), that some may
 consider cognitive, but we are now more focused on methods for building
-cognitive architectures in general.
+cognitive architectures in general. The architecture we have developed is
+called the [Semantic Pointer Architecture](research/spa.html)
 
-As such, we are working on a novel cognitive architecture that combines our
+This is a novel cognitive architecture that combines our
 interest in VSAs with the vector processing capabilities of the NEF. [Early
 work](236) focused on doing inferential symbolic processing in a biologically
 plausible, spiking neural network. This work demonstrates syntactic
