@@ -1,5 +1,5 @@
 title: Perception
-picture: static/img/placeholder.png
+picture: http://i.imgur.com/JR9qfHL.png?1
 intro: Visual recognition and processing, auditory processing, etc.
 people:
     - Eric Hunsberger
