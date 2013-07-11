@@ -1,5 +1,5 @@
 title: Cognition
-picture: static/img/placeholder.png
+picture: http://i.imgur.com/DIDdp7P.jpg
 intro: >
     Research into neural mechanisms behind many cognitive phenomena, 
     including working memory, syntactic generalization, structured representations, 
