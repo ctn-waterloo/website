@@ -19,5 +19,6 @@ Here we will post what's coming up at the RL Meetings in PAS 2464 Thurs
 - Apr 11: Dan presenting neural implementation of RL (cancelled b/c ice storm)   
 - Apr 18: Dan presenting neural implementation of RL   
 - Apr 25: James on visual SLAM
+- Jul 18: Hippocampus meeting
 
 
