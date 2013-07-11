@@ -1,12 +1,12 @@
 name: Chris Eliasmith
 email: celiasmith@uwaterloo.ca
-one_liner: One-liner 
+one_liner: Supposedly in charge 
 group: Faculty
 title: Faculty
-picture: static/img/placeholder.png
+picture: http://i.imgur.com/n1cjV7o.png
 links: 
-    - text: None
-      url: #
+    - text: Personal Home Page
+      url: http://watarts.uwaterloo.ca/~celiasmi/
 
 ## Background
 
