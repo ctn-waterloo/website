@@ -4,6 +4,16 @@
 
 {% block main %}
   <div class="row">
+    <div class="offset1 span3">
+      <ul class="nav nav-pills nav-stacked">{% for meeting in page.meetings %}
+        <li{{ " class=active" if loop.first }}>
+          <a href="#{{ meeting.title|slugify }}" data-toggle="pill">
+            {{ meeting.title }}
+          </a>
+        </li>{% endfor %}
+      </ul>
+      {{ page.calendar }}
+    </div>
     <div class="offset1 span7">
       <div class="pill-content">{% for meeting in page.meetings %}
         <div class="pill-pane{{ " active" if loop.first }}" id="{{ meeting.title|slugify }}">
@@ -19,17 +29,6 @@
           </section>
         </div>{% endfor %}
       </div>
-    </div>
-
-    <div class="offset1 span3">
-      <ul class="nav nav-pills nav-stacked">{% for meeting in page.meetings %}
-        <li{{ " class=active" if loop.first }}>
-          <a href="#{{ meeting.title|slugify }}" data-toggle="pill">
-            {{ meeting.title }}
-          </a>
-        </li>{% endfor %}
-      </ul>
-      {{ page.calendar }}
     </div>
   </div>
 {% endblock main %}
