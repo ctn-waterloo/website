@@ -5,7 +5,7 @@ group: Grad students
 title: PhD Student
 picture: /files/people/trevor-bekolay.jpg
 links: 
-    - text: CV (Dec 2012)
+    - text: CV (July 2013)
       url: /files/people/bekolay-cv.pdf
     - text: Github
       url: https://github.com/tbekolay
