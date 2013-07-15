@@ -15,7 +15,7 @@
     <link type="text/plain" rel="author" href="/humans.txt">
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
@@ -59,44 +59,52 @@
         </div>
       </div>
     </nav>
-
 <div class="container">{% block main %}{% endblock main %}</div>
-
     <footer>
       <div class="row-fluid footer">
         <div class="span5 offset1">
-          <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">
-            <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
-          </a><br />
-          <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CNRG's website</span>
-          is licensed under a
-          <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">
-            Creative Commons Attribution-ShareAlike 3.0 Unported License
-          </a>.
-          <p>Content and the code for generating this site can be found on
-            <a href="https://github.com/ctn-waterloo/website"><i class="icon-github"></i> Github</a>.
-          </p>
+          <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US" title="Content licensed under CC-Attribution-Unported License" data-tooltip rel="license" target="_blank">
+            <img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/3.0/88x31.png">
+          </a>
+          <a href="/humans.txt" data-tooltip title="Colophon">
+            <img alt="humans.txt" src="/files/humanstxt.png">
+          </a>
         </div>
-        <div class="span5 text-right">{% block address %}
-          <address>
-            <strong>Computational Neuroscience Research Group,</strong> University of Waterloo<br>
-            200 University Ave W, Waterloo, ON &nbsp;&nbsp;&nbsp; N2L 3G1<br>
-            <abbr title="Phone">P:</abbr> (519) 888-4567 x38842  &nbsp;&nbsp;&nbsp;
-            <abbr title="Fax">F:</abbr> (519) 746-3097
-          </address>{% endblock address %}
+        <div class="span5 text-right">
+          <a href="http://www.youtube.com/CTNWaterloo" data-tooltip title="Videos on YouTube">
+            <i class="icon-youtube"></i>
+          </a>
+          <a href="https://github.com/ctn-waterloo" data-tooltip title="Code on Github">
+            <i class="icon-github"></i>
+          </a>
+          <a href="mailto:celiasmith@uwaterloo.ca" data-tooltip title="Email the lab">
+            <i class="icon-envelope"></i>
+          </a>
+          <a href="#" data-tooltip title="Snail mail: Computational Neuroscience Research Group, 200 University Ave W, Waterloo, ON, N2L 3G1">
+            <i class="icon-home"></i>
+          </a>
+          <a href="#" data-tooltip title="Phone: (519) 888-4567 x38842">
+            <i class="icon-phone"></i>
+          </a>
+          <a href="#" data-tooltip title="Fax: (519) 746-3097">
+            <i class="icon-print"></i>
+          </a>
         </div>
       </div>
     </footer>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
     <script type="text/javascript">
       (function($) {
         $('a[href="#"]').click(function(e) {
           e.preventDefault();
        });
       })(jQuery);
+      (function($) {
+        $('[data-tooltip]').tooltip();
+      })(jQuery);
     </script>
-    <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript">
       MathJax.Hub.Config({
