@@ -22,6 +22,8 @@ Backend:
 Python with Flask, Frozen-flask, Flask-script, markdown, pyyaml, pybtex, jinja2.
 
 Frontend:
-Custom templates using Bootstrap, Google WebFonts, Font-awesome, modernizr, jquery, Mathjax, list.js.
+Custom templates using Bootstrap, Google WebFonts (Lato font),
+Font-awesome, modernizr, jquery, Mathjax, list.js,
+subtlepatterns.com (Debut-Light pattern).
 
 Source: github.com/ctn-waterloo/website

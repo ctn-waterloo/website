@@ -13,6 +13,8 @@
 body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
+  background-image: url(debut_light.png);
+  background-repeat: repeat
 }
 
 a, a:hover, a:focus {
