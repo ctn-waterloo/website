@@ -49,7 +49,8 @@ def bibtex_to_dict(text):
     }
 
     # Get important stuff from cite_info
-    extract = ('title', 'abstract', 'pdf', 'url', 'year', 'keywords')
+    extract = ('title', 'abstract', 'pdf', 'url', 'year', 'keywords',
+               'poster', 'presentation')
     for key in extract:
         if entry.fields.has_key(key):
             meta[key] = meta['cite_info'].pop(key)

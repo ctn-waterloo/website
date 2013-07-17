@@ -35,30 +35,43 @@
               <ul class="listjs-paging"></ul>
             </div>
         </div>
-        <ul class="list">{% for pub in page.publications %}
+        <ul class="list">
+          {% for pub in page.publications -%}
           <li class="media">
             <div class="media-body">
-              <ul class="pull-right nav nav-stacked">{% if pub.abstract %}
-                <li><a href="#" data-toggle="collapse" data-target="#{{ pub.citekey }}abs">Abstract</a></li>{% endif %}{% if pub.keywords %}
-                <li><a href="#" data-toggle="collapse" data-target="#{{ pub.citekey }}kw">Keywords</a></li>{% endif %}
-                <li><a href="#{{ pub.citekey }}cite" data-toggle="modal">Citation</a></li>{% if pub.pdf %}
-                <li><a href="{{ pub.pdf }}" type="application/pdf">PDF</a></li>{% endif %}{% if pub.fulltext %}
-                <li><a href="{{ pub.fulltext }}" target="_blank">Full text <i class="icon-external-link-sign"></i></a></li>{% endif %}
-              </ul>
               <strong class="title"><a href="{{ pub.url }}">
                   {{ pub.title }} <small class="year">({{ pub.year }})</small>
               </a></strong>
               <p class="authors">{{ ', '.join(pub.authors) }}</p>
+              <ul class="nav">
+                {% if pub.abstract-%}
+                <li><a href="#" data-toggle="collapse" data-target="#{{ pub.citekey }}abs">Abstract</a></li>
+                {% endif -%}{%- if pub.keywords -%}
+                <li><a href="#" data-toggle="collapse" data-target="#{{ pub.citekey }}kw">Keywords</a></li>
+                {% endif -%}
+                <li><a href="#{{ pub.citekey }}cite" data-toggle="modal">Citation</a></li>
+                {% if pub.pdf -%}
+                <li><a href="{{ pub.pdf }}" type="application/pdf">PDF</a></li>
+                {% endif -%}{%- if pub.fulltext -%}
+                <li><a href="{{ pub.fulltext }}" target="_blank">Full text</a></li>
+                {% endif -%}{%- if pub.poster -%}
+                <li><a href="{{ pub.poster }}">Poster</a></li>
+                {% endif -%}{%- if pub.presentation -%}
+                <li><a href="{{ pub.presentation }}">Presentation</a></li>
+                {% endif -%}
+              </ul>
+              {% if pub.keywords -%}
+              <div id="{{ pub.citekey }}kw" class="collapse">
+                <p class="keywords">
+                  <strong>Keywords: </strong> {{ pub.keywords }}
+                </p>
+              </div>
+              {% endif -%}{%- if pub.abstract -%}
+              <div id="{{ pub.citekey }}abs" class="collapse">
+                <p><strong>Abstract: </strong> {{ pub.abstract }}</p>
+              </div>
+              {% endif -%}
             </div>
-            {% if pub.keywords %}
-            <div id="{{ pub.citekey }}kw" class="collapse">
-              <p class="keywords">
-                <strong>Keywords: </strong> {{ pub.keywords }}
-              </p>
-            </div>{% endif %}{% if pub.abstract %}
-            <div id="{{ pub.citekey }}abs" class="collapse">
-              <p><strong>Abstract: </strong> {{ pub.abstract }}</p>
-            </div>{% endif %}
             <div id="{{ pub.citekey }}cite" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="Cite this paper" aria-hidden="true">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>

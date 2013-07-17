@@ -8,24 +8,33 @@
       <header>
         <h2>{{ publication.title }}</h2>
         <p><em>{{ ', '.join(publication.authors) }}</em></p>
-        </header>{% if publication.abstract %}
+      </header>
+      {% if publication.abstract -%}
       <h3>Abstract</h3>
-      <p>{{ publication.abstract }}</p>{% endif %}{% if publication.pdf or publication.fulltext %}
+      <p>{{ publication.abstract }}</p>
+      {% endif -%}
+      {%- if publication.pdf or publication.fulltext -%}
       <h3>Full text links</h3>
-      <ul class="thumbnails">{% if publication.pdf %}
-        <li class="span1">
-          <a href="{{ publication.pdf }}" class="thumbnail">
-            PDF
-          </a>
-        </li>{% endif %}{% if publication.fulltext %}
-        <li class="span1">
-          <a href="{{ publication.fulltext }}" class="thumbnail">
-            Link
-          </a>
-        </li>{% endif %}
-      </ul>{% endif %}{% if publication.html %}
+      {% if publication.pdf -%}
+      <p><a href="{{ publication.pdf }}">PDF</a></p>
+      {% endif -%}
+      {%- if publication.fulltext -%}
+      <p><a href="{{ publication.fulltext }}">External link</a></p>
+      {% endif -%}
+      {% endif -%}
+      {% if publication.poster or publication.presentation %}
+      <h3>Supplementary information</h3>
+      {% if publication.poster -%}
+      <p><a href="{{ publication.poster }}">Poster</a></p>
+      {% endif -%}
+      {% if publication.presentation -%}
+      <p><a href="{{ publication.presentation }}">Presentation</a></p>
+      {% endif -%}
+      {% endif -%}
+      {% if publication.html -%}
       <hr>
-      {{ publication }}{% endif %}
+      {{ publication }}
+      {% endif -%}
     </div>
     <div class="span4">
       <h4>{{ publication.type }}</h4>
