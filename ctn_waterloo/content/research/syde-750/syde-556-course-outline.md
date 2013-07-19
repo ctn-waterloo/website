@@ -1,26 +1,16 @@
 title: SYDE 556 Course Outline
 
-_Course Title_:
+_Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
-Simulating Neurobiological Systems (SYDE 556/750 topic 8)
-
-_Instructor_:
-
-Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), HH
+_Instructor_: Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), HH
 331, x32638)
 
-_Room and Time_:
+_Room and Time_: DWE, Mon & Wed. 11:00a-12:20p
 
-DWE, Mon & Wed. 11:00a-12:20p
-
-_Texts_:
-
-Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
+_Texts_: Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
 and Dynamics in Neurobiological Systems. MIT Press.
 
-_Homepage_:
-
-http://ctnsrv.uwaterloo.ca/cnrglab/NEFcourse
+_Homepage_: http://ctnsrv.uwaterloo.ca/cnrglab/NEFcourse
 
 _Course Description_: This course examines a general framework for modeling
 computation by neurobiological systems with an emphasis on quantitative
@@ -34,93 +24,125 @@ Familiarity with calculus and linear algebra is required.
 
 **_Schedule_**:
 
-**Week**
-**Reading**
-**Topic**
-
-Jan 7
-
-Chp 1
-
-Introduction
-
-&nbsp_place_holder;Jan 14
-
-Chp 2
-
-Simple population codes
-
-Chp 4
-
-LIF neurons and temporal coding
-
-21
-
-Chp 4
-
-Advanced single cell models
-
-28
-
-Chp 5
-
-Chp 6
-
-Population-temporal coding (and) Feedforward transformations
-
-Feb 4
-
-Chp 6 Chp 3
-
-Nonlinear transformations (and) More complex population codes
-
-11
-
-Chp 7
-
-Analyzing representation and transformation
-
-18
-
-Reading week
-
-&nbsp_place_holder;
-
-25
-
-Chp 8
-
-Dynamics/Neural control
-
-Mar 4
-
-Chp 8
-
-Dynamics/Neural control cont.
-
-11
-
-Chp 9 (Mar ??? van der Meer lab: B1 282)
-
-Statistical inference and learning
-
-18
-
-Chp 9
-
-
-
-25
-
-Brief Project Presentations
-
-&nbsp_place_holder;
-
-Apr 1
-
-Brief Project Presentations
-
-Project due: Apr 23
+<table border=1 cellspacing=1 cellpadding=2>
+<tr> 
+  <td width=57 ><b>Week</b></td>
+  <td colspan=2 ><b>Reading</b></td>
+  <td  width=292><b>Topic</b></td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center">Jan
+      2</div></td>
+  <td colspan=2 > 
+    Chp 1</td>
+  <td > 
+    Introduction</td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center">&nbsp;Jan 9</div></td>
+  <td colspan=2 > 
+    Chp 2</td>
+  <td > 
+    Simple population codes</td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center"></div></td>
+  <td colspan=2 >Chp 4</td>
+  <td >LIF neurons and temporal coding</td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center">16</div></td>
+  <td colspan=2 > 
+    Chp 4 </td>
+  <td > 
+    Advanced single cell models</td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center"><br>
+  23</div></td>
+  <td colspan=2 > 
+    Chp 5<br>
+    Chp 6</td>
+  <td > 
+    Population-temporal coding 
+      (and)<br>
+        Feedforward transformations </td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center"><br>
+  30</div></td>
+  <td colspan=2 >Chp 6<br>
+    Chp 3 </td>
+  <td > 
+    Nonlinear transformations (and)<br>
+    More complex population codes </td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center">Feb 6</div></td>
+  <td colspan=2 > 
+    Chp 7</td>
+  <td > 
+    Analyzing representation and transformation</td>
+</tr>
+<tr>
+  <td ><div align="center">13</div></td>
+  <td colspan=2 >Chp 8</td>
+  <td >Dynamics/Neural control</td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center">20 </div></td>
+  <td colspan=2 > 
+    Reading week</td>
+  <td >&nbsp;</td>
+</tr>
+<tr>
+  <td > <div align="center">Feb 27</div></td>
+  <td colspan=2 >Chp 8 </td>
+  <td >Dynamics/Neural control cont. </td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center">Mar 5</div></td>
+  <td colspan=2 >Chp 9 (Mar 7 van der Meer lab: B1 282)</td>
+  <td >Statistical inference 
+  and learning</td>
+</tr>
+<tr> 
+  <td > 
+    <div align="center">12</div></td>
+  <td colspan=2 > 
+    Chp 9 </td>
+  <td ><br></td>
+</tr>
+<tr>
+  <td ><div align="center">19</div></td>
+  <td colspan=2 >Brief Project
+  Presentations</td>
+  <td >&nbsp;</td>
+</tr>
+<tr> 
+  <td >
+    <div align="center">26</div></td>
+  <td colspan=2 >Brief Project
+        Presentations</td>
+  <td >Project
+        due: Apr 21</td>
+</tr>
+<tr height=0> 
+  <td width=57></td>
+  <td width=0></td>
+  <td width=252></td>
+  <td></td>
+</tr>
+</table>
 
 **_Grading_**: The course requires the writing of a series of programming assignments (60%), and a final project (40%). Assignments are due electronically by midnight of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually.
 
@@ -155,7 +177,7 @@ http://www.adm.uwaterloo.ca/infosec/Policies/policy72.htm
 
 _Academic Integrity Office (UW):_ http://uwaterloo.ca/academicintegrity/
 
-_Accommodation for Students with Disabilities:_The Office for Persons with
+_Accommodation for Students with Disabilities:_ The Office for Persons with
 Disabilities (OPD), located in Needles Hall, Room 1132, collaborates with all
 academic departments to arrange appropriate accommodations for students with
 disabilities without compromising the academic integrity of the curriculum. If
