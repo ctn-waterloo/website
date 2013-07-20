@@ -19,11 +19,11 @@ I began my undergraduate training with a leaning to molecular
 biology. I moved to a chemical physics program for a more quantitative understanding of systems. Models 
 of these systems are best expressed mathematically, and thus
 I've developed a great appreciation for the art. At Toronto, I was fortunate
-enough to work in R.J. Dwayne Millers lab on a project related to the
+enough to work in R.J. Dwayne Miller's lab on a project related to the
 ultrafast laser control of quantum coherent properties of a photosynthetic
 protein complex that I isolated (LHC-II).
 
 ## Current Research
 
 I have recently completed my MASc thesis, entitled
-"A mechanistic model of motion processing in the early visual system."
+"A mechanistic model of motion processing in the early visual system", under my supervisor Chris Eliasmith.
