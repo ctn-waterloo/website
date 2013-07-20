@@ -15,11 +15,9 @@ Systems Design Engineering
 > University of Toronto Honours Bachelor of Science (HBSc), 2010 Chemical
 Physics (Specialist)
 
-I began my undergraduate training in life science with a leaning to molecular
-biology. Realizing that nature does not categorize disciplines the way
-universities do, I moved to a combined chemistry and physics program to better
-understand the quantitative modelling of living and non-living systems. The
-common language in which these models are expressed is mathematics, and thus
+I began my undergraduate training with a leaning to molecular
+biology. I moved to a chemical physics program for a more quantitative understanding of systems. Models 
+of these systems are best expressed mathematically, and thus
 I've developed a great appreciation for the art. At Toronto, I was fortunate
 enough to work in R.J. Dwayne Millers lab on a project related to the
 ultrafast laser control of quantum coherent properties of a photosynthetic
