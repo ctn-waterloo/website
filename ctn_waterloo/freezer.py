@@ -1,8 +1,9 @@
 import os
 import mimetypes
 
-from . import app, redirects, serve_static
-from flask.ext.frozen import Freezer, walk_directory
+from . import app, pages, redirects, serve_static
+from .filters import slugify
+from flask.ext.frozen import Freezer
 
 # Seems to be available only on some systems...
 mimetypes.add_type('application/atom+xml', '.atom')
@@ -16,3 +17,9 @@ def redirect_url_generator():
 @freezer.register_generator
 def static_url_generator():
     return serve_static
+
+@freezer.register_generator
+def people_page():
+    for person in pages:
+        if person.path.startswith('people/'):
+            yield {'slug': slugify(person['name'])}

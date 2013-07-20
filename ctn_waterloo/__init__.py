@@ -199,11 +199,6 @@ for url in redirects:
 #     return app.response_class(xml, mimetype='application/atom+xml')
 
 
-@app.errorhandler(404)
-def not_found(e):
-    """This only gets seen locally..."""
-    return render_template('404.html')
-
 serve_static = [
     '/favicon.ico',
     '/humans.txt',
@@ -216,15 +211,6 @@ def static_from_root():
 for url in serve_static:
     app.add_url_rule(url, 'static_from_root', static_from_root)
 
-
-TYPE_IMAGES = {
-    'techreport': 'static/img/placeholder.png',
-    'inbook': 'static/img/placeholder.png',
-    'proceedings': 'static/img/placeholder.png',
-    'book': 'static/img/placeholder.png',
-    'mastersthesis': 'static/img/placeholder.png',
-    'article': 'static/img/journal.gif',
-}
 
 TYPE_TEXT = {
     'techreport': 'CTN Tech Report',
@@ -266,8 +252,6 @@ def _get_all_pubs(pages, end=None, start=None, author=None):
             pub.fulltext = pub['url']
         pub.url = url_for('publications_page', citekey=pub['citekey'])
         pub.type = TYPE_TEXT.get(pub['type'], pub['type'])
-        pub.type_image = TYPE_IMAGES.get(pub['type'], 'static/img/placeholder.png')
-        pub.type_image = _expand_static(pub.type_image)
 
     if end is not None and len(allpubs) > end:
         allpubs = allpubs[:end]
