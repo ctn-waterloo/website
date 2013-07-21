@@ -57,8 +57,8 @@ def bibtex_to_dict(text):
 
     # Add editors to cite_info, if they exist
     if entry.persons.has_key('editor'):
-        meta['cite_info']['editors'] = [_format_person(person)
-                                        for person in entry.persons['editor']]
+        meta['cite_info']['editors'] = ", " .join(
+            [_format_person(person) for person in entry.persons['editor']])
 
     return meta
 

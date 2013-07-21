@@ -67,6 +67,7 @@ class Model(object):
     def publication(self, pub):
         if pub.meta.has_key('url'):
             pub.fulltext = pub['url']
+        pub.authors = [self.authorlink(name) for name in pub['authors']]
         pub.url = url_for('publications_page', citekey=pub['citekey'])
         pub.type = TYPE_TEXT.get(pub['type'], pub['type'])
         return pub

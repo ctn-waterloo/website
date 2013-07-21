@@ -42,7 +42,7 @@
               <strong class="title"><a href="{{ pub.url }}">
                   {{ pub.title }} <small class="year">({{ pub.year }})</small>
               </a></strong>
-              <p class="authors">{{ ', '.join(pub.authors) }}</p>
+              <p class="authors">{{ ', '.join(pub.authors)|safe }}</p>
               <ul class="nav">
                 {% if pub.abstract-%}
                 <li><a href="#" data-toggle="collapse" data-target="#{{ pub.citekey }}abs">Abstract</a></li>

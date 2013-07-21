@@ -7,7 +7,7 @@
     <div class="offset1 span7">
       <header>
         <h2>{{ publication.title }}</h2>
-        <p><em>{{ ', '.join(publication.authors) }}</em></p>
+        <p><em>{{ ', '.join(publication.authors)|safe }}</em></p>
       </header>
       {% if publication.abstract -%}
       <h3>Abstract</h3>
