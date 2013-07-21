@@ -1,12 +1,12 @@
 name: Peter Suma
 email: petergsuma@gmail.com
-one_liner: One-liner 
+one_liner: One-liner
 group: Grad students
 title: Masters Student
-picture: static/img/placeholder.png
-links: 
-    - text: None
-      url: #
+picture: /static/img/placeholder.png
+links:
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/petersuma
 
 Having the intellectual time of my life trying to catch up and contribute to
 the brilliance of Dr Eliasmith and his team while supporting them in the
@@ -14,7 +14,6 @@ commercialization of their ground breaking research in artificial intelligence
 as CEO of Applied Brain Research Inc.. At the same time as completing my MASc
 in Theoretical Neuroscience here at the University of Waterloo.
 
-  
 Previously was; CEO & director at PCAS / PharmaTrust Inc; grew the company
 with capital and sweat equity from April 2006 to June 2011 with great
 investors, great team and great customers. We built great technology, changed
@@ -27,7 +26,6 @@ boards of early stage technology companies. Previous to Start Seed, founded,
 built and sold SRG Software in 1999 which was a software development and
 consulting firm.
 
-  
 Education: Completing MASc in Theoretical and Computational Neuroscience. Hold
 an Hon. B.Sc. from the University of Toronto, a M.B.A. from the University of
 Chicago, a P.D.A.M. majoring in Financial Engineering from the Schulich School
@@ -35,19 +33,5 @@ of Business, an ICD.D from the Institute of Corporate Directors Program at the
 Rotman School of Business at the University of Toronto and an LLM in
 Securities Law from Osgoode Hall Law School in Toronto.
 
-  
 Specialties: Venture capital, startups, leading complex technology
 initiatives.
-
-  
-https://www.linkedin.com/in/petersuma
-
-psuma@uwaterloo.ca
-
-peter.suma@appliedbrainresearch.com
-
-petergsuma@gmail.com
-
-  
-
-

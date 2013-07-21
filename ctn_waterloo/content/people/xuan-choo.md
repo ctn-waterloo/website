@@ -1,12 +1,12 @@
 name: Xuan Choo
 email: xchoo.mainframe@gmail.com
-one_liner: One-liner 
+one_liner: One-liner
 group: Grad students
 title: PhD Student
-picture: static/img/placeholder.png
-links: 
-    - text: None
-      url: #
+picture: /static/img/placeholder.png
+links:
+    - text: ""
+      url:
 
 ## Bio
 
@@ -58,6 +58,4 @@ A Biologically Plausible Model of Memory for Serial-Order Information
 
 ## Recommended Readings
 
-- To be filled in soon! - 
-
-
+- To be filled in soon! -

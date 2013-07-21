@@ -3,7 +3,7 @@ email: ehunsber@uwaterloo.ca
 one_liner: Vision
 group: Grad students
 title: PhD student
-picture: static/img/placeholder.png
+picture: /static/img/placeholder.png
 
 Just prior to the Mayan apocalypse,
 I transferred from the Master's program into the PhD program

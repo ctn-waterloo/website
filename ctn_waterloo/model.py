@@ -50,16 +50,18 @@ class Model(object):
                        if mtg.path.startswith('meetings/')],
                       reverse=True, key=lambda mtg: mtg['year'])
 
+    def person(self, person):
+        person.url = url_for('people_page', slug=slugify(person['name']))
+        return person
+
     def people(self, group=None):
         if group is None:
             test = lambda p: p.path.startswith('people/')
         else:
             test = lambda p: p.path.startswith('people/') and p['group'] == group
 
-        people = sorted([person for person in self.pages if test(person)],
-                        key=lambda person: person['name'])
-        for person in people:
-            person.url = url_for('people_page', slug=slugify(person['name']))
+        people = sorted([self.person(p) for p in self.pages if test(p)],
+                        key=lambda p: p['name'])
         return people
 
     def publication(self, pub):
