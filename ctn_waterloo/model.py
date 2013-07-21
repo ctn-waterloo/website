@@ -67,6 +67,17 @@ class Model(object):
     def publication(self, pub):
         if pub.meta.has_key('url'):
             pub.fulltext = pub['url']
+        if pub['cite_info'].has_key('journal'):
+            pub.journal = pub['cite_info']['journal']
+        elif pub['type'] == 'techreport':
+            pub.journal = "Tech Report"
+        elif 'thesis' in pub['type']:
+            pub.journal = "Thesis"
+        elif 'book' in pub['type']:
+            pub.journal = pub['cite_info']['publisher']
+        elif pub['cite_info'].has_key('booktitle'):
+            pub.journal = pub['cite_info']['booktitle']
+
         pub.authors = [self.authorlink(name) for name in pub['authors']]
         pub.url = url_for('publications_page', citekey=pub['citekey'])
         pub.type = TYPE_TEXT.get(pub['type'], pub['type'])

@@ -40,7 +40,11 @@
           <li class="media">
             <div class="media-body">
               <strong class="title"><a href="{{ pub.url }}">
-                  {{ pub.title }} <small class="year">({{ pub.year }})</small>
+                  {{ pub.title }}
+                  <small>
+                    (<span class="journal">{{ pub.journal }}</span>,
+                    <span class="year">{{ pub.year }}</span>)
+                  </small>
               </a></strong>
               <p class="authors">{{ ', '.join(pub.authors)|safe }}</p>
               <ul class="nav">

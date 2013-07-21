@@ -6,7 +6,13 @@
   <div class="row">
     <div class="offset1 span7">
       <header>
-        <h2>{{ publication.title }}</h2>
+        <h2>
+          {{ publication.title }}
+          <h4>
+            <span class="journal">{{ publication.journal }}</span>,
+            <span class="year">{{ publication.year }}</span>
+          </h4>
+        </h2>
         <p><em>{{ ', '.join(publication.authors)|safe }}</em></p>
       </header>
       {% if publication.abstract -%}
