@@ -40,6 +40,9 @@ learn from experience to build up the complex processing of intelligence.
 
 Building neural models capable of hierarchical reinforcement learning
 
+Here is a brief, high-level presentation I gave describing this research:
+<iframe width="560" height="315" src="//www.youtube.com/embed/_f2p0inm79s" frameborder="0" allowfullscreen></iframe>
+
 ## Past projects
 
 Modelling problem solving in Raven's Progressive Matrices
