@@ -16,15 +16,17 @@ philosophy from the University of Waterloo (2011).
 
 ### Research
 
-My research in the CNRG focuses primarily on theories of concepts and lexical
-semantics. I am currently working on a corpus linguistics project that compares
-different methods for encoding word order information into holographic
-representations, and I am also developing some ideas regarding
-compositionality in vector-symbolic architectures. The long-term goal of my
-research is to better understand concepts through the development of models of
-conceptual processing that satisfy constraints ranging from the behavioral to
-the neurobiological.
+My research in the CNRG focuses on various aspects of language processing.
+Currently, I am working on incorporating multi-word expressions into distributed
+models of semantics. These models work well for representing the meanings of
+individual words, but they have not yet been successfully extended to account for
+the representation of more complex expressions as such word pairs, simple phrases,
+and sentences. The well-known theoretical challenge associated with this project
+is to understand how the meanings of complex expressions are related to both the
+meanings of their constituent parts and the way in which these parts have been combined. 
+The more practical challenge is to develop models that can perform interesting semantic 
+tasks, and at the same time, be integrated with the work being done by other members of
+the lab.
 
-I am also interested in theories of mental representation, the
-semantics/pragmatics distinction, and natural language processing. My general
-philosophical interests encompass the areas of mind, language, and logic.
+My other interests include theories of mental representation, theories of concepts,
+and more broadly, philosophical work in the areas of mind, language, and logic.
