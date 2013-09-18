@@ -15,7 +15,7 @@ that can be done by Spaun
 and other models
 using the Semantic Pointer Architecture.
 [[Paper](http://mindmodeling.org/cogsci2013/papers/0084/paper0084.pdf),
-Slides]
+[Slides](http://compneuro.uwaterloo.ca/files/publications/choo.2013.presentation.pptx)]
 
 [Terry Stewart](/people/terrence-c-stewart.html)
 presented a poster which described
@@ -48,12 +48,12 @@ be how something like Spaun might develop.
 
 [Peter Blouw](/people/peter-blouw.html)
 presented a poster describing
-a simple way to encode large vocabularies in order to 
+a simple way to encode large vocabularies in order to
 extract semantic meaning of words
 that can be readily implemented
 in a neural model like Spaun.
 [[Paper](http://mindmodeling.org/cogsci2013/papers/0353/paper0353.pdf),
-Poster]
+[Poster](http://compneuro.uwaterloo.ca/files/publications/blouw.2013.poster.pptx)]
 
 [Eric Crawford](/people/eric-crawford.html)
 presented a method to encode
@@ -71,7 +71,7 @@ a model that solves reinforcement learning
 tasks with unknown time delays
 with spiking neurons.
 [[Paper](http://mindmodeling.org/cogsci2013/papers/0580/paper0580.pdf),
-Poster]
+[Poster](http://compneuro.uwaterloo.ca/files/publications/rasmussen.2013b.poster.pdf)]
 
 Not only did we have nine
 papers accepted,
