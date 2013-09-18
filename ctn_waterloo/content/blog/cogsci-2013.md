@@ -2,7 +2,7 @@ title: CNRG in Berlin for Cognitive Science 2013
 author: Trevor Bekolay
 date: 2013-09-17 15:40
 
-Several members of the CNRG were in Berlin
+Eleven members of the CNRG were in Berlin
 recently for the 35th meeting of the Cognitive Science Society.
 Now that Spaun has been published,
 we're branching out in several domains
@@ -48,7 +48,8 @@ be how something like Spaun might develop.
 
 [Peter Blouw](/people/peter-blouw.html)
 presented a poster describing
-a simple way to encode the order of words
+a simple way to encode large vocabularies in order to 
+extract semantic meaning of words
 that can be readily implemented
 in a neural model like Spaun.
 [[Paper](http://mindmodeling.org/cogsci2013/papers/0353/paper0353.pdf),
@@ -57,8 +58,8 @@ Poster]
 [Eric Crawford](/people/eric-crawford.html)
 presented a method to encode
 human-scale knowledge
-(e.g., the words that would be ordered
-with Peter's work)
+(e.g., the words that would be used
+in Peter's work)
 in a tiny amount of simulated cortex.
 [[Paper](http://mindmodeling.org/cogsci2013/papers/0099/paper0099.pdf),
 Slides]
