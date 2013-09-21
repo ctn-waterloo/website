@@ -30,3 +30,7 @@ This year's meetings:
 - May 24: Roundtable
 - May 31: Roundtable
 - Jun 7: Carter on his Fear Conditioning model (practice for ICCM talk)
+- Sept 13: Roundtable: start of a new term
+- Sept 20: Roundtable
+- Sept 27: Terry on adaptive nonlinear control
+- Oct 4: Roundtable
