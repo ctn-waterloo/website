@@ -1,7 +1,7 @@
 title: Popular press coverage
 
 This is a collection of coverage of work with Nengo that has appeared in
-the popular press.
+the popular press. A more up-to-date list might be [found here](http://nengo.ca/popularpress).
 
 ![Cartoon](http://nengo.ca/sites/nengo.ca/files/ChrisSpaun.jpg){: .pull-right width="200"}
 
