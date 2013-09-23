@@ -74,4 +74,5 @@ General instruction following in a large-scale biologically plausible brain mode
 ## Recommended Readings
 
 In search of memory: The emergence of a new science of mind - Eric Kendel
+
 How to build a brain: A neural architecture for biological cognition - Chris Eliasmith
