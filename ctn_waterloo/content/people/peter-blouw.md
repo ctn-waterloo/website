@@ -3,7 +3,7 @@ email: pblouw@gmail.com
 one_liner: Semantics
 group: Grad students
 title: PhD Student
-picture: /static/img/placeholder.png
+picture: http://i.imgur.com/ftmHXGp.jpg
 links:
     - text: ""
       url: #
