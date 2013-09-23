@@ -35,20 +35,6 @@ other members of the lab into one gigantic model called Spaun.
 
 I have a rather wide set of research interests.
 
-### Language Learning, Representation, and Processing
-
-Languages come in many forms:
-
-  * Written languages: which can be further broken down into logographic (pictorial languages, like Chinese, Japanese), and syllabic (languages like English, French, etc).
-  * Spoken languages
-  * Sign languages
-
-And yet the brain is able to make sense of it all. Is there an underlying
-general framework that the brain uses to represent these different forms of
-languages, or does each form have its own specific framework? Additionally,
-how does the brain learn languages? Are multiple sensory inputs required to
-learn a language, or is just one sensory input enough?
-
 ### Memory (Working & Long-term)
 
 How does the brain remember things, and what sorts of representations are used
@@ -63,6 +49,20 @@ generalization and problem solving. I am also interested in the problem of
 integration - to build a system that seamlessly melds sensory input, with
 decision making and problem solving, with motor output, in order to perform
 highly complex tasks.
+
+### Language Learning, Representation, and Processing
+
+Languages come in many forms:
+
+  * Written languages: which can be further broken down into logographic (pictorial languages, like Chinese, Japanese), and syllabic (languages like English, French, etc).
+  * Spoken languages
+  * Sign languages
+
+And yet the brain is able to make sense of it all. Is there an underlying
+general framework that the brain uses to represent these different forms of
+languages, or does each form have its own specific framework? Additionally,
+how does the brain learn languages? Are multiple sensory inputs required to
+learn a language, or is just one sensory input enough?
 
 ## Previous Projects
 A biologically plausible model of memory for serial-order information
