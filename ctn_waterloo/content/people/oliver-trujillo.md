@@ -3,7 +3,7 @@ email: otrujill@uwaterloo.ca
 one_liner: Episodic memory in hippocampus
 group: Grad students
 title: Masters Student
-picture: /static/img/placeholder.png
+picture: http://compneuro.uwaterloo.ca/files/oliver.jpg
 links:
     - text: ""
       url:
