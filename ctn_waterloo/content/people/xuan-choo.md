@@ -3,7 +3,7 @@ email: fchoo@uwaterloo.ca
 one_liner: Working memory and large-scale model design and integration
 group: Grad students
 title: PhD Student
-picture: /static/img/placeholder.png
+picture: http://compneuro.uwaterloo.ca/files/xuan.jpg
 links:
     - text: My personal website
       url: https://sites.google.com/site/fxchoo/
