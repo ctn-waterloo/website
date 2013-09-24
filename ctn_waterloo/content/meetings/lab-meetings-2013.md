@@ -33,4 +33,4 @@ This year's meetings:
 - Sept 13: Roundtable: start of a new term
 - Sept 20: Roundtable
 - Sept 27: Terry on adaptive nonlinear control
-- Oct 4: Roundtable
+- Oct 4: Travis on operational space control and building a robot
