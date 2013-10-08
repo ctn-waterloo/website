@@ -34,3 +34,7 @@ This year's meetings:
 - Sept 20: Roundtable
 - Sept 27: Terry on adaptive nonlinear control
 - Oct 4: Travis on operational space control and building a robot
+- Oct 11: No meeting (Thanksgiving)
+- Oct 18: Dan tutorial on Spinnaker and Nengo 
+- Oct 25: Roundtable
+- Nov 1:
