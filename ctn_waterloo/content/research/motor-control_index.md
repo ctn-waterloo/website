@@ -21,6 +21,7 @@ DeWolf](http://ctnsrv.uwaterloo.ca/cnrglab/user/21#).
   * [3-link arm model](motor-control/3-link-arm-model.html): This is a three-link arm model for Matlab, developed with MapleSim.
   * [6 muscle arm model](motor-control/6-muscle-3-link-arm-model.html):This is a 6 muscle, 3-link arm model for Matlab, developed with MapleSim.
   * [9 muscle arm model](motor-control/9-muscle-3-link-arm-model.html):This is a 9 muscle, 3-link arm model for Matlab, developed with MapleSim.
+  * [Neural integrator learning demo](http://compneuro.uwaterloo.ca/files/NIdemo.zip): This example requires downloading the OMS model and runs in matlab and simulink. (See the readme).
   
 ## **Motor Control**
 
