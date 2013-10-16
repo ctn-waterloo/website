@@ -15,8 +15,6 @@ To read more about motor control discussion you can check out related [StudyWolf
 
 ## Our motor projects
 
-### Available downloads
-
   * [2-link arm model](motor-control/2-link-arm-model.html): This is a simple two-link arm model for Matlab.
   * [3-link arm model](motor-control/3-link-arm-model.html): This is a three-link arm model for Matlab, developed with MapleSim.
   * [6 muscle arm model](motor-control/6-muscle-3-link-arm-model.html):This is a 6 muscle, 3-link arm model for Matlab, developed with MapleSim.
