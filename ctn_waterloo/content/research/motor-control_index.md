@@ -19,6 +19,9 @@ Recent work in the lab has focused on the development of operational space contr
 
 To read more about motor control discussion you can check out related [motor control blog posts](http://studywolf.wordpress.com/category/motor-control/).
 
+If you have any questions or comments, please email
+[Travis DeWolf](http://compneuro.uwaterloo.ca/people/travis-dewolf.html).
+
 ## **Motor Control Projects**
 
 ### **Arm models**
@@ -53,5 +56,3 @@ Adaptive controllers that are able to learn the dynamics and kinematics of the s
 
 [2 link arm adaptive controllers](motor-control/2-link-arm-adaptive-controllers.html)-->
 
-If you have any questions or comments, please email
-[Travis DeWolf](http://compneuro.uwaterloo.ca/people/travis-dewolf.html).
