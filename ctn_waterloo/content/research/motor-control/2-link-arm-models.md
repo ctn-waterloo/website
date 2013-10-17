@@ -10,7 +10,7 @@ There is Python only code (arm_python.py), and a simulation generated from Maple
 
 <img scr="http://compneuro.uwaterloo.ca/files/2linkarm.png">
 
-[2 Link Arm Python code](https://github.com/studywolf/blog/tree/master/OSC/TwoLinkArm)
+[2 Link Arm Python code](https://github.com/studywolf/blog/tree/master/OSC/Arms/TwoLinkArm)
 
 
 ####Matlab simulations
