@@ -24,15 +24,15 @@ To read more about motor control discussion you can check out related [StudyWolf
 
 As part of building models of the motor control system it was necessary to develop simulations with realistic dynamics to control. Simpler one and two link arm models are common, and easy to find online, but more complicated models quickly become much more complicated to develop. The models here were developed with MapleSim, and they can be accessed both from Python and Matlab.
 
-[1 link arm models](motor-control/1-link-arm-model)
+[1 link arm models](motor-control/1-link-arm-model.html)
 
-[2 link arm models](motor-control/2-link-arm-models)
+[2 link arm models](motor-control/2-link-arm-models.html)
 
-[3 link arm models](motor-control/3-link-arm-models)
+[3 link arm models](motor-control/3-link-arm-models.html)
 
-[6 muscle 3 link arm model](motor-control/6-muscle-3-link-arm-model)
+[6 muscle 3 link arm model](motor-control/6-muscle-3-link-arm-model.html)
 
-[9 muscle 3 link arm model](motor-control/9-muscle-3-link-arm-model)
+[9 muscle 3 link arm model](motor-control/9-muscle-3-link-arm-model.html)
 
 ### **Controllers**
 
