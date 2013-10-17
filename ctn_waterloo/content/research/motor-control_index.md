@@ -22,8 +22,9 @@ To read more about motor control discussion you can check out related [StudyWolf
 
 ### **Arm models**
 
+[1 link arm models](motor-control/1-link-arm-model)
 [2 link arm models](motor-control/2-link-arm-models)
-[3 link arm model](motor-control/3-link-arm-model)
+[3 link arm models](motor-control/3-link-arm-models)
 [6 muscle 3 link arm model](motor-control/6-muscle-3-link-arm-model)
 [9 muscle 3 link arm model](motor-control/9-muscle-3-link-arm-model)
 
