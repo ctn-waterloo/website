@@ -4,8 +4,9 @@ intro: Developing a biologically plausible framework for models of neural contro
 people:
     - Travis DeWolf
 toc:
+    - 1 link arm models
     - 2 link arm models
-    - 3 link arm model
+    - 3 link arm models
     - 6-muscle 3-link arm model
     - 9-muscle 3-link arm model
     - Neural integrator learning demo
