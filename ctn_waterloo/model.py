@@ -124,8 +124,11 @@ class Model(object):
 
         page.articles = [self.pages.get('research/' + topic + '/' + slugify(p['title']))
                          for p in _flatten(page.toc)]
+        page.articles = [a for a in page.articles if a is not None]
+
         for article in page.articles:
             article.topic = url_for('research_topic', topic=topic)
+
         for a1, a2 in zip(page.articles[:-1], page.articles[1:]):
             a1.next = url_for('research_page', topic=topic,
                               slug=slugify(a2['title']))

@@ -165,7 +165,12 @@ def research_topic(topic):
 def research_page(topic, slug):
     g.topic = 'research'
     topicpage = model.research(topic)
-    page = next(a for a in topicpage.articles if slugify(a['title']) == slug)
+    try:
+        page = next(a for a in topicpage.articles
+                    if slugify(a['title']) == slug)
+    except StopIteration:
+        raise ValueError(slug + ".md could not be found. "
+                         "Either the title or the filename is wrong.")
     page.headings = get_headings(page.html)
     return render_template('research_page.html', page=page)
 
