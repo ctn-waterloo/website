@@ -5,8 +5,9 @@ Here are links to some of the different arm models that we've been working with,
 ####Python simulations
 
 Here is Python code that simulates a simple 2 link arm model.
-There is Python only code (arm_python.py), and a simulation generated from MapleSim and compiled down to some highly optimized C code (arm.py). To use the MapleSim simulator, download the folder and run 
-"python setup.py build_ext -i". 
+There is Python only code (arm_python.py), and a simulation generated from MapleSim and compiled down to some highly optimized C code (arm.py). 
+
+To use the MapleSim simulator, download the folder and run "python setup.py build_ext -i". 
 
 <img src="http://compneuro.uwaterloo.ca/files/2linkarm.png" style="width:400px;">
 
