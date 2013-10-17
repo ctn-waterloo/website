@@ -8,7 +8,7 @@ This is a 3 link arm model simulation, developed in MapleSim5.
 Here is Python code that simulates a simple 2 link arm model.
 There is Python only code (arm_python.py), and a simulation generated from MapleSim and compiled down to some highly optimized C code (arm.py). 
 
-To use the MapleSim simulator, download the folder and run "python setup.py build_ext -i". 
+To compile the MapleSim simulator, download the folder and run "python setup.py build_ext -i". 
 
 <img src="http://compneuro.uwaterloo.ca/files/ThreeLinkArm.png" style="width:400px;">
 
