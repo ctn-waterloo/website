@@ -1,4 +1,4 @@
-title: 3-link arm model
+title: 3-link arm models
 
 This is a 3 link arm model simulation for Matlab, developed in MapleSim5. The
 model measurements are from the paper 'On control of reaching movements for
