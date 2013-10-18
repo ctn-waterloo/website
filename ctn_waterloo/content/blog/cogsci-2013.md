@@ -29,7 +29,7 @@ presented improvements to Spaun's vision system,
 and applied it to image categorization,
 matching human performance in two well-known tasks.
 [[Paper](http://compneuro.uwaterloo.ca/files/publications/hunsberger.2013a.pdf),
-Slides]
+[Slides](http://compneuro.uwaterloo.ca/files/publications/hunsberger.2013a.presentation.pdf)]
 
 [Aziz Hurzook](/people/aziz-hurzook.html)
 and [Oliver Trujillo](/people/oliver-trujillo.html)
