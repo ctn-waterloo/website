@@ -10,5 +10,5 @@ All necessary files to run in Matlab are included. The files were compiled for a
 
 <img src="http://compneuro.uwaterloo.ca/files/6Muscle3LinkArmPic.png" style="width:400px;">
 
-[2 Link Arm Matlab code](http://compneuro.uwaterloo.ca/files/6Muscle3LinkArm.zip)
+[3 Link 6 Muscle Arm Matlab code](http://compneuro.uwaterloo.ca/files/6Muscle3LinkArm.zip)
 
