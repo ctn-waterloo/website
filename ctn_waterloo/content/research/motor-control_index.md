@@ -44,11 +44,9 @@ As part of building models of the motor control system it was necessary to devel
 
 Controllers based on the operational space control framework by Dr. Oussama Khatib, presented in [this paper](http://cs.stanford.edu/groups/manips/images/pdfs/Khatib_1987_IJRA.pdf). An introduction to OSC can be found in [this tutorial](http://www.stanford.edu/~smenon/code/rppbot/MathTutorial_01_RPPBot.htm) by Samir Menon. 
 
-For more discussion and slower walk through of the development of OSControllers you can check out [related OSC blog posts](http://studywolf.wordpress.com/category/robotics/).
+For more discussion and slower walk through of the development of operational space controllers you can check out [related OSC blog posts](http://studywolf.wordpress.com/category/robotics/).
 
-[1 link arm operational space controllers](motor-control/1-link-arm-osc-controllers.html)
-
-[2 link arm operational space controllers](motor-control/2-link-arm-osc-controllers.html)
+[Python implementations are available here.](https://github.com/studywolf/blog/tree/master/OSC)
 
 <!--#### **Adaptive controllers**
 
