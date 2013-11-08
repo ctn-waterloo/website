@@ -1,7 +1,8 @@
 title: Popular press coverage
 
 This is a collection of coverage of work with Nengo that has appeared in
-the popular press. A more up-to-date list might be [found here](http://nengo.ca/popularpress).
+the popular press. This list is current as of May 2013, a more up-to-date list 
+will be [found here](http://nengo.ca/popularpress).
 
 ![Cartoon](http://nengo.ca/sites/nengo.ca/files/ChrisSpaun.jpg){: .pull-right width="200"}
 
@@ -19,7 +20,8 @@ the popular press. A more up-to-date list might be [found here](http://nengo.ca/
 - [Wired (UK)](http://www.wired.co.uk/news/archive/2012-12/01/spaun-virtual-brain) - Simulated brain Spaun recognises, learns and remembers
 - [Today's Science](http://www.2facts.com/tsof_home_feature.aspx) Building a brain in a box (subscription service, you can get the .pdf [here](http://www.nengo.ca/sites/nengo.ca/files/J__TSOF%201992-2007_New%20Stories_s2100009.pdf)).
 - [TG Daily](http://www.tgdaily.com/general-sciences-features/67819-artificial-brain-spaun-passes-iq-tests) - Artificial brain 'Spaun' passes IQ tests
-- [Slashdot](https://science.slashdot.org/story/12/11/30/1719238/spaun-a-large-scale-functional-brain-model)[Ars Technica](http://arstechnica.com/science/2012/11/model-brain-with-2-5-million-neurons-configures-itself-to-problem-solve/) - Model brain with 2.5 million neurons configures itself to solve problems
+- [Slashdot](https://science.slashdot.org/story/12/11/30/1719238/spaun-a-large-scale-functional-brain-model)
+- [Ars Technica](http://arstechnica.com/science/2012/11/model-brain-with-2-5-million-neurons-configures-itself-to-problem-solve/) - Model brain with 2.5 million neurons configures itself to solve problems
 - [Huffington Post](http://www.huffingtonpost.com/2012/11/30/artificial-brain-spaun-software-model_n_2217750.html) - Artificial Brain: 'Spaun' Software Model Mimics Abilities, Flaws Of Human Brain
 - [Gizmodo](http://gizmodo.com/5964684/the-most-realistic-artificial-brain-has-a-mind-of-its-own) - The Most Realistic Artificial Brain Has a Mind of Its Own
 - [ExtremeTech](http://www.extremetech.com/extreme/141926-spaun-the-most-realistic-artificial-human-brain-yet) - Spaun, the most realistic artificial human brain yet
