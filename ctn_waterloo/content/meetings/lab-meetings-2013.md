@@ -24,9 +24,6 @@ This year's meetings:
 - Apr 19: Sprint weekend!
 - Apr 26: Xuan's talk on how to count with neurons (practice for upcoming talk on May 9th)<br>
   Connor's presentation on work he has done.
-- May 3:
-- May 10:
-- May 17:
 - May 24: Roundtable
 - May 31: Roundtable
 - Jun 7: Carter on his Fear Conditioning model (practice for ICCM talk)
@@ -38,3 +35,9 @@ This year's meetings:
 - Oct 18: Strategy discussion (top secret!)
 - Oct 25: Roundtable
 - Nov 1: Dan tutorial on Spinnaker and Nengo
+- Nov 8: Conflict of interest discussion
+- Nov 15: No meeting (chris away)
+- Nov 22: 
+- Nov 29: 
+- Dec 6:
+- Dec 13: No meeting (chris & terry away)
