@@ -38,6 +38,6 @@ This year's meetings:
 - Nov 8: Conflict of interest discussion
 - Nov 15: No meeting (chris away)
 - Nov 22: 
-- Nov 29: 
+- Nov 29: Quadcopter presentation - Brent
 - Dec 6:
 - Dec 13: No meeting (chris & terry away)
