@@ -27,7 +27,7 @@ model = Model(pages)
 def index():
     g.topic = 'index'
     page = pages.get('index')
-    page.teaser = Markup(page['teaser'])
+    page.teaser = page['teaser']
     page.teaser_image = page['teaser_image']
     page.videolink = Markup(youtubify(page['video'], 320))
     pubs = pages.get('publications_index')

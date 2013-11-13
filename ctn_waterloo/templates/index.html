@@ -7,7 +7,10 @@
         <img class="pull-left" src="{{ page.teaser_image }}">
           <h1 class="text-center">
             Computational Neuroscience Research Group<br>
-            <small>{{ page.teaser }}</small>
+            {%- for line in page.teaser %}
+            <small>{{ line|safe }}</small>
+            {%- if not loop.last -%}<br> {%- endif %}
+            {%- endfor %}
           </h1>
       </div>
       {{ page.html|lead_paragraph|safe }}
@@ -15,10 +18,12 @@
     <div class="span4">
       {{ page.videolink }}
       <h3><a href="{{ url_for('publications_index') }}">Recent publications</a></h3>
-      <ul class="icons-ul">{% for pub in page.publications %}
+      <ul class="icons-ul">
+        {%- for pub in page.publications %}
         <li>
           <i class="icon-li icon-file-alt"></i><a href="{{ pub.url }}">{{ pub.title }}</a>
-        </li>{% endfor %}
+        </li>
+        {%- endfor %}
       </ul>
       <h3><a href="{{ url_for('blog_index') }}">Recent blog posts</a></h3>
       <ul class="icons-ul">{% for post in page.blogposts %}
