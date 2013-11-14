@@ -1,7 +1,7 @@
 title: Introduction
 teaser:
-  - Now accepting applications for <a href="http://nengo.ca/summerschool">Nengo Summer School</a>
-  - <em>How to Build a Brain</em> just released
+  - <a href="http://nengo.ca/summerschool">Nengo Summer School</a> applications open
+  - <a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/"><em>How to Build a Brain</em></a> now available
 teaser_image: /files/htbab.jpg
 video: Y11sTKgC0Ys
 

@@ -4,14 +4,14 @@
   <div class="row">
     <div class="span8">
       <div class="hero-unit clearfix">
-        <img class="pull-left" src="{{ page.teaser_image }}">
-          <h1 class="text-center">
-            Computational Neuroscience Research Group<br>
-            {%- for line in page.teaser %}
-            <small>{{ line|safe }}</small>
-            {%- if not loop.last -%}<br> {%- endif %}
-            {%- endfor %}
-          </h1>
+        <img class="pull-left teaser-img" src="{{ page.teaser_image }}">
+        <h1 class="text-center">
+          Computational Neuroscience Research Group<br>
+          {%- for line in page.teaser %}
+          <small>{{ line|safe }}</small>
+          {%- if not loop.last -%}<br> {%- endif %}
+          {%- endfor %}
+        </h1>
       </div>
       {{ page.html|lead_paragraph|safe }}
     </div>

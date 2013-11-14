@@ -213,9 +213,6 @@ h6 {
   }
 }
 
-
-
-
 /* header-sidenav for various pages
    Inspired by http://marcua.net/writing/gradschool-guide/css/gradschool-guide.css */
 
@@ -281,6 +278,12 @@ h6 {
 .headers-sidenav .active .icon-chevron-left,
 .headers-sidenav .active a:hover .icon-chevron-left {
   opacity: 1;
+}
+
+/* index stuff */
+.teaser-img {
+  position: relative;
+  left: -20px;
 }
 
 /* publications stuff */
