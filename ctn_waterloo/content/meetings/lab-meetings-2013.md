@@ -39,5 +39,5 @@ This year's meetings:
 - Nov 15: No meeting (chris away)
 - Nov 22: 
 - Nov 29: Quadcopter presentation - Brent
-- Dec 6: Sockets, Nengo, and you! - Xuan
+- Dec 6: Sockets, Nengo, and you! - Xuan & Superparamagnetic Clustering - Aaron
 - Dec 13: No meeting (chris & terry away)
