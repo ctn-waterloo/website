@@ -2,15 +2,14 @@ title: SYDE 556 Course Outline
 
 _Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
-_Instructor_: Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), HH
-331, x32638)
+_Instructor_: Terry Stewart ([tcstewar@uwaterloo.ca](mailto:tcstewar@uwaterloo.ca), PAS 2463
 
-_Room and Time_: DWE, Mon & Wed. 11:00a-12:20p
+_Room and Time_: DWE 3519, Mon & Wed. 11:00a-12:30p
 
 _Texts_: Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
 and Dynamics in Neurobiological Systems. MIT Press.
 
-_Homepage_: http://ctnsrv.uwaterloo.ca/cnrglab/NEFcourse
+_Homepage_: http://compneuro.uwaterloo.ca/research/syde-750.html
 
 _Course Description_: This course examines a general framework for modeling
 computation by neurobiological systems with an emphasis on quantitative
@@ -19,132 +18,30 @@ representation, and dynamics in such systems. Students will learn how the
 fundamentals of signal processing, control theory and statistical inference,
 can be applied to modeling sensory, motor, and cognitive systems.
 
-_Prerequisites:_ Knowing how to program using MATLAB is highly recommended.
+_Prerequisites:_ Knowing how to program using matrices in some language (Python, MATLAB, or whatever) is highly recommended.
 Familiarity with calculus and linear algebra is required.
 
 **_Schedule_**:
 
-<table border=1 cellspacing=1 cellpadding=2>
-<tr> 
-  <td width=57 ><b>Week</b></td>
-  <td colspan=2 ><b>Reading</b></td>
-  <td  width=292><b>Topic</b></td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center">Jan
-      2</div></td>
-  <td colspan=2 > 
-    Chp 1</td>
-  <td > 
-    Introduction</td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center">&nbsp;Jan 9</div></td>
-  <td colspan=2 > 
-    Chp 2</td>
-  <td > 
-    Simple population codes</td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center"></div></td>
-  <td colspan=2 >Chp 4</td>
-  <td >LIF neurons and temporal coding</td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center">16</div></td>
-  <td colspan=2 > 
-    Chp 4 </td>
-  <td > 
-    Advanced single cell models</td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center"><br>
-  23</div></td>
-  <td colspan=2 > 
-    Chp 5<br>
-    Chp 6</td>
-  <td > 
-    Population-temporal coding 
-      (and)<br>
-        Feedforward transformations </td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center"><br>
-  30</div></td>
-  <td colspan=2 >Chp 6<br>
-    Chp 3 </td>
-  <td > 
-    Nonlinear transformations (and)<br>
-    More complex population codes </td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center">Feb 6</div></td>
-  <td colspan=2 > 
-    Chp 7</td>
-  <td > 
-    Analyzing representation and transformation</td>
-</tr>
-<tr>
-  <td ><div align="center">13</div></td>
-  <td colspan=2 >Chp 8</td>
-  <td >Dynamics/Neural control</td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center">20 </div></td>
-  <td colspan=2 > 
-    Reading week</td>
-  <td >&nbsp;</td>
-</tr>
-<tr>
-  <td > <div align="center">Feb 27</div></td>
-  <td colspan=2 >Chp 8 </td>
-  <td >Dynamics/Neural control cont. </td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center">Mar 5</div></td>
-  <td colspan=2 >Chp 9 (Mar 7 van der Meer lab: B1 282)</td>
-  <td >Statistical inference 
-  and learning</td>
-</tr>
-<tr> 
-  <td > 
-    <div align="center">12</div></td>
-  <td colspan=2 > 
-    Chp 9 </td>
-  <td ><br></td>
-</tr>
-<tr>
-  <td ><div align="center">19</div></td>
-  <td colspan=2 >Brief Project
-  Presentations</td>
-  <td >&nbsp;</td>
-</tr>
-<tr> 
-  <td >
-    <div align="center">26</div></td>
-  <td colspan=2 >Brief Project
-        Presentations</td>
-  <td >Project
-        due: Apr 21</td>
-</tr>
-<tr height=0> 
-  <td width=57></td>
-  <td width=0></td>
-  <td width=252></td>
-  <td></td>
-</tr>
+<table>
+<tr><th>Week</th><th>Reading</th><th>Monday</th><th>Wednesday</th><th>Assignments</th></tr>
+<tr><td>Jan 6, 8</td><td>Chpt 1</td><td>Introduction</td><td>Neurons</td><td></td></tr>
+<tr><td>Jan 13, 15</td><td>Chpt 2,4</td><td colspan=2>Neural Coding</td><td>#1 posted</td></tr>
+<tr><td>Jan 20, 22</td><td>Chpt 4</td><td colspan=2>Neural Models</td><td></td></tr>
+<tr><td>Jan 27, 29</td><td>Chpt 5,6</td><td colspan=2>Feedforward Transformations</td><td>#1 due (29th at dawn); #2 posted</td></tr>
+<tr><td>Feb 3, 5</td><td>Chpt 6,3</td><td colspan=2>Nonlinear Transformations</td><td></td></tr>
+<tr><td>Feb 10, 12</td><td>Chpt 7</td><td colspan=2>Analysis of Representations</td><td>#2 due (14th at dawn)</td></tr>
+<tr><td>Feb 17, 19</td><td></td><td colspan=2>*Reading Week*</td><td>#3 posted</td></tr>
+<tr><td>Feb 24, 26</td><td>Chpt 8</td><td colspan=2>Dynamics and Neural Control</td><td></td></tr>
+<tr><td>Mar 3, 5</td><td>Chpt 8</td><td colspan=2>Dynamics and Neural Control</td><td>#3 due (5th at dawn)</td></tr>
+<tr><td>Mar 10, 12</td><td>Chpt 9</td><td colspan=2>Inference and Learning</td><td>#4 posted</td></tr>
+<tr><td>Mar 17, 19</td><td></td><td colspan=2></td><td>#4 due (19th at dawn)</td></tr>
+<tr><td>Mar 24, 26</td><td></td><td colspan=2>Project Presentations</td><td></td></tr>
+<tr><td>Mar 31, Apr 2</td><td></td><td colspan=2>Project Presentations</td><td></td></tr>
 </table>
 
-**_Grading_**: The course requires the writing of a series of programming assignments (60%), and a final project (40%). Assignments are due electronically by midnight of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually.
+
+**_Grading_**: The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by _DAWN_ of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually (everyone writes their own code and answers questions themselves), but students are encouraged to work together.
 
 _Academic Integrity:_ In order to maintain a culture of academic integrity,
 members of the University of Waterloo are expected to promote honesty, trust,
@@ -164,9 +61,7 @@ http://www.adm.uwaterloo.ca/infosec/Policies/policy71.htm
 
 _Grievance_: A student who believes that a decision affecting some aspect of
 his/her university life has been unfair or unreasonable may have grounds for
-initiating a grievance. Read Policy 70 - Student
-
-Petitions and Grievances, Section 4,
+initiating a grievance. Read Policy 70 - Student Petitions and Grievances, Section 4,
 http://www.adm.uwaterloo.ca/infosec/Policies/policy70.htm
 
 _Appeals_: A student may appeal the finding and/or penalty in a decision made
