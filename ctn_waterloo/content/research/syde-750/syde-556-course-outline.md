@@ -23,7 +23,7 @@ Familiarity with calculus and linear algebra is required.
 
 **_Schedule_**:
 
-<table>
+<table style="border: 1px solid black;">
 <tr><th>Week</th><th>Reading</th><th>Monday</th><th>Wednesday</th><th>Assignments</th></tr>
 <tr><td>Jan 6, 8</td><td>Chpt 1</td><td>Introduction</td><td>Neurons</td><td></td></tr>
 <tr><td>Jan 13, 15</td><td>Chpt 2,4</td><td colspan=2>Neural Coding</td><td>#1 posted</td></tr>
@@ -56,21 +56,18 @@ seek guidance from the course professor, academic advisor, or the
 Undergraduate Associate Dean. When misconduct has been found to have occurred,
 disciplinary penalties will be imposed under Policy 71 - Student Discipline.
 For information on categories of offenses and types of penalties, students
-should refer to Policy 71 - Student Discipline,
-http://www.adm.uwaterloo.ca/infosec/Policies/policy71.htm
+should refer to [Policy 71 - Student Discipline](http://www.adm.uwaterloo.ca/infosec/Policies/policy71.htm)
 
 _Grievance_: A student who believes that a decision affecting some aspect of
 his/her university life has been unfair or unreasonable may have grounds for
-initiating a grievance. Read Policy 70 - Student Petitions and Grievances, Section 4,
-http://www.adm.uwaterloo.ca/infosec/Policies/policy70.htm
+initiating a grievance. Read [Policy 70 - Student Petitions and Grievances, Section 4](http://www.adm.uwaterloo.ca/infosec/Policies/policy70.htm)
 
 _Appeals_: A student may appeal the finding and/or penalty in a decision made
 under Policy 70 - Student Petitions and Grievances (other than regarding a
 petition) or Policy 71 - Student Discipline if a ground for an appeal can be
-established. Read Policy 72 - Student Appeals,
-http://www.adm.uwaterloo.ca/infosec/Policies/policy72.htm
+established. Read [Policy 72 - Student Appeals](http://www.adm.uwaterloo.ca/infosec/Policies/policy72.htm)
 
-_Academic Integrity Office (UW):_ http://uwaterloo.ca/academicintegrity/
+_Academic Integrity Office (UW):_ [http://uwaterloo.ca/academicintegrity/](http://uwaterloo.ca/academicintegrity/)
 
 _Accommodation for Students with Disabilities:_ The Office for Persons with
 Disabilities (OPD), located in Needles Hall, Room 1132, collaborates with all

@@ -17,14 +17,15 @@ Instructor: Terry Stewart ([Email](mailto:terry.stewart@gmail.com))
 
 Office: PAS 2463
 
-Office Hours: Monday 12:30-2:30, or by appointment
+Office Hours: Monday and Wednesday 12:30-2:30, or by appointment
 
 _Due Dates:_ 
-    - Jan 29th: Assignment #1 (due at dawn) (20%)
-    - Feb 14th: Assignment #2 (due at dawn) (20%) 
-    - Mar 5th: Assignment #3 (due at dawn) (10%)
-    - Mar 19th: Assignment #4 (due at dawn) (10%)
-    - Apr 24th: Final Project (40%)
+
+ * Jan 29th: Assignment #1 (due at dawn) (20%)
+ * Feb 14th: Assignment #2 (due at dawn) (20%) 
+ * Mar 5th: Assignment #3 (due at dawn) (10%)
+ * Mar 19th: Assignment #4 (due at dawn) (10%)
+ * Apr 24th: Final Project (40%)
 
 
 * * *
@@ -40,10 +41,10 @@ The in-class lecture notes will be posted here after each class.
 
 The four assignments will be posted here 
 
-    - Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
-    - You can (and are encouraged to) work together, but each student must write their own code and submit their own assignment.
-    - Please hand in electronic copies by mailing them to me in .pdf format. Include code, or any modified code. Please name the document like this: `<lastname>.Assignment<number>.pdf`
-    - Assignments are due _AT DAWN_.  The late penalty is one mark per day it is late.
+ * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
+ * You can (and are encouraged to) work together, but each student must write their own code and submit their own assignment.
+ * Please hand in electronic copies by mailing them to me in .pdf format. Include code, or any modified code. Please name the document like this: `<lastname>.Assignment<number>.pdf`
+ * Assignments are due _AT DAWN_.  The late penalty is one mark per day it is late.
 
 * * *
 
