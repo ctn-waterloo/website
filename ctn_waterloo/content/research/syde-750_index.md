@@ -34,6 +34,7 @@ _Due Dates:_
 
 The in-class lecture notes will be posted here after each class.
 
+ * Lecture 1: (January 6) [Introduction](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
 
 * * *
 
