@@ -41,7 +41,7 @@ def index():
 @app.route('/about.html')
 def about():
     g.topic = 'about'
-    paths = ('index', 'faq', 'history', 'press')
+    paths = ('index', 'faq', 'history', 'press', 'contact')
     sections = [pages.get(path) for path in paths]
     return render_template('about.html', sections=sections)
 
