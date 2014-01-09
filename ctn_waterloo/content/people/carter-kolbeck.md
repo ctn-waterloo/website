@@ -1,8 +1,8 @@
 name: Carter Kolbeck
 email: ckolbeck@uwaterloo.ca
 one_liner: ""
-group: Grad students
-title: Masters Student
+group: Alumnus
+title: MASc
 picture: /static/img/placeholder.png
 links:
     - text: ""
