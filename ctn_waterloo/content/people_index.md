@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Carter Kolbeck (2013 MASc)
+      url: /people/carter-kolbeck.html
     - text: Aziz Hurzook (2012 MASc)
       url: /people/aziz-hurzook.html
     - text: Yan Wu (2012 MASc)
