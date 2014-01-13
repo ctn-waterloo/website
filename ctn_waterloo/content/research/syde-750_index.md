@@ -30,6 +30,13 @@ _Due Dates:_
 
 * * *
 
+## Tutoring Services
+
+If you would like more personalized help for the assignments in this course, 
+two of the PhD students in the lab (Xuan Choo and Travis DeWolf) offer tutoring 
+services.  They can be contacted at [mailto:ctntutoring@gmail.com](mailto:ctntutoring@gmail.com)
+and they charge $20 per half hour (or $15 per person per half hour for groups).
+
 ## Lecture Notes
 
 The in-class lecture notes will be posted here after each class.
