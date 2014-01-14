@@ -17,6 +17,9 @@ software tool we use and develop for this purpose is
 summarizes much of our recent work, is now [available at
 Amazon](http://www.amazon.com/How-Build-Brain-Architecture-
 Architectures/dp/0199794545/).
+We are currently offering the
+[Nengo summer school](http://nengo.ca/summerschool)
+on how to use Nengo to build large-scale brain models.
 
 You can [download](http://nengo.ca/publications/spaunsciencepaper) our recent
 Science paper called "A large-scale model of the function brain", or any of
