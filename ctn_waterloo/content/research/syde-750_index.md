@@ -34,8 +34,8 @@ _Due Dates:_
 
 If you would like more personalized help for the assignments in this course, 
 two of the PhD students in the lab (Xuan Choo and Travis DeWolf) offer tutoring 
-services.  They can be contacted at [mailto:ctntutoring@gmail.com](mailto:ctntutoring@gmail.com)
-and they charge $20 per half hour (or $15 per person per half hour for groups).
+services.  They can be contacted at [ctntutoring@gmail.com](mailto:ctntutoring@gmail.com)
+and they charge \$20 per half hour (or \$15 per person per half hour for groups).
 
 ## Lecture Notes
 
@@ -55,6 +55,8 @@ The four assignments will be posted here
  * Please hand in electronic copies by mailing them to me in .pdf format. Include code, or any modified code. Please name the document like this: `<lastname>.Assignment<number>.pdf`
  * Assignments are due _AT DAWN_.  The late penalty is one mark per day it is late.
 
+ 
+  * Assignment 1: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%201.ipynb)
 * * *
 
 ## Project Ideas
