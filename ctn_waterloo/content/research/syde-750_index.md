@@ -55,8 +55,8 @@ The four assignments will be posted here
  * Please hand in electronic copies by mailing them to me in .pdf format. Include code, or any modified code. Please name the document like this: `<lastname>.Assignment<number>.pdf`
  * Assignments are due _AT DAWN_.  The late penalty is one mark per day it is late.
 
- 
-  * Assignment 1: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%201.ipynb)
+  * Assignment 1: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%201.ipynb) [PDF](https://github.com/tcstewar/syde556/raw/master/Assignment%201.pdf)
+  
 * * *
 
 ## Project Ideas
