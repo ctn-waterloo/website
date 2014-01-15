@@ -1,11 +1,24 @@
 title: "Lab meetings: 2014"
 year: 2014
 
-Here we will post slides/discussions/papers related to recent or upcoming lab meetings.  
+Here we will post slides/discussions/papers related to recent or upcoming lab meetings.
 Subject to change, of course.  Meetings in PAS 2464 Fridays at high noon.
 
 This year's meetings:
 
 - Jan 10: Cancelled (chris away)
 - Jan 17: Xuan on the super secret project (flying spaceships!)
-- Jan 24: 
+- Jan 24: Trevor on writing reproducible papers, by example
+- Jan 31:
+- Feb 7:
+- Feb 14:
+- Feb 21:
+- Feb 28:
+- Mar 7:
+- Mar 14:
+- Mar 21:
+- Mar 28:
+- Apr 4:
+- Apr 11:
+- Apr 18:
+- Apr 25:
