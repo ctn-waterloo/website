@@ -132,7 +132,9 @@ def people_page(slug):
 def publications_index():
     g.topic = 'publications'
     page = pages.get('publications_index')
-    page.publications = model.publications()
+    publications = model.publications()
+    page.publications = publications
+    page.types = ['All'] + sorted(list(set([pub.type for pub in publications])))
     return render_template('publications_index.html', page=page)
 
 

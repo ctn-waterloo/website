@@ -9,11 +9,21 @@
     , outerWindow: 1
   };
   var options = {
-    valueNames: [ 'title', 'authors', 'keywords', 'year' ]
+    valueNames: [ 'type', 'title', 'authors', 'keywords', 'year' ]
     , page: 50
     , plugins: [['paging', pagingOptions]]
   };
   var pubList = new List('publication-list', options);
+
+  function filterList(type) {
+    if (type == 'All') {
+      pubList.filter();
+    } else {
+      pubList.filter(function(item) {
+        return (item.values().type == type);
+        });
+    }
+  }
 </script>
 {% endblock extrajs %}
 {% block main %}
@@ -26,19 +36,29 @@
       </header>
       <div id="publication-list">
         <div class="publication-controls">
+          <ul class="nav nav-pills nav-stacked clearfix">
+            {% for type in page.types %}
+            <li{{ " class=active" if loop.first }}>
+              <a href="#" data-toggle="pill" onclick="filterList('{{ type }}')">
+                {{ type }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
           <input class="search search-query" type="text" placeholder="Search publications">
-            <ul class="nav nav-pills">
-              <li><a href="#" class="sort" data-sort="year">Sort by year</a></li>
-              <li><a href="#" class="sort" data-sort="title">Sort by title</a></li>
-            </ul>
-            <div class="pagination pagination-centered">
-              <ul class="listjs-paging"></ul>
-            </div>
+          <ul class="nav nav-pills">
+            <li><a href="#" class="sort" data-sort="year">Sort by year</a></li>
+            <li><a href="#" class="sort" data-sort="title">Sort by title</a></li>
+          </ul>
+          <div class="pagination pagination-centered">
+            <ul class="listjs-paging"></ul>
+          </div>
         </div>
         <ul class="list">
           {% for pub in page.publications -%}
           <li class="media">
             <div class="media-body">
+              <p class="type hidden">{{ pub.type }}</p>
               <strong class="title"><a href="{{ pub.url }}">
                   {{ pub.title }}
                   <small>

@@ -37,6 +37,10 @@ h6 {
   color: #731d1d;
 }
 
+.hidden {
+  display:none;
+}
+
 .well {
   background-color: #fcf5e0;
 }
@@ -342,6 +346,10 @@ h6 {
 
 #publication-list div.media-body:hover {
   background-color: #dddddd;
+}
+
+#publication-list {
+  min-height: 300px;
 }
 
 .publication-controls {
