@@ -1,8 +1,14 @@
 title: "Lab meetings: 2014"
 year: 2014
 
-Here we will post slides/discussions/papers related to recent or upcoming lab meetings.
-Subject to change, of course.  Meetings in PAS 2464 Fridays at high noon.
+Here we will post slides/discussions/papers related to recent
+or upcoming lab meetings.
+Subject to change, of course.
+
+Meetings take place in PAS 2464 Fridays at high noon.
+
+Starting January 17, Nengo development meetings
+will precede lab meetings, running from 11:30am to noon.
 
 This year's meetings:
 
