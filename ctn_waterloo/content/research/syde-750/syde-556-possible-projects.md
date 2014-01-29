@@ -8,12 +8,10 @@ Some of the topics below have specific people associated with them. For those
 that don't I will do my best to find a mentor. Also, the topics listed below
 are not exclusive, feel free to propose your own topic.
 
-The project is worth 40% of your final mark. For undergraduates only, the 556
-project can be done in groups of 2 (let me know if you are going to work in a
-group). People in 556 can do a either an "extension project" or a "research
-project", those in 750 must do a "research project."
+The project is worth 40% of your final mark. People in 556 can do a either an 
+"extension project" or a "research project", those in 750 must do a "research project."
 
-## Extension Projects
+## Example Extension Projects
 
 1. Eye control (NPH): 2D vector control instead of the 1D control described in the book. Even better, 3D (i.e. pitch, yaw, rotation).
 2. Statistical inference: more compex distributions, multiple steps in inference, temporal inference for slowly changing statistics, higher-dimensional representations.
@@ -21,7 +19,7 @@ project", those in 750 must do a "research project."
 4. Lamprey swimming: The model of lamprey swimming in the textbook could be extended in two ways: 1) make the model 3-dimensional; 2) include control signals for yaw, roll, and pitch.
 5. Working memory: The model of working memory in the text is for parietal areas. A similar model could be construct for frontal working memory. More sophisticated representations than that used here could be implemented in a similar model. For instance, ramping function representation (i.e. function representations with temporal dynamics), or just higher-d functions than are used in the book.
 
-## Research Projects
+## Example Research Projects
 
 1. (Pieter Medendorp, was at [Doug Crawford's lab](http://www.yorku.ca/jdc/)): Developing a simulation of how visual information is updated for eye and head motion, including how perceptual representations are transformed. Pieter and others have derived a simple set of differential equations to describe this updating. However, they do not have a neural level model of the circuit.
 2. ([James Danckert](http://watarts.uwaterloo.ca/~jdancker/)): James' research focusses on parietal control of movement and lesions to these areas (resulting in hemineglect, for instance). Here are some questions he is interested in: How does the right inferior parietal cortex contribute to the spatial control of movements of either limb and how do left and right parietal cortices interact in movement control? Given that superior parietal lesions lead to unilateral motor deficits how do the right inferior and superior parietal regions communicate? Can modeling help disentangle the functional contributions of the superior temporal gyrus and inferior parietal cortex? Where in the brain is prism adaptation having its primary effect?
