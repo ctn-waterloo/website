@@ -57,6 +57,8 @@ The four assignments will be posted here
  * Assignments are due _AT DAWN_.  The late penalty is one mark per day it is late.
 
   * Assignment 1: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%201.ipynb) [PDF](https://github.com/tcstewar/syde556/raw/master/Assignment%201.pdf)
+  * Assignment 2: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%202.ipynb) [PDF](https://github.com/tcstewar/syde556/raw/master/Assignment%202.pdf)
+
   
 * * *
 
