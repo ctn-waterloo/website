@@ -18,7 +18,7 @@ This year's meetings:
 - Jan 31:
 - Feb 7:
 - Feb 14:
-- Feb 21:
+- Feb 21: Daniel on hierarchical reinforcement learning model
 - Feb 28:
 - Mar 7:
 - Mar 14:
