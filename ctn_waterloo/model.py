@@ -9,7 +9,7 @@ from .filters import get_headings, lead_paragraph, nice_date, slugify, youtubify
 
 TYPE_TEXT = {
     'techreport': 'CTN Tech Report',
-    'inbook': 'Book Chapter',
+    'incollection': 'Book Chapter',
     'inproceedings': 'Conference Proceedings',
     'proceedings': 'Conference Proceedings',
     'book': 'Book',
