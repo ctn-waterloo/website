@@ -15,9 +15,9 @@ This year's meetings:
 - Jan 10: Cancelled (chris away)
 - Jan 17: Xuan on the super secret project (flying spaceships!)
 - Jan 24: Trevor on writing reproducible papers, by example
-- Jan 31:
-- Feb 7:
-- Feb 14:
+- Jan 31: Roundtable
+- Feb 7: Cogsci Results
+- Feb 14: Roundtable
 - Feb 21: Daniel on hierarchical reinforcement learning model
 - Feb 28:
 - Mar 7:
