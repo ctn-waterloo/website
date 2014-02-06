@@ -19,7 +19,7 @@ This year's meetings:
 - Feb 7: Cogsci Results
 - Feb 14: Roundtable
 - Feb 21: Daniel on hierarchical reinforcement learning model
-- Feb 28:
+- Feb 28: Cancelled (NEF chip meeting)
 - Mar 7:
 - Mar 14:
 - Mar 21:
