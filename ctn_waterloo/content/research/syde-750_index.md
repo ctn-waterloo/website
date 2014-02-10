@@ -22,7 +22,7 @@ Office Hours: Monday and Wednesday 12:30-2:30, or by appointment
 _Due Dates:_ 
 
  * Jan 29th: Assignment #1 (due at dawn) (20%)
- * Feb 14th: Assignment #2 (due at dawn) (20%) 
+ * Feb 17th: Assignment #2 (due at dawn) (20%) 
  * Mar 5th: Assignment #3 (due at dawn) (10%)
  * Mar 19th: Assignment #4 (due at dawn) (10%)
  * Apr 24th: Final Project (40%)
@@ -46,7 +46,7 @@ The in-class lecture notes will be posted here after each class.
  * Week 3: (January 20, 22) [Temporal Representation](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
  * Week 4: (January 27) [Transformation](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb) (January 29) [Final Projects](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Final%20Projects.ipynb)
 * Week 5: (February 3) [Nengo Tutorial](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Nengo%20Tutorial.ipynb)
- 
+ (February 5, 10) [Dynamics](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
 * * *
 
 ##  Assignments
