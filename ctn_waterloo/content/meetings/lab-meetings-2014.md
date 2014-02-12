@@ -17,7 +17,7 @@ This year's meetings:
 - Jan 24: Trevor on writing reproducible papers, by example
 - Jan 31: Roundtable
 - Feb 7: Cogsci Results
-- Feb 14: Roundtable
+- Feb 14: Travis with IARPA practice
 - Feb 21: Daniel on hierarchical reinforcement learning model
 - Feb 28: Cancelled (NEF chip meeting)
 - Mar 7:
