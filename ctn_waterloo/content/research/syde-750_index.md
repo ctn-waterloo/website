@@ -23,7 +23,7 @@ _Due Dates:_
 
  * Jan 29th: Assignment #1 (due at dawn) (20%)
  * Feb 17th: Assignment #2 (due at dawn) (20%) 
- * Mar 5th: Assignment #3 (due at dawn) (10%)
+ * Mar 10th: Assignment #3 (due at dawn) (10%)
  * Mar 19th: Assignment #4 (due at dawn) (10%)
  * Apr 24th: Final Project (40%)
 
@@ -47,6 +47,8 @@ The in-class lecture notes will be posted here after each class.
  * Week 4: (January 27) [Transformation](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb) (January 29) [Final Projects](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Final%20Projects.ipynb)
 * Week 5: (February 3) [Nengo Tutorial](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Nengo%20Tutorial.ipynb)
  (February 5, 10) [Dynamics](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
+* Week 6 (February 12) [Decoder Analysis](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
+* Week 7 (February 24) [Action Selection](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%207%20Action%20Selection.ipynb)
 * * *
 
 ##  Assignments
@@ -60,7 +62,7 @@ The four assignments will be posted here
 
   * Assignment 1: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%201.ipynb) [PDF](https://github.com/tcstewar/syde556/raw/master/Assignment%201.pdf)
   * Assignment 2: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%202.ipynb) [PDF](https://github.com/tcstewar/syde556/raw/master/Assignment%202.pdf)
-
+  * Assignment 3: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%203.ipynb)
   
 * * *
 
