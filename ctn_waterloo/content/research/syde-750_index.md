@@ -23,7 +23,7 @@ _Due Dates:_
 
  * Jan 29th: Assignment #1 (due at dawn) (20%)
  * Feb 17th: Assignment #2 (due at dawn) (20%) 
- * Mar 10th: Assignment #3 (due at dawn) (10%)
+ * Mar 11th: Assignment #3 (due at dawn) (10%)
  * Mar 19th: Assignment #4 (due at dawn) (10%)
  * Apr 24th: Final Project (40%)
 
