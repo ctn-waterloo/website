@@ -1,10 +1,10 @@
 {% extends "base.html" %}
 
 {% block title %} | People {% endblock title %}
-
+{% block bodytags %} data-spy="scroll" data-target=".headers-sidenav"{% endblock bodytags %}
 {% block main %}
   <div class="row">
-    <div class="offset2 span8">
+    <div class="offset1 span8">
       <div class="research-unit clearfix">
         <header>
           <img class="pull-right" src="{{ person.picture }}" width="200">
@@ -24,52 +24,61 @@
           </ul>
         </header>
       </div>
-      <div class="accordion" id="person">
-        <div class="accordion-group">
-          <div class="accordion-heading">
-            <a class="accordion-toggle" data-toggle="collapse" data-parent="#person" href="#biography">
-              <h2>About me</h2>
-            </a>
-          </div>
-          <div id="biography" class="accordion-body collapse in">
-            <div class="accordion-inner">
-              {{ person }}
-            </div>
-          </div>
-        </div>{% if person.publications %}
-        <div class="accordion-group">
-          <div class="accordion-heading">
-            <a class="accordion-toggle" data-toggle="collapse" data-parent="#person" href="#publications">
-              <h2>Publications</h2>
-            </a>
-          </div>
-          <div id="publications" class="accordion-body collapse">
-            <div class="accordion-inner">
-              <ul class="icons-ul">{% for pub in person.publications %}
-                <li>
-                  <i class="icon-li icon-file-alt"></i><a href="{{ pub.url }}">{{ pub.title }}</a>
-                </li>{% endfor %}
-              </ul>
-            </div>
-          </div>
-        </div>{% endif %}{% if person.blogposts %}
-        <div class="accordion-group">
-          <div class="accordion-heading">
-            <a class="accordion-toggle" data-toggle="collapse" data-parent="#person" href="#blogposts">
-              <h2>Blog Posts</h2>
-            </a>
-          </div>
-          <div id="blogposts" class="accordion-body collapse">
-            <div class="accordion-inner">
-              <ul class="icons-ul">{% for post in person.blogposts %}
-                <li>
-                  <i class="icon-li icon-comment"></i><a href="{{ post.url }}">{{ post.title }}</a>
-                </li>{% endfor %}
-              </ul>
-            </div>
-          </div>
-        </div>{% endif %}
-      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="offset1 span7">
+      <a class="anchor" id="about-me"></a>
+      {{ person }}
+      {% if person.publications -%}
+      <a class="anchor" id="publications"></a>
+      <h2>Publications</h2>
+      <ul class="icons-ul">
+        {% for pub in person.publications -%}
+        <li>
+          <i class="icon-li icon-file-alt"></i><a href="{{ pub.url }}">{{ pub.title }}</a>
+        </li>
+        {%- endfor %}
+      </ul>
+      {% endif -%}
+      {%- if person.blogposts -%}
+      <a class="anchor" id="blog-posts"></a>
+      <h2>Blog Posts</h2>
+      <ul class="icons-ul">
+        {% for post in person.blogposts -%}
+        <li>
+          <i class="icon-li icon-comment"></i><a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {%- endfor %}
+      </ul>
+      {%- endif %}
+    </div>
+    <div class="offset1 span2">
+      <nav>
+        <div class="headers-sidenav">
+          <ul class="nav nav-tabs nav-stacked">
+            <li>
+              <a href="#about-me">
+                <i class="icon-chevron-left"></i> About me
+              </a>
+            </li>
+            {% if person.publications -%}
+            <li>
+              <a href="#publications">
+                <i class="icon-chevron-left"></i> Publications
+              </a>
+            </li>
+            {%- endif -%}
+            {%- if person.blogposts -%}
+            <li>
+              <a href="#blog-posts">
+                <i class="icon-chevron-left"></i> Blog Posts
+              </a>
+            </li>
+            {%- endif %}
+          </ul>
+        </div>
+      </nav>
     </div>
   </div>
 {% endblock main %}

@@ -465,6 +465,7 @@ h6 {
   line-height: 1;
   color: inherit;
   letter-spacing: -1px;
+  text-align: center;
 }
 
 .research-unit .lead {
@@ -480,4 +481,15 @@ ol.nested {
 li.nested:before {
   counter-increment: section;
   content: counters(section, ".") ". ";
+}
+
+/* People index stuff */
+.person-thumbnail {
+  display: table;
+}
+
+.person-thumbnail > .thumbnail {
+  height: 320px;
+  display: table-cell;
+  vertical-align: middle;
 }

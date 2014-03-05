@@ -47,13 +47,13 @@
                   <i class="icon-chevron-left"></i> {{ page.title }}
                 </a>
               </li>
-              {% for heading in page.headings %}
-                <li>
-                  <a href="#{{ heading|slugify }}">
-                    <i class="icon-chevron-left"></i> {{ heading }}
-                  </a>
-                </li>
-              {% endfor %}
+              {% for heading in page.headings -%}
+              <li>
+                <a href="#{{ heading|slugify }}">
+                  <i class="icon-chevron-left"></i> {{ heading }}
+                </a>
+              </li>
+              {%- endfor %}
             </ul>
           </div>
         </nav>
