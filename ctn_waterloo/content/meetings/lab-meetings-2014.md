@@ -19,9 +19,9 @@ This year's meetings:
 - Feb 7: Cogsci Results
 - Feb 14: Travis with IARPA practice
 - Feb 21: Daniel on hierarchical reinforcement learning model
-- Feb 28: Cancelled (NEF chip meeting)
-- Mar 7:
-- Mar 14:
+- Feb 28: Terry on Nengo GUI and roundtable
+- Mar 7: Dan and Travis on recent trips
+- Mar 14: Trevor on speech recognition and synthesis
 - Mar 21:
 - Mar 28:
 - Apr 4:
