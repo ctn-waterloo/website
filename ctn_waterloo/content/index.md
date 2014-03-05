@@ -1,7 +1,7 @@
 title: Introduction
 teaser:
   - <a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/"><em>How to Build a Brain</em></a> now available
-teaser_image: /files/htbab.jpg
+teaser_image: http://compneuro.uwaterloo.ca/files/htbab.jpg
 video: Y11sTKgC0Ys
 
 Welcome to the Computational Neuroscience Research Group (CNRG) site. We are

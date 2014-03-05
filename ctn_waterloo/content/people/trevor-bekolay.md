@@ -3,8 +3,8 @@ email: tbekolay@gmail.com
 one_liner: Learning and audition
 group: Grad students
 title: PhD Student
-picture: /files/people/trevor-bekolay.jpg
-links: 
+picture: http://compneuro.uwaterloo.ca/files/people/trevor-bekolay.jpg
+links:
     - text: CV (July 2013)
       url: /files/people/bekolay-cv.pdf
     - text: Github

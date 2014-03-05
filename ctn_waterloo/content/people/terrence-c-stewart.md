@@ -3,7 +3,7 @@ email: terry.stewart@gmail.com
 one_liner: Cognitive architectures and the Basal Ganglia
 group: Postdocs
 title: Postdoc
-picture: /files/people/TerryStewart.png
+picture: http://compneuro.uwaterloo.ca/files/people/TerryStewart.png
 links:
     - text: ResearchGate
       url: http://www.researchgate.net/profile/Terrence_Stewart/
