@@ -493,3 +493,8 @@ li.nested:before {
   display: table-cell;
   vertical-align: middle;
 }
+
+img.thumbsize {
+  max-height: 280px;
+  max-width: 160px;
+}
