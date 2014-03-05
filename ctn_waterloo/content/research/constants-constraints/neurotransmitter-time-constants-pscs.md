@@ -11,11 +11,12 @@ focusing on rise times and time constants of decay.
 ## Summary
 
 ![Graph of postsynaptic current rise times for various neurotransmitter
-receptors](?q=system/files/rise.png)
+receptors](http://compneuro.uwaterloo.ca/files/constants-constraints/rise.png)
 
 ![Graph of postsynaptic current decay time constants for various
-neurotransmitter receptors](?q=system/files/decay.png) Biexponential values
-(τfast and τslow) are plotted as a [weighted geometric
+neurotransmitter receptors](http://compneuro.uwaterloo.ca/files/constants-constraints/decay.png)
+
+Biexponential values ($\tau_\text{fast}$ and $\tau_\text{slow}$) are plotted as a [weighted geometric
 mean](http://en.wikipedia.org/wiki/Weighted_geometric_mean).
 
 Rise
