@@ -57,12 +57,12 @@ class AddAnchorsTreeprocessor(markdown.treeprocessors.Treeprocessor):
 
     def run(self, doc):
         toadd = []
-        for ix, elem in enumerate(doc.getiterator()):
+        for elem in doc.getchildren():
             if elem.tag in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
                 id = slugify(''.join(itertext(elem)))
                 anchor = markdown.util.etree.Element(
                     'a', {'class': 'anchor', 'id': unique(id, self.IDs)})
-                toadd.append((ix - 1, anchor))
+                toadd.append((doc.getchildren().index(elem), anchor))
 
         # Go in reverse because inserting will mess up indices
         for ix, anchor in reversed(toadd):

@@ -498,3 +498,11 @@ img.thumbsize {
   max-height: 280px;
   max-width: 160px;
 }
+#psc-table tbody td, #psc-table thead th {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+#psc-table tbody td { border-right: 1px solid #222; }
+#psc-table tbody tr td:last-child { border-right: none; }
+#psc-table tbody th { text-align: center; background: #FFF6DD; }
+#psc-table tbody tr:nth-child(even) { background-color: #DDD; }
