@@ -13,8 +13,16 @@
         </div>
       </header>
       {{ page }}
-      <hr>
+    </div>
+  </div>
+  <div class="row">
+    <div class="offset1 span8">
       <h2>More information</h2>
+    </div>
+    <div class="span1">{{ github(page) }}</div>
+  </div>
+  <div class="row">
+    <div class=offset1 span9">
       <ol class="nested">{% for toc_entry in page.toc recursive %}{% if toc_entry is not mapping %}
         <li><ol class="nested">{{ loop(toc_entry) }}
         </ol></li>{% else %}

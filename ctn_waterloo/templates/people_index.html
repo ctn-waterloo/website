@@ -29,9 +29,10 @@
       <hr>
       <a class="anchor" id="past-members"></a>
       <section>
-        <header>
-          <h2>Past members</h2>
-        </header>
+        <header><div class="row">
+          <div class="span6"><h2>Past members</h2></div>
+          <div class="span1">{{ github(page) }}</div>
+        </div></header>
         <ul class="icons-ul">
           {%- for alumnus in page.alumni %}
           <li>

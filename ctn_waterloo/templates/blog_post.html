@@ -7,9 +7,16 @@
     <div class="offset1 span7">
       <article>
         <header>
-          <div class="page-header">
-            <h1>{{ post.title }}{% if post.subtitle %} <small>{{ post.subtitle }}</small>{% endif %}</h1>
-            <p><small>Posted by {{ post.authorlink }} on {{ post.date|nice_date }}</small></p>
+          <div class="page-header row">
+            <div class="span6">
+              <h1>{{ post.title }}
+                {% if post.subtitle %}
+                <small>{{ post.subtitle }}</small>
+                {% endif %}
+              </h1>
+              <p><small>Posted by {{ post.authorlink }} on {{ post.date|nice_date }}</small></p>
+            </div>
+            <div class="span1">{{ github(post) }}</div>
           </div>
         </header>
         {{ post }}
