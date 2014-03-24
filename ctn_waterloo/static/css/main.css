@@ -41,6 +41,10 @@ h6 {
   display:none;
 }
 
+.float-right {
+  float:right;
+}
+
 .well {
   background-color: #fcf5e0;
 }
