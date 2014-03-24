@@ -45,6 +45,21 @@ h6 {
   background-color: #fcf5e0;
 }
 
+.edit-link {
+  position: relative;
+  top: 21px;
+  font-size: 18px;
+}
+
+.rightcol-link {
+  display: block;
+  text-align: center;
+}
+
+.edit-link:hover, .edit-link:visited, .edit-link:link, .edit-link:active {
+  text-decoration: none;
+}
+
 .two-column {
   column-count: 2;
   column-gap: 20px;

@@ -9,9 +9,11 @@
         <header>
           <a class="anchor" id="{{ page.title|slugify }}"></a>
           <div class="page-header row">
-            <div class="span6"><h2>
-              {{ page.title}}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}
-            </h2></div>
+            <div class="span6">
+              <h2>
+                {{ page.title}}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}
+              </h2>
+            </div>
             <div class="span1">{{ github(page) }}</div>
           </div>
         </header>
