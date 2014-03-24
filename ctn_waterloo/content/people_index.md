@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Connor Smith (2013 UGrad Tron)
+      url: /people/connor-smith.html
     - text: Carter Kolbeck (2013 MASc)
       url: /people/carter-kolbeck.html
     - text: Aziz Hurzook (2012 MASc)
