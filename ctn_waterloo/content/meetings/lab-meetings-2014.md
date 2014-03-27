@@ -22,8 +22,8 @@ This year's meetings:
 - Feb 28: Terry on Nengo GUI and roundtable
 - Mar 7: Dan and Travis on recent trips
 - Mar 14: Trevor on speech recognition and synthesis
-- Mar 21:
-- Mar 28:
+- Mar 21: Discussion of Chris's predictions
+- Mar 28: 
 - Apr 4:
 - Apr 11:
 - Apr 18:
