@@ -49,6 +49,9 @@ The in-class lecture notes will be posted here after each class.
  (February 5, 10) [Dynamics](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
 * Week 6 (February 12) [Decoder Analysis](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
 * Week 7 (February 24) [Action Selection](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%207%20Action%20Selection.ipynb)
+* Week 8 [Symbols](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%208%20Symbols.ipynb)
+* Week 9 [Spatial Representation](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%209%20Spatial%20Representation.ipynb)
+* Week 10 [Learning](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
 * * *
 
 ##  Assignments
