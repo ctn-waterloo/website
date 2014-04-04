@@ -23,8 +23,8 @@ This year's meetings:
 - Mar 7: Dan and Travis on recent trips
 - Mar 14: Trevor on speech recognition and synthesis
 - Mar 21: Discussion of Chris's predictions
-- Mar 28: 
-- Apr 4:
+- Mar 28: Cancelled (Standford/Cornell visitors)
+- Apr 4: Roundtable
 - Apr 11:
 - Apr 18:
 - Apr 25:
