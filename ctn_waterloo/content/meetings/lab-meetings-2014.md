@@ -25,6 +25,6 @@ This year's meetings:
 - Mar 21: Discussion of Chris's predictions
 - Mar 28: Cancelled (Standford/Cornell visitors)
 - Apr 4: Roundtable
-- Apr 11:
+- Apr 11: Brain Day discussion
 - Apr 18:
 - Apr 25:
