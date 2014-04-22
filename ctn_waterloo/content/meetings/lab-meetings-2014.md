@@ -26,5 +26,7 @@ This year's meetings:
 - Mar 28: Cancelled (Standford/Cornell visitors)
 - Apr 4: Roundtable
 - Apr 11: Brain Day discussion
-- Apr 18:
-- Apr 25:
+- Apr 18: No meeting (Chris away)
+- Apr 25: 
+- 
+- Jul 4: Lisanne presentation (hippocampus model)
