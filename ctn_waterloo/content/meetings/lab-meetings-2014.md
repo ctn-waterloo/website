@@ -27,7 +27,7 @@ This year's meetings:
 - Apr 4: Roundtable
 - Apr 11: Brain Day discussion
 - Apr 18: No meeting (Chris away)
-- Apr 25: TBD
+- Apr 25: Jan on n-back task
 - May 2: Yousef on eye control
 - May 9: Aaron on associatve mem and cognitive control
 - May 16: 
