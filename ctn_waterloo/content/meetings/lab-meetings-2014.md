@@ -27,6 +27,9 @@ This year's meetings:
 - Apr 4: Roundtable
 - Apr 11: Brain Day discussion
 - Apr 18: No meeting (Chris away)
-- Apr 25: 
-- 
+- Apr 25: TBD
+- May 2: Yousef on eye control
+- May 9: Aaron on associatve mem and cognitive control
+- May 16: 
+- May 23: 
 - Jul 4: Lisanne presentation (hippocampus model)
