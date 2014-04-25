@@ -15,99 +15,72 @@ for individual pyramidal cell types.  - Structural Summary - Connections -
 Spike Thresholds - Dendritic Summation -  Coincidence Detection - Definitions
 and Short Forms
 
-## Structural Summary (Megias et al.,2001) (Spruston, 2008) (Marenco et al,
-2009)
+## Structural Summary (Megias et al.,2001) (Spruston, 2008) (Marenco et al, 2009)
 
 - All pyramidal cells contain the same basic structure. They are composed of a pyramidal shaped cell body, and a single, heavily branching axon projecting from the base. - The dendrites of a pyramidal neuron can be divided into two domains: basal and apical. - The basal dendritic tree is composed of 3-5 primary dendrites. Each of these divides to form branches of progressively thinning length. - The apical tree, which also splits several times, ends in a largely branched section known as the apical tuft. - The dendrites of pyramidal cells are covered with tiny branches known as dendritic spines. As one moves distal to the soma, the number of spines increases. These spines increase the surface area, and are believed to be where the majority of synapses arrive at the dendrites. - From a modeling perspective, both basal and apical branches contain proximal, medial, and distal compartments. These can be viewed as individual computational subunits. In addition, CA1 pyramidal neurons contain oblique medial and oblique distal branches, which arise from the medial apical and medial distal dendrites respectively.
 
 ## Input Connections (Spruston,2008)
 
 - **Layer II/III and V**
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Proximal Apical and
+   - Proximal Apical and
 Basal Dendrites: Layer IV and local circuits
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Apical Tuft:
+   - Apical Tuft:
 Cortical and Thalamic areas - **CA1**
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Proximal Apical and
+   - Proximal Apical and
 Basal Dendrites: CA3
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Apical Tuft:
+   - Apical Tuft:
 Entorhinal cortex and thalamic nucleus reuniens
 
 ## Resting Membrane Potentials
 
 - **CA1 Pyramidal Cell**(Gasparini et al., 2004)
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Soma: ~ -65±1mV
+   - Soma: ~ -65±1mV
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Dendrites: ~ -66mV
+   - Dendrites: ~ -66mV
 
 ## Spiking
 
 - **CA1 Pyramidal Cell**(Gasparini et al., 2004)
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Soma Threshold:
--56±1 mV
+   - Soma Threshold: -56±1 mV
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Dendrite Threshold:
--48±1 mV
+   - Dendrite Threshold: -48±1 mV
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_
-place_holder;&nbsp_place_holder;-Current Required: ≥3nA
+   -Current Required: ≥3nA
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_
-place_holder;&nbsp_place_holder;-Spike Amplitude: 67±1 mV
+   -Spike Amplitude: 67±1 mV
 
 ## Dendritic Summation
 
 **Cortical Pyramidal Cells**(Polsky et al., 2004)
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Between branches:
+   - Between branches:
 linear summation of inputs
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Within a dendritic
+   - Within a dendritic
 branch: Sigmoidal summation of inputs
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Weak
-stimulus: linear summation
+   - Weak stimulus: linear summation
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;-
-Intermediate stimulus: superlinear summation
+   - Intermediate stimulus: superlinear summation
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;-
-Strong stimulus: sublinear summation
+   - Strong stimulus: sublinear summation
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Threshold
-Potential:- single pulse 5.3±1.7mV -> 185±60% amplification
+   - Threshold Potential:- single pulse 5.3±1.7mV -> 185±60% amplification
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_
-place_holder;&nbsp_place_holder; - paired pulse: 3.3 ± 0.6mV -> 263±104%
-amplification
+       - paired pulse: 3.3 ± 0.6mV -> 263±104% amplification
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Maximum paired
+   - Maximum paired
 pulse distance for superlinear summation: 40µm
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;- Possible
+   - Possible
 superlinear summation distances: Between 45 and 80µm
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;-
+    -
 Required combined depolarization: 6.9 ±2.4 mV
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;-
+-
 Leads to an EPSP that is 1.28±0.16 times as strong as the expected linear
 response.
 
@@ -115,31 +88,18 @@ response.
 
 - **Two Layer Neural Network (Poirazi et al., 2003)**: A pyramidal neuron can be simplified to a two layer network, where the first layer is composed of dendritic subunits capable of spiking, and the second layer is the soma, acting as an integrating center. The firing rate is then characterized by the equation:
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;g(x) =
-0.96x/(1+1509e^-0.26x) where x = Σαis(ni)
+g(x) = 0.96x/(1+1509e^-0.26x) where x = Σαis(ni)
 
-
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder; ni - net number of excitatory synapses
+ ni - net number of excitatory synapses
 driving the ith subunit
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder; αi - weight of the ith subunit
+αi - weight of the ith subunit
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;s(n) - subunit response
+s(n) - subunit response
 function, best characterized by the sigmoid function:
 
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_
-place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_pl
-ace_holder;&nbsp_place_holder; s(n) = (1/(1+e^((3.6-n)/2)) + 0.30n +0.0114n^2
+s(n) = (1/(1+e^((3.6-n)/2)) + 0.30n +0.0114n^2
+
 - **Two Layer Model **(Mel, 2007): Similar to the two layer neural network,
 this model treats pyramidal neurons as cells composed of two layers. The first
 layer is composed of many individual subunits (the dendrites), in which a set
@@ -169,21 +129,17 @@ activated, and the distance between them is less than D/2, then they are
 considered to be in the same subunit, and a multiplicative interaction occurs
 between the two of them. In particular, consider an input xj with a region of
 Dj surrounding it.
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;xj
+
+xj
 
 --------------------------------------------------------O
 |--Dj--| On its own, the response of the region Dj would be aj = wjxj, where
 wj is the weight of the synapse. Now, consider another region Di, with 3
 inputs
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;xj
-&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&n
-bsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbs
-p_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_
-place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;xi -O
+xj
+xi -O
 
-|--Dj--| &nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_
-holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_holder;&nbsp_place_ho
-lder;|--Di--| If the inputs from Di are separated from the input xj by a
+|--Dj--| |--Di--| If the inputs from Di are separated from the input xj by a
 distance of less than Dj/2, then the inputs are considered to be a part of the
 same subunit, and a multiplicative interaction occurs between the two of them.
 In particular, the response of subunit j is now aj = wjxj(Σi∈Dj wixi) where w

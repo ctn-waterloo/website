@@ -31,7 +31,7 @@ Relying on these four principles for understanding the information processing
 characteristics of neurobiological systems has lead us to develop the
 following methodology for constructing simulations of neural systems.
 
-**Step 1**:&nbsp_place_holder;System description
+**Step 1**: System description
 
 The main goal of the first step is to describe the neural system of interest
 in such a way that the principles outlined previously are directly applicable

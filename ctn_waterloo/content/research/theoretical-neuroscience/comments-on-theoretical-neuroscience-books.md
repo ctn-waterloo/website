@@ -8,10 +8,10 @@ title: Comments on Theoretical Neuroscience Books
   6. Arbib, M. A. (ed.) (1995). _The handbook of brain theory and neural networks_. MIT Press.
   7. Kandel, E. R., J. H. Schwartz, and T. M. Jessell (eds.) (1991). _Principles of neural science_. Third Edition. Elsevier.
 
-## 1.&nbsp_place_holder;&nbsp_place_holder;Spikes: Exploring the neural
+## 1.  Spikes: Exploring the neural
 code_._
 
-### 1.1&nbsp_place_holder;&nbsp_place_holder;Overview
+### 1.1  Overview
 
 This book is the ninth in the computational neuroscience series put out by MIT
 Press and edited by T. J. Sejnowski and T. A. Poggio. The first book in the
@@ -32,7 +32,7 @@ needed to understand their analysis.
 Of less interest to us, another major focus of the book is on issues of
 hyperacuity and discriminability.
 
-### 1.2&nbsp_place_holder;&nbsp_place_holder;Strengths and Weaknesses
+### 1.2  Strengths and Weaknesses
 
 The greatest strength of this book is that is provides an excellent collection
 of empirical results and related theoretical discussions regarding the nature
@@ -45,10 +45,10 @@ An additional strength is the many mathematical appendices provided for those
 wishing to get an in-depth look at the methods, assumptions, and tools used
 for generating the results discussed in the main text.
 
-## 2.&nbsp_place_holder;&nbsp_place_holder;Spikes, decisions, and actions:
+## 2.  Spikes, decisions, and actions:
 Dynamical foundations of neuroscience
 
-### 2.1&nbsp_place_holder;&nbsp_place_holder;Overview
+### 2.1  Overview
 
 Spikes, decisions, and actions is an excellent introduction to low level
 single cell modeling. Hugh Wilson provides the necessary mathematical and
@@ -69,7 +69,7 @@ Of less interest to us, he also discusses bursting cells, central pattern
 generators and other synchrony-related issues currently of interest to many
 modelers.
 
-### 2.2&nbsp_place_holder;&nbsp_place_holder;Strengths and Weaknesses
+### 2.2  Strengths and Weaknesses
 
 The greatest strength of the book is its clear explanation of all the
 necessary concepts, both mathematical and neuroscientific, from nearly first
@@ -83,10 +83,10 @@ exposition of the methods of reduction from high dimensional single cell
 models is most useful. Nowhere else have we found such a good summary of the
 literature in this area.
 
-## 3.&nbsp_place_holder;&nbsp_place_holder;The book of Genesis: Exploring
+## 3.  The book of Genesis: Exploring
 realistic neural models with the GEneral NEural SImulation System
 
-### 3.1&nbsp_place_holder;&nbsp_place_holder;Overview
+### 3.1  Overview
 
 GENESIS is a well-known, standard neural simulation package available for
 free. This book is a collection of chapters that act as tutorials in the use
@@ -103,7 +103,7 @@ is spent discussing single cell models, and methods for making them more
 realistic. Nevertheless, the simulation tool itself can be used to model
 networks of cells as well.
 
-### 3.2&nbsp_place_holder;&nbsp_place_holder;Strengths and Weaknesses
+### 3.2  Strengths and Weaknesses
 
 The book provides a an excellent introduction to well-known models in
 neuroscience. In particular, the chapters on the Hodgkin-Huxley model,
@@ -119,10 +119,10 @@ single neuronal cells. This kind of background is very important to have in
 order to communicate effectively with more biologically oriented computational
 neuroscientists.
 
-## 4.&nbsp_place_holder;&nbsp_place_holder;Biophysics of computation:
+## 4.  Biophysics of computation:
 Information processing in single neurons
 
-### 4.1&nbsp_place_holder;&nbsp_place_holder;Overview
+### 4.1  Overview
 
 This book from Christof Koch, a well-respected leader in the field, is a
 heroic effort to cover most of the topics in single-cell computational
@@ -140,7 +140,7 @@ we see Koch's book as an invaluable tool for determining what is important to
 know about the single neurons that comprise the larger systems that produce
 the vast variety of animal behavior.
 
-### 4.2&nbsp_place_holder;&nbsp_place_holder;Strengths and Weaknesses
+### 4.2  Strengths and Weaknesses
 
 We have yet to find a book that covers so many different topics of interest to
 computational neuroscientists. Unfortunately, many of the discussions are so
@@ -151,10 +151,10 @@ Seldom are so many of the important issues brought together in a single
 volume. For those wanting to know what computational neuroscientists are
 interested regarding single cells, this book is an unmatched resource.
 
-## 5.&nbsp_place_holder;&nbsp_place_holder;Methods in neuronal modeling: From
+## 5.  Methods in neuronal modeling: From
 synapses to networks
 
-### 5.1&nbsp_place_holder;&nbsp_place_holder;Overview
+### 5.1  Overview
 
 This book is a classic in computational neuroscience. Even though it was
 published decades ago, many of the articles in the collection are cited by
@@ -171,7 +171,7 @@ chapters (which focus on the behavior of single neurons). Such subjects as the
 cable equations, nonlinear systems analysis, and compartmental modeling are
 addressed.
 
-### 5.2&nbsp_place_holder;&nbsp_place_holder;Strengths and Weaknesses
+### 5.2  Strengths and Weaknesses
 
 The main strength of this book is that it is a collection of now classic
 papers in many of the areas of computational neuroscience. Thus, it provides
@@ -179,10 +179,10 @@ good background reading for a number of subjects still central to the
 discipline. The main weakness, from our point of view, is the lack of articles
 on theoretical analysis of systems level networks.
 
-## 6.&nbsp_place_holder;&nbsp_place_holder;The handbook of brain theory and
+## 6.  The handbook of brain theory and
 neural networks
 
-### 6.1&nbsp_place_holder;&nbsp_place_holder;Overview
+### 6.1  Overview
 
 This collection of well over 200 articles is a massive tome that provides
 unmatched coverage of connectionism, computational neuroscience, and
@@ -195,7 +195,7 @@ neuroanatomy, single cell modeling, neural development, and plasticity.
 However, even these sections are more focused on analysis and simulation, than
 on facts about the brain.
 
-### 6.2&nbsp_place_holder;&nbsp_place_holder;Strengths and Weaknesses
+### 6.2  Strengths and Weaknesses
 
 This collection is simply unmatched in its coverage of theoretical approaches
 to brain-like models. Although many of the approaches are somewhat
@@ -204,9 +204,9 @@ thought in computational neuroscience. Of course, the book is advertised as
 being on brain _theory_, so the downplay of biological facts is precisely what
 we should expect. For those facts, we can turn to the final book, below.
 
-## 7.&nbsp_place_holder;&nbsp_place_holder;Principles of neural science
+## 7.  Principles of neural science
 
-### 7.1&nbsp_place_holder;&nbsp_place_holder;Overview
+### 7.1  Overview
 
 Simply put, this text is _the_ standard neuroscience textbook. Now in its
 sixth edition, the hefty 1200 page volume covers almost all aspects of
@@ -221,7 +221,7 @@ basis of neuronal behavior and synaptic transmission, neural/behavioral
 development, and neural pathologies. If you need to know a neural fact, you
 can probably find it here.
 
-### 7.2&nbsp_place_holder;&nbsp_place_holder;Strengths and Weaknesses
+### 7.2  Strengths and Weaknesses
 
 The main strength of this volume is its unsurpassed value as a `quick and
 easy' source for neuroscientific facts. The main weakness, as we see it, is
