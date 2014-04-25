@@ -28,7 +28,7 @@ This year's meetings:
 - Apr 11: Brain Day discussion
 - Apr 18: No meeting (Chris away)
 - Apr 25: Jan on n-back task
-- May 2: Yousef on eye control
+- May 2: Youssef on eye control
 - May 9: Aaron on associatve mem and cognitive control
 - May 16: 
 - May 23: 
