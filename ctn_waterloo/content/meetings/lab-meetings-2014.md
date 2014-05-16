@@ -30,6 +30,6 @@ This year's meetings:
 - Apr 25: Jan on n-back task
 - May 2: Youssef on eye control
 - May 9: Aaron on associatve mem and cognitive control
-- May 16: 
+- May 16: Roundtable
 - May 23: Xuan's Comp II practice run
 - Jul 4: Lisanne presentation (hippocampus model)
