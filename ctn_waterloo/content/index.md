@@ -21,5 +21,5 @@ We are currently offering the
 on how to use Nengo to build large-scale brain models.
 
 You can [download](http://nengo.ca/publications/spaunsciencepaper) our recent
-Science paper called "A large-scale model of the function brain", or any of
+Science paper called "A large-scale model of the functioning brain", or any of
 our [other publications](/publications.html).
