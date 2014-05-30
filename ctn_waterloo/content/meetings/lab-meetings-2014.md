@@ -32,4 +32,5 @@ This year's meetings:
 - May 9: Aaron on associatve mem and cognitive control
 - May 16: Roundtable
 - May 23: Xuan's Comp II practice run
+- May 30: Dan on Cappocaccia; Pete and Eric on Ottawa Summer School
 - Jul 4: Lisanne presentation (hippocampus model)
