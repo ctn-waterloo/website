@@ -26,7 +26,7 @@ any number of variables.
   * Click on **Set Functions**. Select **User-defined Function** and press **Set**. For the Expression, enter `x0*x1`.
   * Press **OK**, **OK**, and **OK** to finish creating the origin.
 
-5. Connect the network ![](?q=system/files/p3-7.png)
+5. Connect the network ![](/files/p3-7.png)
 
   * Connect the two function inputs to **A** and **B**, respectively.
   * Connect **A** and **B** to the appropriate **H** terminations.
@@ -38,7 +38,7 @@ any number of variables.
   * The result should be approximately 40.
   * Performance can be improved by increasing the number of neurons in the ensembles. The number of neurons can be adjusted using the Configure option (right-click on the ensemble) or the script console (click on the ensemble to select it and then open the console and enter `that.neurons=200`). 
     * WARNING: large numbers of neurons (>500) can take a long time to calculate. 
-    * This graph uses 500 neurons for the one-dimensional ensembles and 1000 for the combined ensemble ![](?q=system/files/p3-9.png)
+    * This graph uses 500 neurons for the one-dimensional ensembles and 1000 for the combined ensemble ![](/files/p3-9.png)
   * Interact with the network by right-clicking and choosing **Interactive plots**. In this new window, right-click to show controls for changing the input and live plots of spikes, decoded values, voltages, etc. See the [interactive plots reference sheet](?q=node/594).
 
 ## Congratulations you can build nonlinear brains!

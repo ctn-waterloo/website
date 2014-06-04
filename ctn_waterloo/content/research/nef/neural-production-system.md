@@ -3,8 +3,9 @@ title: Neural Production System
 Part of our ongoing research involves implementing symbolic rule-following in
 neurons. This would form a neural implementation of a production system, which
 is a common component of many cognitive architectures. For a full paper on
-this model, see [here](http://terrystewart.ca/sites/default/files/2009-50Milli
-seconds_final.pdf). In this demonstration, the large neural group represents
+this model, see [here](http://compneuro.uwaterloo.ca/files/publications/stewart.2009b.pdf).
+
+In this demonstration, the large neural group represents
 the current state (the buffers in ACT-R terms). The five neural groups below
 it represent five different productions. Each production has a particular
 state it should be applied in. When this state occurs, these neurons begin to

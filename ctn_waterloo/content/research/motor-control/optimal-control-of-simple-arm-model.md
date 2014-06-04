@@ -13,5 +13,4 @@ descending command using quadratic programming. The target can be moved with
 the [w,s,a,d] keys.
 
 
-[Matlab code](http://ctnsrv.uwaterloo.ca/cnrglab/sites/ctnsrv.uwaterloo.ca.cnr
-glab/files/files/optimal%20hier%20w%20linear%20model.zip)
+[Matlab code](/files/optimal%20hier%20w%20linear%20model.zip)

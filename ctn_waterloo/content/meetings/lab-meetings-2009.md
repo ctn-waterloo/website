@@ -2,15 +2,15 @@ title: "Lab meetings: 2009"
 year: 2009
 
 - **Jan 16**: Kick off CTN meeting. We'll discuss [Beck et al.](http://www.cell.com/neuron/abstract/S0896-6273(08)00803-9)
-- **Jan 30**: Charlie and Terry on auto-associative memory [[pdf](?q=system/files/ffaa_presen.pdf)]
+- **Jan 30**: Charlie and Terry on auto-associative memory [[pdf](/files/ffaa_presen.pdf)]
 - **Feb 6**: Lloyd on arbitrary statistical distributions with the NEF
-- **Feb 13**: Travis on reference frame transformation in the brain [[pdf](?q=system/files/VTM.pdf)]
+- **Feb 13**: Travis on reference frame transformation in the brain [[pdf](/files/VTM.pdf)]
 - **Feb 27**: Marc presents data from his line bisection experiments in Fall 2008
 - **Mar 13**: Discussion of the [Bowers grandmother cell paper](http://psycnet.apa.org/index.cfm?fa=search.displayRecord&uid=2009-00258-008)
 - **Mar 27**: Roundtable
-- **April 24**: Terry presents interesting conference tidbits. [[pdf](f/2009-IsraelAndBehaviouralEconomics.pdf)|[odt](f/2009-IsraelAndBehaviouralEconomics.odt)]
+- **April 24**: Terry presents interesting conference tidbits. [[pdf](/files/2009-IsraelAndBehaviouralEconomics.pdf)|[odt](/files/2009-IsraelAndBehaviouralEconomics.odt)]
 - **May 1**: Roundtable
-- **May 8**: Jon on object tracking [[pdf](?q=system/files/Tracking+Presentation.pdf)]
+- **May 8**: Jon on object tracking [[pdf](/files/Tracking%20Presentation.pdf)]
 - **May 15**: Marc presents interesting conference tidbits
 - **May 22**: Cancelled (Chris in Brussels)
 - **May 29**: Cancelled (Chris in Brussels)
@@ -32,8 +32,8 @@ year: 2009
 - **Sept 18**: Charlie Anderson
 - **Sept 25**: Xuan on serial order memory [[ppt](http://compneuro.uwaterloo.ca/cnrglab/f/CADAM_Serial_Recall.ppt)] [[pdf](http://compneuro.uwaterloo.ca/cnrglab/f/CADAM_Serial_Recall.pdf)]
 - **Oct 2**: Cancelled (Chris in Montreal)
-- **Oct 9**: Charlie on GPU programming [[pdf](?q=system/files/gpu_oct09.pdf)]
-- **Oct 16**: Travis on hierarchical control and optimality [[pdf](?q=system/files/control.pdf)]
+- **Oct 9**: Charlie on GPU programming [[pdf](/files/gpu_oct09.pdf)]
+- **Oct 16**: Travis on hierarchical control and optimality [[pdf](/files/control.pdf)]
 - **Oct 23**: Roundtable
 - **Oct 30**: Roundtable
 - **Nov 6**: Trevor and Xuan on long-term memory and reward system neuroanatomy [[pdf](http://compneuro.uwaterloo.ca/cnrglab/f/reward-ltm-labpres-final.pdf)]

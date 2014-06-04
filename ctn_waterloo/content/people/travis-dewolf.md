@@ -41,8 +41,7 @@ I have been building a framework for biologically plausible models of neural
 motor control, called the Neural Optimal Control Hierarchy (NOCH). 
 To read an abbreviated, and recent, description of
 the NOCH framework, which is constantly under development, please click here:
-[NOCH framework](http://ctnsrv.uwaterloo.ca/cnrglab/sites/ctnsrv.uwaterloo.ca.
-cnrglab/files/files/NOCH.pdf)
+[NOCH framework](/files/NOCH.pdf)
 
 If you are interested in talking with me or would like to give me lots of
 money to work for you please don't hesitate to send me an email at

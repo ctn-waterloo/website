@@ -5,11 +5,11 @@ that uses feedback to maintain its own state, functioning as a memory.
 
 1. Open the partially completed integrator
 
-  * Goto **File->open from file** and select [partial neural integrator.nef](?q=system/files/partial+neural+integrator.nef_.zip).
+  * Goto **File->open from file** and select [partial neural integrator.nef](/files/partial%20neural%20integrator.nef_.zip).
 
 2. Connect the network
 
-![](?q=system/files/rapidIntegrator1.png)
+![](/files/rapidIntegrator1.png)
 
   * The basic components of the network have been constructed for you. Connecting these components tells the system to compute the necessary synaptic connection weights to optimally realize the desired function.
   * Connect the **origin** of the **input** to the termination called **input** of the **integrator**

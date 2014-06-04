@@ -7,15 +7,15 @@ title: Principle 1
 
 Quantitatively, we can write the encoding:
 
-![](http://arts.uwaterloo.ca/~cnrglab/?q=system/files/eqn1.gif)
+![](/files/eqn1.gif)
 
 and the decoding:
 
-> ![](http://arts.uwaterloo.ca/~cnrglab/?q=system/files/eqn2.gif)
+![](/files/eqn2.gif)
 
 where
 
-![](http://arts.uwaterloo.ca/~cnrglab/?q=system/files/eqn3.gif)
+![](/files/eqn3.gif)
 
 In these equations, _a_ is the activity of a neuron, _i_, encoding a vector
 signal **x**(_t_), in a spike train (represented as a sum of delta functions,

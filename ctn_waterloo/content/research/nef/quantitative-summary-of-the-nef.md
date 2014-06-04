@@ -19,15 +19,15 @@ and weighted linear decoding.
 
 Neural encoding is defined by
 
-[inline:newfile10x.png]
+![](/files/newfile10x.png)
 
 Neural decoding is defined by
 
-[inline:newfile11x.png]
+![](/files/newfile11x.png)
 
 where
 
-[inline:newfile12x.png]
+![](/files/newfile12x.png)
 
 In both cases, _i_ indexes neurons in population and _n_ indexes spikes
 transmitted from one population to another.
@@ -40,10 +40,10 @@ alternately weighted linear decoding.
 
 Assuming the encoding in principle 1, we can estimate a function of x(t) as
 
-[inline:newfile13x.png]
+![](/files/newfile13x.png)
 
 where, ai(x(t)) is defined as before. The only difference between this
-decoding and the representational decoding are the decoders themselves, Ď.
+decoding and the representational decoding are the decoders themselves.
 
 _Principle 3_
 
@@ -54,9 +54,8 @@ systems can be analyzed using control theory.
 Allowing x(t) to be a state variable and u(t) to be the input, we have the
 following general expression for the encoding:
 
-[inline:newfile14x.png]
+![](/files/newfile14x.png)
 
 To get a better understanding of how these principles can be used together,
 please refer to the various examples on the website. For several simple
-applications, see [this paper](http://compneuro.uwaterloo.ca/cnrglab/f/eliasmi
-th.2005.controlling.attractors.neurcomp.pdf).
+applications, see [this paper](/files/eliasmith.2005.controlling.attractors.neurcomp.pdf).

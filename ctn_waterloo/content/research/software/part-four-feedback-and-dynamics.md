@@ -12,24 +12,24 @@ title: "Part Four: Feedback and Dynamics"
   * Connect the Function input to the input termination
   * Connect the X origin of the ensemble back to its own feedback termination.
 
-[inline:p4-101.png]
+![](/files/p4-101.png)
 
   * Go to Interactive Plots. Create a graph for the value of the ensemble (right-click on the ensemble and select "value").
   * Press Play to run the simulation. The value stored in the ensemble should linearly increase, reaching a value of 1 after approximately 1 second. 
     * You can increase the amount of time shown on the graphs in Interactive Plots. Do this by clicking on the small downwards-pointing arrow at the bottom of the window. This will reveal a variety of settings for Interactive Plots. Change the "time shown" to 1.
 
-[inline:p4-102.png]
+![](/files/p4-102.png)
 
 ## Representation Range
 
   * What happens if the previous simulation runs for longer than one second?
   * The value stored in the ensemble does not increase after a certain point. This is because all neural ensembles have a range of values they can represent (the radius), and cannot accurately represent outside of that range.
 
-[inline:p4-103.png]
+![](/files/p4-103.png)
 
   * Adjust the radius of the ensemble to 1.5 using either the Configure interface or the script console (that.radii=[1.5]). Run the model again. It should now accurately integrate up to a maximum of 1.5.
 
-[inline:p4-104.png]
+![](/files/p4-104.png)
 
 ## Complex Input
 
@@ -37,18 +37,18 @@ title: "Part Four: Feedback and Dynamics"
 
   * You can see what this function looks like by right-clicking on it in the editing interface and selecting "Plot".
 
-[inline:p4-5.png]
+![](/files/p4-5.png)
 
   * Return to Interactive Plots and run the simulation.
 
-[inline:p4-105.png]
+![](/files/p4-105.png)
 
 ## Adjusting Synaptic Time Constants
 
   * You can adjust the accuracy of an integrator by using different neurotransmitters.
   * Change the input termination to have a tau of 0.01 (10ms: GABA) and a transform to be 0.01. Also change the feedback termination to have a tau of 0.01 (but leave its transform at 1).
 
-[inline:p4-106.png]
+![](/files/p4-106.png)
 
   * By using a shorter time constant, the network dynamics are more sensitive to small-scale variation (i.e. noise).
   * This indicates how important the use of a particular neurotransmitter is, and why there are so many different types with vastly differing time constants.
@@ -81,16 +81,16 @@ title: "Part Four: Feedback and Dynamics"
 
   * Connect the input function to the input termination, the control function to the control termination, and the product origin to the feedback termination.
 
-[inline:p4-9.png]
+![](/files/p4-9.png)
 
   * Go to Interactive Plots and show a graph for the value of the ensemble (right-click->X->value). If you run the simulation, this graph will show the values of both variables stored in this ensemble (the integrated value and the control signal). For clarity, turn off the display of the cotrol signal by right-clicking on the graph and removing the checkmark beside "v[1]".
   * The performance of this model should be similar to that of the non-controlled integrator.
 
-[inline:p4-107.png]
+![](/files/p4-107.png)
 
   * Now adjust the control input to be 0.3 instead of 1. This will make the integrator into a leaky integrator. This value adjusts how quickly the integrator forgets over time.
 
-[inline:p4-108.png]
+![](/files/p4-108.png)
 
   * You can also run this example using scripting ` run demo/controlledintegrator.py `
 

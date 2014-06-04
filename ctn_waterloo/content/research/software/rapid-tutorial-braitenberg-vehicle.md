@@ -17,7 +17,7 @@ will use the standard Braitenberg Vehicle control system.
   * The graphs show the spike rasters from four groups of neurons: two groups of afferent sensory neurons; and two groups of efferent motor neurons. Next to these is the graph of the decoded values from these spikes. 
   * Boxes will fall, but the robot will not move because its inputs have not yet been connected to its motors.
 
-![](?q=system/files/braitenberg-model.png)
+![](/files/braitenberg-model.png)
 
 3. Connect the network
 
@@ -27,7 +27,7 @@ will use the standard Braitenberg Vehicle control system.
 
 4. Run the Simulation
 
-![](?q=system/files/braitenberg-plots.png)
+![](/files/braitenberg-plots.png)
 
   * Go back to **Interactive plots**.
   * The robot should be attempting to avoid walls.

@@ -11,7 +11,7 @@ This year's meetings:
 - Jan 18: James Bergstra - Hyperparameters
 - Jan 25: Pete Suma patent search, and company structures 
 - Feb 1: Roundtable
-- Feb 8: Discussion with van der Meer lab of [this](http://ctnsrv.uwaterloo.ca/cnrglab/sites/ctnsrv.uwaterloo.ca.cnrglab/files/files/PNAS-2010-Van%20De%20Ville-18179-84.pdf) paper.
+- Feb 8: Discussion with van der Meer lab of [this](http://compneuro.uwaterloo.ca/files/PNAS-2010-Van%20De%20Ville-18179-84.pdf) paper.
 - Feb 15: Do Feb 8 meeting (cancelled by blizzard)
 - Feb 22: Pete presentation on company structures
 - Mar 1: No Meeting (Chris Away)

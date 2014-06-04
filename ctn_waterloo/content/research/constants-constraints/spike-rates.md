@@ -17,8 +17,7 @@ aximum Steady Firing Rate: 74Hz (6.7+-0.4 x minimum rate)
 
 ### Secondary Sources
 
-  * Parisien, C., Anderson, C.H., Eliasmith, C. (2008). Solving the problem of negative synaptic weights in cortical models. Neural Computation. 20, 1473-1494.
-    * http://www.arts.uwaterloo.ca/~cnrglab/?q=system/files/parisien.eliasmith.2007.negative+weights.penult.neurcomp.pdf
+  * [Parisien, C., Anderson, C.H., Eliasmith, C. (2008). Solving the problem of negative synaptic weights in cortical models. Neural Computation. 20, 1473-1494.](/files/parisien.eliasmith.2007.negative%20weights.penult.neurcomp.pdf)
 
 > The parameters for the LIF neuron models are as follows: membrane time
 constant τ RC = 10 ms; refractory period τref = 1 ms; peak firing rates over

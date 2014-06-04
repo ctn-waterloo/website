@@ -1,7 +1,7 @@
 title: "Lab meetings: 2010"
 year: 2010
 
-- **Jan 8**: Travis presents the NOCH: framework for biologically plausible models of neural motor control [[pdf](?q=system/files/NOCH.pdf)].
+- **Jan 8**: Travis presents the NOCH: framework for biologically plausible models of neural motor control [[pdf](/files/NOCH.pdf)].
 - **Jan 15**: Roundtable
 - **Jan 22**: No meeting (Marsat talk in biology)
 - **Jan 29**: No meeting (Chris out of town)
@@ -19,7 +19,7 @@ year: 2010
 - **Apr 23**: Roundtable
 - **Apr 30**: Eric presenting Nengo improvements
 - **May 7**: Roundtable (welcome new folks)
-- **May 14**: Jacqueline presenting Raven's vision work [[pdf](?q=system/files/raven.pdf)].
+- **May 14**: Jacqueline presenting Raven's vision work [[pdf](/files/raven.pdf)].
 - **Jan 15**: Roundtable
 - **May 21**: Travis report from NCM
 - **May 28**: Roundtable
@@ -29,7 +29,7 @@ year: 2010
 - **June 29**: Report on Summer School
 - **July 2**: Cancelled (Chris in BC)
 - **July 9**: Cancelled (Chris in BC)
-- **July 16**: Report from Charlie on ICML [[pdf](?q=system/files/icml_ctn.pdf)]
+- **July 16**: Report from Charlie on ICML [[pdf](/files/icml_ctn.pdf)]
 - **July 23**: Scott (works with Paul) on part-whole
 - **July 30**: Roundtable
 - **Aug 6**: Cog Sci Presentation practise

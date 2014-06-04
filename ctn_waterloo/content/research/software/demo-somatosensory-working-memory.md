@@ -2,11 +2,10 @@ title: Demo - Somatosensory working memory
 
 This model is based on that published in Singh, R., Eliasmith, C. (2006).
 Higher-dimensional neurons explain the tuning and dynamics of working memory
-cells. Journal of Neuroscience. 26, 3667--3678. [[pdf](http://compneuro.uwater
-loo.ca/cnrglab/?q=system/files/singh.eliasmith.2006.2d+working+mem.pdf)]
+cells. Journal of Neuroscience. 26, 3667--3678. [[pdf](/files/singh.eliasmith.2006.2d%20working%20mem.pdf)]
 
 1. To run this demo, open [somatosensory working
-memory.nef](f/somatosensory%20working%20memory.nef.zip).
+memory.nef](/files/somatosensory%20working%20memory.nef.zip).
 
 2. Once it's loaded, run it for 3s by right-clicking the **Network Viewer**.
 
@@ -18,7 +17,7 @@ data set from Romo et al. (1999) on somatosensory descrimination task in the
 macaque. The classes of neural response that they indentified is shown in
 figure 1. No other model has been able to capture all of these response types.
 
-![](?q=system/files/working+mem.jneuro.png)
+![](/files/working%20mem.jneuro.png)
 
 Figure 1: PSTH plots during memorization. The gray bars under the axes
 indicate the onset of the stimulus, and black bars above the graph mark

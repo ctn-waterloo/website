@@ -2,7 +2,7 @@ title: Symbolic Reasoning in Spiking Neurons
 
   * Talk and paper presented at the 32nd Annual Meeting of the Cognitive Science Society (CogSci 2010)
     * by Terrence C. Stewart, Xuan Choo, and Chris Eliasmith; Centre for Theoretical Neuroscience, University of Waterloo
-    * Slides available in [[pdf](f/2010-SymbolicReasoning-talk.pdf)] and [[odp](f/2010-SymbolicReasoning-talk.odp)]
+    * Slides available in [[pdf](/files/2010-SymbolicReasoning-talk.pdf)] and [[odp](/files/2010-SymbolicReasoning-talk.odp)]
 
 ## Goal
 
@@ -46,10 +46,9 @@ title: Symbolic Reasoning in Spiking Neurons
       * Uniformly distributed around the circle
 
 You do not have the latest version of Flash installed. Please visit this link
-to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.
-com/products/flashplayer/)
+to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.com/products/flashplayer/)
 
-[[avi](f/v/2dencode.avi)]
+[[avi](/files/v/2dencode.avi)]
 
   * Neural representation
     * Using Leaky Integrate-and-Fire (LIF) neurons
@@ -71,30 +70,26 @@ com/products/flashplayer/)
       * Robust to noise, neuron loss
 
 You do not have the latest version of Flash installed. Please visit this link
-to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.
-com/products/flashplayer/)
+to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.com/products/flashplayer/)
 
-[[avi](f/v/2ddecode.avi)]
+[[avi](/files/v/2ddecode.avi)]
 
 ## Transformation
 
 You do not have the latest version of Flash installed. Please visit this link
-to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.
-com/products/flashplayer/)
+to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.com/products/flashplayer/)
 
-[[avi](f/v/communicate.avi)]
-
-You do not have the latest version of Flash installed. Please visit this link
-to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.
-com/products/flashplayer/)
-
-[[avi](f/v/convolve1.avi)]
+[[avi](/files/v/communicate.avi)]
 
 You do not have the latest version of Flash installed. Please visit this link
-to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.
-com/products/flashplayer/)
+to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.com/products/flashplayer/)
 
-[[avi](f/v/convolve2.avi)]
+[[avi](/files/v/convolve1.avi)]
+
+You do not have the latest version of Flash installed. Please visit this link
+to download it: [http://www.adobe.com/products/flashplayer/](http://www.adobe.com/products/flashplayer/)
+
+[[avi](/files/v/convolve2.avi)]
 
 ## Memory
 

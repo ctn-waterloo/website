@@ -23,7 +23,7 @@ title: "Part Three: Non-Linear Transformations"
       * Press OK, OK, and OK.
     * You can now generate a plot that shows how good the ensemble is at calculating the non-linearity. Right-click on the ensemble and select Plot->Plot distortion:square.
 
-[inline:p3-9b.png]
+![](/files/p3-9b.png)
 
   * Start Interactive Plots. 
   * Create a control for the input, so you can adjust it while the model runs (right-click on the input and select "control")
@@ -31,7 +31,7 @@ title: "Part Three: Non-Linear Transformations"
   * For comparison, also create a graph for the standard X origin byt right-clicking on the ensemble and selecting "X->value". This is the standard value graph that just shows the value being represented by this ensemble.
   * Press Play to run the simulation. With the default input of 0.5, the squared value should be near 0.25. Use the control to adjust the input. The output should be the square of the input.
 
-[inline:p3-101.png]
+![](/files/p3-101.png)
 
   * You can also run this example using scripting ` run demo/squaring.py `
 
@@ -45,7 +45,7 @@ title: "Part Three: Non-Linear Transformations"
     * The two function inputs should be constants set to 8 and 5
     * The terminations you create to connect them should have time constants of 0.01 (AMPA)
 
-[inline:p3-1.png]
+![](/files/p3-1.png)
 
   * Now create a two-dimensional neural ensemble with a radius of 15 called Combined 
     * Since it needs to represent multiple values, we increase the number of neurons it contains to 200
@@ -55,38 +55,38 @@ title: "Part Three: Non-Linear Transformations"
     * For the second one, use Set Weights to make the transformation be [0 1]
   * Connect the two other ensembles to the Combined one
 
-[inline:p3-2.png]
+![](/files/p3-2.png)
 
   * Next, create an ensemble to store the result. It should have a radius of 100, since it will need to represent values from -100 to 100. Give it a single one-dimensional termination with a weight of 1.
 
-[inline:p3-3.png]
+![](/files/p3-3.png)
 
   * Now we need to create a new origin that will estimate the product between the two values stored in the combined ensemble. 
     * Right-click on the combined ensemble and select Add decoded origin.
     * Set the name to âproductâ
     * Set Output dimensions to 1
 
-[inline:p3-4.png]
+![](/files/p3-4.png)
 
   * Click on Set Functions
   * Select User-defined Function and press Set.
 
-[inline:p3-5.png]
+![](/files/p3-5.png)
 
   * For the Expression, enter x0*x1
 
-[inline:p3-6.png]
+![](/files/p3-6.png)
 
   * Press OK, OK, and OK to finish creating the origin 
     * Connect the new origin to the termination on the result ensemble
 
-[inline:p3-7.png]
+![](/files/p3-7.png)
 
   * Add a probe to the result ensemble and run the simulation
   * The result should be approximately 40.
   * Adjust the input controls to multiple different numbers together.
 
-[inline:p3-102.png]
+![](/files/p3-102.png)
 
   * You can also run this example using scripting ` run demo/multiplication.py `
 
@@ -101,6 +101,6 @@ title: "Part Three: Non-Linear Transformations"
     * This new origin will calculate the square of the value represented by this ensemble.
     * If you connect this new origin to the Combined ensemble instead of the standard X origin, the network will calculate x2y instead of xy.
 
-[inline:p3-9a.png]
+![](/files/p3-9a.png)
 
 

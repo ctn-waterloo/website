@@ -2,7 +2,7 @@ title: Extensions to the NEF
 
 **Improved biological plausibility**
 
-  * In cortical neural networks, connections from a given neuron are either inhibitory or excitatory, but not both. This observation is called Dale's Principle. This constraint is often ignored by theoreticians who build models of these systems. Using the NEF, we have developed a general solution to the problem of converting such unrealistic network models into biologically plausible models that respect this constraint. The work is described in [this paper](http://compneuro.uwaterloo.ca/cnrglab/?q=system/files/parisien.eliasmith.2007.negative+weights.penult.neurcomp.pdf).
+  * In cortical neural networks, connections from a given neuron are either inhibitory or excitatory, but not both. This observation is called Dale's Principle. This constraint is often ignored by theoreticians who build models of these systems. Using the NEF, we have developed a general solution to the problem of converting such unrealistic network models into biologically plausible models that respect this constraint. The work is described in [this paper](/files/parisien.eliasmith.2007.negative%20weights.penult.neurcomp.pdf).
 
 **Generalized neural dynamics**
 

@@ -50,7 +50,7 @@ functional description provided in neurobiological terms into a description in
 mathematical terms. This mathematical description may be highly abstract
 (e.g., describing a swimming eel as instantiating a kind of sine function; see
 the lamprey example in the book; or see this [summary
-.pdf](http://arts.uwaterloo.ca/~cnrglab/?q=system/files/lamprey.pdf)), so long
+.pdf](/files/lamprey.pdf)), so long
 as it is complete.
 
 **Step 2**: Design specification

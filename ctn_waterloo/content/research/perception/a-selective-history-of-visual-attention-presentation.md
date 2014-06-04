@@ -14,5 +14,4 @@ research are discussed in a systematic way."
 
 [A Selective History of Visual
 Attention](http://www.cse.yorku.ca/~albertlr/attention_tutorial_eccv2008.htm)
-[Direct link to slides](http://macro.cse.yorku.ca/~albertlr/ECCV2008Tutorial
-/ECCV-Overview2008.ppt)
+[Direct link to slides](http://macro.cse.yorku.ca/~albertlr/ECCV2008Tutorial/ECCV-Overview2008.ppt)

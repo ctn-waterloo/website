@@ -31,7 +31,7 @@ population and select **Add probe->X - Function of NEFEnsemble state** -
 Right-click the population and select **Collect spikes** to gather a spike
 raster - You can add any other probes of interest, including on individual
 neurons. You see the neurons by double-clicking the population. 6. Run the
-simulation ![](?q=system/files/p4-1.png) - Right-click on the background and
+simulation ![](/files/p4-1.png) - Right-click on the background and
 run the simulation for 1 second with a time step of 1ms (0.001) - Plot the
 results by double-clicking the probe of interest in the **Data Viewer**. - As
 expected, the final result of the representation in the X probe is
@@ -50,7 +50,7 @@ using either the Configure interface (right-click the **integrator** and
 select **configure**, then change the **radii** option) or the script console
 (**View->Toggle script console**, select the population and type
 `that.radii=[1.5]` into the console). Run the model again and it integrates
-longer before saturating. ![](?q=system/files/p4-8.png) ## More interesting
+longer before saturating. ![](/files/p4-8.png) ## More interesting
 input - We can also run the model with a more complex input. Change the
 Function input using the following command from the script console (after
 clicking on the function input) ` that.functions=[PiecewiseConstantFunction([0

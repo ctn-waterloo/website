@@ -9,16 +9,15 @@ systems can be analyzed using control theory.
 Quantitatively, we can write the following general expression for the
 encoding:
 
-![](http://arts.uwaterloo.ca/~cnrglab/?q=system/files/eqn5.gif
-
-)
+![](/files/eqn5.gif)
 
 Here we have introduced the neural dynamics matrix, **A**', and input matrix
 **B**'. These matrices define the dynamics of the system, and can be related
 to the standard dynamics and input matrices in linear control theory using:
-![](http://arts.uwaterloo.ca/~cnrglab/?q=system/files/eqn6.gif
 
-) The signal **u**(_t_) is the input and **x**(_t_) is the neural population's
+![](/files/eqn6.gif)
+
+The signal **u**(_t_) is the input and **x**(_t_) is the neural population's
 represented state vector. Note: '*' indicates convolution.
 
 As noted in section 1.3 (this and all subsequent section references are to the

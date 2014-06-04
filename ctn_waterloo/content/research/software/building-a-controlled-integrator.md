@@ -7,7 +7,7 @@ The controlled integrator is a more sophisticated computation, that implements
 a nonlinear dynamical system. It essentially allows the inputs to control how
 much integration the network performs, on-the-fly. It can be thought of as a
 tunable low-pass filter. This model can be directly loaded by opening
-[controlled integrator.nef](f/controlled integrator.nef.zip) within Nengo, or
+[controlled integrator.nef](/files/controlled integrator.nef.zip) within Nengo, or
 you can build it yourself by following these steps.
 
 1. Create a 2-dimensional neural ensemble with 500 neurons and a radius of 2.
@@ -20,7 +20,7 @@ you can build it yourself by following these steps.
 
 3. Create a new origin that multiplies the values in the vector together
 
-![](?q=system/files/p4-9.png)
+![](/files/p4-9.png)
 
   * Right-click on the population and select **Add decoded origin**
   * This is a `1` dimensional output, with a **User-defined Function** of `x0*x1` (this effectively multiplies the first and second inputs, hence allowing one to control/gate the other). Note that no actual multiplication occurs in the neurons, instead this is a projection from a two-dimensional to a one-dimensional space. This may take a moment to configure.
@@ -49,7 +49,7 @@ you can build it yourself by following these steps.
 
     * WARNING: 5000 neurons take a long time to generate (~5 minutes) on a good laptop.
 
-![](?q=system/files/p4-11.png)![](?q=system/files/p4-10a_0.png)
+![](/files/p4-11.png)![](/files/p4-10a_0.png)
 
   * You can also run the simulation interactively: right-click the background and select **Interactive plots**. See the [interactive plots reference sheet](?q=node/594).
 

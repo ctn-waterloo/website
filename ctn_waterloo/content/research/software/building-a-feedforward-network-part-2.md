@@ -17,7 +17,7 @@ changing this value scales the input as expected.
 
 ## Combining inputs linearly
 
-![](?q=system/files/p2-20.png) To add two values, you must create another
+![](/files/p2-20.png) To add two values, you must create another
 termination on the **B** population and project to it as well. Before doing
 this, set the **A** to **B** transformation back to 1.
 
@@ -32,7 +32,7 @@ this, set the **A** to **B** transformation back to 1.
 
   * Add an input termination on **C** and connect the **Function input** to the **C** ensemble.
   * Add a probe to the new **Function input**.
-  * Run the simulation and plot the values for the three probes ![](?q=system/files/p2-21.png)
+  * Run the simulation and plot the values for the three probes ![](/files/p2-21.png)
   * The **X** value for the **B** probe should indicate the result of `0.5-0.7=-0.2` (A+C=B). Note: This looks noisier than before because of the scale of the plot.
 
 ## Congratulations, you can build linear brains!
@@ -66,7 +66,7 @@ part 3.
 
 4. Set the input function to something useful
 
-  * Click on the input function that is currently a constant value. You can change this in two ways, through the configure panel or the script console. Let's do the second for variety. ![](?q=system/files/p3-9d.png)
+  * Click on the input function that is currently a constant value. You can change this in two ways, through the configure panel or the script console. Let's do the second for variety. ![](/files/p3-9d.png)
   * Open the **Script Console** from the menu bar (under **View**).
   * With the function input selected type the following in the console:
 

@@ -39,7 +39,7 @@ construct a population of neurons with this kind of response.
   * Set the name to be `target`, the output dimensions to be `2`, and press **Set Functions**. 
   * For both dimensions, choose **Constant Function** and click **Set**. Set the values for each to be `0.5`. This defines the horizontal and vertical position of target vector being represented by motor cortex.
 
-![](?q=system/files/motor+img1.png)
+![](/files/motor%20img1.png)
 
 5. Connect the network
 

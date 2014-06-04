@@ -10,9 +10,7 @@ opposed to the representational decoding).
 Quantitatively, we assume the same encoding as described in principle 1 and
 define the decoding:
 
-![](http://arts.uwaterloo.ca/~cnrglab/?q=system/files/eqn4.gif
-
-)
+![](/files/eqn4.gif)
 
 This decoding is the similar to that in principle 1, except the decoders are
 determined such that a function, _f_, of the original input signal is

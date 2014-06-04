@@ -14,6 +14,6 @@ other mechanisms. Recently we have been working on methods to include
 normalization in the inference transformation (which takes place in the
 connection weights). We have recently submitted this work for publication. The
 supporting Nengo and Matlab code can be downloaded
-[here](?q=system/files/published_code.zip).
+[here](/files/published_code.zip).
 
 

@@ -1,8 +1,7 @@
 title: Matlab Tutorial for SYDE 556
 
 If you have absolutely no familiarity with Matlab, you should follow the
-tutorial on the Mathworks site [here](http://www.mathworks.com/products/educat
-ion/student_version/tutorials/launchpad.shtml).
+tutorial on the Mathworks site [here](http://www.mathworks.com/products/education/student_version/tutorials/launchpad.shtml).
 
 
 

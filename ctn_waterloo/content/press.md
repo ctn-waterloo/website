@@ -28,7 +28,7 @@ will be [found here](http://nengo.ca/popularpress).
 - [Newsy](http://www.newsy.com/videos/scientists-create-most-advanced-simulated-brain/#ooid=h0ZWFjNzrp6DQ8wJd-ZhkztnYvgdJfAN) (video news report) - Scientists Create Most Advanced Simulated Brain
 - [Communications of the ACM](http://cacm.acm.org/news/158734-a-more-human-artificial-brain/fulltext) - A more human artificial brain
 - [VR Zone](http://vr-zone.com/articles/neuroscientist-creates-a-large-scale-model-of-a-functioning-brain/18126.html) - Neuroscientist creates a large scale model of a functioning brain
-- [Canada.com](http://www.canada.com/Canadian+scientists+create+functioning+virtual+brain/7628345/story.html) - Canadian scientists create a functioning, virtual brain
+- [Canada.com](http://www.canada.com/Canadian%20scientists%20create%20functioning%20virtual%20brain/7628345/story.html) - Canadian scientists create a functioning, virtual brain
 - [TechNewsDaily](http://www.technewsdaily.com/15714-artificial-brain-mimics-human.html)
 - [Science Recorder](http://www.sciencerecorder.com/news/researchers-create-the-worlds-largest-working-brain-model/) - Researchers create the world’s largest working brain model
 - [Globe and Mail](http://www.theglobeandmail.com/technology/science/brain/meet-spaun-the-worlds-biggest-brain-that-works/article7260055/) - Meet Spaun: the world’s biggest brain that works
@@ -36,13 +36,13 @@ will be [found here](http://nengo.ca/popularpress).
 - [CTV News](http://www.ctvnews.ca/video?clipId=818474&playlistId=1.1063551&binId=1.810401) - (Video Interview) Scientists in Waterloo, Ont. develop virtual brain
 (video)
 - [Singularity Blog](http://www.singularityweblog.com/chris-eliasmith-on-singularity-1-on-1/) - (Video Interview) Chris Eliasmith on Singularity 1 on 1: We Have Not Yet Learned What The Brain Has To Teach Us! (video & audio)
-- [Calgary Herald](http://www.calgaryherald.com/technology/Scientists+create+functioning+virtual+brain+that+write+remember+lists+even+pass+basic/7630749/story.html) - Scientists create functioning, virtual brain that can write, remember lists and even pass basic IQ test
+- [Calgary Herald](http://www.calgaryherald.com/technology/Scientists%20create%20functioning%20virtual%20brain%20that%20write%20remember%20lists%20even%20pass%20basic/7630749/story.html) - Scientists create functioning, virtual brain that can write, remember lists and even pass basic IQ test
 - [Kitchener Record](http://www.therecord.com/news/local/article/846117--brain-simulator-could-provide-insight-to-damage-diseases-local-researchers-say) - Brain simulator could provide insight to damage, diseases, local researchers say
-- [Ottawa Citizen](http://www.ottawacitizen.com/technology/Team+builds+functional+working+brain/7631107/story.html) - Team builds functional, working brain
+- [Ottawa Citizen](http://www.ottawacitizen.com/technology/Team%20builds%20functional%20working%20brain/7631107/story.html) - Team builds functional, working brain
 - [The Register](http://www.theregister.co.uk/2012/12/01/spaun_computer_model_brain/) - Scientists build largest ever computerized brain
-- [Vancouver Sun](http://www.vancouversun.com/technology/science/Canadian+scientists+create+functioning+virtual+brain/7628972/story.html)
+- [Vancouver Sun](http://www.vancouversun.com/technology/science/Canadian%20scientists%20create%20functioning%20virtual%20brain/7628972/story.html)
 - [The Richard Brown Show](http://ckom.com/sites/default/files/RBSHOW%20SEG3%20DEC3.mp3) - (Radio interview) Recreating the human brain
-- [The Star Phoenix](http://www.thestarphoenix.com/Scientists+build+virtual+brain/7631394/story.html) - Scientists build a virtual brain
+- [The Star Phoenix](http://www.thestarphoenix.com/Scientists%20build%20virtual%20brain/7631394/story.html) - Scientists build a virtual brain
 - [Der Spiegel](http://www.spiegel.de/wissenschaft/medizin/gehirn-computermodell-mit-2-5-millionen-neuronen-rechnet-und-zaehlt-a-870061.html) (Germany's premier newspaper) - Bereit für den Intelligenztest
 - [Radio-Canada](http://www.radio-canada.ca/nouvelles/science/2012/12/03/002-spaun-cerveau-artificiel.shtml) - Spaun, le cerveau artificiel (French canadian)
 - [n-tv.de](http://www.n-tv.de/wissen/Maschine-ahmt-Mensch-nach-article9651666.html) (German CNN) - Maschine ahmt Mensch nach

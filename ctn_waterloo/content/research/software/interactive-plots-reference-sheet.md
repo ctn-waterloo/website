@@ -1,6 +1,6 @@
 title: Interactive plots reference sheet
 
-![](?q=system/files/armDemo1.png) This sheet provides basic information on how
+![](/files/armDemo1.png) This sheet provides basic information on how
 to use Nengo's interactive plots.
 
 Interactive plots are started by right-clicking on the background of the

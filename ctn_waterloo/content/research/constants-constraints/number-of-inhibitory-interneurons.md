@@ -11,8 +11,7 @@ title: Number of Inhibitory Interneurons
 
 ### Secondary Sources
 
-  * Parisien, C., Anderson, C.H., Eliasmith, C. (2008). Solving the problem of negative synaptic weights in cortical models. Neural Computation. 20, 1473-1494.
-    * http://www.arts.uwaterloo.ca/~cnrglab/?q=system/files/parisien.eliasmith.2007.negative+weights.penult.neurcomp.pdf
+  * [Parisien, C., Anderson, C.H., Eliasmith, C. (2008). Solving the problem of negative synaptic weights in cortical models. Neural Computation. 20, 1473-1494.](/files/parisien.eliasmith.2007.negative%20weights.penult.neurcomp.pdf)
 
 > The transformation introduces a population of either 50 or 75 fast-spiking
 (FS) inhibitory interneurons, to match the 20% proportion found in cortex

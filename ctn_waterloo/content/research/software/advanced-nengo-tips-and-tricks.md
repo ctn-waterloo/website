@@ -24,25 +24,25 @@ for all networks.
     * Right-click on the second function input in the model and select Configure.
     * Go to functions->Constant function
 
-![](?q=system/files/p3-10.png)
+![](/files/p3-10.png)
 
   * Right-click on Constant function and choose Replace
   * Use the drop-down box to select SineFunction
   * Press the right-arrow button twice to see the constructor that allows you to set amplitude and omega (frequency)
 
-![](?q=system/files/p3-11.png)
+![](/files/p3-11.png)
 
   * Double-click on amplitude and set it to 10
   * Double-click on omega and set it to 5
 
-![](?q=system/files/p3-12.png)
+![](/files/p3-12.png)
 
   * Click on Create, OK, and Done.
   * Run the simulation and plot the result. You may also wish to add probes for the two function inputs.
 
-![](?q=system/files/p3-14.png)
+![](/files/p3-14.png)
 
-![](?q=system/files/p3-13.png)
+![](/files/p3-13.png)
 
   * We can also create functions using the script console 
     * Click on an function input so that it is highlighted in yellow.
@@ -53,18 +53,18 @@ for all networks.
 
   * This creates the same function as done through the GUI above
 
-![](?q=system/files/p3-15.png)
+![](/files/p3-15.png)
 
   * There are a variety of other functions available
 
 ` ca.nengo.math.impl.PiecewiseConstantFunction([0.25,0.5,0.75],[0,5,0,-5]) `
 
-![](?q=system/files/p3-16.png)
+![](/files/p3-16.png)
 
 ` ca.nengo.math.impl.LinearCurveFitter.InterpolatedFunction([0,0.2,0.4,0.6,0.7
 ,1.0],[0,5,4,0,-2,0]) `
 
-![](?q=system/files/p3-17.png)
+![](/files/p3-17.png)
 
   * For example, consider multiplying the following two functions together 
     * Select the first function input, go to the script console, and enter
@@ -78,9 +78,9 @@ for all networks.
 
   * Run the simulation and plot the inputs and results
 
-![](?q=system/files/p3-18.png)
+![](/files/p3-18.png)
 
-![](?q=system/files/p3-19.png)
+![](/files/p3-19.png)
 
   * You can also define your own functions using Python code 
     * Since this will involve a few lines of code, we can use the script editor (or any text editor)
@@ -90,7 +90,7 @@ for all networks.
     * To use this, close the script editor and return to the script console
     * type ârun myfunction.pyâ. This will define the new class. We can now use it in the same way as the other functions.
 
-` that.functions=[MyFunction(1)] ` ![](?q=system/files/p3-20.png)
+` that.functions=[MyFunction(1)] ` ![](/files/p3-20.png)
 
 ## Setting preferred direction vectors
 

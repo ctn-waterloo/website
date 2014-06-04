@@ -25,5 +25,4 @@ of Motor Program Switching in
 Aplysia](http://www.jneurosci.org/cgi/content/abstract/21/18/7349) [A Simple
 Aplysia-Like Spiking Neural Network to Generate Adaptive Behavior in
 Autonomous Robots](http://adb.sagepub.com/cgi/content/abstract/16/5/306?rss=1)
-[Development of the nervous system of Aplysia californica.](http://www.pubmedc
-entral.nih.gov/articlerender.fcgi?artid=393264)
+[Development of the nervous system of Aplysia californica.](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=393264)

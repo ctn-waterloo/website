@@ -18,7 +18,7 @@ and demonstrates the integration of a neural model with a physics engine.
   * Click **play** (bottom right) to see the arm move towards the target. Change the target location by adjusting the sliders.
   * The grey shaded grid shows the firing rates of neurons in the output (motor) population. Observe how they change as you adjust the sliders.
 
-![](?q=system/files/armDemo.png)
+![](/files/armDemo.png)
 
 3. Changing the accuracy of the simulation
 

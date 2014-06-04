@@ -6,16 +6,16 @@ transformations of a scalar. Variants of this network will learn dynamic
 these extensions here.
 
 For those online, all of the files needed for this simulation are in [learning
-scalars.zip](f/learning scalars.zip). Be sure to place the
-[learning_rule.py](?q=system/files/learning_rule.py_.txt) file in the `python`
+scalars.zip](/files/learning scalars.zip). Be sure to place the
+[learning_rule.py](/files/learning_rule.py_.txt) file in the `python`
 directory.
 
 1. Open the network to be simulated.
 
-![](?q=system/files/learn+net.png)
+![](/files/learn%20net.png)
 
   * On a blank Nengo world, got to **File->Open from file** the menu bar. Select **learning scalars.nef** and click **Open**.
-  * (Skip this step if you don't care about scripts) This network was generated from the [learning_scalars.py](?q=system/files/learning_scalars.py__0.txt) script. To view the script select **View->Open script editor**. In the editor select **File->Open** and open the file **learning_scalars.py**. To run the script to generate this network, open the script console (**View->Toggle script console**) and type `run NIPSdemos/learning_scalars.py`.
+  * (Skip this step if you don't care about scripts) This network was generated from the [learning_scalars.py](/files/learning_scalars.py__0.txt) script. To view the script select **View->Open script editor**. In the editor select **File->Open** and open the file **learning_scalars.py**. To run the script to generate this network, open the script console (**View->Toggle script console**) and type `run NIPSdemos/learning_scalars.py`.
 
 2. Run the network
 
@@ -36,7 +36,7 @@ directory.
   * Close the interactive plots
   * Drag the connection from to the **RightInput** on the **error** population away from the population (so it disconnects, but don't remove it). 
 
-![](?q=system/files/learning+net.png)
+![](/files/learning%20net.png)
 
   * Right-click **A** and select **Add decoded origin**. Click **Set functions**, choose **User defined function**, click **Set**, and you can type a function in terms of the represented variable `x0`. A simple linear function is `0.5*x0`, which is just a scaled version of the input.
   * Connect your new origin to where you disconnected the previous origin. Re-open the **Interactive plots** and watch the system attempt to learn the newly defined function.

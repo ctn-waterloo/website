@@ -6,11 +6,11 @@ compute a new function.
 
 1. Open the partially completed multiplication network
 
-  * Go to **File->Open from file** and select [partial multiplication.nef](f/partial multiplication.nef.zip).
+  * Go to **File->Open from file** and select [partial multiplication.nef](/files/partial multiplication.nef.zip).
 
 2. Connect the network
 
-![](?q=system/files/rapidMulti1.png)
+![](/files/rapidMulti1.png)
 
   * The basic components of the network have been constructed for you. Connecting components tells the system to compute the necessary synaptic connection weights to optimally realize the desired function.
   * Connect **input 1** and **input 2** to the inputs for neural ensembles **A** and **B**.

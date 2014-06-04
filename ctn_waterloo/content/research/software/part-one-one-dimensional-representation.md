@@ -3,14 +3,14 @@ title: "Part One: One-Dimensional Representation"
 ## Installing and Running Nengo
 
   * Install Nengo from the provided USB keys. Do this by copying the nengo directory onto your computer. 
-    * Alternatively, download it from [http://ctn.uwaterloo.ca/~cnrglab/f/nengo.zip](http://ctn.uwaterloo.ca/~cnrglab/f/nengo.zip)
+    * Alternatively, download it from [/files/nengo.zip](/files/nengo.zip)
     * You must also have Java installed on your computer
     * Nengo will run faster if you also have Python installed along with the NumPy and SciPy libraries. Versions of these for Windows can be found in the windows directory
   * To run Nengo, either: 
     * Double-click on nengo.bat (in Windows)
     * run ./nengo (in OS X and Linux)
 
-[inline:p1-1.png]
+![](/files/p1-1.png)
 
 ## Creating Networks
 
@@ -18,7 +18,7 @@ title: "Part One: One-Dimensional Representation"
     * File->New Network
     * Give the network a name
 
-[inline:p1-2.png]
+![](/files/p1-2.png)
 
   * You can create networks inside of other networks. This can be useful for hierarchical organization of models.
 
@@ -28,7 +28,7 @@ title: "Part One: One-Dimensional Representation"
   * Right-click inside a network 
     * Create New->NEF Ensemble
 
-[inline:p1-3.png]
+![](/files/p1-3.png)
 
   * Here the basic features of the ensemble can be configured 
     * Name
@@ -37,7 +37,7 @@ title: "Part One: One-Dimensional Representation"
     * Radius (the range of values that can be encoded; for example, a value of 100 means the ensemble can encode numbers between -100 and 100)
   * Node Factory (the type of neuron to use)
 
-[inline:p1-4.png]
+![](/files/p1-4.png)
 
   * For this tutorial (and for the majority of our research), we use LIF Neuron, the standard Leaky-Integrate-and-Fire neuron. Clicking on Set allows for the neuron parameters to be configured
   * tauRC (RC time constant for the neuron membrane; usually 0.02)
@@ -46,18 +46,18 @@ title: "Part One: One-Dimensional Representation"
   * Intercept (the range of possible x-intercepts on the tuning curve graph; normally set to -1 and 1) 
     * Because there are many parameters to set and we often choose similar values, Nengo will remember your previous settings. Also, you can save templates by setting up the parameters as you like them and clicking on New in the Templates box. You will then be able to go back to these settings by choosing the template from the drop-down box.
 
-[inline:p1-5.png]
+![](/files/p1-5.png)
 
   * You can double-click on an ensemble to view the individual neurons within it
 
-[inline:p1-5b.png]
+![](/files/p1-5b.png)
 
 ## Plotting Tuning Curves
 
   * This shows the behaviour of each neuron when it is representing different values (i.e. the tuning curves for the neurons)
   * Right-click on the ensemble, select Plot->Constant Rate Responses
 
-[inline:p1-6.png]
+![](/files/p1-6.png)
 
   * tauRC affects the linearity of the neurons (smaller values are more linear)
   * Max rate affects the height of the curves at the left and right sides
@@ -68,7 +68,7 @@ title: "Part One: One-Dimensional Representation"
   * We often want to determine the accuracy of a neural ensemble.
   * Right-click on the ensemble, select Plot->Plot Distortion:X
 
-[inline:p1-7.png]
+![](/files/p1-7.png)
 
   * Mean Squared Error (MSE) is also shown (at the top)
   * MSE decreases as the square of the number of neurons (so RMSE is proportional to 1/N)
@@ -79,7 +79,7 @@ title: "Part One: One-Dimensional Representation"
   * After an ensemble is created, we can inspect and modify many of its parameters
   * Right-click on an ensemble and select Configure
 
-[inline:p1-8.png]
+![](/files/p1-8.png)
 
   * neurons (number of neurons; this will rebuild the whole ensemble)
   * radii (the range of values that can be encoded; can be different for different dimensions)

@@ -16,14 +16,14 @@ title: "Part Five: Cognitive Models"
 
 ` run demo/armcontrol.py `
 
-[inline:p5-101.png]
+![](/files/p5-101.png)
 
   * Braitenberg vehicle 
     * connect range sensors to opposite motors on a wheeled robot
 
 ` run demo/vehicle.py `
 
-[inline:p5-102.png]
+![](/files/p5-102.png)
 
 ## Binding Semantic Pointers (SPs)
 
@@ -39,7 +39,7 @@ title: "Part Five: Cognitive Models"
 
 ` run demo/convolve.py `
 
-[inline:p5-201.png]
+![](/files/p5-201.png)
 
   * To deal with high-dimensional vectors, we don't want to have to set each individual value for each vector 
     * would need 100 controls to configure a single 100-dimensional vector
@@ -77,11 +77,11 @@ title: "Part Five: Cognitive Models"
     * Gurney, Prescott, & Redgrave (2001) 
       * Model of action selection constrained by the connectivity of the basal ganglia
 
-[inline:p5-103.png]
+![](/files/p5-103.png)
 
   * Each component computes the following function
 
-[inline:p5-104.png]
+![](/files/p5-104.png)
 
   * Their model uses unrealistic rate neurons with that function for an output
   * We can use populations of spiking neurons and compute that function
@@ -93,13 +93,13 @@ title: "Part Five: Cognitive Models"
   * Graph shows the output from the basal ganglia (each line shows a different action)
   * The selected action is the one set to zero 
 
-[inline:p5-105.png]
+![](/files/p5-105.png)
 
   * Comparison to neural data 
     * Ryan & Clark, 1991
     * Stimulate regions in medial orbitofrontal cortex, measure from GPi, see how long it takes for a response to occur
 
-[inline:p5-106.png]
+![](/files/p5-106.png)
 
   * To replicate 
     * Set the inputs to [0, 0, 0.6, 0, 0]
@@ -108,11 +108,11 @@ title: "Part Five: Cognitive Models"
     * Continue simulation
     * Measure how long it takes for the neurons for the fourth action to stop firing
 
-[inline:p5-107.png]
+![](/files/p5-107.png)
 
   * In rats: 14-17ms. In model: 14ms (or more if the injected current isn't extremely large)
 
-[inline:p5-108.png]
+![](/files/p5-108.png)
 
 ## Sequences of Actions
 
@@ -132,13 +132,13 @@ title: "Part Five: Cognitive Models"
 
 ` run demo/sequence.py `
 
-[inline:p5-109.png]
+![](/files/p5-109.png)
 
   * Can set the contents of working memory in Interactive Plots by opening an SP graph, right-clicking on it, and choosing "set value" (use "release value" to allow the model to change the contents)
   * Cycle time is around 40ms, slightly faster than the standard 50ms value used in ACT-R, Soar, EPIC, etc. 
     * This depends on the time constant for the neurotransmitter GABA
 
-[inline:p5-110.png]
+![](/files/p5-110.png)
 
 ## Routing of Information
 
@@ -148,7 +148,7 @@ title: "Part Five: Cognitive Models"
 
 ` run demo/sequencenogate.py `
 
-[inline:p5-113.png]
+![](/files/p5-113.png)
 
   * Problem: If this connection always exists, then the visual input will always override what's in working memory. this connection needs to be controllable
 
@@ -161,11 +161,11 @@ title: "Part Five: Cognitive Models"
 
 ` run demo/sequencerouted.py `
 
-[inline:p5-112.png]
+![](/files/p5-112.png)
 
   * The pattern in the visual buffer is successfully transferred to working memory, then the sequence is continued from that letter.
 
-[inline:p5-111.png]
+![](/files/p5-111.png)
 
   * Takes longer (60-70ms) for these more complex productions to occur
 
@@ -186,9 +186,9 @@ title: "Part Five: Cognitive Models"
   * This is achieved by creating two action rules: 
     * If a statement is in the visual area, move it to working memory (as in the previous example)
     * If a question is in the visual area, unbind it with working memory and place the result in the motor area
-  * This example requires a much larger simulation than any of the others in this tutorial (more than 50,000 neurons). If you run this script, Nengo may take a long time (hours!) to solve for the decoders and neural connection weights needed. We have pre-computed the larger of these networks for you, and they can be downloaded at [http://ctn.uwaterloo.ca/~cnrglab/f/question.zip](http://ctn.uwaterloo.ca/~cnrglab/f/question.zip).
+  * This example requires a much larger simulation than any of the others in this tutorial (more than 50,000 neurons). If you run this script, Nengo may take a long time (hours!) to solve for the decoders and neural connection weights needed. We have pre-computed the larger of these networks for you, and they can be downloaded at [/files/question.zip](/files/question.zip).
 
-[inline:p5-202.png]
+![](/files/p5-202.png)
 
 ` run demo/question.py `
 
