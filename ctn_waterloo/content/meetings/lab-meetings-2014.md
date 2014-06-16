@@ -36,4 +36,4 @@ This year's meetings:
 - June 6: Roundtable
 - June 13 & 20: Nengo summer school
 - June 27: No Meeting (Chris away)
-- Jul 4: Lisanne presentation (hippocampus model)
+- Jul 4: Lisanne presentation (hippocampus model); Linus presentation
