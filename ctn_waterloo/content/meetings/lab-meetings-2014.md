@@ -33,4 +33,7 @@ This year's meetings:
 - May 16: Roundtable
 - May 23: Xuan's Comp II practice run
 - May 30: Dan on Cappocaccia; Pete and Eric on Ottawa Summer School
+- June 6: Roundtable
+- June 13 & 20: Nengo summer school
+- June 27: No Meeting (Chris away)
 - Jul 4: Lisanne presentation (hippocampus model)
