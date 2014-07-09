@@ -37,7 +37,7 @@ This year's meetings:
 - June 13 & 20: Nengo summer school
 - June 27: No Meeting (Chris away)
 - Jul 4: Lisanne presentation (hippocampus model); Linus presentation
-- Jul 11: James presentation (ICML); Chris presentation (Sloan-Swartz)
+- Jul 11: James & Brent presentation (ICML & SciPy); Chris presentation (Sloan-Swartz)
 - Jul 18:
 - Jul 25-Aug 8: No meeting (Chris away)
 - Aug 15:
