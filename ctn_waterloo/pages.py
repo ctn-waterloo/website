@@ -52,11 +52,11 @@ def bibtex_to_dict(text):
     extract = ('title', 'abstract', 'pdf', 'url', 'year', 'keywords',
                'poster', 'presentation')
     for key in extract:
-        if entry.fields.has_key(key):
+        if key in entry.fields:
             meta[key] = meta['cite_info'].pop(key)
 
     # Add editors to cite_info, if they exist
-    if entry.persons.has_key('editor'):
+    if 'editor' in entry.persons:
         meta['cite_info']['editors'] = ", " .join(
             [_format_person(person) for person in entry.persons['editor']])
 
