@@ -48,4 +48,3 @@ This year's meetings:
 - Sept 19: Dan scikit learn & 2 figures of RL
 - Sept 26: Trevor speech synthesizer
 - Oct 3: Pete area/future directions
-- 
