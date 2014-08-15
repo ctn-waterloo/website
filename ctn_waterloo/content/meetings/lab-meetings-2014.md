@@ -40,4 +40,12 @@ This year's meetings:
 - Jul 11: James & Brent presentation (ICML & SciPy); Chris presentation (Sloan-Swartz)
 - Jul 18: Travis on MBL brain camp; Chris cogsci practice
 - Jul 25-Aug 8: No meeting (Chris away)
-- Aug 15:
+- Aug 15: Org meeting and updates
+- Aug 22: Aaron reconstructing signals
+- Aug 29: No meeting
+- Sept 5: Jan on derivations and n-back
+- Sept 12: Travis arm control
+- Sept 19: Dan scikit learn & 2 figures of RL
+- Sept 26: Trevor speech synthesizer
+- Oct 3: Pete area/future directions
+- 
