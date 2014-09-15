@@ -47,4 +47,11 @@ This year's meetings:
 - Sept 12: Travis arm control
 - Sept 19: Dan scikit learn & 2 figures of RL
 - Sept 26: Trevor speech synthesizer
-- Oct 3: Pete area/future directions
+- Oct 3: No meeting (chris away)
+- Oct 10: Pete area/future directions
+- Oct 17: No meeting (Chris away)
+- Oct 24: No meeting (Chris away)
+- Oct 31: No meeting (Chris away)
+- Nov 7:
+- Nov 14:
+- Nov 21: No meeting (Chris away)
