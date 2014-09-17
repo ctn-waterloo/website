@@ -1,0 +1,35 @@
+@inproceedings{voelker2014a,
+  title={Learning large-scale heteroassociative memories in spiking neurons},
+  abstract={Associative memories have been an active area of research over the last forty years (Willshaw
+et al., 1969; Kohonen, 1972; Hopfield, 1982) because they form a central component of many
+cognitive architectures (Pollack, 1988; Anderson & Lebiere, 1998). We focus specifically on
+associative memories that store associations between arbitrary pairs of neural states. When
+a noisy version of an input state vector is presented to the network, it must output a "clean"
+version of the associated state vector. We describe a method for building large-scale networks for
+online learning of associations using spiking neurons, which works by exploiting the techniques
+of the Neural Engineering Framework (Eliasmith & Anderson, 2003). This framework has
+previously been used by Stewart et al. (2011) to create memories that possess a number of
+desirable properties including high accuracy, a fast, feedforward recall process, and etcient
+scaling, requiring a number of neurons linear in the number of stored associations. These
+memories have played a central role in several recent neural cognitive models including Spaun,
+the world's largest functional brain model (Eliasmith et al., 2012), as well as a proposal for
+human-scale, biologically plausible knowledge representation (Crawford et al., 2013). However,
+these memories are constructed using an ne optimization method that is not biologically
+plausible. Here we demonstrate how a similar set of connection weights can be arrived at through
+a biologically plausible, online learning process featuring a novel synaptic learning rule inspired in
+part by the well-known Oja learning rule (Oja, 1989). We present the details of our method and
+report the results of simulations exploring the storage capacity of these networks. We show that
+our technique scales up to large numbers of associations, and that recall performance degrades
+gracefully as the theoretical capacity is exceeded. This work has been implemented in the
+Nengo simulation package (http://nengo.ca), which will allow straightforward implementations
+of spiking neural networks on neuromorphic hardware. The result of our work is a fast, adaptive,
+scalable associative memory composed of spiking neurons which we expect to be a valuable
+addition to large systems peforming online neural computation.},
+  author={Russell Voelker, Aaron and Crawford, Eric and Eliasmith, Chris},
+  booktitle={Unconventional Computation & Natural Computation},
+  address={London, Ontario},
+  year={2014},
+  month={07/2014},
+  pdf={/files/publications/voelker.2014a.pdf},
+  poster={/files/publications/voelker.2014b.pdf},
+}
