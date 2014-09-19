@@ -46,7 +46,7 @@ This year's meetings:
 - Sept 5: Jan on derivations and n-back
 - Sept 12: Travis arm control
 - Sept 19: Round table
-- Sept 26: Dan scikit learn & 2 figures of RL
+- Sept 26: Dan on pong RL
 - Oct 3: No meeting (chris away)
 - Oct 10: Trevor speech synthesizer
 - Oct 17: No meeting (Chris away)
