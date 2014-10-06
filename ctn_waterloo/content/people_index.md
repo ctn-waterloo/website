@@ -2,12 +2,8 @@ title: People
 alumni:
     - text: Lisanne Huurdeman (2014 Intern)
       url: /people/lisanne-huurdeman.html
-    - text: Eric Crawford (2014 MASc)
-      url: /people/eric-crawford.html
     - text: James Bergstra (2014 Postdoc)
       url: /people/james-bergstra.html
-    - text: Daniel Rassmussen (2014 PHD)
-      url: /people/daniel-rasmussen.html
     - text: Connor Smith (2013 UGrad Tron)
       url: /people/connor-smith.html
     - text: Carter Kolbeck (2013 MASc)
