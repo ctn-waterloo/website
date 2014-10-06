@@ -23,12 +23,9 @@ Neuroscience](http://ctn.uwaterloo.ca/) (CTN). For seminars, workshops,
 and other activities related to theoretical neuroscience, please visit
 the [Centre's webpage](http://ctn.uwaterloo.ca/).
 
-Since its inception, the
-group has been closely affiliated with the [Center for Higher Brain
-Function](http://stp.wustl.edu) headed by David Van Essen. Both the
-Center and the CNRG are located on the second and third floors of the
-East McDonnell building (right) of the [Washington University in St.
-Louis Medical School](http://www.medicine.wustl.edu). The CNRG also
+Early in it's development, the
+group was closely affiliated with the Center for Higher Brain
+Function headed by David Van Essen. The CNRG also
 works in close collaboration with a number of [other
 labs](/people.html) at the medical school and has ties to
 the [Philosophy-Neuroscience-Psychology (PNP)
