@@ -1,7 +1,7 @@
 name: Lisanne Huurdeman
 email: lisanne.huurdeman@gmail.com
 one_liner: Spatial navigation
-group: Grad students
+group: Grad students, Alumnus
 title: Masters Student
 picture: http://i.imgur.com/4JwMuGj.jpg?1
 links:

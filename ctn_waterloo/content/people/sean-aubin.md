@@ -1,9 +1,9 @@
 name: Sean Aubin
 email: seanaubin@gmail.com
 one_liner: Visualization, Embodying Hierarchical Reinforcement Learning
-group: Undergrad Students
+group: Undergrad students
 title: Electrical Engineering Student
-picture: http://imgur.com/6UikHja
+picture: http://compneuro.uwaterloo.ca/files/sean.jpg
 links:
     - text: CV (March 2014)
       url: /files/people/aubin-cv.pdf
