@@ -1,7 +1,7 @@
 name: James Bergstra
 email: jbergstra@uwaterloo.ca
 one_liner: Machine learning, Bayesian Optimization, Computer Vision, High-performance Computing
-group: Postdocs, Alumnus
+group: Alumnus
 title: Postdoc
 picture: http://banting.fellowships-bourses.gc.ca/images/fel_james_bergstra_s.jpg
 links:
