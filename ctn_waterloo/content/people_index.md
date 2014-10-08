@@ -1,5 +1,9 @@
 title: People
 alumni:
+    - text: Lisanne Huurdeman (2014 Intern)
+      url: /people/lisanne-huurdeman.html
+    - text: James Bergstra (2014 Postdoc)
+      url: /people/james-bergstra.html
     - text: Connor Smith (2013 UGrad Tron)
       url: /people/connor-smith.html
     - text: Carter Kolbeck (2013 MASc)
