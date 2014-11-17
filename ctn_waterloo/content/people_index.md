@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Daniel Rasmussen (2014 PhD)
+      url: /people/daniel-rasmussen.html
     - text: Lisanne Huurdeman (2014 Intern)
       url: /people/lisanne-huurdeman.html
     - text: James Bergstra (2014 Postdoc)
