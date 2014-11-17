@@ -1,7 +1,7 @@
 name: Daniel Rasmussen
 email: drasmuss@uwaterloo.ca
 one_liner: General intelligence and reinforcement learning
-group: Grad students
+group: Alumnus
 title: PhD candidate
 picture: http://compneuro.uwaterloo.ca/files/people/danielrasmussen/default_pic.jpg
 links: 
@@ -14,15 +14,17 @@ links:
     - text: ResearchGate
       url: https://www.researchgate.net/profile/Daniel_Rasmussen/
 
-I am a PhD candidate in Computer Science at the University of Waterloo,
+Former PhD candidate in Computer Science at the University of Waterloo,
 working with Chris Eliasmith in the Centre for Theoretical Neuroscience.
 You can find my [full CV here](http://compneuro.uwaterloo.ca/files/people/danielrasmussen/CV.pdf).
 
 ## Education
 
-I completed a Master's of Mathematics at the University of Waterloo (in the
-Centre for Theoretical Neuroscience) in 2010, with my thesis 
-[A neural modelling approach to investigating general intelligence](http://hdl.handle.net/10012/5330).
+I completed both my Master's and PhD at the CTN, in 2010 and 2014 respectively.  You can find my theses here:
+
+[A neural modelling approach to investigating general intelligence](http://hdl.handle.net/10012/5330)
+
+Hierarchical reinforcement learning in a biologically plausible neural architecture (link pending)
 
 Prior to that I completed my undergrad at Mount Allison
 University in Sackville, NB. I graduated in 2008 with a double major in Computer Science and Philosophy. 
@@ -38,12 +40,15 @@ learn from experience to build up the complex processing of intelligence.
 
 ## Current projects
 
+Post-doc at Princeton University
+
+
+## Past projects
+
 Building neural models capable of hierarchical reinforcement learning
 
 Here is a brief, high-level presentation I gave describing this research:
 <iframe width="560" height="315" src="//www.youtube.com/embed/_f2p0inm79s" frameborder="0" allowfullscreen></iframe>
-
-## Past projects
 
 Modelling problem solving in Raven's Progressive Matrices
 
