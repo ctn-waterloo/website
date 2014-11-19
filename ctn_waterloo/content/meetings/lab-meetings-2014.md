@@ -53,5 +53,9 @@ This year's meetings:
 - Oct 24: No meeting (Chris away)
 - Oct 31: No meeting (Chris away)
 - Nov 7: Pete area/future directions
-- Nov 14:
+- Nov 14: roundtable
 - Nov 21: No meeting (Chris away)
+- Nov 28: Oliver on hippocampus
+- Dec 5: Eric on his thesis proposal (vision)
+- Dec 10: Billy on HRL and Nengo
+(see next year)
