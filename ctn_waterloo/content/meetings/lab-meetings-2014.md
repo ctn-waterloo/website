@@ -54,7 +54,7 @@ This year's meetings:
 - Oct 31: No meeting (Chris away)
 - Nov 7: Pete area/future directions
 - Nov 14: roundtable
-- Nov 21: No meeting (Chris away)
+- Nov 21: Terry on Brainstorms and TrueNorth
 - Nov 28: Oliver on hippocampus
 - Dec 5: Eric on his thesis proposal (vision)
 - Dec 12: Billy on HRL and Nengo
