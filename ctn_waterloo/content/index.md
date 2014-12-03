@@ -4,7 +4,7 @@ teaser:
 teaser_image: http://compneuro.uwaterloo.ca/files/htbab.jpg
 video: Y11sTKgC0Ys
 
-_We are currently looking for a [postdoc](/blog/postdoc-position.html) to join the lab_
+_We are currently looking for a [postdoc](/blog/postdoc-position-in-large-scale-brain-modeling.html) to join the lab_
 
 Welcome to the Computational Neuroscience Research Group (CNRG) site. We are
 one of the labs in the Waterloo [Centre for Theoretical Neuroscience](http://ctn.uwaterloo.ca/).
