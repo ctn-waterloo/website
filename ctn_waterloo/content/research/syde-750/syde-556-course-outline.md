@@ -4,7 +4,7 @@ _Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
 _Instructor_: Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), HH 331)
 
-_Room and Time_: E5 6002, Mon & Thurs. 12:30p-1:50p
+_Room and Time_: E5 6002, Mon & Thurs. 12:30p-1:50p (2:00p-2:50p Thurs for 750)
 
 _Texts_: Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
 and Dynamics in Neurobiological Systems. MIT Press.

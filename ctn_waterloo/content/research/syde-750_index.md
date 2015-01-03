@@ -13,11 +13,15 @@ toc:
 
 [Course outline](/research/syde-750/syde-556-course-outline.html)
 
-_Instructor:_ Chris Eliasmith ([Email](mailto:celiasmith@uwaterloo.ca))
+_Instructor:_ Chris Eliasmith ([email](mailto:celiasmith@uwaterloo.ca))
 
 _Office:_ HH 331
 
-_Office Hours:_ Monday and Thursday 2:00-3:00, or by appointment
+_Office Hours:_ Monday 2-3 and Thursday 3-4, or by appointment
+
+_Location:_ E5 6002
+
+_Times:_ Mon & Thurs. 12:30p-1:50p (2:00p-2:50p Thurs for 750)
 
 _Due Dates:_ 
 
@@ -41,7 +45,7 @@ and they charge \$20 per half hour (or \$15 per person per half hour for groups)
 
 The in-class lecture notes will be posted here after each class.
 
- * Week 1: (January 5, 8) [Introduction]
+ * Week 1: (January 5, 8) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
  * Week 2: (January 12, 15) [Representation]
  * Week 3: (January 19, 22) [Temporal Representation]
  * Week 4: (January 26, 29) [Transformation] (January 29) [Final Projects]
