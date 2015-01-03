@@ -1,7 +1,7 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Winter 2014.
+    Course information for SYDE 556/750, taught Winter 2015.
 people:
     - Chris Eliasmith
     - Terry Stewart
@@ -13,19 +13,19 @@ toc:
 
 [Course outline](/research/syde-750/syde-556-course-outline.html)
 
-Instructor: Terry Stewart ([Email](mailto:terry.stewart@gmail.com))
+_Instructor:_ Chris Eliasmith ([Email](mailto:celiasmith@uwaterloo.ca))
 
-Office: PAS 2463
+_Office:_ HH 331
 
-Office Hours: Monday and Wednesday 12:30-2:30, or by appointment
+_Office Hours:_ Monday and Thursday 2:00-3:00, or by appointment
 
 _Due Dates:_ 
 
- * Jan 29th: Assignment #1 (due at dawn) (20%)
- * Feb 17th: Assignment #2 (due at dawn) (20%) 
- * Mar 11th: Assignment #3 (due at dawn) (10%)
- * Mar 31st: Assignment #4 (due at dawn) (10%)
- * Apr 24th: Final Project (40%)
+ * Jan 26th: Assignment #1 (due at midnight) (20%)
+ * Feb 12th: Assignment #2 (due at midnight) (20%) 
+ * Mar 5th: Assignment #3 (due at midnight) (10%)
+ * Mar 19th: Assignment #4 (due at midnight) (10%)
+ * Apr 23rd: Final Project (40%)
 
 
 * * *
@@ -41,17 +41,19 @@ and they charge \$20 per half hour (or \$15 per person per half hour for groups)
 
 The in-class lecture notes will be posted here after each class.
 
- * Week 1: (January 6, 8) [Introduction](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
- * Week 2: (January 13, 15) [Representation](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
- * Week 3: (January 20, 22) [Temporal Representation](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
- * Week 4: (January 27) [Transformation](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb) (January 29) [Final Projects](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Final%20Projects.ipynb)
-* Week 5: (February 3) [Nengo Tutorial](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Nengo%20Tutorial.ipynb)
- (February 5, 10) [Dynamics](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
-* Week 6 (February 12) [Decoder Analysis](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
-* Week 7 (February 24) [Action Selection](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%207%20Action%20Selection.ipynb)
-* Week 8 [Symbols](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%208%20Symbols.ipynb)
-* Week 9 [Spatial Representation](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%209%20Spatial%20Representation.ipynb)
-* Week 10 [Learning](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
+ * Week 1: (January 5, 8) [Introduction]
+ * Week 2: (January 12, 15) [Representation]
+ * Week 3: (January 19, 22) [Temporal Representation]
+ * Week 4: (January 26, 29) [Transformation] (January 29) [Final Projects]
+* Week 5: (February 2, 5) [Nengo Tutorial]
+ (February 9, 12) [Dynamics]
+* Week 6 (February 23) [Decoder Analysis]
+* Week 7 (February 26) [Action Selection]
+* Week 8 (March 2, 5) [Symbols]
+* Week 9 (March 9, 12) [Spatial Representation]
+* Week 10 (March 16, 19) [Learning]
+26 - No lecture
+March 23, 30, Apr 2 - Project Presentations
 * * *
 
 ##  Assignments
@@ -59,14 +61,14 @@ The in-class lecture notes will be posted here after each class.
 The four assignments will be posted here 
 
  * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
- * You can (and are encouraged to) work together, but each student must write their own code and submit their own assignment.
+ * Each student must write their own code and submit their own assignment.
  * Please hand in electronic copies by mailing them to me in .pdf format. Include code, or any modified code. Please name the document like this: `<lastname>.Assignment<number>.pdf`
- * Assignments are due _AT DAWN_.  The late penalty is one mark per day it is late.
+ * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
-  * Assignment 1: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%201.ipynb) [PDF](https://github.com/tcstewar/syde556/raw/master/Assignment%201.pdf)
-  * Assignment 2: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%202.ipynb) [PDF](https://github.com/tcstewar/syde556/raw/master/Assignment%202.pdf)
-  * Assignment 3: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%203.ipynb)
-  * Assignment 4: [HTML](http://nbviewer.ipython.org/github/tcstewar/syde556/blob/master/Assignment%204.ipynb)
+  * Assignment 1: [HTML] [PDF]
+  * Assignment 2: [HTML] [PDF]
+  * Assignment 3: [HTML]
+  * Assignment 4: [HTML]
   
 * * *
 

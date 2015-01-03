@@ -2,9 +2,9 @@ title: SYDE 556 Course Outline
 
 _Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
-_Instructor_: Terry Stewart ([tcstewar@uwaterloo.ca](mailto:tcstewar@uwaterloo.ca), PAS 2463
+_Instructor_: Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), HH 331)
 
-_Room and Time_: DWE 3519, Mon & Wed. 11:00a-12:30p
+_Room and Time_: E5 6002, Mon & Thurs. 12:30p-1:50p
 
 _Texts_: Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
 and Dynamics in Neurobiological Systems. MIT Press.
@@ -23,25 +23,25 @@ Familiarity with calculus and linear algebra is required.
 
 **_Schedule_**:
 
-<table style="border: 1px solid black;">
+<table style="border: 1px solid black;" cellspacing="10">
 <tr><th>Week</th><th>Reading</th><th>Monday</th><th>Wednesday</th><th>Assignments</th></tr>
-<tr><td>Jan 6, 8</td><td>Chpt 1</td><td>Introduction</td><td>Neurons</td><td></td></tr>
-<tr><td>Jan 13, 15</td><td>Chpt 2,4</td><td colspan=2>Neural Coding</td><td>#1 posted</td></tr>
-<tr><td>Jan 20, 22</td><td>Chpt 4</td><td colspan=2>Neural Models</td><td></td></tr>
-<tr><td>Jan 27, 29</td><td>Chpt 5,6</td><td colspan=2>Feedforward Transformations</td><td>#1 due (29th at dawn); #2 posted</td></tr>
-<tr><td>Feb 3, 5</td><td>Chpt 6,3</td><td colspan=2>Nonlinear Transformations</td><td></td></tr>
-<tr><td>Feb 10, 12</td><td>Chpt 7</td><td colspan=2>Analysis of Representations</td><td>#2 due (14th at dawn)</td></tr>
-<tr><td>Feb 17, 19</td><td></td><td colspan=2>*Reading Week*</td><td>#3 posted</td></tr>
-<tr><td>Feb 24, 26</td><td>Chpt 8</td><td colspan=2>Dynamics and Neural Control</td><td></td></tr>
-<tr><td>Mar 3, 5</td><td>Chpt 8</td><td colspan=2>Dynamics and Neural Control</td><td>#3 due (5th at dawn)</td></tr>
-<tr><td>Mar 10, 12</td><td>Chpt 9</td><td colspan=2>Inference and Learning</td><td>#4 posted</td></tr>
-<tr><td>Mar 17, 19</td><td></td><td colspan=2></td><td>#4 due (19th at dawn)</td></tr>
-<tr><td>Mar 24, 26</td><td></td><td colspan=2>Project Presentations</td><td></td></tr>
-<tr><td>Mar 31, Apr 2</td><td></td><td colspan=2>Project Presentations</td><td></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 5, 8</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td style="padding:0 15px 0 15px;">Introduction</td><td style="padding:0 15px 0 15px;">Neurons</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 12, 15</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td colspan=2>Neural Coding</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 19, 22</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td colspan=2>Neural Models</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 26, 29</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td colspan=2>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (26th at midnight); #2 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 2, 5</td><td style="padding:0 15px 0 15px;">Chpt 6,3</td><td colspan=2>Nonlinear Transformations</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 9, 12</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td colspan=2>Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (12th at midnight); #3 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 16, 19</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>*Reading Week*</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 24, 26</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td colspan=2>Dynamics and Neural Control</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 2, 5</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td colspan=2>Dynamics and Neural Control</td><td style="padding:0 15px 0 15px;">#3 due (5th at midnight); #4 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 9, 12</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td colspan=2>Inference and Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 16, 19</td><td style="padding:0 15px 0 15px;">Provided</td><td colspan=2>Symbols</td><td style="padding:0 15px 0 15px;">#4 due (19th at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 23</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 30, Apr 2</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
 </table>
 
 
-**_Grading_**: The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by _DAWN_ of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually (everyone writes their own code and answers questions themselves), but students are encouraged to work together.
+**_Grading_**: The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by _Midnight_ of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
 
 _Academic Integrity:_ In order to maintain a culture of academic integrity,
 members of the University of Waterloo are expected to promote honesty, trust,
