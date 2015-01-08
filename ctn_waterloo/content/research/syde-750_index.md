@@ -21,7 +21,7 @@ _Office Hours:_ Monday 2-3 and Thursday 3-4, or by appointment
 
 _Location:_ E5 6002
 
-_Times:_ Mon & Thurs. 12:30p-1:50p (2:00p-2:50p Thurs for 750)
+_Times:_ Mon & Thurs. 12:30p-1:50p (plus 2:00p-2:50p Thurs for 750)
 
 _Due Dates:_ 
 
@@ -69,8 +69,8 @@ The four assignments will be posted here
  * Please hand in electronic copies by mailing them to me in .pdf format. Include code, or any modified code. Please name the document like this: `<lastname>.Assignment<number>.pdf`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
-  * Assignment 1: [HTML] [PDF]
-  * Assignment 2: [HTML] [PDF]
+  * Assignment 1: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
+  * Assignment 2: [HTML] 
   * Assignment 3: [HTML]
   * Assignment 4: [HTML]
   
