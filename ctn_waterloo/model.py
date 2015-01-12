@@ -73,7 +73,13 @@ class Model(object):
         elif pub['type'] == 'techreport':
             pub.journal = "Tech Report"
         elif 'thesis' in pub['type']:
-            pub.journal = "Thesis"
+            pub.journal = "Thesis"  # fallback
+            if 'type' in pub['cite_info']:
+                ctype = pub['cite_info']['type'].lower()
+                if "master" in ctype or "master's" in ctype:
+                    pub.journal = "Master's Thesis"
+                elif "phd" in ctype:
+                    pub.journal = "PhD Thesis"
         elif 'book' in pub['type']:
             pub.journal = pub['cite_info']['publisher']
         elif pub['cite_info'].has_key('booktitle'):
