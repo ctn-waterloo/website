@@ -14,6 +14,7 @@ TYPE_TEXT = {
     'proceedings': 'Conference Proceedings',
     'book': 'Book',
     'mastersthesis': 'Thesis',
+    'phdthesis': 'Thesis',
     'article': 'Journal Article',
 }
 
