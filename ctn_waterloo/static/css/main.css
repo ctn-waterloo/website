@@ -390,6 +390,21 @@ h6 {
   padding: 10px;
 }
 
+/* Citation modal popup stuff */
+
+textarea {
+  width: 100%;
+  resize: none;
+  /* make 100% width account for scrollbar (CSS 3) */
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.tab-pane button {
+  margin-bottom: 10px;
+}
+
 /* make list.js pagination like bootstrap pagination */
 
 .pagination ul>li:first-child>.page>a, .pagination ul>li:first-child>.page>span {

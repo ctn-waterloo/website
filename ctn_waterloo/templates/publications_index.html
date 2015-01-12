@@ -96,29 +96,7 @@
               </div>
               {% endif -%}
             </div>
-            <div id="{{ pub.citekey }}cite" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="Cite this paper" aria-hidden="true">
-              <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h3>Cite {{ pub.title }}</h3>
-              </div>
-              <div class="modal-body">
-                <ul class="nav nav-tabs" id="cite">
-                  <li class="active"><a href="#{{ pub.citekey }}pt" data-toggle="tab">Plain text</a></li>
-                  <li><a href="#{{ pub.citekey }}bt" data-toggle="tab">BibTeX</a></li>
-                </ul>
-                <div class="tab-content">
-                  <div class="tab-pane active" id="{{ pub.citekey }}pt">
-                    <p>{{ pub.cite_plain }}</p>
-                  </div>
-                  <div class="tab-pane" id="{{ pub.citekey }}bt">
-                    <p><pre>{{ pub.cite_bibtex }}</pre></p>
-                  </div>
-                </div>
-                <div class="modal-footer">
-                  <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-                </div>
-              </div>
-            </div>
+            {{ citation_box(pub) }}
           </li>{% endfor %}
         </ul>
       </div>

@@ -51,33 +51,12 @@
         {% endfor %}
       </dl>
       <h4>Cite</h4>
-      <div class="accordion" id="citation">
-        <div class="accordion-group">
-          <div class="accordion-heading">
-            <a class="accordion-toggle" data-toggle="collapse" data-parent="#citation" href="#plaintext">
-              Plain text
-            </a>
-          </div>
-          <div id="plaintext" class="accordion-body collapse">
-            <div class="accordion-inner">
-              <p>{{ publication.cite_plain }}</p>
-            </div>
-          </div>
-        </div>
-        <div class="accordion-group">
-          <div class="accordion-heading">
-            <a class="accordion-toggle" data-toggle="collapse" data-parent="#citation" href="#bibtex">
-              BibTeX
-            </a>
-          </div>
-          <div id="bibtex" class="accordion-body collapse">
-            <div class="accordion-inner">
-              <p><pre>{{ publication.cite_bibtex }}</pre></p>
-            </div>
-          </div>
-        </div>
-      </div>
-      {{ github(publication, extension="bib", spanclass="rightcol-link") }}
+      <p><a href="#{{ publication.citekey }}cite" data-toggle="modal"
+            onclick="{{ publication.citekey }}_show_tab('pt');"> Plain text </a></p>
+      <p><a href="#{{ publication.citekey }}cite" data-toggle="modal"
+            onclick="{{ publication.citekey }}_show_tab('bt');"> BibTeX </a></p>
+      <p> {{ github(publication, extension="bib", spanclass="rightcol-link") }} </p>
     </div>
   </div>
+  {{ citation_box(publication) }}
 {% endblock main %}

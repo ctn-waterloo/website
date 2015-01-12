@@ -6,6 +6,57 @@
     </a>
   </span>
 {%- endmacro -%}
+{% macro citation_box(pub, class="modal hide fade") -%}
+  <div id="{{ pub.citekey }}cite" class="{{ class }}" tabindex="-1"
+       role="dialog" aria-labelledby="Cite this paper" aria-hidden="true">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      <h3 id="title">Cite "{{ pub.title }}"</h3>
+    </div>
+    <div class="modal-body">
+      <ul class="nav nav-tabs" id="cite">
+        <li class="active"><a href="#{{ pub.citekey }}pt" id="pt" data-toggle="tab">Plain text</a></li>
+        <li><a href="#{{ pub.citekey }}bt" id="bt" data-toggle="tab">BibTeX</a></li>
+      </ul>
+      <div class="tab-content">
+        <div class="tab-pane active" id="{{ pub.citekey }}pt">
+          <textarea readonly rows="10" id="pt">{{ pub.cite_plain }}</textarea>
+          <button class="btn" onclick="{{ pub.citekey }}_select_all('pt');"> Select All </button>
+        </div>
+        <div class="tab-pane" id="{{ pub.citekey }}bt">
+          <textarea readonly rows="10" id="bt">{{ pub.cite_bibtex }}</textarea>
+          <span style="float: left;">
+            <button class="btn" onclick="{{ pub.citekey }}_select_all('bt');"> Select All </button>
+          </span>
+          <span style="float: right;">
+            <a href="https://raw.githubusercontent.com/ctn-waterloo/website/master/ctn_waterloo/content/publications/{{ pub.citekey }}.bib" style="margin-right:20px;">Raw</a>
+          </span>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    var {{ pub.citekey }}_target_tab = ''
+    function {{ pub.citekey }}_show_tab(id) {
+      {{ pub.citekey }}_target_tab = id
+    }
+
+    $('#{{ pub.citekey }}cite').on('show.bs.modal', function (event) {
+      var target_tab = {{ pub.citekey }}_target_tab
+      if (target_tab) {
+        $(this).find('a#' + target_tab).tab('show')
+      }
+    })
+
+    function {{ pub.citekey }}_select_all(id) {
+      $('#{{ pub.citekey }}cite textarea#' + id).select();
+    }
+  </script>
+{%- endmacro -%}
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -21,9 +72,16 @@
 
     <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     <link type="text/plain" rel="author" href="/humans.txt">
+
+    <!-- JQuery (must be before bootstrap.js) -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!-- Bootstrap -->
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
-    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+
+    <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
