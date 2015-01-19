@@ -47,7 +47,7 @@ The in-class lecture notes will be posted here after each class.
 
  * Week 1: (January 5, 8) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
  * Week 2: (January 12, 15) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
- * Week 3: (January 19, 22) [Temporal Representation]
+ * Week 3: (January 19, 22) [Temporal Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
  * Week 4: (January 26, 29) [Transformation] (January 29) [Final Projects]
 * Week 5: (February 2, 5) [Nengo Tutorial]
  (February 9, 12) [Dynamics]
