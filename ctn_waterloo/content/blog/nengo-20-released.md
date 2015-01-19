@@ -42,8 +42,8 @@ Nengo has support for the following learning rules:
 - BCM rule
 - Oja rule
 
-See the documentation and example models
-for
+See the documentation
+for more details and example usage.
 
 ### Changes in Nengo 2.0
 
