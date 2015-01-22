@@ -17,5 +17,5 @@ This year's meetings:
 - Jan 27: Brent on quadcopter modelling
 - Feb 3: Youssef on eye control
 - Feb 10: Trevor on speech
-- Feb 24: Amir on quadcopter control
+- Feb 24: Amir on adaptive benchmarking
 - Mar 3: Aaron on something
