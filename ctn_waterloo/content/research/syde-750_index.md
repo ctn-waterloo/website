@@ -48,9 +48,8 @@ The in-class lecture notes will be posted here after each class.
  * Week 1: (January 5, 8) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
  * Week 2: (January 12, 15) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
  * Week 3: (January 19, 22) [Temporal Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
- * Week 4: (January 26, 29) [Transformation] (January 29) [Final Projects]
-* Week 5: (February 2, 5) [Nengo Tutorial]
- (February 9, 12) [Dynamics]
+ * Week 4: (January 26, 29, Feb 2) [Transformation] (January 29) [Final Projects]
+* Week 5: (February 5, 9, 12) [Dynamics]
 * Week 6 (February 23) [Decoder Analysis]
 * Week 7 (February 26) [Action Selection]
 * Week 8 (March 2, 5) [Symbols]
@@ -66,7 +65,8 @@ The four assignments will be posted here
 
  * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
  * Each student must write their own code and submit their own assignment.
- * Please hand in electronic copies by mailing them to me in .pdf format. Include code, or any modified code. Please name the document like this: `<lastname>.Assignment<number>.pdf`
+ * Please hand in electronic copies by mailing them to me in .pdf format.  Please name the document like this: `<lastname>.Assignment<number>.pdf`
+ * Include code, or any modified code, as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
   * Assignment 1: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
