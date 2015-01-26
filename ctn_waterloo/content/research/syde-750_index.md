@@ -70,7 +70,7 @@ The four assignments will be posted here
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
   * Assignment 1: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
-  * Assignment 2: [HTML] 
+  * Assignment 2: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%202.ipynb)
   * Assignment 3: [HTML]
   * Assignment 4: [HTML]
   
