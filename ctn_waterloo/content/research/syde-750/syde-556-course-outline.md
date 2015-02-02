@@ -21,6 +21,8 @@ can be applied to modeling sensory, motor, and cognitive systems.
 _Prerequisites:_ Knowing how to program using matrices in some language (Python, MATLAB, or whatever) is highly recommended.
 Familiarity with calculus and linear algebra is required.
 
+_Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk about the assignments, etc.: 
+
 **_Schedule_**:
 
 <table style="border: 1px solid black;" cellspacing="10">
