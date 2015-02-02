@@ -5,6 +5,8 @@ group: Alumnus
 title: PhD candidate
 picture: http://compneuro.uwaterloo.ca/files/people/danielrasmussen/default_pic.jpg
 links: 
+    - text: Homepage
+      url: http://www.drasmussen.org
     - text: Google Scholar
       url: http://scholar.google.ca/citations?user=pJcUbFQAAAAJ
     - text: LinkedIn
@@ -24,7 +26,7 @@ I completed both my Master's and PhD at the CTN, in 2010 and 2014 respectively. 
 
 [A neural modelling approach to investigating general intelligence](http://hdl.handle.net/10012/5330)
 
-Hierarchical reinforcement learning in a biologically plausible neural architecture (link pending)
+[Hierarchical reinforcement learning in a biologically plausible neural architecture](http://hdl.handle.net/10012/8943)
 
 Prior to that I completed my undergrad at Mount Allison
 University in Sackville, NB. I graduated in 2008 with a double major in Computer Science and Philosophy. 
