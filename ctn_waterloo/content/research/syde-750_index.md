@@ -26,7 +26,7 @@ _Times:_ Mon & Thurs. 12:30p-1:50p (plus 2:00p-2:50p Thurs for 750)
 _Due Dates:_ 
 
  * Jan 26th: Assignment #1 (due at midnight) (20%)
- * Feb 12th: Assignment #2 (due at midnight) (20%) 
+ * Feb 16th: Assignment #2 (due at midnight) (20%) 
  * Mar 5th: Assignment #3 (due at midnight) (10%)
  * Mar 19th: Assignment #4 (due at midnight) (10%)
  * Apr 23rd: Final Project (40%)
@@ -50,7 +50,7 @@ The in-class lecture notes will be posted here after each class.
  * Week 3: (January 19, 22) [Temporal Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
  * Week 4: (January 26, 29, Feb 2) [Transformation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb) (January 29) [Final Projects]
 * Week 5: (February 5, 9, 12) [Dynamics](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
-* Week 6 (February 23) [Decoder Analysis]
+* Week 6 (February 23) [Decoder Analysis](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
 * Week 7 (February 26) [Action Selection]
 * Week 8 (March 2, 5) [Symbols]
 * Week 9 (March 9, 12) [Spatial Representation]
