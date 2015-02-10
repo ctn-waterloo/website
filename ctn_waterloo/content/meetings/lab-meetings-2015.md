@@ -7,7 +7,8 @@ Subject to change, of course.
 
 Meetings take place in PAS 2464 Tues at high noon thirty.
 
-Nengo development meetings precede lab meetings, running from 11:30am to noon.
+Nengo development meetings take place on Tuesdays at noon,
+and run for half an hour.
 
 This year's meetings:
 
