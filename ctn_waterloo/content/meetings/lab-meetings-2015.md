@@ -20,3 +20,4 @@ This year's meetings:
 - Feb 27: Trevor on speech
 - Mar 6: Amir on adaptive benchmarking
 - Mar 13: Aaron on something
+- Mar 20: Peter on parsing
