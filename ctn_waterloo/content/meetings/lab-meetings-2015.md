@@ -19,5 +19,5 @@ This year's meetings:
 - Feb 6: Youssef on eye control
 - Feb 27: Trevor on speech
 - Mar 6: Amir on adaptive benchmarking
-- Mar 13: Aaron on something
+- Mar 13: Aaron on implementing gradient descent in NEF
 - Mar 20: Peter on parsing
