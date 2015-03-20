@@ -21,3 +21,8 @@ This year's meetings:
 - Mar 6: Amir on adaptive benchmarking
 - Mar 13: Aaron on implementing gradient descent in NEF
 - Mar 20: Peter on parsing
+- Mar 27: No meeting (Chris away)
+- Apr 3: No meeting (good friday)
+- Apr 10:
+- Apr 17:
+- Apr 24:
