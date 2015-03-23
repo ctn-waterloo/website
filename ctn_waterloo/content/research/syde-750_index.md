@@ -87,9 +87,8 @@ Please have your projects approved by me by the beginning of Feb.
 
 The project report should be in the format discussed in chapter 1 of the book
 (see pp. 19-23; i.e., System Description, Design Specification,
-Implementation). Students will also be expected to do a short (15min)
-presentation on your topic in the last weeks. As with assignments, all code
-must be submitted as well.
+Implementation). Students will also be expected to do a short (5-10min)
+presentation on your topic in the last week or so.  That presentation should consist of a few slides (max 4), that sets up the problem and describes your expected approach. As with assignments, all code for projects must be submitted as well.
 
 * * *
 
