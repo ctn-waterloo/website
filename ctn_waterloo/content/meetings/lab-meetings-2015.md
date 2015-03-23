@@ -23,6 +23,13 @@ This year's meetings:
 - Mar 20: Peter on parsing
 - Mar 27: No meeting (Chris away)
 - Apr 3: No meeting (good friday)
-- Apr 10:
-- Apr 17:
-- Apr 24:
+- Apr 10: How to build a brain (preface & chp 1)
+- Apr 17: How to build a brain (chp 2)
+- Apr 24: How to build a brain (chp 3)
+- May 1: How to build a brain (chp 4)
+- May 8: How to build a brain (chp 5)
+- May 15: How to build a brain (chp 6)
+- May 22: How to build a brain (chp 7)
+- May 29: How to build a brain (chp 8)
+- June 5: How to build a brain (chp 9)
+- June 26: How to build a brain (chp 10)
