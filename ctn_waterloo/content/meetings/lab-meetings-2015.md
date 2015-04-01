@@ -24,7 +24,7 @@ This year's meetings:
 - Mar 27: No meeting (Chris away)
 - Apr 3: No meeting (good friday)
 - Apr 10: How to build a brain (preface & chp 1 - Aaron)
-- Apr 17: How to build a brain (chp 2)
+- Apr 17: How to build a brain (chp 2 - Chris [I guess, we can probably skip the NEF])
 - Apr 24: How to build a brain (chp 3 - Trevor)
 - May 1: How to build a brain (chp 4 - Pete B.)
 - May 8: How to build a brain (chp 5 - Youssef)
