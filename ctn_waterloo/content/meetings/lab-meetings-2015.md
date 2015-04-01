@@ -32,4 +32,4 @@ This year's meetings:
 - May 22: How to build a brain (chp 7 - Xuan)
 - May 29: How to build a brain (chp 8 - Brent)
 - June 5: How to build a brain (chp 9 - Travis)
-- June 26: How to build a brain (chp 10)
+- June 26: How to build a brain (chp 10 - Eric)
