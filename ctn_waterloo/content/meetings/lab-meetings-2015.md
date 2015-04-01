@@ -27,7 +27,7 @@ This year's meetings:
 - Apr 17: How to build a brain (chp 2)
 - Apr 24: How to build a brain (chp 3 - Trevor)
 - May 1: How to build a brain (chp 4 - Pete B.)
-- May 8: How to build a brain (chp 5)
+- May 8: How to build a brain (chp 5 - Youssef)
 - May 15: How to build a brain (chp 6 - Jan)
 - May 22: How to build a brain (chp 7 - Xuan)
 - May 29: How to build a brain (chp 8 - Brent)
