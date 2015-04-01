@@ -31,5 +31,5 @@ This year's meetings:
 - May 15: How to build a brain (chp 6 - Jan)
 - May 22: How to build a brain (chp 7 - Xuan)
 - May 29: How to build a brain (chp 8)
-- June 5: How to build a brain (chp 9)
+- June 5: How to build a brain (chp 9 - Travis)
 - June 26: How to build a brain (chp 10)
