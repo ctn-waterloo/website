@@ -14,10 +14,6 @@ toc:
       - Neural Engineering book to do list
     - Quantitative summary of the NEF
     - Demonstration Videos
-    - - Convolution in neurons
-      - Fly through of several models
-      - Multidimensional representation
-      - Neural Production System
     - Applications of the NEF
     - Benefits of the NEF
     - Challenges for the NEF
@@ -26,7 +22,7 @@ toc:
 The NEF is the main method we use for constructing neural simulations. A quick
 overview of the framework can be found below. The book [Neural
 Engineering](http://www.amazon.com/Neural-Engineering-Representation-
-Neurobiological-Computational/dp/0262550601/) (Amazon link) from MIT Press is
+Neurobiological-Computational/dp/0262550601/) from MIT Press is
 a full description of the framework. However, we are constantly working on
 improving and extending these methods.
 
@@ -45,4 +41,4 @@ Specific features of our modeling approach:
 * Provides a general way to generate circuits that have analytically determined synaptic weights that provide a desired functionality;
 * Promotes the formulation of specific hypotheses about circuit function and about key design constraints.
 
-[Relevant Publications](?q=biblio/term/NEF/) on applications of the NEF.
+See the [publications page](/publications.html) for applications of the NEF.

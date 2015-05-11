@@ -2,18 +2,19 @@ title: Principle 2
 
 ## Principle 2
 
-> Transformations of neural representations are functions of variables that
-are represented by neural populations. Transformations are determined using an
-alternately weighted linear decoding (i.e., the transformational decoding as
-opposed to the representational decoding).
+> Transformations of neural representations are functions of variables
+> that are represented by neural populations. Transformations are
+> determined using an alternately weighted linear decoding (i.e., the
+> transformational decoding asopposed to the representational
+> decoding).
 
 Quantitatively, we assume the same encoding as described in principle 1 and
 define the decoding:
 
-![](/files/eqn4.gif)
+$$\hat{f}(\mathbf{x}(t)) = \sum_i a_i (\mathbf{x}(t)) \phi_i^f$$
 
 This decoding is the similar to that in principle 1, except the decoders are
-determined such that a function, _f_, of the original input signal is
+determined such that a function, $f$, of the original input signal is
 estimated.
 
 The comments in principle 1 about representational decoders apply equally to
@@ -45,7 +46,7 @@ systems.
 
 This result will not be surprising to researchers familiar with current
 computational neuroscience. It has long been known that linear decoding of
-nonlinear basis functions can be used to approximate nonlinear functions
+nonlinear basis functions can be used to approximate nonlinear functions
 (see section 7.4). Nevertheless, our analysis sheds new light on standard
 approaches. Specifically, we: 1) show how observations about neural systems
 can determine which nonlinear functions can be well-approximated by those

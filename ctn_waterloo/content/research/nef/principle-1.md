@@ -2,36 +2,48 @@ title: Principle 1
 
 ## Principle 1
 
-> Neural representations are defined by the combination of nonlinear encoding
-(exemplified by neuron tuning curves) and weighted linear decoding.
+> Neural representations are defined by the combination of nonlinear
+> encoding (exemplified by neuron tuning curves) and weighted linear
+> decoding.
 
 Quantitatively, we can write the encoding:
 
-![](/files/eqn1.gif)
+$$\sum_n \delta(t - t_{in}) = G_i \left[\alpha_i \langle
+  \tilde{\phi_i} \mathbf{x}(t) \rangle_m + J_i^{bias} \right]$$
 
 and the decoding:
 
-![](/files/eqn2.gif)
+$$\mathbf{\hat{x}}(t) = \sum_i a_i(\mathbf{x}(t)) \phi_i^{\mathbf{x}},$$
 
 where
 
-![](/files/eqn3.gif)
+\begin{align}
+  a_i(\mathbf{x}(t)) &= \sum_n h_i(t) * \delta(t - t_{in}) \\\\
+  &= \sum_n h_i (t - t_{in}).
+\end{align}
 
-In these equations, _a_ is the activity of a neuron, _i_, encoding a vector
-signal **x**(_t_), in a spike train (represented as a sum of delta functions,
-with each spike indexed by _n_). The encoding is defined by the nonlinear
-function, _G_, and parameterized by a gain, \_alpha_, and a bias, _J_^_bias_.
-The encoding vector _\tilde\phi _determines the neuron's preferred stimulus in
-the signal (the elements inside the square brackets determine the soma
-current). An estimate of the signal is recovered through linear population
-decoding, using the vectors _\phi_ and linear temporal decoding using the
-filter _h_(_t_). These can be combined to give a population-temporal decoder,
-_\phi_i(t-t_in)_.
+In these equations,
+$a$ is the activity of a neuron, $i$,
+encoding a vector signal $\mathbf{x}(t)$,
+in a spike train
+(represented as a sum of delta functions,
+with each spike indexed by $n$).
+The encoding is defined by the nonlinear function,
+$G$, and parameterized by a gain, $\alpha$, and a bias, $J^{bias}$.
+The encoding vector $\tilde{\phi}$
+determines the neuron's preferred stimulus in the signal
+(the elements inside the square brackets determine the soma current).
+An estimate of the signal
+is recovered through linear population decoding,
+using the vectors $\phi$ and linear temporal decoding
+using the filter $h(t)$.
+These can be combined to give a population-temporal decoder,
+$\phi_i(t - t_{in})$.
 
 Principle 1 emphasizes the importance of identifying both encoding and
 decoding when defining neural representation. Moreover, this principle
 highlights the central assumption that, despite a nonlinear encoding, linear
-decoding is valid (see Rieke et al. 1997, pp. 7687). As discussed in detail
+decoding is valid (see Rieke et al. 1997, pp. 76-87). As discussed in detail
 by Rieke et al., a nonlinear response function like that of typical neurons
 is, in fact, unrelated to whether or not the resulting signal can be linearly
 decoded. That is, the nature of the input/output function (i.e., encoding) of
@@ -60,10 +72,10 @@ It is important to emphasize that analyzing neurons as decoding signals using
 (optimal) linear or nonlinear filters does not mean that neurons are presumed
 to explicitly use opti-mal filters. In fact, according to our account, there
 is no directly observable counterpart to these optimal decoders. Rather, the
-decoders are embedded in the synaptic weights between neighboring neurons.
+decoders are *embedded* in the synaptic weights between neighboring neurons.
 That is, coupling weights of neighboring neurons indirectly reflect a
 particular population decoder, but they are not identical to the population
-decoder, nor can the decoder be unequivocally read-off of the weights. This
+decoder, nor can the decoder be unequivocally *read-off* of the weights. This
 is because connection weights are determined by both the decoding of incoming
 signals and the encoding of the outgoing signals (see, e.g., section 6.2).
 Practically speaking, this means that changing a connection weight both

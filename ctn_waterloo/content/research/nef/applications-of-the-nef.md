@@ -15,6 +15,3 @@ The NEF has been used to construct models of
   * recognition of song by zebra finch (Hurwitz, 2008, tech report)
   * language processing in humans (Eliasmith, 2004; Stewart & Eliasmith, 2009)
   * zebra finch song system (Anderson, 2009, unpublished)
-
-Much of the rest of this website is devoted to other models that are currently
-under construction.

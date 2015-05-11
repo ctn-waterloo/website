@@ -3,27 +3,24 @@ title: Overview of the NEF
 ### Introduction
 
 The framework we have developed for understanding neurobiological systems is
-summarized below by what we call "_Principles of Neural Engineering_". We have
+summarized below by what we call _"Principles of Neural Engineering"_. We have
 used these principles to define a methodology for constructing simulations of
 neural systems (the methodology is also discussed in more detail below). We
 have had great success in applying both the principles and the related
 methodology to constructing models of perceptual, motor, and cognitive
-systems. Some detailed examples of these models can be found in the
-[Research](?q=node/8) section. However, this framework is by no means complete
-as demonstrated by [this long list](?q=node/8) (which is somewhat out-of-date,
-but helpful).
+systems.
 
 ### Principles of Neural Engineering
 
-  1. Neural representations are defined by the combination of nonlinear encoding (exemplified by neuron tuning curves) and weighted linear decoding. [[further discussion](?q=node/716)]
-  2. Transformations of neural representations are functions of variables that are represented by neural populations. Transformations are determined using an alternately weighted linear decoding (i.e., the transformational decoding as opposed to the representational decoding). [[further discussion](?q=node/717)]
-  3. Neural dynamics are characterized by considering neural representations as control theoretic state variables. Thus, the dynamics of neurobiological systems can be analyzed using control theory. [[further discussion](?q=node/718)]
+  1. Neural representations are defined by the combination of nonlinear encoding (exemplified by neuron tuning curves) and weighted linear decoding. [[further discussion](/research/nef/principle-1.html)]
+  2. Transformations of neural representations are functions of variables that are represented by neural populations. Transformations are determined using an alternately weighted linear decoding (i.e., the transformational decoding as opposed to the representational decoding). [[further discussion](/research/nef/principle-2.html)]
+  3. Neural dynamics are characterized by considering neural representations as control theoretic state variables. Thus, the dynamics of neurobiological systems can be analyzed using control theory. [[further discussion](/research/nef/principle-3.html)]
 
 _Addendum_
 
-> Neural systems are subject to significant amounts of noise. Therefore, any
-analysis of such systems must account for the effects of noise. [[further
-discussion](?q=node/719)]
+> Neural systems are subject to significant amounts of
+> noise. Therefore, any analysis of such systems must account for the
+> effects of noise. [[further discussion](/research/nef/addendum.html)]
 
 ### Methodology
 
@@ -31,7 +28,7 @@ Relying on these four principles for understanding the information processing
 characteristics of neurobiological systems has lead us to develop the
 following methodology for constructing simulations of neural systems.
 
-**Step 1**: System description
+#### Step 1: System description
 
 The main goal of the first step is to describe the neural system of interest
 in such a way that the principles outlined previously are directly applicable
@@ -49,11 +46,10 @@ the previously specified functions. The goal here is to translate the
 functional description provided in neurobiological terms into a description in
 mathematical terms. This mathematical description may be highly abstract
 (e.g., describing a swimming eel as instantiating a kind of sine function; see
-the lamprey example in the book; or see this [summary
-.pdf](/files/lamprey.pdf)), so long
-as it is complete.
+the lamprey example in the book; or see this
+[summary [PDF]](http://compneuro.uwaterloo.ca//files/lamprey.pdf)), so long as it is complete.
 
-**Step 2**: Design specification
+#### Step 2: Design specification
 
 The second step of the methodology consists in precisely specifing the real-
 world limitations on that are known or assumed for the neural system of
@@ -74,7 +70,7 @@ function. Not surprisingly, these specifications can significantly affect the
 final model that is generated. If, for example, the signal-to-noise ratio must
 be extremely high, the neural system will have to be composed of many neurons.
 
-**Step 3**: Implementation
+#### Step 3: Implementation
 
 The third and last step of our methodology involves generating the model
 itself. Given the system description and design specification, this step
@@ -94,7 +90,7 @@ partly at the level of spiking conductance-based neurons and partly at the
 level of, for example, neuronal groups. This is extremely useful when we have
 limited computational power and large models.
 
-**Summary**
+### Summary
 
 Together, these three steps provide a kind of algorithm for generating models
 of neurobiological systems. However, applying these steps to real systems is
