@@ -6,7 +6,6 @@ fully dealt with.
 **Generalization challenges:**
 
   * developmental questions (i.e. how did the networks of interest get established in the first place?)
-  * learning: there is no systemmatic relation between NEF models and learning (i.e. can't provide a local learning rule that will guarantee an NEF network as the result; however, any learning rule can be incorporated in an NEF model).
   * single cell dynamics: complex bursting, plateau potentials, etc. can be included, but do not have fully appropriate affect on the determination of connection weights
   * hormonal influences
   * glial networks
