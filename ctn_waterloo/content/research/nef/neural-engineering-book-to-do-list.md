@@ -50,8 +50,4 @@ they relate to, and provided brief descriptions of them.
 
 - The Kalman filter, is the only example we relate to neurobiology in much detail. It would be useful to both generalize (along the lines indicated during that discussion) and implement the Kalman filter in the two forms discussed. This could help generate predictions and perhaps suggest experiments and elaboration of the circuit.
 
-- As mentioned in this chapter, integrating learning poses the greatest challenge to the framework. We need a more complete analysis of the relation between our approach and learning, and more specific neurobiological examples that include learning.
-
-- The biggest challenge is to derive local learning rules that will result in the complex control circuits that describe neural function.
-
 - An example: The neural integrator receives an error signal (retinal slip) that is probably used to tune the weights in the network. This could be incorporated into the current model.
