@@ -6,6 +6,7 @@ will be [found here](http://nengo.ca/popularpress).
 
 ![Cartoon](http://nengo.ca/sites/nengo.ca/files/ChrisSpaun.jpg){: .pull-right width="200"}
 
+- [Waterloo University Strategic Plan](https://uwaterloo.ca/research/sites/ca.research/files/uploads/files/strategic_research_plan_-_accessible_pdf.pdf) - Cover of 2015 Waterloo University Strategic Plan
 - [BBC World](http://www.bbc.co.uk/iplayer/episode/p010z973/Science_In_Action_Melting_ice_caps/) (radio interview, opening 5s and interview starts at 11:50)
 - [CNN](http://thechart.blogs.cnn.com/2012/11/29/brain-model-may-help-build-humanlike-robot/) - Brain model may help build human-like robot
 - [Popular Science](http://www.popsci.com/science/article/2012-11/meet-spaun-first-computer-model-complex-brain-behavior) - Meet Spaun, The Most Complex Simulated Brain Ever
