@@ -1,8 +1,8 @@
 name: Sean Aubin
 email: seanaubin@gmail.com
 one_liner: Visualization, Embodying Hierarchical Reinforcement Learning
-group: Undergrad students
-title: Electrical Engineering Student
+group: Grad students
+title: Masters Student
 picture: http://compneuro.uwaterloo.ca/files/sean.jpg
 links:
     - text: CV (March 2014)
@@ -12,7 +12,7 @@ links:
     - text: Twitter
       url: https://twitter.com/voyageur_techno
 
-I am currently working at the CNRG as a co-op student
-from September to December 2014. I'm working on visualizing Nengo code using 
-HTML5 and D3.js. This will help me complete my main project, which is embodying
-Dan Rassmussen's hierarchical reinforcement learning model into a robot.
+I'm starting my Master's degree in September 2015 with a focus on learning new 
+tasks and how to combine previous knowledge. The application for this 
+research will be the Tower of Hanoi task and removing the hard-coded rules as
+modeled by Terry Stewart.

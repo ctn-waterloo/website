@@ -2,7 +2,7 @@ name: Youssef Zaky
 email: yzaky@utwaterloo.ca
 group: Grad students
 title: PhD Student
-picture: /static/img/placeholder.png
+picture: http://compneuro.uwaterloo.ca/files/youssef_zaki_pic.jpg
 links:
     - text: ""
       url:

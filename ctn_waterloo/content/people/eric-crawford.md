@@ -1,7 +1,7 @@
 name: Eric Crawford
 email: e2crawfo@uwaterloo.ca
 one_liner: Cleanup memories, hippocampus, parallel computing
-group: Grad students
+group: Alumnus
 title: Masters Student
 picture: http://i.imgur.com/7K39dz4.png
 links:
@@ -20,4 +20,4 @@ I am broadly interested in machine learning, neural coding, and neural computati
 I spent 3 of my undergrad co-op terms at the CNRG where I worked on parallel implementations of neural networks. I wrote a GPU implementation for Nengo, our software based on the [Neural Engineering Framework](http://compneuro.uwaterloo.ca/research/nef.html), permitting hundreds of thousands of neurons to be simulated in parallel.
 
 ## Education
-I'm currently pursuing a Masters in Computer Science at the CNRG. In 2012 I graduated from the University of Waterloo's BMATH(CS) Co-op program with the Cognitive Science option.
+I completed a Masters in Computer Science at the CNRG. In 2012 I graduated from the University of Waterloo's BMATH(CS) Co-op program with the Cognitive Science option.
