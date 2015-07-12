@@ -1,8 +1,8 @@
 name: Travis DeWolf
 email: tdewolf@uwaterloo.ca
 one_liner: Motor control and learning
-group: Grad students
-title: PhD Student
+group: Postdocs
+title: Postdoc
 picture: http://compneuro.uwaterloo.ca/files/travis.jpg
 links: 
     - text: My research blog
@@ -12,7 +12,7 @@ links:
     - text: Academia.edu
       url: http://uwaterloo.academia.edu/TravisDeWolf
 
-I'm a PhD student in Systems Design Engineering here at University of
+I'm a post-doc in Systems Design Engineering here at University of
 Waterloo, researching the motor control system in the brain. To see some of
 the things I've been thinking about recently you can check out my blog here:
 [http://studywolf.wordpress.com](http://studywolf.wordpress.com)
