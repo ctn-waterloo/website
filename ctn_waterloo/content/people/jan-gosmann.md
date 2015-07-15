@@ -12,8 +12,8 @@ links:
     - text: Private homepage
       url: http://www.hyper-world.de/en/
 
-I am a PhD student in Systems Design Engineering at the CNRG. My thesis will on
-an integrated model of context, short-term, and long-term memory. Based on
+I am a PhD student in Systems Design Engineering at the CNRG. My thesis will be
+on an integrated model of context, short-term, and long-term memory. Based on
 existing models a wider variety of behavioural and neural data will be matched.
 Besides memory, I did some mathematical work on high-dimensional representation
 in the Neural Engineering Framework.
