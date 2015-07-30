@@ -39,4 +39,5 @@ This year's meetings:
 - July 24: no meeting (people at cogsci)
 - July 31: telluride update from eric
 - Aug 7: Brent defense talk practice
-- Aug 14: 
+- Aug 14: Roundtable
+- Aug 21: 
