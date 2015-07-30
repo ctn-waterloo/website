@@ -38,5 +38,5 @@ This year's meetings:
 - July 17: Jan and Pete cogsci presentations practice
 - July 24: no meeting (people at cogsci)
 - July 31: telluride update from eric
-- Aug 7: no meeting (chris away)
-- Aug 14:
+- Aug 7: Brent defense talk practice
+- Aug 14: 
