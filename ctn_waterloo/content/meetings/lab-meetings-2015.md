@@ -40,4 +40,4 @@ This year's meetings:
 - July 31: telluride update from eric
 - Aug 7: Brent defense talk practice
 - Aug 14: Roundtable
-- Aug 21: Aaron NLP presentation
+- Aug 21: Aaron NLP presentation (Chris cogsci)
