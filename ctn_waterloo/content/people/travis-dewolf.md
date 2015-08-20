@@ -1,7 +1,7 @@
 name: Travis DeWolf
 email: tdewolf@uwaterloo.ca
 one_liner: Motor control and learning
-group: Grad students
+group: Alumnus
 title: PhD Student
 picture: http://compneuro.uwaterloo.ca/files/travis.jpg
 links: 
