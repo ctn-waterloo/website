@@ -1,6 +1,6 @@
 name: Peter Suma
 email: petergsuma@gmail.com
-one_liner: One-liner
+one_liner: Cortical processing and single-cell adaptation
 group: Grad students
 title: Masters Student
 picture: /static/img/placeholder.png
