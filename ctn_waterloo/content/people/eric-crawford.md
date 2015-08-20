@@ -1,7 +1,7 @@
 name: Eric Crawford
 email: e2crawfo@uwaterloo.ca
 one_liner: Cleanup memories, hippocampus, parallel computing
-group: Grad students
+group: Alumnus
 title: Masters Student
 picture: http://i.imgur.com/7K39dz4.png
 links:
