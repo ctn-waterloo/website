@@ -1,7 +1,7 @@
 name: Oliver Trujillo
 email: otrujill@uwaterloo.ca
 one_liner: Episodic memory in hippocampus
-group: Grad students
+group: Alumnus
 title: Masters Student
 picture: http://compneuro.uwaterloo.ca/files/oliver.jpg
 links:
