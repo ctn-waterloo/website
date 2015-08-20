@@ -1,11 +1,17 @@
 title: People
 alumni:
+    - text: Travis DeWolf (2015 PhD)
+      url: /people/travis-dewolf.html
     - text: Daniel Rasmussen (2014 PhD)
       url: /people/daniel-rasmussen.html
     - text: Lisanne Huurdeman (2014 Intern)
       url: /people/lisanne-huurdeman.html
     - text: James Bergstra (2014 Postdoc)
       url: /people/james-bergstra.html
+    - text: Eric Crawford (2014 Masters)
+      url: /people/eric-crawford.html
+    - text: Oliver Trujillo (2014 Masters)
+      url: /people/oliver-trujillo.html
     - text: Connor Smith (2013 UGrad Tron)
       url: /people/connor-smith.html
     - text: Carter Kolbeck (2013 MASc)
