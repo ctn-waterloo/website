@@ -41,3 +41,6 @@ This year's meetings:
 - Aug 7: Brent defense talk practice
 - Aug 14: Roundtable
 - Aug 21: Aaron NLP presentation (Chris cogsci)
+- Aug 28: Cancelled
+- Sept 4: Roundtable introductions
+- Sept 11: 
