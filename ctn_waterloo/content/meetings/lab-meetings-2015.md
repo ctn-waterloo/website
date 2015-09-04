@@ -43,4 +43,15 @@ This year's meetings:
 - Aug 21: Aaron NLP presentation (Chris cogsci)
 - Aug 28: Cancelled
 - Sept 4: Roundtable introductions
-- Sept 11: 
+- Sept 11: No meeting (Chris away, Switzerland)
+- Sept 18:
+- Sept 25:
+- Oct 2:
+- Oct 9: No meeting (Chris away, Pittsburgh)
+- Oct 16: No meeting (Chris away, China)
+- Oct 23:
+- Oct 30:
+- Nov 6:
+- Nov 13:
+- Nov 20: Tentative (Chris maybe away, Washington)
+- Nov 27:
