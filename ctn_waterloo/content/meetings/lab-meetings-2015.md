@@ -44,12 +44,12 @@ This year's meetings:
 - Aug 28: Cancelled
 - Sept 4: Roundtable introductions
 - Sept 11: No meeting (Chris away, Switzerland)
-- Sept 18:
-- Sept 25:
-- Oct 2:
-- Oct 9: No meeting (Chris away, Pittsburgh)
+- Sept 18: Xuan final CS talk
+- Sept 25: Sean GUI info flow
+- Oct 2: Pete B prospectus practice
+- Oct 9: Mariah practice presentation (Chris away, Pittsburgh)
 - Oct 16: No meeting (Chris away, China)
-- Oct 23:
+- Oct 23: 
 - Oct 30:
 - Nov 6:
 - Nov 13:
