@@ -3,10 +3,8 @@ email: mshein@uwaterloo.ca
 one_liner: Emotion, Embodying Hierarchical Reinforcement Learning
 group: Grad students
 title: Masters Student
-picture: /static/img/placeholder.png
+picture: http://compneuro.uwaterloo.ca/files/mariah_martin_shein_pic.jpg
 links:
-    - text: CV (March 2014)
-      url: /files/people/aubin-cv.pdf
     - text: Github
       url: https://github.com/memarsh
 
