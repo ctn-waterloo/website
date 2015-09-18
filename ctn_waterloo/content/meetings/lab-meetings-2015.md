@@ -45,11 +45,11 @@ This year's meetings:
 - Sept 4: Roundtable introductions
 - Sept 11: No meeting (Chris away, Switzerland)
 - Sept 18: Xuan final CS talk
-- Sept 25: Sean GUI info flow
+- Sept 25: Terry/Jan Germany trip update/Youssef prospectus practice
 - Oct 2: Pete B prospectus practice
 - Oct 9: Mariah practice presentation (Chris away, Pittsburgh)
 - Oct 16: No meeting (Chris away, China)
-- Oct 23: 
+- Oct 23: Terry Spain trip update/Sean GUI info flow
 - Oct 30:
 - Nov 6:
 - Nov 13:
