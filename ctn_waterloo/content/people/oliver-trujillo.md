@@ -8,7 +8,8 @@ links:
     - text: ""
       url:
 
-I am currently working on my MMath in Computer Science. I joined the CNRG in
+I completed my MMath in Computer Science by creating a model of the hippocampus
+. I joined the CNRG in
 September 2012, and previously received my BSc., also in Computer Science,
 from UBC in 2007.
 

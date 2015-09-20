@@ -3,7 +3,7 @@ email: yzaky@utwaterloo.ca
 one_liner: Control of eye movement
 group: Grad students
 title: PhD Student
-picture: /static/img/placeholder.png
+picture: http://compneuro.uwaterloo.ca/files/youssef_zaki_pic.png
 links:
     - text: ""
       url:

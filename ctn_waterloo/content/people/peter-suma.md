@@ -3,7 +3,7 @@ email: petergsuma@gmail.com
 one_liner: Cortical processing and single-cell adaptation
 group: Grad students
 title: Masters Student
-picture: /static/img/placeholder.png
+picture: http://compneuro.uwaterloo.ca/files/peter_suma_pic.jpg
 links:
     - text: LinkedIn
       url: https://www.linkedin.com/in/petersuma
