@@ -36,3 +36,22 @@ This year's meetings:
 - July 3: Jan practicing proposal defense talk (hippocampus/memory)
 - July 10: Discussion of Spaun 2.0
 - July 17: Jan and Pete cogsci presentations practice
+- July 24: no meeting (people at cogsci)
+- July 31: telluride update from eric
+- Aug 7: Brent defense talk practice
+- Aug 14: Roundtable
+- Aug 21: Aaron NLP presentation (Chris cogsci)
+- Aug 28: Cancelled
+- Sept 4: Roundtable introductions
+- Sept 11: No meeting (Chris away, Switzerland)
+- Sept 18: Xuan final CS talk
+- Sept 25: Terry/Jan Germany trip update/Youssef prospectus practice
+- Oct 2: Pete B prospectus practice
+- Oct 9: Mariah practice presentation (Chris away, Pittsburgh)
+- Oct 16: No meeting (Chris away, China)
+- Oct 23: Terry Spain trip update/Sean GUI info flow
+- Oct 30:
+- Nov 6:
+- Nov 13:
+- Nov 20: Tentative (Chris maybe away, Washington)
+- Nov 27:

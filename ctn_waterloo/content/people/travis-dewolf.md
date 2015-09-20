@@ -1,9 +1,9 @@
 name: Travis DeWolf
 email: tdewolf@uwaterloo.ca
 one_liner: Motor control and learning
-group: Postdocs
-title: Postdoc
-picture: http://compneuro.uwaterloo.ca/files/travis.jpg
+group: Alumnus
+title: PhD Student
+picture: http://appliedbrainresearch.com/img/travis.jpg
 links: 
     - text: My research blog
       url: http://studywolf.wordpress.com
@@ -12,37 +12,6 @@ links:
     - text: Academia.edu
       url: http://uwaterloo.academia.edu/TravisDeWolf
 
-I'm a post-doc in Systems Design Engineering here at University of
-Waterloo, researching the motor control system in the brain. To see some of
-the things I've been thinking about recently you can check out my blog here:
-[http://studywolf.wordpress.com](http://studywolf.wordpress.com)
+Travis’ research focuses on studying the brain’s motor control system. Using modern control theoretic methods, such as operational space control, nonlinear adaptive control, and dynamic movement primitives, he has worked to develop biologically plausible spiking neural networks that model the brain, capable of generating the same diversity of behavioural phenomena and robust adaptation / learning seen in primates.
 
-** Education ** 
-
-I received my Master's degree (MMath) in Computer Science at Waterloo (2010),
-with my thesis: 
-[NOCH: A biologically plausible framework for models of neural motor control](http://www.uwspace.uwaterloo.ca/bitstream/10012/4949/1/main.pdf).
-
-My undergraduate degree was in Computer Science (BCSH), received from Acadia
-University (2007), with my thesis: The algebraic properties of Template Guided
-DNA Recombination theory.
-
-** Research interests **
-
-My goal is to develop a formal mathematical model capturing the function and
-interaction of the neurobiological subsystems involved in motor control. The 
-focus of my PhD is to build a spiking neuron level model of motor learning 
-across the basal ganglia, motor cortex, and cerebellum. This involves research 
-into the neural architecture of the motor control system, exploring the
-plausibility of various machine learning methods, and investigating 
-biologically realistic alternatives.
-
-I have been building a framework for biologically plausible models of neural
-motor control, called the Neural Optimal Control Hierarchy (NOCH). 
-To read an abbreviated, and recent, description of
-the NOCH framework, which is constantly under development, please click here:
-[NOCH framework](/files/NOCH.pdf)
-
-If you are interested in talking with me or would like to give me lots of
-money to work for you please don't hesitate to send me an email at
-[tdewolf@uwaterloo.ca](mailto:tdewolf@uwaterloo.ca).
+He received his undergraduate degree in computer science at Acadia University, with a thesis discussing the algebraic properties of template-guided DNA recombination. His masters degree was in computer science at the University of Waterloo, and focused on the development of the Neural Optimal Control Hierarchy (NOCH); a biologically plausible framework for large-scale models of the motor control system. His Ph.D. was in systems design engineering at the University of Waterloo, where he presented the Recurrent Error-driven Adaptive Control Hierarchy (REACH) model; a large-scale, fully spiking neural model of the motor cortices and cerebellum able to account for data from 19 studies from a behavioural level down to the level of single spiking neurons.

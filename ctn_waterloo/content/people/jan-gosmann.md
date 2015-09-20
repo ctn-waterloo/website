@@ -1,5 +1,6 @@
 name: Jan Gosmann
 email: jgosmann@uwaterloo.ca
+one_liner: Memory
 group: Grad students
 title: PhD candidate
 picture: http://hyper-world.de/images/jgosmann_photo.jpg
@@ -11,11 +12,11 @@ links:
     - text: Private homepage
       url: http://www.hyper-world.de/en/
 
-I am starting as a PhD student in Systems Design Engineering at the CNRG. I will
-try to improve on existing models for solving Raven's Progressive Matrices and
-other measures used in intelligence testing. In particular the match to human
-behavioral data should be improved. Moreover, a comparison to mesoscopic data
-(e.g. from fMRI brain recordings) will be attempted.
+I am a PhD student in Systems Design Engineering at the CNRG. My thesis will be
+on an integrated model of context, short-term, and long-term memory. Based on
+existing models a wider variety of behavioural and neural data will be matched.
+Besides memory, I did some mathematical work on high-dimensional representation
+in the Neural Engineering Framework.
 
 ## Education
 
