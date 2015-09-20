@@ -3,7 +3,7 @@ email: psipeter@gmail.com
 one_liner: Social Simulations with Emotionally and Cognitively Plausible Agents
 group: Grad students
 title: Masters Student
-picture: http://compneuro.uwaterloo.ca/files/peter_duggins_profile.png
+picture: http://compneuro.uwaterloo.ca/files/peter_duggins_profile.jpg
 links:
     - text: Website
       url: https://plus.google.com/u/0/+PeterDuggins/about
