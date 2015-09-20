@@ -2,17 +2,14 @@ name: Peter Duggins
 email: psipeter@gmail.com
 one_liner: Social Simulations with Emotionally and Cognitively Plausible Agents
 group: Grad students
-title: Masters Student
+title: Masters Student in Systems Design Engineering
 picture: http://compneuro.uwaterloo.ca/files/peter_duggins_profile.jpg
 links:
     - text: Website
       url: https://plus.google.com/u/0/+PeterDuggins/about
 
-**Research Synopsis:** In order for social science to become a rigorous scientific discipline, researchers must simulate and analyze artificial societies populated with psychologically plausible agents. This requires an interdisciplinary approach incorporating fields ranging from neuroscience to psychology to sociology. To develop agents with realistic cognitive, emotional, and social capacities, one must:
-<ol type="a">
-<li>specify how neural networks represent, transform, and respond to information,</li>
-<li>construct agents *in silico* using an architecture based on these principles, and</li>
-<li>train agents throughout a developmental regime. Once a population of mature agents is thus created, they can be placed in a virtual environment and allowed to interact with one another, producing artificial societies that can be controlled and analyzed to an arbitrary degree.</li>
-</ol>
+### Research
 
-In my masters and doctoral work at the University of Waterloo, I plan to employ Chris Eliasmith's Semantic Pointer Architecture to these ends. Specifically, I plan to use the SPA to model and train artificially intelligent agents capable of emotionally-biased cognition and social interaction, then validate the simulation by reproducing empirical findings from social psychology. Woohoo!
+My fundamental intention is to maximize the wellbeing of sentient beings that consciously experience subjectively positive and negative states. To realize this goal in a rigorous scientific manner, I simulate and analyze artificial societies populated with cognitively, emotionally, and socially plausible agents. To develop these agents, I (a) specify how biological neural networks represent and process information, (b) construct agents using a consistent computational architecture, and (c) train agents through a developmental regime. I then (d) place a population of agents in a virtual environment and evolve it through time, producing artificial societies. With arbitrarily accurate and accessible information, I can (e) empirically define quantitative measures of an agent’s wellbeing based on its observed brain state. To maximize this quantity across society, I (f) design controlled experiments that investigate the internal and external conditions which promote the greatest wellbeing for the greatest number, and finally (g) apply these results back to our reality for the same purpose.
+
+In my masters and doctoral work at the University of Waterloo, I plan to employ Chris Eliasmith's Semantic Pointer Architecture to achieve objectives (a-c). Specifically, I hope to create agents capable of emotionally-biased cognition and social interaction through a combination of neuroengineering and reinforcement learning. I will then attempt (d) by recreating the external conditions of experiments in social psychology, populating the simulation with these agents, and observing whether their emergent behavior coincides with the empirical results. 
