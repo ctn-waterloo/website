@@ -1,4 +1,4 @@
-name: Aaron Voelker
+name: Aaron Russell Voelker
 email: arvoelke@uwaterloo.ca
 one_liner: "Representing and processing dynamic information"
 group: Grad students
