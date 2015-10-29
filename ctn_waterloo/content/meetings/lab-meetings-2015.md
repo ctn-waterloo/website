@@ -50,7 +50,7 @@ This year's meetings:
 - Oct 9: Mariah practice presentation (Chris away, Pittsburgh)
 - Oct 16: No meeting (Chris away, China)
 - Oct 23: Terry Spain trip update/Sean GUI info flow
-- Oct 30: Chris China/Pitt/Montreal trip updates; Terry Darpa
+- Oct 30: Chris China/Pitt/Montreal(crispr) trip updates; Terry Darpa
 - Nov 6:
 - Nov 13: Ivana on her recent research
 - Nov 20: Tentative (Chris maybe away, Washington)
