@@ -53,5 +53,5 @@ This year's meetings:
 - Oct 30: Chris China/Pitt/Montreal(crispr) trip updates; Terry Darpa
 - Nov 6: Roundtable!
 - Nov 13: Ivana on her recent research
-- Nov 20: 
+- Nov 20: Cancelled (Lunch with CTN seminar speaker)
 - Nov 27:
