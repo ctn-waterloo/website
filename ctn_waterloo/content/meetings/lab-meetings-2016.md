@@ -1,5 +1,5 @@
-title: "Lab meetings: 2015"
-year: 2015
+title: "Lab meetings: 2016"
+year: 2016
 
 Here we will post slides/discussions/papers related to recent
 or upcoming lab meetings.
