@@ -54,4 +54,7 @@ This year's meetings:
 - Nov 6: Roundtable!
 - Nov 13: Ivana on her recent research
 - Nov 20: Cancelled (Lunch with CTN seminar speaker)
-- Nov 27:
+- Nov 27: Roundtable
+- Dec 4:
+- Dec 11: 
+- Dec 18: No meeting; done for the year :)
