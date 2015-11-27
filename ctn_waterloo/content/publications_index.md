@@ -1,6 +1,6 @@
 title: Publications
 highlight:
-  - Rasmussen2014
+  - rasmussen2014
   - bekolay2014a
   - eliasmith2013
   - eliasmith2012
