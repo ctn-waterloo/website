@@ -55,6 +55,6 @@ This year's meetings:
 - Nov 13: Ivana on her recent research
 - Nov 20: Cancelled (Lunch with CTN seminar speaker)
 - Nov 27: Roundtable
-- Dec 4:
+- Dec 4: Xuan on India; Terry on Tutorial
 - Dec 11: 
 - Dec 18: No meeting; done for the year :)
