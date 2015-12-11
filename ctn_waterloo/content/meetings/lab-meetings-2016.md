@@ -12,8 +12,8 @@ and run for half an hour.
 
 This year's meetings:
 
-- Jan 8:
-- Jan 15:
+- Jan 8: Aaron on BIRS conference
+- Jan 15: Aaron on choosing encoders in smart ways
 - Jan 22: (no meeting, chris away)
 - Jan 29:
 - Feb 5:
