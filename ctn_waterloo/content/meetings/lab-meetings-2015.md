@@ -56,5 +56,5 @@ This year's meetings:
 - Nov 20: Cancelled (Lunch with CTN seminar speaker)
 - Nov 27: Roundtable
 - Dec 4: Xuan on India; Terry on Tutorial
-- Dec 11: 
+- Dec 11: Chris on BIRS and roundtable
 - Dec 18: No meeting; done for the year :)
