@@ -17,7 +17,7 @@ This year's meetings:
 - Jan 22: (no meeting, chris away)
 - Jan 29:
 - Feb 5:
-- Feb 12:
+- Feb 12: Eric's practice seminar
 - Feb 19:
 - Feb 26:
 - Mar 4:
