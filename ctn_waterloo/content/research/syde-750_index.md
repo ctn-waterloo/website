@@ -1,7 +1,7 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Winter 2015.
+    Course information for SYDE 556/750, taught Winter 2016.
 people:
     - Chris Eliasmith
     - Terry Stewart
@@ -19,16 +19,16 @@ _Office:_ HH 331
 
 _Office Hours:_ Monday 2-3 and Thursday 3-4, or by appointment
 
-_Location:_ E5 6002
+_Location:_ E5 6127
 
 _Times:_ Mon & Thurs. 12:30p-1:50p (plus 2:00p-2:50p Thurs for 750)
 
 _Due Dates:_ 
 
- * Jan 26th: Assignment #1 (due at midnight) (20%)
- * Feb 16th: Assignment #2 (due at midnight) (20%) 
- * Mar 9th: Assignment #3 (due at midnight) (10%)
- * Mar 19th: Assignment #4 (due at midnight) (10%)
+ * Jan 25th: Assignment #1 (due at midnight) (20%)
+ * Feb 22nd: Assignment #2 (due at midnight) (20%) 
+ * Mar 10th: Assignment #3 (due at midnight) (10%)
+ * Mar 21st: Assignment #4 (due at midnight) (10%)
  * Apr 23rd: Final Project (40%)
 
 
@@ -37,7 +37,7 @@ _Due Dates:_
 ## Tutoring Services
 
 If you would like more personalized help for the assignments in this course, 
-two of the PhD students in the lab (Xuan Choo and Travis DeWolf) offer tutoring 
+two of previous PhD students in the lab (Xuan Choo and Travis DeWolf) offer tutoring 
 services.  They can be contacted at [ctntutoring@gmail.com](mailto:ctntutoring@gmail.com)
 and they charge \$20 per half hour (or \$15 per person per half hour for groups).
 
@@ -45,24 +45,24 @@ and they charge \$20 per half hour (or \$15 per person per half hour for groups)
 
 The in-class lecture notes will be posted here after each class.
 
- * Week 1: (January 5, 8) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
- * Week 2: (January 12, 15) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
- * Week 3: (January 19, 22) [Temporal Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
- * Week 4: (January 26, 29, Feb 2) [Transformation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb) (January 29) [Final Projects]
-* Week 5: (February 5, 9, 12) [Dynamics](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
-* Week 6 (February 23) [Decoder Analysis](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
-* Week 7 (February 26, Mar 2) [Symbols](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
-* Week 8 (March 5, 9) [Memory](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%208%20Memory.ipynb)
-* Week 9 (March 12, 16) [Action Selection](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
-* Week 10 (March 19, 23) [Learning](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
-* Conclusion (March 26) - Xuan Choo talking about Spaun
-* Presentations (March 30, Apr 2) - Project Presentations/Other topics
+ * Week 1: (January 4, 7) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
+ * Week 2: (January 11, 14) [Representation]
+ * Week 3: (January 18, 21) [Temporal Representation]
+ * Week 4: (January 25, 28, Feb 1) [Transformation] (January 29) [Final Projects]
+* Week 5: (February 4, 8, 11) [Dynamics]
+* Week 6 (February 22) [Decoder Analysis]
+* Week 7 (February 25, 29) [Symbols]
+* Week 8 (March 3, 7) [Memory]
+* Week 9 (March 10, 14) [Action Selection]
+* Week 10 (March 17, 21) [Learning]
+* Conclusion/Presentations (March 24)
+* Presentations (March 31) - Project Presentations/Other topics
 
 * * *
 
 ##  Assignments
 
-The four assignments will be posted here 
+The four assignments will be posted here. 
 
  * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
  * Each student must write their own code and submit their own assignment.
@@ -71,9 +71,9 @@ The four assignments will be posted here
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
   * Assignment 1: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
-  * Assignment 2: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%202.ipynb)
-  * Assignment 3: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%203.ipynb)
-  * Assignment 4: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%204.ipynb)
+  * Assignment 2: [HTML]
+  * Assignment 3: [HTML]
+  * Assignment 4: [HTML]
   
 * * *
 
