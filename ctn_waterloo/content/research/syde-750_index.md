@@ -27,8 +27,8 @@ _Due Dates:_
 
  * Jan 25th: Assignment #1 (due at midnight) (20%)
  * Feb 22nd: Assignment #2 (due at midnight) (20%) 
- * Mar 10th: Assignment #3 (due at midnight) (10%)
- * Mar 21st: Assignment #4 (due at midnight) (10%)
+ * Mar 3rd: Assignment #3 (due at midnight) (10%)
+ * Mar 14th: Assignment #4 (due at midnight) (10%)
  * Apr 23rd: Final Project (40%)
 
 
