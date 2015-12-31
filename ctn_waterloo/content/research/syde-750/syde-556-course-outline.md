@@ -4,7 +4,7 @@ _Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
 _Instructor_: Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), HH 331)
 
-_Room and Time_: E5 6002, Mon & Thurs. 12:30p-1:50p (2:00p-2:50p Thurs for 750)
+_Room and Time_: E5 6127, Mon & Thurs. 12:30p-1:50p (2:00p-2:50p Thurs for 750)
 
 _Texts_: Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
 and Dynamics in Neurobiological Systems. MIT Press.
@@ -18,8 +18,7 @@ representation, and dynamics in such systems. Students will learn how the
 fundamentals of signal processing, control theory and statistical inference,
 can be applied to modeling sensory, motor, and cognitive systems.
 
-_Prerequisites:_ Knowing how to program using matrices in some language (Python, MATLAB, or whatever) is highly recommended.
-Familiarity with calculus and linear algebra is required.
+_Prerequisites:_ Knowing how to program using matrices in some language (e.g. Python, MATLAB) is highly recommended.  Familiarity with calculus and linear algebra is required.
 
 _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk about the assignments, etc.: 
 
