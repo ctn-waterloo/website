@@ -26,28 +26,25 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 
 <table style="border: 1px solid black;" cellspacing="10">
 <tr><th>Week</th><th>Reading</th><th>Monday</th><th>Wednesday</th><th>Assignments</th></tr>
-<tr><td style="padding:0 15px 0 15px;">Jan 5, 8</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td style="padding:0 15px 0 15px;">Introduction</td><td style="padding:0 15px 0 15px;">Neurons</td><td style="padding:0 15px 0 15px;"></td></tr>
-<tr><td style="padding:0 15px 0 15px;">Jan 12, 15</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td colspan=2>Neural Coding</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
-<tr><td style="padding:0 15px 0 15px;">Jan 19, 22</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td colspan=2>Neural Models</td><td style="padding:0 15px 0 15px;"></td></tr>
-<tr><td style="padding:0 15px 0 15px;">Jan 26, 29</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td colspan=2>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (26th at midnight); #2 posted</td></tr>
-<tr><td style="padding:0 15px 0 15px;">Feb 2, 5</td><td style="padding:0 15px 0 15px;">Chpt 6,3</td><td colspan=2>Nonlinear Transformations</td><td style="padding:0 15px 0 15px;"></td></tr>
-<tr><td style="padding:0 15px 0 15px;">Feb 9, 12</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td colspan=2>Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (12th at midnight); #3 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 4, 7</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td style="padding:0 15px 0 15px;">Introduction</td><td style="padding:0 15px 0 15px;">Neurons</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 11, 14</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td colspan=2>Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 18, 21</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td colspan=2>Temporal Representation</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 25, 28, Feb 1</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td colspan=2>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (25th at midnight); #2 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 4, 8, 11</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td colspan=2>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 16, 19</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>*Reading Week*</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 15, 18</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>*Reading Week*</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 24, 26</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td colspan=2>Dynamics and Neural Control</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 22</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td colspan=2>Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (22nd at midnight); #3 posted</td></tr>
 
+<tr><td style="padding:0 15px 0 15px;">Feb 25, 29</td><td style="padding:0 15px 0 15px;">Provided</td><td colspan=2>Symbols</td><td style="padding:0 15px 0 15px;"></td></tr>
 
+<tr><td style="padding:0 15px 0 15px;">Mar 3, 7</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td colspan=2>Memory</td><td style="padding:0 15px 0 15px;">#3 due (3rd at midnight)</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 2, 5</td><td style="padding:0 15px 0 15px;">Provided</td><td colspan=2>Symbols</td><td style="padding:0 15px 0 15px;">#3 due (5th at midnight); #4 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 10, 14</td><td style="padding:0 15px 0 15px;">Provided</td><td colspan=2>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (14th at midnight)</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 9, 12</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td colspan=2>Memory</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 17, 21</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 16, 19</td><td style="padding:0 15px 0 15px;">Provided</td><td colspan=2>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (19th at midnight)</td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Mar 23</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Mar 30, Apr 2</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 24, 31</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
 
 </table>
 
