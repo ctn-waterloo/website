@@ -46,7 +46,7 @@ and they charge \$20 per half hour (or \$15 per person per half hour for groups)
 The in-class lecture notes will be posted here after each class.
 
  * Week 1: (January 4, 7) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
- * Week 2: (January 11, 14) [Representation]
+ * Week 2: (January 11, 14) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
  * Week 3: (January 18, 21) [Temporal Representation]
  * Week 4: (January 25, 28, Feb 1) [Transformation] (January 29) [Final Projects]
 * Week 5: (February 4, 8, 11) [Dynamics]
