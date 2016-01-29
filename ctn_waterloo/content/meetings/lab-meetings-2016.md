@@ -19,7 +19,7 @@ This year's meetings:
 - Feb 5: Mariah on big neuro data; Pete and Jan on question answering
 - Feb 12: Eric's practice seminar
 - Feb 19: Sean on his counting network
-- Feb 26: 
+- Feb 26: Dan on Deneve's methods
 - Mar 4: Workflow tools: Jan and Terry
 - Mar 11: 
 - Mar 18: (no meeting, chris away)
