@@ -49,7 +49,7 @@ The in-class lecture notes will be posted here after each class.
  * Week 2: (January 11, 14) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
  * Week 3: (January 18, 21) [Temporal Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
  * Week 4: (January 25, 28, Feb 1) [Transformation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb) (January 29) [Final Projects]
-* Week 5: (February 4, 8, 11) [Dynamics]
+* Week 5: (February 4, 8, 11) [Dynamics](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
 * Week 6 (February 22) [Decoder Analysis]
 * Week 7 (February 25, 29) [Symbols]
 * Week 8 (March 3, 7) [Memory]
@@ -71,7 +71,7 @@ The four assignments will be posted here.
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
   * Assignment 1: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
-  * Assignment 2: [HTML]
+  * Assignment 2: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%202.ipynb)
   * Assignment 3: [HTML]
   * Assignment 4: [HTML]
   
