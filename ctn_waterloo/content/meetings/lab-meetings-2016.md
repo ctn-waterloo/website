@@ -21,6 +21,6 @@ This year's meetings:
 - Feb 19: Sean on his counting network
 - Feb 26: Dan on Deneve's methods
 - Mar 4: Workflow tools: Jan and Terry
-- Mar 11: 
+- Mar 11: Aaron: Dynamics and filtering
 - Mar 18: (no meeting, chris away)
 - Mar 25: (good friday)
