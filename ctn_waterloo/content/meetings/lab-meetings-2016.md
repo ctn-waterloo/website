@@ -18,9 +18,10 @@ This year's meetings:
 - Jan 29: Pete D on single cells; Brent and Sean on machine learning
 - Feb 5: Mariah on big neuro data; Pete and Jan on question answering
 - Feb 12: Eric's practice seminar
-- Feb 19: Sean on his counting network
+- Feb 19: cancelled (reading week)
 - Feb 26: Dan on Deneve's methods
-- Mar 4: Workflow tools: Jan and Terry
+- Mar 4: Sean on his counting network
 - Mar 11: Aaron: Dynamics and filtering
 - Mar 18: (no meeting, chris away)
 - Mar 25: (good friday)
+- Apr 1: Workflow tools: Jan and Terry
