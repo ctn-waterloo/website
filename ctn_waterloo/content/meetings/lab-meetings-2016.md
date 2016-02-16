@@ -25,3 +25,4 @@ This year's meetings:
 - Mar 18: (no meeting, chris away)
 - Mar 25: (good friday)
 - Apr 1: Workflow tools: Jan and Terry
+- Apr 8: Jan on convolutions
