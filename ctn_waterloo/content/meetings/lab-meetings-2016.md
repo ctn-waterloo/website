@@ -5,10 +5,10 @@ Here we will post slides/discussions/papers related to recent
 or upcoming lab meetings.
 Subject to change, of course.
 
-Meetings take place in PAS 2464 Friday at high noon thirty.
+Meetings take place in PAS 2464 Friday at high noon.
 
-Nengo development meetings take place on Tuesdays at noon,
-and run for half an hour.
+Nengo development meetings take place on Tuesdays at 1p,
+and run for an hour.
 
 This year's meetings:
 
