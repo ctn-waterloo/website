@@ -1,0 +1,14 @@
+@article{gosmann2016,
+    author = {Gosmann, Jan AND Eliasmith, Chris},
+    journal = {PLoS ONE},
+    publisher = {Public Library of Science},
+    title = {Optimizing Semantic Pointer Representations for Symbol-Like Processing in Spiking Neural Networks},
+    year = {2016},
+    month = {02},
+    volume = {11},
+    url = {http://dx.doi.org/10.1371%2Fjournal.pone.0149928},
+    pages = {1-18},
+    abstract = {The Semantic Pointer Architecture (SPA) is a proposal of specifying the computations and architectural elements needed to account for cognitive functions. By means of the Neural Engineering Framework (NEF) this proposal can be realized in a spiking neural network. However, in any such network each SPA transformation will accumulate noise. By increasing the accuracy of common SPA operations, the overall network performance can be increased considerably. As well, the representations in such networks present a trade-off between being able to represent all possible values and being only able to represent the most likely values, but with high accuracy. We derive a heuristic to find the near-optimal point in this trade-off. This allows us to improve the accuracy of common SPA operations by up to 25 times. Ultimately, it allows for a reduction of neuron number and a more efficient use of both traditional and neuromorphic hardware, which we demonstrate here.},
+    number = {2},
+    doi = {10.1371/journal.pone.0149928}
+}
