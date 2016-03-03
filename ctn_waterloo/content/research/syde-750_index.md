@@ -52,7 +52,7 @@ The in-class lecture notes will be posted here after each class.
 * Week 5: (February 4, 8, 11) [Dynamics](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
 * Week 6 (February 22) [Decoder Analysis](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
 * Week 7 (February 25, 29) [Symbols]http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb
-* Week 8 (March 3, 7) [Memory]
+* Week 8 (March 3, 7) [Memory](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%208%20Memory.ipynb)
 * Week 9 (March 10, 14) [Action Selection]
 * Week 10 (March 17, 21) [Learning]
 * Conclusion/Presentations (March 24)
