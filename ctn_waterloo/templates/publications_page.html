@@ -42,7 +42,7 @@
       {{ publication }}
       {% endif -%}
     </div>
-    <div class="span4">
+    <div class="span3">
       <h4>{{ publication.type }}</h4>
       <dl>
         {% for key, val in publication.cite_info.iteritems() %}
@@ -51,11 +51,15 @@
         {% endfor %}
       </dl>
       <h4>Cite</h4>
-      <p><a href="#{{ publication.citekey }}cite" data-toggle="modal"
-            onclick="{{ publication.citekey }}_show_tab('pt');"> Plain text </a></p>
-      <p><a href="#{{ publication.citekey }}cite" data-toggle="modal"
-            onclick="{{ publication.citekey }}_show_tab('bt');"> BibTeX </a></p>
-      <p> {{ github(publication, extension="bib", spanclass="rightcol-link") }} </p>
+      <p>
+        <a href="#{{ publication.citekey }}cite"  onclick="showmodaltab('{{ publication.citekey }}', 'pt');">Plain text</a>
+      </p>
+      <p>
+        <a href="#{{ publication.citekey }}cite" onclick="showmodaltab('{{ publication.citekey }}', 'bt');">BibTeX</a>
+      </p>
+      <p>
+        {{ github(publication, extension="bib", spanclass="rightcol-link") }}
+      </p>
     </div>
   </div>
   {{ citation_box(publication) }}
