@@ -70,10 +70,10 @@ The four assignments will be posted here.
  * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
-  * Assignment 1: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
-  * Assignment 2: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%202.ipynb)
-  * Assignment 3: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%203.ipynb)
-  * Assignment 4: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%204.ipynb)
+  * Assignment 1: [HTML](https://github.com/celiasmith/syde556/blob/master/Assignment%201.ipynb)
+  * Assignment 2: [HTML](https://github.com/celiasmith/syde556/blob/master/Assignment%202.ipynb)
+  * Assignment 3: [HTML](https://github.com/celiasmith/syde556/blob/master/Assignment%203.ipynb)
+  * Assignment 4: [HTML](https://github.com/celiasmith/syde556/blob/master/Assignment%204.ipynb)
   
 * * *
 
