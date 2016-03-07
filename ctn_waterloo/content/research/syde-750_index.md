@@ -73,7 +73,7 @@ The four assignments will be posted here.
   * Assignment 1: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
   * Assignment 2: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%202.ipynb)
   * Assignment 3: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%203.ipynb)
-  * Assignment 4: [HTML]
+  * Assignment 4: [HTML](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/Assignment%204.ipynb)
   
 * * *
 
