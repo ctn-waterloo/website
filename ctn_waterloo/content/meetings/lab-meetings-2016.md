@@ -21,7 +21,7 @@ This year's meetings:
 - Feb 19: cancelled (reading week)
 - Feb 26: Dan on Deneve's methods
 - Mar 4: Sean on his counting network
-- Mar 11:
+- Mar 11: (no meeting, chris away)
 - Mar 18: (no meeting, chris away)
 - Mar 25: (good friday)
 - Apr 1: Workflow tools: Jan and Terry
