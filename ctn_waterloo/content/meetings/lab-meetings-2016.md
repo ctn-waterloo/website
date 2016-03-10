@@ -21,8 +21,10 @@ This year's meetings:
 - Feb 19: cancelled (reading week)
 - Feb 26: Dan on Deneve's methods
 - Mar 4: Sean on his counting network
-- Mar 11 [11:30a]: Aaron: Dynamics and filtering
+- Mar 11:
 - Mar 18: (no meeting, chris away)
 - Mar 25: (good friday)
 - Apr 1: Workflow tools: Jan and Terry
 - Apr 8: Jan on convolutions
+- Apr 15:
+- Apr 22: Aaron's seminar on heterogeneous synapses
