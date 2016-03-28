@@ -28,3 +28,12 @@ This year's meetings:
 - Apr 8: Jan on convolutions
 - Apr 15:
 - Apr 22: Aaron's seminar on heterogeneous synapses
+- April 29:
+- May 6: (no meeting, chris talking at SONA)
+- May 13:
+- May 20:
+- May 27:
+- June 3:
+- June 10-July 1: (no meeting, summer school, chris away, holiday)
+- July 8:
+- July 15:
