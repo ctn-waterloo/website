@@ -37,3 +37,4 @@ This year's meetings:
 - June 10-July 1: (no meeting, summer school, chris away, holiday)
 - July 8: Pete B - Language
 - July 15: Pete D - India and all his projects
+- July 22: Mariah - ANDREA and Model based RL
