@@ -6,11 +6,12 @@ will be [found here](http://nengo.ca/popularpress).
 
 ![Cartoon](http://nengo.ca/sites/nengo.ca/files/ChrisSpaun.jpg){: .pull-right width="200"}
 
+- [Communitech News](http://news.communitech.ca/news/the-communitech-podcast-chris-eliasmith-has-a-brain-in-a-box/) - The Communitech Podcast: Chris Eliasmith has a brain in a box
 - [Waterloo University Strategic Plan](https://uwaterloo.ca/research/sites/ca.research/files/uploads/files/strategic_research_plan_-_accessible_pdf.pdf) - Cover of 2015 Waterloo University Strategic Plan
 - [BBC World](http://www.bbc.co.uk/iplayer/episode/p010z973/Science_In_Action_Melting_ice_caps/) (radio interview, opening 5s and interview starts at 11:50)
 - [CNN](http://thechart.blogs.cnn.com/2012/11/29/brain-model-may-help-build-humanlike-robot/) - Brain model may help build human-like robot
 - [Popular Science](http://www.popsci.com/science/article/2012-11/meet-spaun-first-computer-model-complex-brain-behavior) - Meet Spaun, The Most Complex Simulated Brain Ever
-- [Nature](http://www.nature.com/news/simulated-brain-scores-top-test-marks-1.11914)- Simulated brain scores top test marks
+- [Nature](http://www.nature.com/news/simulated-brain-scores-top-test-marks-1.11914) - Simulated brain scores top test marks
 - [Reddit](http://www.reddit.com/r/science/comments/141q17/scientists_successfully_create_virtual_brain/?limit=500) (We also hosted an ['Ask Me Anything' (AMA)](http://www.reddit.com/r/IAmA/comments/147gqm/we_are_the_computational_neuroscientists_behind/), which was ranked in the top 10 Science AMAs for 2012)
 - [National Geographic](http://phenomena.nationalgeographic.com/2013/02/14/will-we-ever-simulate-the-brain/) - Will we ever... simulate a brain?
 - [LA Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-new-model-brain-can-memorize-numbers-answer-iq-questions-20121129,0,2428635.story) - New computer model of the brain focuses on seeing and doing
