@@ -82,7 +82,7 @@ The four assignments will be posted here.
 The final project for the course consists of picking a neurobiological system and
 building a model for it.  There is a list of possible projects [here](/research/syde-750/syde-556-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
-Please have your projects approved by me by the beginning of Feb.
+Please have your projects approved by me by the beginning of Feb.  You will need to present your project idea in a couple of overhead slides to the class at the end of March.  These presentations are pass/fail. If you do not present you will lose 10 marks off your project report.
 
 ### Project Format
 
