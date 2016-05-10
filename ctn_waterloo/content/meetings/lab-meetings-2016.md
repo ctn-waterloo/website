@@ -30,8 +30,8 @@ This year's meetings:
 - Apr 22: Aaron's seminar on heterogeneous synapses
 - April 29: Brent - RATSLAM in Nengo
 - May 6: (no meeting, chris talking at SONA)
-- May 13: Sean - RNNs and Conceptors; Ivana on Creativity workshop
-- May 20: Aaron - Locality sensitive hashing
+- May 13: Aaron - Locality sensitive hashing; Ivana - Creativity workshop
+- May 20: Sean - RNNs and Conceptors
 - May 27: Su - CNNs  for scene recognition; 
 - June 3: Brent - Hyperopt 
 - June 10-July 1: (no meeting, summer school, chris away, holiday)
