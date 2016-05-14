@@ -1,7 +1,7 @@
 name: Stacy Gaikovaia
 email: agaikova@uwaterloo.com
 one_liner: ???????
-group: Undergrad Students
+group: Undergrad students
 title: Undergraduate research assistant
 picture: http://imgur.com/0Unpfls
 
