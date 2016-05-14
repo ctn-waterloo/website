@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Trevor Bekolay (2016 PhD)
+      url: people/trevor-bekolay.html
     - text: Travis DeWolf (2015 PhD)
       url: /people/travis-dewolf.html
     - text: Daniel Rasmussen (2014 PhD)
