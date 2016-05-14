@@ -1,7 +1,7 @@
 name: Trevor Bekolay
 email: tbekolay@gmail.com
 one_liner: Learning and audition
-group: Grad students
+group: Alumnus
 title: PhD Student
 picture: http://compneuro.uwaterloo.ca/files/people/trevor-bekolay.jpg
 links:
