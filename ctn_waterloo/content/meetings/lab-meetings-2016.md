@@ -32,7 +32,7 @@ This year's meetings:
 - May 6: (no meeting, chris talking at SONA)
 - May 13: Aaron - Locality sensitive hashing; Ivana - Creativity workshop
 - May 20: Su - CNNs  for scene recognition; Brent - Sweden hackathon project
-- May 27: Sean - RNNs and Conceptors
+- May 27: Sean - Best Practices: PyTest, GitHub, SetupTools
 - June 3: Brent - Hyperopt 
 - June 10-July 1: (no meeting, summer school, chris away, holiday)
 - July 8: Pete B - Language
