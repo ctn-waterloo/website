@@ -12,7 +12,7 @@ links:
     - text: Twitter
       url: https://twitter.com/voyageur_techno
     - text: My research-ish blog
-      url: https://seanaubin.wordpress.com/
+      url: https://medium.com/@seanaubin
     - text: My Cogsci.SE Profile
       url: https://cogsci.stackexchange.com/users/4397/seanny123
 
