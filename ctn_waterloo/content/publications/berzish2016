@@ -1,0 +1,20 @@
+@inproceedings {berzish2016,
+  title={Real-Time FPGA Simulation of Surrogate Models of Large Spiking Networks},
+  author={Murphy Berzish and Chris Eliasmith and Bryan Tripp},
+  booktitle={ICANN},
+  pages={1},
+  year={2016},
+  keywords={FPGA; Neural Engineering Framework; neuromorphic engineering},
+  abstract={Models of neural systems often use idealized inputs and out-
+puts, but there is also much to learn by forcing a neural model to inter-
+act with a complex simulated or physical environment. Unfortunately,
+sophisticated interactions require models of large neural systems, which
+are difficult to run in real time. We have prototyped a system that can
+simulate efficient surrogate models of a wide range of neural circuits in
+real time, with a field programmable gate array (FPGA). The scale of
+the simulations is increased by avoiding simulation of individual neu-
+rons, and instead simulating approximations of the collective activity of
+groups of neurons. The system can approximate roughly a million spiking
+neurons in a wide range of configurations},
+  pdf={http://compneuro.uwaterloo.ca/files/publications/berzish2016.pdf}
+}
