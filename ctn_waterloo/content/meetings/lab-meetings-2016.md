@@ -35,6 +35,12 @@ This year's meetings:
 - May 27: Sean - Best Practices: PyTest, GitHub, SetupTools
 - June 3: Brent - Hyperopt 
 - June 10-July 1: (no meeting, summer school, chris away, holiday)
-- July 8: Pete B - Language
+- July 8: Pete B - Language (chris away)
 - July 15: Pete D - India and all his projects
-- July 22: Mariah - ANDREA and Model based RL
+- July 22: Mariah - ANDREA and Model based RL (chris away)
+- July 29: TBD
+- Aug 5 - no meeting (chris away)
+- Aug 12 - no meeting (cogsci)
+- Aug 19 - TBD
+- Aug 26 - no meeting (chris away)
+- Sept 2 - TBD
