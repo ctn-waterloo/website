@@ -2,12 +2,9 @@ title: Typical Number of Inputs
 
 ## Summary
 
-  * CA1 Pyramidal Cells(Megias et al.,2001):
-    -N
-umber of excitatory inputs: ~30,000
-
-    -N
-umber of inhibitory inputs: ~1,700
+* CA1 Pyramidal Cells (Megias et al.,2001):
+  * Number of excitatory inputs: ~30,000
+  * Number of inhibitory inputs: ~1,700
 
 ### Primary Sources
 
