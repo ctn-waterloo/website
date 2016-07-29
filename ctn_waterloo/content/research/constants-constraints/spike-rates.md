@@ -2,13 +2,10 @@ title: Spike Rates
 
 ## Summary
 
-  * Fast-spiking inhibitory interneurons: 500-700Hz
-  * Rat Layer 5 Pyramidal Neurons (Schwindt et al., 1997):
-    -M
-inimum Steady Firing Rate: 10 +- 0.4Hz (5-16 Hz)
-
-    -M
-aximum Steady Firing Rate: 74Hz (6.7+-0.4 x minimum rate)
+* Fast-spiking inhibitory interneurons: 500 - 700 Hz
+* Rat Layer 5 Pyramidal Neurons (Schwindt et al., 1997):
+  * Minimum Steady Firing Rate: 10 $\pm$ 0.4 Hz (5 - 16 Hz)
+  * Maximum Steady Firing Rate: 74 Hz (6.7 $\pm$ 0.4 x minimum rate)
 
 ### Primary Sources
 
