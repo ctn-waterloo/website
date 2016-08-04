@@ -4,6 +4,9 @@ one_liner: "Representing and processing dynamic information"
 group: Grad students
 title: PhD Student
 picture: http://i.imgur.com/KpFcHAd.jpg
+links: 
+    - text: ResearchGate
+      url: https://www.researchgate.net/profile/Aaron_Voelker
 
 I started my masters in Computer Science at the lab in September 2013, and fast-tracked towards a PhD in September 2014. I received my BMath Double Honours in Computer Science and Combinatorics & Optimization from the University of Waterloo, and have had software development internships involving machine learning and "big data" at companies such as Google, Amazon, and ContextLogic. I also helped start-up the multi-billion dollar company, Wish, by developing their personalization/relevancy algorithms.
 
