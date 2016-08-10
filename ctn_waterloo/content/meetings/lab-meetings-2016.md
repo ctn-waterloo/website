@@ -41,7 +41,7 @@ This year's meetings:
 - July 29: Cogsci Presentations
 - Aug 5 - no meeting (chris away)
 - Aug 12 - no meeting (cogsci)
-- Aug 19 - TBD
+- Aug 19 - Eric on Telluride
 - Aug 26 - no meeting (chris away)
 - Sept 2 - Mariah - ANDREA and Model based RL
 - Sept 9 - Pete B - Language
