@@ -7,7 +7,8 @@ branches:
   only:
     - master
 
-install: "pip install -r requirements.txt --use-mirrors"
+install:
+  - pip install -r requirements.txt
 
 before_script:
   # Sets up SSH key for rsync into compneuro
@@ -16,10 +17,11 @@ before_script:
   - chmod 600 ~/.ssh/id_rsa
   - echo -e "Host compneuro.uwaterloo.ca\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 
-script: if [[ $TRAVIS_PULL_REQUEST == 'false' ]]; then python manage.py up cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/; fi
+script:
+  - python manage.py up cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
 
 after_script:
-  - if [[ $TRAVIS_PULL_REQUEST == 'false' ]]; then ssh cnrglab@compneuro.uwaterloo.ca 'ln -s /home/cnrglab/files /home/cnrglab/public_html/'; fi
+  - ssh cnrglab@compneuro.uwaterloo.ca 'ln -s /home/cnrglab/files /home/cnrglab/public_html/'
 
 env:
   global:
