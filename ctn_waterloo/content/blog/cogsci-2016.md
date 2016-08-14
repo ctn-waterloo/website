@@ -1,6 +1,6 @@
 title: CNRG at CogSci 2016 in Philadelphia
 author: Brent Komer
-date: 2016-08-11
+date: 2016-08-11 19:00
 
 An excellent turnout this year from the CNRG at the 38th Annual Conference of the Cognitive Science Society.
 
