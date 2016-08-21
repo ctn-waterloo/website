@@ -2,7 +2,7 @@ name: Sugandha Sharma
 email: s72sharm@uwaterloo.ca
 one_liner: Biologically Plausible Bayesian Models of Inference
 group: Grad students
-title: Research Assistant
+title: Masters Student in Systems Design Engineering
 picture: https://avatars3.githubusercontent.com/u/12284191?v=3&s=460
 links:
     - text: LinkedIn 
@@ -11,8 +11,6 @@ links:
       url: https://github.com/s72sue
     - text: Website
       url: http://sugandhasharma.weebly.com/
-
-I am currently working as a research assistant at CNRG and will be starting my Masters degree in Winter 2016. 
 
 ## Research Interests
 
