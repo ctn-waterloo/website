@@ -1,7 +1,7 @@
 name: Stacy Gaikovaia
 email: agaikova@uwaterloo.com
 one_liner: "I wanna be the very best..."
-group: Undergrad students
+group: Alumnus
 title: Undergraduate research assistant
 picture: http://compneuro.uwaterloo.ca/files/people/stacy-and-goose.jpg
 
