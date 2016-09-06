@@ -44,4 +44,6 @@ This year's meetings:
 - Aug 19 - Eric on Telluride
 - Aug 26 - no meeting (chris away)
 - Sept 2 - Mariah - ANDREA and Model based RL
-- Sept 9 - Pete B - Language
+- Sept 9 - Pete B - Language & Cogsci gang report
+- Sept 16 - Cogsci gang part II
+- 
