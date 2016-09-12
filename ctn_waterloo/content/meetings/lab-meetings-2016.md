@@ -39,11 +39,14 @@ This year's meetings:
 - July 15: Pete D - India and all his projects
 - July 22: no meeting (chris away)
 - July 29: Cogsci Presentations
-- Aug 5 - no meeting (chris away)
-- Aug 12 - no meeting (cogsci)
-- Aug 19 - Eric on Telluride
-- Aug 26 - no meeting (chris away)
-- Sept 2 - Mariah - ANDREA and Model based RL
-- Sept 9 - Pete B - Language & Cogsci gang report
-- Sept 16 - Cogsci gang part II
-- 
+- Aug 5: no meeting (chris away)
+- Aug 12: no meeting (cogsci)
+- Aug 19: Eric on Telluride
+- Aug 26: no meeting (chris away)
+- Sept 2: Mariah - ANDREA and Model based RL
+- Sept 9: Pete B - Language
+- Sept 16: Cogsci gang report
+- Sept 23: Sean on Conceptors
+- Sept 30: No meeting (chris away)
+- Oct 7: Aaron Neural Dynamics (PhD Proposal)
+- your name here :)
