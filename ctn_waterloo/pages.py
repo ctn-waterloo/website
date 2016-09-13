@@ -1,5 +1,6 @@
 import inspect
 import itertools
+import latexcodec
 import os
 
 import flask
@@ -51,7 +52,9 @@ def bibtex_to_dict(text):
         von_last = ' '.join(person.prelast_names + person.last_names)
         jr = ' '.join(person.lineage_names)
         first = ' '.join(person.first_names + person.middle_names)
-        return ' '.join(part for part in (first, von_last, jr) if part)
+        fullname = ' '.join(part for part in (first, von_last, jr) if part)
+        # Handle escaped LaTeX characters
+        return fullname.decode('ulatex')
 
     bib_data = pybtex.database.parse_string(text, 'bibtex')
 
