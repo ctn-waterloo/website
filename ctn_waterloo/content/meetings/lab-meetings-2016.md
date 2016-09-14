@@ -49,4 +49,5 @@ This year's meetings:
 - Sept 23: Sean on Conceptors
 - Sept 30: No meeting (chris away)
 - Oct 7: Aaron Neural Dynamics (PhD Proposal)
+- Oct 14: Pete D on social modeling
 - your name here :)
