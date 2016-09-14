@@ -1,3 +1,4 @@
+import codecs
 import inspect
 import itertools
 import latexcodec
@@ -13,6 +14,10 @@ import pybtex.backends.plaintext
 from pybtex.style.template import FieldIsMissing, href, join, node, words
 
 from .markdown_extensions import AddAnchorsExtension, MathJaxExtension
+
+
+# Workaround for https://github.com/mcmtroffaes/latexcodec/issues/48
+codecs.lookup('latex').incrementaldecoder.table.register(u'%', br'\%')
 
 
 @node
@@ -84,6 +89,11 @@ def bibtex_to_dict(text):
     for key in extract:
         if key in entry.fields:
             meta[key] = meta['cite_info'].pop(key)
+
+    decode = ('title', 'abstract', 'keywords')
+    for key in decode:
+        if key in meta:
+            meta[key] = meta[key].decode('ulatex')
 
     # Add editors to cite_info, if they exist
     if 'editor' in entry.persons:
