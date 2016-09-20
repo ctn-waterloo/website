@@ -9,8 +9,40 @@ import werkzeug
 import pybtex.database
 import pybtex.style.formatting.plain
 import pybtex.backends.plaintext
+from pybtex.style.template import FieldIsMissing, href, join, node, words
 
 from .markdown_extensions import AddAnchorsExtension, MathJaxExtension
+
+
+@node
+def raw_field(children, data, name, apply_func=None):
+    """Return the raw contens of the bibliography entry field.
+
+    This function does not decode special LaTeX characters."""
+    assert not children
+    try:
+        field = data.fields[name]
+    except KeyError:
+        raise FieldIsMissing(name, data)
+    else:
+        if apply_func:
+            field = applay_func(field)
+        return field
+
+
+class NonURLDecodingPlainStyle(pybtex.style.formatting.plain.Style):
+    """Plain text pybtex style which does not attempt to latex decode URLs."""
+
+    def format_url(self, e):
+        return words [
+            'URL:',
+            href [
+                raw_field('url'),
+                join(' ') [
+                    raw_field('url')
+                ]
+            ]
+        ]
 
 
 def bibtex_to_dict(text):
@@ -23,7 +55,7 @@ def bibtex_to_dict(text):
 
     bib_data = pybtex.database.parse_string(text, 'bibtex')
 
-    plain_style = pybtex.style.formatting.plain.Style()
+    plain_style = NonURLDecodingPlainStyle()
     plain_render = pybtex.backends.plaintext.Backend()
     formatted_entry = next(plain_style.format_entries(bib_data.entries.values()))
 
