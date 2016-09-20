@@ -1,16 +1,12 @@
 import inspect
 import itertools
 import os
-try:
-    from cStringIO import StringIO
-except:
-    from StringIO import StringIO
 
 import flask
 import markdown
 import yaml
 import werkzeug
-import pybtex.database.input.bibtex
+import pybtex.database
 import pybtex.style.formatting.plain
 import pybtex.backends.plaintext
 
@@ -20,13 +16,12 @@ from .markdown_extensions import AddAnchorsExtension, MathJaxExtension
 def bibtex_to_dict(text):
     """Add BibTeX data to metadata."""
     def _format_person(person):
-        von_last = ' '.join(person._prelast + person._last)
-        jr = ' '.join(person._lineage)
-        first = ' '.join(person._first + person._middle)
+        von_last = ' '.join(person.prelast_names + person.last_names)
+        jr = ' '.join(person.lineage_names)
+        first = ' '.join(person.first_names + person.middle_names)
         return ' '.join(part for part in (first, von_last, jr) if part)
 
-    parser = pybtex.database.input.bibtex.Parser()
-    bib_data = parser.parse_stream(StringIO(text))
+    bib_data = pybtex.database.parse_string(text, 'bibtex')
 
     plain_style = pybtex.style.formatting.plain.Style()
     plain_render = pybtex.backends.plaintext.Backend()
@@ -43,7 +38,7 @@ def bibtex_to_dict(text):
         'type': entry.type,
         'authors': [_format_person(person)
                     for person in entry.persons['author']],
-        'cite_info': entry.fields,
+        'cite_info': {k.lower(): v for k, v in entry.fields.iteritems()},
         'cite_bibtex': text,
         'cite_plain': formatted_entry.text.render(plain_render),
     }

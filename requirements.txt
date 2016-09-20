@@ -3,4 +3,4 @@ frozen-flask
 flask-script
 markdown
 pyyaml
-pybtex==0.17
+pybtex
