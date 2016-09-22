@@ -27,6 +27,9 @@ The build generates all the static files,
 and ``rsync``'s them to the webserver.
 This may take a few moments,
 but the site should always be in sync with this repository.
+
+### How to test your edits
+
 Please try not to break this build,
 as it will mean that our website could be in a broken state!
 If you're doing something that you're not sure about,
