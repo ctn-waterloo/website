@@ -1,6 +1,7 @@
 flask
 frozen-flask
 flask-script
+latexcodec>=1.0.4
 markdown
 pyyaml
-pybtex==0.17
+pybtex

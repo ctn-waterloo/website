@@ -1,34 +1,65 @@
+import codecs
 import inspect
 import itertools
+import latexcodec
 import os
-try:
-    from cStringIO import StringIO
-except:
-    from StringIO import StringIO
 
 import flask
 import markdown
 import yaml
 import werkzeug
-import pybtex.database.input.bibtex
+import pybtex.database
 import pybtex.style.formatting.plain
 import pybtex.backends.plaintext
+from pybtex.style.template import FieldIsMissing, href, join, node, words
 
 from .markdown_extensions import AddAnchorsExtension, MathJaxExtension
+
+
+@node
+def raw_field(children, data, name, apply_func=None):
+    """Return the raw contens of the bibliography entry field.
+
+    This function does not decode special LaTeX characters."""
+    assert not children
+    try:
+        field = data.fields[name]
+    except KeyError:
+        raise FieldIsMissing(name, data)
+    else:
+        if apply_func:
+            field = applay_func(field)
+        return field
+
+
+class NonURLDecodingPlainStyle(pybtex.style.formatting.plain.Style):
+    """Plain text pybtex style which does not attempt to latex decode URLs."""
+
+    def format_url(self, e):
+        return words [
+            'URL:',
+            href [
+                raw_field('url'),
+                join(' ') [
+                    raw_field('url')
+                ]
+            ]
+        ]
 
 
 def bibtex_to_dict(text):
     """Add BibTeX data to metadata."""
     def _format_person(person):
-        von_last = ' '.join(person._prelast + person._last)
-        jr = ' '.join(person._lineage)
-        first = ' '.join(person._first + person._middle)
-        return ' '.join(part for part in (first, von_last, jr) if part)
+        von_last = ' '.join(person.prelast_names + person.last_names)
+        jr = ' '.join(person.lineage_names)
+        first = ' '.join(person.first_names + person.middle_names)
+        fullname = ' '.join(part for part in (first, von_last, jr) if part)
+        # Handle escaped LaTeX characters
+        return fullname.decode('ulatex')
 
-    parser = pybtex.database.input.bibtex.Parser()
-    bib_data = parser.parse_stream(StringIO(text))
+    bib_data = pybtex.database.parse_string(text, 'bibtex')
 
-    plain_style = pybtex.style.formatting.plain.Style()
+    plain_style = NonURLDecodingPlainStyle()
     plain_render = pybtex.backends.plaintext.Backend()
     formatted_entry = next(plain_style.format_entries(bib_data.entries.values()))
 
@@ -43,7 +74,7 @@ def bibtex_to_dict(text):
         'type': entry.type,
         'authors': [_format_person(person)
                     for person in entry.persons['author']],
-        'cite_info': entry.fields,
+        'cite_info': {k.lower(): v for k, v in entry.fields.iteritems()},
         'cite_bibtex': text,
         'cite_plain': formatted_entry.text.render(plain_render),
     }
@@ -54,6 +85,11 @@ def bibtex_to_dict(text):
     for key in extract:
         if key in entry.fields:
             meta[key] = meta['cite_info'].pop(key)
+
+    decode = ('title', 'abstract', 'keywords')
+    for key in decode:
+        if key in meta:
+            meta[key] = meta[key].decode('ulatex')
 
     # Add editors to cite_info, if they exist
     if 'editor' in entry.persons:
