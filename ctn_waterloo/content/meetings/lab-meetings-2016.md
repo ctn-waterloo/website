@@ -48,7 +48,7 @@ This year's meetings:
 - Sept 16: Cogsci gang report
 - Sept 23: Sean on Conceptors and a brief website review/brainstorm
 - Sept 30: No meeting (chris away)
-- Oct 7: Aaron Neural Dynamics (PhD Proposal)
+- Oct 7: Aaron - Dynamical systems ([PhD comp-II report](https://drive.google.com/file/d/0B5QFIbHx4khweTBEc0IzSW4tY1U/view?usp=sharing))
 - Oct 14: RoundTable (or tbd)
 - Oct 21: Pete D on social modeling
 - your name here :)
