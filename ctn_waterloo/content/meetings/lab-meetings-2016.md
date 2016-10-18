@@ -52,4 +52,5 @@ This year's meetings:
 - Oct 14: RoundTable (or tbd)
 - Oct 21: Charlie Tang (ex-CNRG) on deep learning (i'm guessing)
 - Oct 28: Pete D on social modeling
+- Nov 4: Discussion of [DNC paper](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20101.html) and [commentary](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature19477.html). Be sure to read them in advance!
 - your name here :)
