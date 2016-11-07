@@ -53,4 +53,6 @@ This year's meetings:
 - Oct 21: Charlie Tang (ex-CNRG) on deep learning (i'm guessing)
 - Oct 28: Pete D on social modeling
 - Nov 4: Discussion of [DNC paper](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20101.html) and [commentary](http://www.nature.com/nature/journal/v538/n7626/full/nature19477.html). Be sure to read them in advance!
-- your name here :)
+- Nov 11: Ariel Goldstein on retrieval induced forgetting
+- Nov 18: Nachiket Kapre on reconfigurable computing
+- tbd...
