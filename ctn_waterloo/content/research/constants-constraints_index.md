@@ -1,5 +1,6 @@
 title: Neural Modelling Constants and Constraints
 picture: static/img/placeholder.png
+category: Tools
 intro: Important information we often refer to when modelling.
 
 toc:

@@ -1,5 +1,6 @@
 title: Perception
 picture: http://i.imgur.com/JR9qfHL.png?1
+category: Applications
 intro: Visual recognition and processing, auditory processing, etc.
 
 [Relevant publications](?q=/biblio/term/vision/) from the lab on vision.

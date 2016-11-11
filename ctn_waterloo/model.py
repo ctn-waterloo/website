@@ -56,13 +56,14 @@ class Model(object):
         return person
 
     def people(self, group=None):
-        if group is None:
-            test = lambda p: p.path.startswith('people/')
-        else:
-            test = lambda p: p.path.startswith('people/') and p['group'] == group
+        """Returns a list, sorted by name, of people belonging to a group"""
 
-        people = sorted([self.person(p) for p in self.pages if test(p)],
-                        key=lambda p: p['name'])
+        # define function to test membership with
+        test = lambda p: p.path.startswith('people/') and p['group'] == group
+        # get members
+        members = [self.person(p) for p in self.pages if test(p)]
+        # sort members by name
+        people = sorted(members, key=lambda p: p['name'])
         return people
 
     def publication(self, pub):
@@ -108,6 +109,20 @@ class Model(object):
 
         return allpubs
 
+    def research_categories(self, cat):
+        """Returns a list of research topics belonging to a category"""
+        def test(p):
+            try:
+                return (p.path.startswith('research/') and
+                        p.meta['category'] == cat)
+            except KeyError:
+                return False
+
+        # get members
+        members = [p for p in self.pages if test(p)]
+        # TODO: Return in a certain order? Maybe a determined index?
+        return members
+
     def research(self, topic):
         def _recursive_map(f, data):
             if isinstance(data, list):
@@ -126,7 +141,10 @@ class Model(object):
         page.url = url_for('research_topic', topic=topic)
         page.toc = _recursive_map(
             lambda title: {'title': title,
-                           'url': url_for('research_page', topic=topic, slug=slugify(title))},
+                           'url': url_for('research_page',
+                                          topic=topic,
+                                          slug=slugify(title))
+                           },
             page['toc'])
 
         page.articles = [self.pages.get('research/' + topic + '/' + slugify(p['title']))

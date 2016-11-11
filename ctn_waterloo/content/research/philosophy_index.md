@@ -1,4 +1,7 @@
 title: Philosophy
+picture: static/img/placeholder.png
+category: Applications
+intro: Thinking about the Brain
 
 [Relevant Publications](?q=biblio/term/philosophy/) in philosophy of
 neuroscience, science, and mind.

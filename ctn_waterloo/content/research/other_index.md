@@ -1,4 +1,5 @@
 title: Other
+category: Applications
 picture: static/img/placeholder.png
 intro: Forays into other research areas.
 

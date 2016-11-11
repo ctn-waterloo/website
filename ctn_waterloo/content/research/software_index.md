@@ -1,5 +1,6 @@
 title: Software
 picture: http://i.imgur.com/ygXcJ0y.png
+category: Tools
 intro: Software we've developed, support, or use extensively.
 
 Here you will find links to various software that we have written, support, or

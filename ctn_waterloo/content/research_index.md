@@ -4,9 +4,11 @@ topics:
     - syde-750
     - spa
     - cognition
-    - motor-control
+    - control
     - perception
+    - philosophy
     - software
     - theoretical-neuroscience
     - constants-constraints
+    - neuromorphic-hardware
     - other

@@ -1,8 +1,8 @@
 title: Theoretical Neuroscience
 picture: http://i.imgur.com/JiZ67DA.png
+category: Applications
 intro: Exploring general issues in theoretical neuroscience.
-people:
-    - Chris Eliasmith
+
 toc:
     - What is theoretical neuroscience?
     - Correlations, network structure and the NEF

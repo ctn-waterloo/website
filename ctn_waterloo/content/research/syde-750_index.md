@@ -1,10 +1,8 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
+category: Theory
 intro: >
     Course information for SYDE 556/750, taught Winter 2016.
-people:
-    - Chris Eliasmith
-    - Terry Stewart
 toc:
     - SYDE 556 Course Outline
     - SYDE 556 Possible Projects
