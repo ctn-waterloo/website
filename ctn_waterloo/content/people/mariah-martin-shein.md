@@ -1,4 +1,4 @@
-name: Mariah Martin-Shein
+name: Mariah Martin Shein
 email: mshein@uwaterloo.ca
 one_liner: Emotion, Neural Model-Based Reinforcement Learning
 group: Grad students
