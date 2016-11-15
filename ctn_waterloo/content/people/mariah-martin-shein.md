@@ -8,4 +8,4 @@ links:
     - text: Github
       url: https://github.com/memarsh
 
-I'm interested in emotion, and how it affects learning.
+I'm interested in emotion, and how it affects learning. I'm developing a neural model of model-based reinforcement learning.
