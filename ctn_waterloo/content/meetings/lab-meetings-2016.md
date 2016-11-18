@@ -55,4 +55,5 @@ This year's meetings:
 - Nov 4: Discussion of [DNC paper](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20101.html) and [commentary](http://www.nature.com/nature/journal/v538/n7626/full/nature19477.html). Be sure to read them in advance!
 - Nov 11: Ariel Goldstein on retrieval induced forgetting
 - Nov 18: Nachiket Kapre on reconfigurable computing
+- Nov 25: Aaron - Geometric decoder optimization
 - tbd...
