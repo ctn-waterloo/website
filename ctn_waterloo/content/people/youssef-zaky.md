@@ -1,7 +1,7 @@
 name: Youssef Zaky
 email: yzaky@utwaterloo.ca
 one_liner: Control of eye movement
-group: Grad students
+group: Alumnus
 title: PhD Student
 picture: http://compneuro.uwaterloo.ca/files/youssef_zaki_pic.png
 links:
