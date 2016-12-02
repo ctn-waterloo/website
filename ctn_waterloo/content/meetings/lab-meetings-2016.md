@@ -56,4 +56,8 @@ This year's meetings:
 - Nov 11: Ariel Goldstein on retrieval induced forgetting
 - Nov 18: Nachiket Kapre on reconfigurable computing
 - Nov 25: Aaron - Geometric decoder optimization
-- tbd...
+- Dec 2: Discuss possible cog sci topics
+- Dec 9: TBD
+- Dec 16:
+- Jan 6: Welcome back; roundtable
+- Jan 13: TBD
