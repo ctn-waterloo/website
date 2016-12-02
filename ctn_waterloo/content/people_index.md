@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Youssef Zaky (2017 PhD incomplete)
+      url: people/youssef-zaky.html
     - text: Trevor Bekolay (2016 PhD)
       url: people/trevor-bekolay.html
     - text: Travis DeWolf (2015 PhD)
