@@ -1,6 +1,6 @@
 title: People
 alumni:
-    - text: Youssef Zaky (2017 PhD incomplete)
+    - text: Youssef Zaky (2016 PhD incomplete)
       url: people/youssef-zaky.html
     - text: Trevor Bekolay (2016 PhD)
       url: people/trevor-bekolay.html
