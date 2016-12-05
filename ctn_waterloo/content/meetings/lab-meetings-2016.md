@@ -57,7 +57,7 @@ This year's meetings:
 - Nov 18: Nachiket Kapre on reconfigurable computing
 - Nov 25: Aaron - Geometric decoder optimization
 - Dec 2: Discuss possible cog sci topics
-- Dec 9: TBD
-- Dec 16:
+- Dec 9: Mariah and Ivana on Grace Hopper
+- Dec 16: tbd
 - Jan 6: Welcome back; roundtable
 - Jan 13: TBD
