@@ -1,15 +1,12 @@
 title: Semantic Pointer Architecture
 picture: http://i.imgur.com/Tm7hBer.png
+category: Theory
 intro: >
   Semantic pointers are neural representations that carry
   partial semantic content and are composable into the representational
   structures necessary to support complex cognition. These pages describe a
   cognitive architecture based on them. This architecture has been used to build
   the world's largest functional brain model, Spaun.
-people:
-    - Chris Eliasmith
-    - Xuan Choo
-    - Terry Stewart
 toc:
     - Semantic Pointer Architecture
 

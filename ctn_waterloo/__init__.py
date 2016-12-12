@@ -8,6 +8,7 @@ from .filters import get_headings, lead_paragraph, nice_date, slugify, youtubify
 from .pages import FlatPages
 from .model import Model
 
+
 DEBUG = True
 SITE_NAME = "CNRGlab @ UWaterloo"
 FREEZER_BASE_URL = 'http://compneuro.uwaterloo.ca/'
@@ -152,7 +153,10 @@ def publications_page(citekey):
 def research_index():
     g.topic = 'research'
     page = pages.get('research_index')
-    page.topics = [model.research(topic) for topic in page['topics']]
+    categories = ('Theory', 'Applications', 'Tools')
+    page.categories = [{'category': cat, 'topics': model.research_categories(cat)}
+                       for cat in categories]
+    #page.topics = [model.research(topic) for topic in page['topics']]
     return render_template('research_index.html', page=page)
 
 
