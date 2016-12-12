@@ -58,6 +58,6 @@ This year's meetings:
 - Nov 25: Aaron - Geometric decoder optimization
 - Dec 2: Discuss possible cog sci topics
 - Dec 9: Mariah and Ivana on Grace Hopper
-- Dec 16: tbd
+- Dec 16: Terry on NIPS trip
 - Jan 6: Welcome back; roundtable
 - Jan 13: TBD
