@@ -83,3 +83,16 @@ academic departments to arrange appropriate accommodations for students with
 disabilities without compromising the academic integrity of the curriculum. If
 you require academic accommodations to lessen the impact of your disability,
 please register with the OPD at the beginning of each academic term.
+
+_Intellectual Property:_
+Students should be aware that this course contains the intellectual property of their instructor, TA, and/or the University of Waterloo.  Intellectual property includes items such as:<ul>
+<li>Lecture content, spoken and written (and any audio/video recording thereof);</li>
+<li>Lecture handouts, presentations, and other materials prepared for the course (e.g., PowerPoint slides);</li>
+<li>Questions or solution sets from various types of assessments (e.g., assignments, quizzes, tests, final exams); and</li>
+<li>Work protected by copyright (e.g., any work authored by the instructor or TA or used by the instructor or TA with permission of the copyright owner).</li></ul>
+
+Course materials and the intellectual property contained therein, are used to enhance a student’s educational experience.  However, sharing this intellectual property without the intellectual property owner’s permission is a violation of intellectual property rights.  For this reason, it is necessary to ask the instructor, TA and/or the University of Waterloo for permission before uploading and sharing the intellectual property of others online (e.g., to an online repository).
+
+Permission from an instructor, TA or the University is also necessary before sharing the intellectual property of others from completed courses with students taking the same/similar courses in subsequent terms/years.  In many cases, instructors might be happy to allow distribution of certain materials.  However, doing so without expressed permission is considered a violation of intellectual property rights.
+
+Please alert the instructor if you become aware of intellectual property belonging to others (past or present) circulating, either through the student body or online.  The intellectual property rights owner deserves to know (and may have already given their consent).
