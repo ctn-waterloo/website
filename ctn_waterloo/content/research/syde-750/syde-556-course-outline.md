@@ -25,31 +25,44 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 **_Schedule_**:
 
 <table style="border: 1px solid black;" cellspacing="10">
-<tr><th>Week</th><th>Reading</th><th>Monday</th><th>Wednesday</th><th>Assignments</th></tr>
-<tr><td style="padding:0 15px 0 15px;">Jan 4, 7</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td style="padding:0 15px 0 15px;">Introduction</td><td style="padding:0 15px 0 15px;">Neurons</td><td style="padding:0 15px 0 15px;"></td></tr>
-<tr><td style="padding:0 15px 0 15px;">Jan 11, 14</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td colspan=2>Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
-<tr><td style="padding:0 15px 0 15px;">Jan 18, 21</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td colspan=2>Temporal Representation</td><td style="padding:0 15px 0 15px;"></td></tr>
-<tr><td style="padding:0 15px 0 15px;">Jan 25, 28, Feb 1</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td colspan=2>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (25th at midnight); #2 posted</td></tr>
-<tr><td style="padding:0 15px 0 15px;">Feb 4, 8, 11</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td colspan=2>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><th>Week</th><th>Reading</th><th>Topic</th><th>Assignments</th></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 15, 18</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>*Reading Week*</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 5</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td style="padding:0 15px 0 15px;">Introduction</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 22</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td colspan=2>Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (22nd at midnight); #3 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 9, 12</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td>Neurons, Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 25, 29</td><td style="padding:0 15px 0 15px;">Provided</td><td colspan=2>Symbols</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 16, 19</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td>Temporal Representation</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 3, 7</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td colspan=2>Memory</td><td style="padding:0 15px 0 15px;">#3 due (3rd at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 23, 26, 30</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (23rd at midnight); #2 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 10, 14</td><td style="padding:0 15px 0 15px;">Provided</td><td colspan=2>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (14th at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 2, 6, 9</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 17, 21</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>Learning</td>Chpt 9<td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 13, 16</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td style="padding:0 15px 0 15px;">Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (18th at midnight); #3 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 24, 31</td><td style="padding:0 15px 0 15px;"></td><td colspan=2>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 20, 23</td><td></td><td>*Reading Week*</td><td></td></tr>
+
+<tr><td style="padding:0 15px 0 15px;">Feb 27, Mar 2</td><td style="padding:0 15px 0 15px;">Provided</td><td>Symbols</td><td style="padding:0 15px 0 15px;"></td></tr>
+
+<tr><td style="padding:0 15px 0 15px;">Mar 6, 9</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;">#3 due (6th at midnight)</td></tr>
+
+<tr><td style="padding:0 15px 0 15px;">Mar 13, 16</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (13th at midnight)</td></tr>
+
+<tr><td style="padding:0 15px 0 15px;">Mar 20, 23</td><td style="padding:0 15px 0 15px;"></td><td>Learning</td>Chpt 9<td style="padding:0 15px 0 15px;"></td></tr>
+
+<tr><td style="padding:0 15px 0 15px;">Mar 27, 30, Apr 3</td><td style="padding:0 15px 0 15px;"></td><td>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
 
 </table>
 
 
-**_Grading_**: The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by _Midnight_ of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
+_Grading_: The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by _Midnight_ of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
+
+_Learning Objectives:_ By the end of the course students should be able to:
+
+1. **Demonstrate** a basic understanding of neural processes, neural mechanisms, theories of neural communication and computation, and theories of neural dynamics. 
+2. **Converse** at a fundamental level with neuroscientists, psychologists, and neural and cogitive modelers.
+3. **Design** and **Analyze** simple and complex neural circuits for performing small- and large-scale neural computations.
+4. **Apply** engineering methods in signal processing, optimization, and control theory, among others, to characterizing and building neural circuits.
+5. **Identify** problems and solutions that may exploit the advantages of neural computation in an engineering context.
 
 _Academic Integrity:_ In order to maintain a culture of academic integrity,
 members of the University of Waterloo are expected to promote honesty, trust,
