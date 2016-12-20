@@ -25,11 +25,11 @@ _Times:_ Mon & Thurs. 12:30p-1:50p (plus 2:00p-2:50p Thurs for 750)
 
 _Due Dates:_ 
 
- * Jan 25th: Assignment #1 (due at midnight) (20%)
- * Feb 22nd: Assignment #2 (due at midnight) (20%) 
- * Mar 3rd: Assignment #3 (due at midnight) (10%)
- * Mar 14th: Assignment #4 (due at midnight) (10%)
- * Apr 23rd: Final Project (40%)
+ * Jan 23rd: Assignment #1 (due at midnight) (20%)
+ * Feb 18th: Assignment #2 (due at midnight) (20%) 
+ * Mar 6th: Assignment #3 (due at midnight) (10%)
+ * Mar 13th: Assignment #4 (due at midnight) (10%)
+ * Apr 20th: Final Project (40%)
 
 
 * * *
@@ -39,24 +39,24 @@ _Due Dates:_
 If you would like more personalized help for the assignments in this course, 
 two of previous PhD students in the lab (Xuan Choo and Travis DeWolf) offer tutoring 
 services.  They can be contacted at [ctntutoring@gmail.com](mailto:ctntutoring@gmail.com)
-and they charge \$20 per half hour (or \$15 per person per half hour for groups).
+and they charge \$20 per half hour (or \$15 per person per half hour for groups). 
 
 ## Lecture Notes
 
 The in-class lecture notes will be posted here after each class.
 
- * Week 1: (January 4, 7) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
- * Week 2: (January 11, 14) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
- * Week 3: (January 18, 21) [Temporal Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
- * Week 4: (January 25, 28, Feb 1) [Transformation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb) (January 29) [Final Projects]
- * Week 5: (February 4, 8, 11) [Dynamics](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
- * Week 6 (February 22) [Decoder Analysis](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
- * Week 7 (February 25, 29) [Symbols](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
- * Week 8 (March 3, 7) [Memory](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%208%20Memory.ipynb)
- * Week 9 (March 10, 14) [Action Selection](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
- * Week 10 (March 17, 21) [Learning](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
- * Conclusion (March 24)
- * Presentations (March 31, Apr 4) - Project Presentations/Other topics
+ * Week 1: (January 5) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
+ * Week 2: (January 9, 12) [Representation](tbd)
+ * Week 3: (January 16, 19) [Temporal Representation](tbd)
+ * Week 4: (January 23, 26, 30) [Transformation](tbd) (January 30) [Final Projects](/research/syde-750/syde-556-possible-projects.html)
+ * Week 5: (February 2, 6, 9) [Dynamics](tbd)
+ * Week 6 (February 13, 16) [Decoder Analysis](tbd)
+ * Week 7 (February 27, Mar 2) [Symbols](tbd)
+ * Week 8 (March 6, 9) [Memory](tbd)
+ * Week 9 (March 13, 16) [Action Selection](tbd)
+ * Week 10 (March 20, 23) [Learning](tbd)
+ * Conclusion (March 27)
+ * Presentations (March 30, Apr 3) - Project Presentations/Other topics
 
 * * *
 
@@ -70,10 +70,10 @@ The four assignments will be posted here.
  * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
-  * Assignment 1: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
-  * Assignment 2: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%202.ipynb)
-  * Assignment 3: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%203.ipynb)
-  * Assignment 4: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%204.ipynb)
+  * Assignment 1: [HTML](tbd)
+  * Assignment 2: [HTML](tbd)
+  * Assignment 3: [HTML](tbd)
+  * Assignment 4: [HTML](tbd)
   
 * * *
 
@@ -96,7 +96,7 @@ presentation on your topic in the last week or so.  That presentation should con
 ## Course Format
 
 Two lectures per week and homework assignments consisting of computer
-exercises using Matlab. For SYDE 750 a class project is required, usually a
+exercises using Python (or Matlab). For SYDE 750 a larger class project is required, usually a
 computer simulation developed based on significant neuroscientific research
 and/or collaboration with a neurophysiologist. For Syde 556 a class project
 based on an in class/text example is required. This course examines a general
@@ -111,7 +111,7 @@ cognitive systems.
 
 ## Course Prerequisites
 
-Knowing how to program with matrices using MATLAB, Python, or some other language is highly 
+Knowing how to program with matrices using Python, Matlab or some other language is highly 
 recommended. Familiarity with Fourier Transforms and other signal processing concepts is recommended.
 Familiarity with calculus and linear algebra is required.
 
