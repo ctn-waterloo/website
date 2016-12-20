@@ -49,7 +49,9 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 
 <tr><td style="padding:0 15px 0 15px;">Mar 20, 23</td><td style="padding:0 15px 0 15px;"></td><td>Learning</td>Chpt 9<td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 27, 30, Apr 3</td><td style="padding:0 15px 0 15px;"></td><td>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 27</td><td style="padding:0 15px 0 15px;"></td><td>Conclusion</td><td style="padding:0 15px 0 15px;"></td></tr>
+
+<tr><td style="padding:0 15px 0 15px;">Mar 30, Apr 3</td><td style="padding:0 15px 0 15px;"></td><td>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
 
 </table>
 
