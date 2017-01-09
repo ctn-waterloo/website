@@ -49,15 +49,15 @@ To give an idea of what the process is like for doing this sort of project, let'
 
 Task: hear a tone, remember it, hear another tone, respond as to which of the two was higher pitch
 
-![Comparison image](comparison.png)
+![Comparison image](http://imgur.com/lKZiCLT.png)
 
 Their model:
 
-![Comparison model](comparison_model.png)
+![Comparison model](http://imgur.com/use1fQO.png)
 
 Their model's data:
 
-![Model data](comparison_data.png)
+![Model data](http://imgur.com/3Q7sI0A.png)
 
 Our approach:
 
