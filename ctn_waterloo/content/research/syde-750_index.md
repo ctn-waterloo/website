@@ -46,7 +46,7 @@ and they charge \$20 per half hour (or \$15 per person per half hour for groups)
 The in-class lecture notes will be posted here before each class.
 
  * Week 1: (January 5) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
- * Week 2: (January 9, 12) [Representation]
+ * Week 2: (January 9, 12) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
  * Week 3: (January 16, 19) [Temporal Representation]
  * Week 4: (January 23, 26, 30) [Transformation] (January 30) [Final Projects](/research/syde-750/syde-556-possible-projects.html)
  * Week 5: (February 2, 6, 9) [Dynamics]
@@ -70,10 +70,10 @@ The four assignments will be posted here.
  * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
-  * Assignment 1: [HTML](tbd)
-  * Assignment 2: [HTML](tbd)
-  * Assignment 3: [HTML](tbd)
-  * Assignment 4: [HTML](tbd)
+  * Assignment 1: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
+  * Assignment 2: [HTML]
+  * Assignment 3: [HTML]
+  * Assignment 4: [HTML]
   
 * * *
 
