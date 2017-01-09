@@ -56,6 +56,7 @@ Their model:
 ![Comparison model](comparison_model.png)
 
 Their model's data:
+
 ![Model data](comparison_data.png)
 
 Our approach:
