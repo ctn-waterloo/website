@@ -12,6 +12,22 @@ Another excellent source (other than below) for ideas is the [Nengo Modelling Id
 use Nengo for your final project, so they are all doable.  However, be sure to talk to me before starting, as some
 are not especially relevant for the course.
 
+## Expectations
+
+There are two main things needed for the project:
+
+1. build a simulation of a neurobiological system
+2. evaluate its behaviour
+
+You will produce a written report on your system using the steps outlined in chapter 1 of the book. This should be 10-20 pages, with lots of diagrams, graphs, and code.
+
+To evaluate the behaviour of the system, the idea is to vary some aspect of the model and see how that affects its behaviour. To do this, you must:
+
+1. Define some measurable aspect of the system's behaviour (e.g. accuracy of representation, or number of errors, or speed of response); and
+2. Change an aspect of the model (e.g. number of neurons, or neuron model, or maximum firing rates, or post-synaptic time constants, etc., etc.), and see how that affects the measurement. 
+
+Note that because there is randomness in the creation of a neuron model, you will generally have to measure a model multiple times.
+
 ## Example Extension Projects 
 
 1. ([Dora Angelaki](http://thalamus.wustl.edu/Neuroweb/angelaki.htm)): Dora contributed the data for the model of the vestibular system found in the textbook. This model could be used as a starting point for a project. Because there are many possible implementations of this network, it would be useful to implement the transformation in a few different ways and see if there are predictions that could determine which of the models is most like the real network. Or, an indepth examination of the derivative signal, $\dot{A}(t)$, could be undertaken, with attempts to design networks that can compute a derivative effectively. Right now, this signal is not part of the neural model. Or constructing a model that includes both tVOR and regular VOR. Or...
@@ -26,3 +42,40 @@ are not especially relevant for the course.
 3. Statistical inference: Higher-D repn; gaussian and non-gaussian estimates (Tennenbaum); implementing empirical bayes net (Karl Friston), modeling non-stationary signals, motor control (Dan Wolpert).
 5. Kalman filter: The Kalman filter (as discussed at the end of the book) has been proposed as a means of explaining the function of the hippocampus as well as visual areas. A neurally plausible implementation of this filter could have important consequences for our understanding of visual processing (for instance). Such an implementation has not yet been done (e.g., as model of rat location or as model of visual input)
 7. Symbolic processing: There are good ways to implement symbolic processing using distributed representations. Specifically, tensor product and holographically reduced representations can be used to explain binding, and various logical operations. Looking at novel applications is usually pretty interesting.
+
+## Extended Example
+
+To give an idea of what the process is like for doing this sort of project, let's consider this paper ([Flexible control of mutual inhibition: a neural model of two-interval discrimination](http://www.sciencemag.org/content/307/5712/1121.long), Science, 2005).
+
+Task: hear a tone, remember it, hear another tone, respond as to which of the two was higher pitch
+
+![Comparison image](compare.png)
+
+Their model:
+
+![Comparison model](comparison_model.png)
+
+Their model's data:
+![Model data](comparison_data.png)
+
+Our approach:
+
+- System Description:
+ - Sensory area stores ss, the current stimulus
+ - PFC stores dd, the difference between the two stimuli (before the second stimulus is shown, it just stores the first stimulus)
+ - Some other area stores xx, whether we're on the first (x=1x=1) or second (x=−1x=−1) sound
+ - Connection from Sensory to PFC is d=s∗xd=s∗x
+ - Connection from PFC to PFC is the identity function (to store information over time)
+- Design Specification:
+ - All the neural details from the paper (firing rates, distributions of tuning)
+ - Note that what they call S+S+ and S−S− are just two different encoders
+- They vary noise and see what happens
+ - more errors when tones are close to each other
+ - also vary connection weights (decreasing and increasing excitation and inhibition)
+- Other things we could do
+ - how could we deal with tones of different lengths?
+ - higher dimensional input (frequency and volume), with different questions being asked
+ - different sensory systems using the same comparison system?
+- Now that we've done this translation, this model could be used by someone in the class as an extension project, not a research project
+
+
