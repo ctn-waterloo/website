@@ -49,7 +49,7 @@ To give an idea of what the process is like for doing this sort of project, let'
 
 Task: hear a tone, remember it, hear another tone, respond as to which of the two was higher pitch
 
-![Comparison image](compare.png)
+![Comparison image](comparison.png)
 
 Their model:
 
