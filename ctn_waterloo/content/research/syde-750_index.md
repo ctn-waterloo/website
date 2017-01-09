@@ -48,7 +48,7 @@ The in-class lecture notes will be posted here before each class.
  * Week 1: (January 5) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
  * Week 2: (January 9, 12) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
  * Week 3: (January 16, 19) [Temporal Representation]
- * Week 4: (January 23, 26, 30) [Transformation] (January 30) [Final Projects](/research/syde-750/syde-556-possible-projects.html)
+ * Week 4: (January 23, 26, 30) [Transformation] and [Final Projects](/research/syde-750/syde-556-possible-projects.html)
  * Week 5: (February 2, 6, 9) [Dynamics]
  * Week 6 (February 13, 16) [Decoder Analysis]
  * Week 7 (February 27, Mar 2) [Symbols]
@@ -80,9 +80,9 @@ The four assignments will be posted here.
 ## Project Ideas
 
 The final project for the course consists of picking a neurobiological system and
-building a model for it.  There is a list of possible projects [here](/research/syde-750/syde-556-possible-projects.html),
+building a model for it.  There is a list of possible projects and more info [here](/research/syde-750/syde-556-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
-Please have your projects approved by me by the beginning of Feb.  You will need to present your project idea in a couple of overhead slides to the class at the end of March.  These presentations are pass/fail. If you do not present you will lose 10 marks off your project report.
+Please have your projects approved by me by the beginning of Reading Week.  You will need to present your project idea in a couple of overhead slides to the class at the end of March.  These presentations are pass/fail. If you do not present you will lose 10 marks off your project report.
 
 ### Project Format
 
