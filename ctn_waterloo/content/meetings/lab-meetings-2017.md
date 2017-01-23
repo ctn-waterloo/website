@@ -5,7 +5,7 @@ Here we will post slides/discussions/papers related to recent or upcoming lab me
 
 Meetings take place in PAS 2464 Friday at high noon.
 
-Nengo development meetings take place on Tuesdays at 1p, and run for an hour.
+Nengo development meetings take place based on the [schedule here](https://forum.nengo.ai/c/dev), and run for an hour.
 
 This year's meetings:
 
