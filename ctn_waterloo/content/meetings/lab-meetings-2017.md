@@ -10,6 +10,9 @@ Nengo development meetings take place on Tuesdays at 1p, and run for an hour.
 This year's meetings:
 
 - Jan 6: Andreas welcome, and talk
-- Jan 13: tbd
+- Jan 13: round table
 - Jan 20: cancelled (chris away)
-- Jan 27: 
+- Jan 27: round table (volunteers?) 
+- Jan 3: cancelled (chris away)
+- Feb 10: 
+- Feb 17:
