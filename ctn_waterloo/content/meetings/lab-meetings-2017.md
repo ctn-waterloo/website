@@ -14,5 +14,5 @@ This year's meetings:
 - Jan 20: cancelled (chris away)
 - Jan 27: round table (volunteers?) 
 - Feb 3: cancelled (chris away)
-- Feb 10: 
+- Feb 10: Cogsci Paper presentations
 - Feb 17:
