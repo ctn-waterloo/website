@@ -15,9 +15,9 @@ This year's meetings:
 - Jan 27: round table (volunteers?) 
 - Feb 3: cancelled (chris away)
 - Feb 10: Cogsci Paper presentations
-- Feb 17: Jan on Latex best practicies; finishing cogsci presentations
-- Feb 24:  
-- Mar 3:
+- Feb 17: finishing cogsci presentations
+- Feb 24: Evaluating applications for summer school
+- Mar 3: Jan on Latex best practicies
 - Mar 10:
 - Mar 17: 
 - Mar 24:
