@@ -16,8 +16,8 @@ This year's meetings:
 - Feb 3: cancelled (chris away)
 - Feb 10: Cogsci Paper presentations
 - Feb 17: finishing cogsci presentations
-- Feb 24: Evaluating applications for summer school
-- Mar 3: Jan on Latex best practicies
-- Mar 10:
+- Feb 24: no meeting (reading week)
+- Mar 3: Evaluating applications for summer school
+- Mar 10: Jan on Latex best practicies
 - Mar 17: 
 - Mar 24:
