@@ -1,6 +1,11 @@
 language: python
 sudo: false
 
+addons:
+  apt:
+    packages:
+      - vpnc
+
 python:
   - "2.7"
 
