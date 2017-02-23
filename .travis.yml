@@ -1,9 +1,10 @@
 language: python
-sudo: false
+sudo: true
 
 addons:
   apt:
     packages:
+      - openconnect
       - vpnc
 
 python:
@@ -24,14 +25,18 @@ before_script:
   - echo -e "Host compneuro.uwaterloo.ca\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 
 script:
+  - echo "$vpnpass" | sudo openconnect -u cnrglab --passwd-on-stdin --no-dtls --script /etc/vpnc/vpnc-script -b --pid-file /var/run/openconnect.pid cn-vpn.uwaterloo.ca
   - python manage.py up cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
 
 after_script:
   - ssh cnrglab@compneuro.uwaterloo.ca 'ln -s /home/cnrglab/files /home/cnrglab/public_html/'
+  - sudo kill $(cat /var/run/openconnect.pid)
 
 env:
   global:
-    # SSH key. Encoded. See https://gist.github.com/wakefield/5519563
+    # VPN password. Encoded. See https://gist.github.com/wakefield/5519563
+    - secure: "OJR9Ax5MZW3ROUI9YkuHLdEtaKgmGTs4O5/toXMWjQ4uWXzxDqxTLRCw/8n2FErPwGegGk4m5JswQpL/l1HDy0wenb8HmH0Uey6+1suzrJNBCYwFa9IROHGptQjQEj9dfULu+ADfnl5+2wjt6accL9hOiNCgp8gafsLYoRzsgfk="
+    # SSH key
     - secure: "j/6ZQBCK2DvLtn5LRowL1Tf2jSkHJHr2LFh/Mlb8Mn6WOsypF0of6dPWjfHj\nVlr++ZzrWmKL3gmFJZttKEa6pYbGfH4qVSoAt/OtMrXrFdPe9u5b8weW8qeN\nQ9glEEnqSj8s9gOBMIXKVfl9h+YKSCgxI5TsseYYQG4e6KFD36k="
     - secure: "VloV2Mag9JAs9YCJicdHpbA5JxnQLe2SUGUYuzf9fAXoEixuMbsVcU/jSmVE\nQHXI+SmmQf/Rvk7AeE86H0FNtM9SgrvUNi+JmUGjz4MK1mmACen4q/0WEicx\n5Kq2+hR1K8128ZZMkHHJ05IxDJ7ddh3+kpgkP+Olmgoh2yqsnHg="
     - secure: "CZNbE9Gheyi7fahRWHMYX7RV6xti4Dw2H19ztDBULqlMnQzBb+IxHVikEnuE\n4Pd3/W/pFBV9L2s5NRkKXeXGA+gHOMxNnQrJWKLwhiTal+e4zWoVtm3MMmME\nr1QyKwzFlhcM0JobKTRO4BRRBh4+MEB41iZL1Lpm2P5c99a6g2M="
