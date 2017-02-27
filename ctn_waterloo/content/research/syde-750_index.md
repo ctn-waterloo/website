@@ -66,7 +66,7 @@ The four assignments will be posted here.
 
  * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
  * Each student must write their own code and submit their own assignment.
- * Please hand in electronic copies by mailing them to me in .pdf format.  Please name the document like this: `<lastname>.Assignment<number>.pdf`.  This document will have all the graphs and any written answers to questions.
+ * Please hand in electronic copies by mailing them to me in .pdf format.  Please name the document like this: `<lastname>.Assignment<number>.pdf`.  This document will have all the graphs and any written answers to questions. (From a jupyter notebook, you can do ```jupyter nbconvert --to pdf my_name.assignment1.ipynb```)
  * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
