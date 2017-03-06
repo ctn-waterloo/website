@@ -19,5 +19,5 @@ This year's meetings:
 - Feb 24: no meeting (reading week)
 - Mar 3: Evaluating applications for summer school
 - Mar 10: Jan on Latex best practicies
-- Mar 17: 
+- Mar 17: Chris: What I saw at NICE 2017
 - Mar 24:
