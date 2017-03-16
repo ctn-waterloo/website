@@ -20,4 +20,9 @@ This year's meetings:
 - Mar 3: Evaluating applications for summer school
 - Mar 10: Jan on Latex best practicies
 - Mar 17: Chris: What I saw at NICE 2017
-- Mar 24:
+- Mar 24: Field trip (neurorobotics lab)
+- Mar 31:
+- April 7:
+- April 14:
+- April 21: no meeting (chris away)
+- 
