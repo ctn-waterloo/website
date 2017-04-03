@@ -39,7 +39,7 @@ def slugify(value, separator='-'):
         # This is important as e.g. umlauts have a distinct Unicode codepoint,
         # but may be represented as two Unicode codepoints in the input (e.g.
         # when using the US-International keyboard layout and typing the
-        # by typing the diacritic mark followed by the character itself.
+        # character as diacritic mark followed by the character itself.)
         value = unicodedata.normalize('NFKC', value)
 
         # Implement proper transliteration of German umlauts.
