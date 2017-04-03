@@ -35,7 +35,30 @@ def nice_date(date_str):
 def slugify(value, separator='-'):
     """ Slugify a string, to make it URL friendly. """
     if type(value) == unicode:
+        # Transform the string to NFKC before perfoming any operation on it.
+        # This is important as e.g. umlauts have a distinct Unicode codepoint,
+        # but may be represented as two Unicode codepoints in the input (e.g.
+        # when using the US-International keyboard layout and typing the
+        # by typing the diacritic mark followed by the character itself.
+        value = unicodedata.normalize('NFKC', value)
+
+        # Implement proper transliteration of German umlauts.
+        replacement_dict = ({
+            unichr(0xE4): "ae",
+            unichr(0xF6): "oe",
+            unichr(0xFC): "ue",
+            unichr(0xC4): "Ae",
+            unichr(0xD6): "Oe",
+            unichr(0xDC): "Ue",
+            unichr(0xDF): "ss",
+        })
+        for src, tar in replacement_dict.items():
+            value = value.replace(src, tar)
+
+        # Decompose any remaining unicode codepoints and transform to ASCII,
+        # throwing away anything outside the Basic Latin block.
         value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore')
+
     value = re.sub('[^\w\s-]', '', value.decode('ascii')).strip().lower()
     return re.sub('[%s\s]+' % separator, separator, value)
 
