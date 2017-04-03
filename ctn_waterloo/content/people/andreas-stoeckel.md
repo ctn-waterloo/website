@@ -10,8 +10,8 @@ links:
 
 I am interested in a broad range of topics including ‒ but not limited to ‒ neuromorphic
 hardware, neurorobotics, and unsupervised learning strategies. While I have not decided
-on a topic for my PhD yet, I am currently focusing on extending the Neural Engineering
-Framework to more detailed neuron models and efficient coding schemes.
+on a topic for my PhD yet, I am currently focusing on extensions to the Neural Engineering
+Framework with respect to more detailed neuron models and efficient coding schemes.
 
 Prior to joining the CNRG in January 2017 I have been a research assistant at the
 [Cognitronics and Sensor Systems Group](http://www.ks.cit-ec.uni-bielefeld.de/) in Bielefeld,
@@ -19,4 +19,4 @@ Germany, where I worked on neuromorphic hardware benchmarks and associative memo
 HBP neuromorphics subproject.
 
 In my free time I am either reading, building free software, tinkering with electronics,
-writing terrible German fantasy novels, or wandering around aimlessly and getting lost.
+writing terrible German fantasy novels, or wandering around aimlessly, getting lost.
