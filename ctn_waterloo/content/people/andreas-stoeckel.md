@@ -10,7 +10,7 @@ links:
 
 I am interested in a broad range of topics including ‒ but not limited to ‒ neuromorphic
 hardware, neurorobotics, and unsupervised learning strategies. While I have not decided
-on a topic for my PhD yet, I am currently focusing on extensions to the Neural Engineering
+on a topic for my PhD yet, I am currently focusing on extending the Neural Engineering
 Framework with respect to more detailed neuron models and efficient coding schemes.
 
 Prior to joining the CNRG in January 2017 I have been a research assistant at the
