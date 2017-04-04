@@ -23,6 +23,15 @@ This year's meetings:
 - Mar 24: Field trip (neurorobotics lab)
 - Mar 31: round table
 - April 7: Dr. Sue Ann Campbell from Faculty of Math on her research
-- April 14:
+- April 14: no meeting (good friday)
 - April 21: no meeting (chris away)
-- 
+- April 28: Jan on new learning rule
+- May 5: Andreas on 556 project
+- May 12: Ryan on HCI project
+- May 19: Terry on fluid grammar
+- May 26: Andreas on tech report
+- June 2: Ryan on 556 project
+- June 9: no meeting (Summer School)
+- June 16: no meeting (Summer School)
+- June 23: 
+- June 30:
