@@ -23,6 +23,7 @@ This year's meetings:
 - Mar 24: Field trip (neurorobotics lab)
 - Mar 31: round table
 - April 7: Dr. Sue Ann Campbell from Faculty of Math on her research
+- April 13: *special time* (Thursday, 11-noon) Aaron on delays and synapses
 - April 14: no meeting (good friday)
 - April 21: no meeting (chris away)
 - April 28: Jan on new learning rule
