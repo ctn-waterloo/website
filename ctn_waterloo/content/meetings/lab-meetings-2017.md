@@ -34,5 +34,8 @@ This year's meetings:
 - June 2: Ryan on 556 project
 - June 9: no meeting (Summer School)
 - June 16: no meeting (Summer School)
-- June 23: 
-- June 30:
+- June 23: Jan on nengo_spa
+- June 30 - July 28: no meetings (people away; telluride/cogsci)
+- Aug 4:
+- Aug 11:
+- Aug 18: no meeting (chris away; woods hole)
