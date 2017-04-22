@@ -11,9 +11,9 @@ links:
       url: https://github.com/Seanny123
     - text: Twitter
       url: https://twitter.com/voyageur_techno
-    - text: My sometimes-research-related blog
+    - text: Blog
       url: https://medium.com/@seanaubin
-    - text: My CogSci.SE Profile
+    - text: CogSci.SE Profile
       url: https://cogsci.stackexchange.com/users/4397/seanny123
 
 I started my Masters in Systems Design Engineering in September 2015 with a focus on studying how humans learn cognitive skills. In addition to exploring other examples of human inductive reasoning, the application for this research will be the Tower of Hanoi task and removing the hard-coded rules as modeled by Terry Stewart.
