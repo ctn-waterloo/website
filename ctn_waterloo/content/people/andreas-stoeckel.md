@@ -1,6 +1,6 @@
 name: Andreas Stöckel
 email: astoecke@uwaterloo.ca
-one_liner: Friendly Neighbourhood German
+one_liner: Detailed neuron models and efficient coding
 group: Grad students
 title: PhD Student in Computer Science
 picture: https://avatars1.githubusercontent.com/u/1783545?v=3
