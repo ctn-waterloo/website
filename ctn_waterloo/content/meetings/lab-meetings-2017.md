@@ -30,12 +30,12 @@ This year's meetings:
 - May 5: Andreas on 556 project
 - May 12: Ryan on HCI project
 - May 19: Terry on fluid grammar
-- May 26: Andreas on tech report
+- May 26: no meeting (heading to the cottage!)
 - June 2: Ryan on 556 project
 - June 9: no meeting (Summer School)
 - June 16: no meeting (Summer School)
 - June 23: Jan on nengo_spa
 - June 30 - July 28: no meetings (people away; telluride/cogsci)
-- Aug 4:
-- Aug 11:
+- Aug 4: Andreas on tech report
+- Aug 11: no meeting (chris away)
 - Aug 18: no meeting (chris away; woods hole)
