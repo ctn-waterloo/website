@@ -35,7 +35,9 @@ This year's meetings:
 - June 9: no meeting (Summer School)
 - June 16: no meeting (Summer School)
 - June 23: Jan on nengo_spa
-- June 30 - July 28: no meetings (people away; telluride/cogsci)
+- June 30 - July 13: no meetings (people away; telluride)
+- July 20: Cogsci practice talks
+- July 28: No meeting (people away; cogsci)
 - Aug 4: Andreas on tech report
 - Aug 11: no meeting (chris away)
 - Aug 18: no meeting (chris away; woods hole)
