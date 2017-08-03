@@ -38,6 +38,7 @@ This year's meetings:
 - June 30 - July 13: no meetings (people away; telluride)
 - July 20: Cogsci practice talks
 - July 28: No meeting (people away; cogsci)
-- Aug 4: Andreas on tech report
+- Aug 4: Cogsci recap; Andreas on ECE course project
 - Aug 11: no meeting (chris away)
 - Aug 18: no meeting (chris away; woods hole)
+- Aug 25: Andreas on conductance based synapses
