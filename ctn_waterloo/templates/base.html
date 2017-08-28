@@ -91,6 +91,9 @@
                 <li{{ " class=active" if g.topic == 'research' }}>
                   <a href="{{ url_for('research_index') }}">Research</a>
                 </li>
+                <li{{ " class=active" if g.topic == 'courses' }}>
+                  <a href="{{ url_for('courses_index') }}">Courses</a>
+                </li>              
               </ul>
             </div>
           </div>

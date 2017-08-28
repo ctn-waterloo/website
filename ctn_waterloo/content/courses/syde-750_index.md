@@ -8,10 +8,11 @@ people:
 toc:
     - SYDE 556 Course Outline
     - SYDE 556 Possible Projects
+    - Matlab Tutorial for SYDE 556
 
 #  SYDE 556: Simulating Neurobiological Systems
 
-[Course outline](/research/syde-750/syde-556-course-outline.html)
+[Course outline](/courses/syde-750/syde-556-course-outline.html)
 
 _Instructor:_ Chris Eliasmith ([email](mailto:celiasmith@uwaterloo.ca))
 
@@ -123,12 +124,12 @@ Programming
 
 * [NumPy for MATLAB users](http://wiki.scipy.org/NumPy_for_Matlab_Users) (a good quick reference for common matrix operations, comparing both Python and Matlab)
 * [Mathworks](http://www.mathworks.com/) (makers of Matlab)
-* [Matlab Tutorial](NEFcourse/matlabTutorial) (Eliasmith)
+* [Matlab Tutorial](/courses/syde-750/matlab-tutorial-for-syde-556.html) (Eliasmith)
 
 Computational Neuroscience
 
 * [Lecture notes on biologically realistic neural modeling (GENESIS) ](http://www.genesis-sim.org/GENESIS/)
-* [Book overviews](NEFcourse/bookComments) (Eliasmith)
+* [Book overviews](/research/theoretical-neuroscience/comments-on-theoretical-neuroscience-books.html) (Eliasmith)
 * [Journal of Computational Neuroscience](http://webdev.uwaterloo.ca/ejournals/stats?ejournal_id=7213&navbar=uw&navbase=tug.lib.uwaterloo.ca)
 * [Neural Computation](http://webdev.uwaterloo.ca/ejournals/stats?ejournal_id=4796&navbar=uw&navbase=tug.lib.uwaterloo.ca)
 

@@ -176,6 +176,34 @@ def research_page(topic, slug):
     page.headings = get_headings(page.html)
     return render_template('research_page.html', page=page)
 
+@app.route('/courses.html')
+def courses_index():
+    g.topic = 'courses'
+    page = pages.get('courses_index')
+    page.topics = [model.courses(topic) for topic in page['topics']]
+    return render_template('courses_index.html', page=page)
+
+
+@app.route('/courses/<topic>.html')
+def courses_topic(topic):
+    g.topic = 'courses'
+    page = model.courses(topic)
+    return render_template('courses_topic.html', page=page)
+
+
+@app.route('/courses/<topic>/<slug>.html')
+def courses_page(topic, slug):
+    g.topic = 'courses'
+    topicpage = model.courses(topic)
+    try:
+        page = next(a for a in topicpage.articles
+                    if slugify(a['title']) == slug)
+    except StopIteration:
+        raise ValueError(slug + ".md could not be found. "
+                         "Either the title or the filename is wrong.")
+    page.headings = get_headings(page.html)
+    return render_template('courses_page.html', page=page)
+
 
 ### Redirects
 
