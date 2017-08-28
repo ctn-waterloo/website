@@ -144,6 +144,42 @@ class Model(object):
 
         return page
 
+    def courses(self, topic):
+        def _recursive_map(f, data):
+            if isinstance(data, list):
+                return [_recursive_map(f, elem) for elem in data]
+            else:
+                return f(data)
+        def _flatten(l):
+            for el in l:
+                if isinstance(el, list):
+                    for sub in _flatten(el):
+                        yield sub
+                else:
+                    yield el
+
+        page = self.pages.get('courses/' + topic + '_index')
+        page.url = url_for('courses_topic', topic=topic)
+        page.toc = _recursive_map(
+            lambda title: {'title': title,
+                           'url': url_for('courses_page', topic=topic, slug=slugify(title))},
+            page['toc'])
+
+        page.articles = [self.pages.get('courses/' + topic + '/' + slugify(p['title']))
+                         for p in _flatten(page.toc)]
+        page.articles = [a for a in page.articles if a is not None]
+
+        for article in page.articles:
+            article.topic = url_for('courses_topic', topic=topic)
+
+        for a1, a2 in zip(page.articles[:-1], page.articles[1:]):
+            a1.next = url_for('courses_page', topic=topic,
+                              slug=slugify(a2['title']))
+            a2.prev = url_for('courses_page', topic=topic,
+                              slug=slugify(a1['title']))
+
+        return page
+
     def authorlink(self, name):
         if self.pages.get('people/' + slugify(name)) is not None:
             return Markup('<a href="' + url_for('people_page',
