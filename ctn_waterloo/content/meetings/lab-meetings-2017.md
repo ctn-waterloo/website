@@ -42,3 +42,12 @@ This year's meetings:
 - Aug 11: no meeting (chris away)
 - Aug 18: no meeting (chris away; woods hole)
 - Aug 25: Andreas on conductance based synapses
+- Sept 1: Cogsci recap for real
+- Sept 8: 
+- Sept 15: Jamie (maybe?) on 'population level' in Nengo
+- Sept 22: Cancelled (Paulfest conference)
+- Sept 29:
+- Oct 6: Cancelled (Chris away)
+- Oct 13: Duggins on master's thesis results
+- Oct 20: 
+- Oct 27: 
