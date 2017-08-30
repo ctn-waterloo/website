@@ -43,7 +43,7 @@ This year's meetings:
 - Aug 18: no meeting (chris away; woods hole)
 - Aug 25: Andreas on conductance based synapses
 - Sept 1: Cogsci recap for real
-- Sept 8: 
+- Sept 8: Florian on what he did this summer (SPA for classification in vehicles)
 - Sept 15: Jamie (maybe?) on 'population level' in Nengo
 - Sept 22: Cancelled (Paulfest conference)
 - Sept 29:
