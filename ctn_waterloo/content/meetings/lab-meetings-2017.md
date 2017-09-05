@@ -44,9 +44,9 @@ This year's meetings:
 - Aug 25: Andreas on conductance based synapses
 - Sept 1: Cogsci recap for real
 - Sept 8: Florian on what he did this summer (SPA for classification in vehicles)
-- Sept 15: Jamie (maybe?) on 'population level' in Nengo
+- Sept 15: Brainstorm for next cogsci conf submissions
 - Sept 22: Cancelled (Paulfest conference)
-- Sept 29:
+- Sept 29: Jamie (maybe?) on 'population level' in Nengo
 - Oct 6: Cancelled (Chris away)
 - Oct 13: Duggins on master's thesis results
 - Oct 20: 
