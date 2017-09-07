@@ -5,20 +5,16 @@ Here is a list of available presentation dates.  The number of dashes indicates 
  * * *
 
 ### Dates
-
-#### October 12, 2017
-
- * -,-,-,-,-,-,-,-,-,-
  
-#### October 17, 2017
+#### October 16, 2017
 
- * -,-,-,-,-,-,-,-,-,-
+ * -,-,-,-,-,-,-
 
-#### October 19, 2017
+#### October 18, 2017
 
- * -,-,-,-,-,-,-,-,-,-
+ * -,-,-,-,-,-,-
 
-#### October 24, 2017
+#### October 23, 2017
 
- * -,-,-,-,-,-,-,-,-,-  
+ * -,-,-,-,-,-,-
 

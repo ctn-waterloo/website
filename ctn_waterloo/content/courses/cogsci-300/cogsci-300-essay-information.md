@@ -27,7 +27,7 @@ readings. Include at least one reference to the readings.
 ### Midterm Essay
 
 Length: 5 pages (1500 words)
-Essay due date: Oct 17
+Essay due date: Oct 30
 
 For the midterm essay you should provide a critical analysis of this definition of intelligence.
 
@@ -38,8 +38,8 @@ A *critical analysis* should discuss both the strengths and weaknesses of the ta
 ### Final Essay
 
 Length: 10 pages (3000 words)
-Topic due date: Nov 14
-Essay due date: Nov 30
+Topic due date: Nov 13
+Essay due date: Dec 4
 
 The final essay will require the defence of a hypothesis regarding the relative strengths and weaknesses of 3 different intelligent systems, one each of human, animal, and machine. A 1-2 sentence formulation must be emailed to the course email for approval by the topic deadline. Once approved the topic will be [posted to the website](/courses/cogsci-300/cogsci-300-final-essay-topics.html) and no longer available. Check the website before submitting your topic for approval.
 

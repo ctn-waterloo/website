@@ -19,19 +19,19 @@ _Instructor:_ Chris Eliasmith ([email](mailto:cogsci300@gmail.com))
 
 _Office:_ HH 331
 
-_Office Hours:_ Thursday 11:30a-12:30p, or by appointment
+_Office Hours:_ Wed 11:30a-12:30p, or by appointment
 
 _Location:_ RCH 205
 
-_Times:_ Tues/Thurs 10:00a-11:20a
+_Times:_ Mon/Wed 10:00a-11:20a
 
 _Due Dates:_ 
 
- * Oct 3: Case study chosen
- * Oct 12-24: One page write-up due on your presentation date
- * Oct 17: Midterm essay due
- * Nov 14: Final essay topics picked
- * Nov 30: Final essay due
+ * Oct 4: Case study chosen
+ * Oct 16-23: One page write-up due on your presentation date
+ * Oct 30: Midterm essay due
+ * Nov 13: Final essay topics picked
+ * Dec 4: Final essay due
 
 *Please use the course email, [cogsci300@gmail.com](mailto:cogsci300@gmail.com) for all course related correspondence.*
 
