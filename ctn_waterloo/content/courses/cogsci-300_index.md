@@ -13,7 +13,7 @@ toc:
 <img style="float: right;" width=200 src="http://i.imgur.com/LTfECh7.png">
 ##  COGSCI 300/PHIL 356: Intelligence in Machines, Humans, and Other Animals
 
-[Course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZFAzcXBhTE1WYkE)
+[Course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZWdlaFdTS3V2WDg)
 
 _Instructor:_ Chris Eliasmith ([email](mailto:cogsci300@gmail.com))
 
@@ -48,7 +48,7 @@ The in-class lecture notes will be posted here before each class.
 
 ### Readings
 
-The readings for the entire course can be accessed [in this folder](https://drive.google.com/drive/u/3/folders/0Bw1vzEJL0FzySUdjSEJqeExwMkk). The order and specific pages to read are listed on the [course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZFAzcXBhTE1WYkE). The first word of the .pdf file corresponds to the word on the [course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZFAzcXBhTE1WYkE).
+The readings for the entire course can be accessed [in this folder](https://drive.google.com/drive/u/3/folders/0Bw1vzEJL0FzySUdjSEJqeExwMkk). The order and specific pages to read are listed on the [course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZWdlaFdTS3V2WDg). The first word of the .pdf file corresponds to the word on the [course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZWdlaFdTS3V2WDg).
 
 * * * 
 
