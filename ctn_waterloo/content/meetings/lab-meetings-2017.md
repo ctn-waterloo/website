@@ -49,5 +49,5 @@ This year's meetings:
 - Sept 29: Jamie (maybe?) on 'population level' in Nengo
 - Oct 6: Cancelled (Chris away)
 - Oct 13: Duggins on master's thesis results
-- Oct 20: 
+- Oct 20: Su on 'what I did this summer'
 - Oct 27: 
