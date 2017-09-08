@@ -50,4 +50,4 @@ This year's meetings:
 - Oct 6: Cancelled (Chris away)
 - Oct 13: Duggins on master's thesis results
 - Oct 20: Su on 'what I did this summer'
-- Oct 27: 
+- Oct 27: tentative: chp 1 of HTBAB
