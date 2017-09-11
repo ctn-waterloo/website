@@ -17,7 +17,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - SHRDLU (Winograd)
  - Marilyn Vos Savant
  - dogs
- - Chinese Room (Searle)
+ - <s>Chinese Room (Searle)</s>
  - ravens
  - Alonzo Clemons
  - Allo (Google)
@@ -25,7 +25,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Mycin (expert system)
  - Kim Peek
  - Roomba
- - Turing Test
+ - <s>Turing Test</s>
  - Watson (IBM AI)
  - pigs
  - parrots
