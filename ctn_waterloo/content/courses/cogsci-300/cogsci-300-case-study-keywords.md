@@ -39,7 +39,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - genius
  - bacteria
  - Raven's Matrices
- - 
+ - <s>Replika</s>
 
 
 
