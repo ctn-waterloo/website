@@ -8,7 +8,7 @@ Here is a list of available presentation dates.  The number of dashes indicates 
  
 #### October 16, 2017
 
- * Hai-Dao,Peter,-,-,-,-,-
+ * Hai-Dao,Peter,Sharon,Michalla,-,-,-
 
 #### October 18, 2017
 

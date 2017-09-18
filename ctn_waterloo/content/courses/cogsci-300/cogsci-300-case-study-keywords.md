@@ -22,7 +22,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Alonzo Clemons
  - Allo (Google)
  - Cortana
- - Mycin (expert system)
+ - <s>Mycin (expert system)</s>
  - Kim Peek
  - Roomba
  - <s>Turing Test</s>
@@ -38,7 +38,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - General Problem Solver (Newell & Simon)
  - genius
  - bacteria
- - Raven's Matrices
+ - <s>Raven's Matrices</s>
  - <s>Replika</s>
 
 
