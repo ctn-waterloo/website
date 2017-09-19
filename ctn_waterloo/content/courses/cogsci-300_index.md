@@ -45,6 +45,7 @@ The in-class lecture notes will be posted here before each class.
 
  * Week 1: [Introduction](https://drive.google.com/open?id=0Bw1vzEJL0FzyV3FkTWk3N3BDYWs)
  * Week 2: [Theories of Intelligence](https://drive.google.com/open?id=0Bw1vzEJL0FzyVWJGNUFodkFwcFU)
+ * Week 3: [Biological and Artificial](https://drive.google.com/open?id=0Bw1vzEJL0FzyVXc3VXNFbUJTOWs)
 
 * * *
 
