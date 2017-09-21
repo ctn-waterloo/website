@@ -12,7 +12,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - AI XPrize
  - Temple Grandin
  - Cleverbot
- - Dreyfus (critique of AI)
+ - <s>Dreyfus (critique of AI)</s>
  - Wechsler Test
  - SHRDLU (Winograd)
  - Marilyn Vos Savant
