@@ -23,7 +23,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Allo (Google)
  - Cortana
  - <s>Mycin (expert system)</s>
- - Kim Peek
+ - <s>Kim Peek</s>
  - Roomba
  - <s>Turing Test</s>
  - Watson (IBM AI)

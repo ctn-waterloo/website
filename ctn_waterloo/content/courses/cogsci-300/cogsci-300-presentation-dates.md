@@ -12,9 +12,9 @@ Here is a list of available presentation dates.  The number of dashes indicates 
 
 #### October 18, 2017
 
- * Aiya,-,-,-,-,-,-
+ * Aiya,Vanessa,-,-,-,-,-
 
 #### October 23, 2017
 
- * Xiao,-,-,-,-,-,-
+ * Xiao, Sam,-,-,-,-,-
 
