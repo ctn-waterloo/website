@@ -50,4 +50,11 @@ This year's meetings:
 - Oct 6: Cancelled (Chris away)
 - Oct 13: Duggins on master's thesis results
 - Oct 20: Su on 'what I did this summer'
-- Oct 27: tentative: chp 1 of HTBAB
+- Oct 27: Sverrir on past research
+- Nov 3: Chp 1 of HTBAB
+- Nov 10: Chp 2 & 3 of HTBAB
+- Nov 17: Chp 4 of HTBAB
+- Nov 24: Chp 5 of HTBAB
+- Dec 1: Chp 6 of HTBAB
+- Dec 8: Chp 7 & 8 of HTBAB
+- Dec 15: Chp 9 & 10 of HTBAB
