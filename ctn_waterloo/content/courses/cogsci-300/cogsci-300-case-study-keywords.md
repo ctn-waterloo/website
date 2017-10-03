@@ -30,9 +30,9 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>pigs</s>
  - parrots
  - William James Sidis
- - cats
+ - <s>cats</s>
  - elephants
- - savant syndrome
+ - <s>savant syndrome</s>
  - Shakey the robot
  - Judit Polgar
  - <s>General Problem Solver (Newell & Simon)</s>

@@ -16,5 +16,4 @@ Here is a list of available presentation dates.  The number of dashes indicates 
 
 #### October 23, 2017
 
- * Xiao, Sam, Troy,-,-,-,-
-
+ * Xiao, Sam, Troy, Manyun,-,-,-
