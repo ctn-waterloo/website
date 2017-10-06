@@ -37,7 +37,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Judit Polgar
  - <s>General Problem Solver (Newell & Simon)</s>
  - genius
- - bacteria
+ - <s>bacteria</s>
  - <s>Raven's Matrices</s>
  - <s>Replika</s>
 
