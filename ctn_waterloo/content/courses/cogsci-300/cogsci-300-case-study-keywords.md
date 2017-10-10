@@ -19,6 +19,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - dogs
  - <s>Chinese Room (Searle)</s>
  - ravens
+ - <s>Siri</s>
  - Alonzo Clemons
  - Allo (Google)
  - Cortana
