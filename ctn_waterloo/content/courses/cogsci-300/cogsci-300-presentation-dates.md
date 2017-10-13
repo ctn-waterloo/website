@@ -12,7 +12,7 @@ Here is a list of available presentation dates.  The number of dashes indicates 
 
 #### October 18, 2017
 
- * Aiya, Vanessa, Gideon, Moeza,-,-,-
+ * Aiya, Vanessa, Gideon, Moeza, Petya,-,-
 
 #### October 23, 2017
 
