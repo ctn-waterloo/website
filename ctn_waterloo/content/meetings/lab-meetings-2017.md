@@ -51,7 +51,7 @@ This year's meetings:
 - Oct 13: Duggins on master's thesis results
 - Oct 20: Su on 'what I did this summer'
 - Oct 27: Sverrir on past research
-- Nov 3: Chp 1 of HTBAB
+- Nov 3: Jan on Gephi; Chp 1 of HTBAB
 - Nov 10: Chp 2 & 3 of HTBAB
 - Nov 17: Chp 4 of HTBAB
 - Nov 24: Chp 5 of HTBAB
