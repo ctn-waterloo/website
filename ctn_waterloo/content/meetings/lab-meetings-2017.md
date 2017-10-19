@@ -54,7 +54,7 @@ This year's meetings:
 - Nov 3: Jan on Gephi; Chp 1 of HTBAB
 - Nov 10: Chp 2 & 3 of HTBAB
 - Nov 17: Chp 4 of HTBAB
-- Nov 24: Chp 5 of HTBAB
+- Nov 24: Pete Suma on Master's thesis and maybe Chp 5 of HTBAB
 - Dec 1: Chp 6 of HTBAB
 - Dec 8: Chp 7 & 8 of HTBAB
 - Dec 15: Chp 9 & 10 of HTBAB
