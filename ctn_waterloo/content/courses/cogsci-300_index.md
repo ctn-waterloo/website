@@ -43,10 +43,11 @@ The in-class lecture notes will be posted here before each class.
 
 ***Note that the readings for the Neuro Review have changed (13/09/17)***
 
- * Week 1: [Introduction](https://drive.google.com/open?id=0Bw1vzEJL0FzyV3FkTWk3N3BDYWs)
- * Week 2: [Theories of Intelligence](https://drive.google.com/open?id=0Bw1vzEJL0FzyVWJGNUFodkFwcFU)
- * Week 3: [Biological and Artificial](https://drive.google.com/open?id=0Bw1vzEJL0FzyVXc3VXNFbUJTOWs)
- * Week 4: [Math/logic and machine methods](https://drive.google.com/open?id=0Bw1vzEJL0FzyaWxEdnRpcUZzVFU)
+ * Topic 1: [Introduction](https://drive.google.com/open?id=0Bw1vzEJL0FzyV3FkTWk3N3BDYWs)
+ * Topic 2: [Theories of Intelligence](https://drive.google.com/open?id=0Bw1vzEJL0FzyVWJGNUFodkFwcFU)
+ * Topic 3: [Biological and Artificial](https://drive.google.com/open?id=0Bw1vzEJL0FzyVXc3VXNFbUJTOWs)
+ * Topic 4: [Math/logic and machine methods](https://drive.google.com/open?id=0Bw1vzEJL0FzyaWxEdnRpcUZzVFU)
+ * Topic 5: [Vision]https://drive.google.com/open?id=0Bw1vzEJL0FzyaXlhaXpHSmlMbzA
 
 * * *
 
