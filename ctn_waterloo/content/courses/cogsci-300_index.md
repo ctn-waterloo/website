@@ -48,7 +48,8 @@ The in-class lecture notes will be posted here before each class.
  * Topic 3: [Biological and Artificial](https://drive.google.com/open?id=0Bw1vzEJL0FzyVXc3VXNFbUJTOWs)
  * Topic 4: [Math/logic and machine methods](https://drive.google.com/open?id=0Bw1vzEJL0FzyaWxEdnRpcUZzVFU)
  * Topic 5: [Vision]https://drive.google.com/open?id=0Bw1vzEJL0FzyaXlhaXpHSmlMbzA
-
+ * Topic 6: [AlphaGo]https://drive.google.com/open?id=0Bw1vzEJL0FzySnpvcE1uWGEtZTQ
+ 
 * * *
 
 ### Readings
