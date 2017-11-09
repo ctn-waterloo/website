@@ -33,7 +33,7 @@ For the midterm essay you should provide a critical analysis of this definition 
 
 *_Definition:_ A very general mental capability that, among other things, involves the ability to reason, plan, solve problems, think abstractly, comprehend complex ideas, learn quickly and learn from experience. It is not merely book learning, a narrow academic skill, or test-taking smarts. Rather, it reflects a broader and deeper capability for comprehending our surroundings—"catching on," "making sense" of things, or "figuring out" what to do. (Mainstream Science on Intelligence (1994) as quoted in wikipedia)*
 
-A *critical analysis* should discuss both the strengths and weaknesses of the target material.  Strengths and weaknesses should be demonstrated clearly through argument (not just pointed out).
+A *critical analysis* should discuss both the strengths and weaknesses of the target material.  Strengths and weaknesses should be demonstrated clearly through argument (not just pointed out). Specify your overall conclusions as your thesis clearly in the first paragraph, as per standard formal essay form.
 
 ### Final Essay
 
