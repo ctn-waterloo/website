@@ -50,6 +50,8 @@ The in-class lecture notes will be posted here before each class.
  * Topic 5: [Vision]https://drive.google.com/open?id=0Bw1vzEJL0FzyaXlhaXpHSmlMbzA
  * Topic 6: [AlphaGo]https://drive.google.com/open?id=0Bw1vzEJL0FzySnpvcE1uWGEtZTQ
  * Topic 7: [Animals and plants]https://drive.google.com/open?id=14puD_Ae-GSpgiP09uiiUiQKG6byTRt47
+ * Topic 8: [Stanley the card]https://drive.google.com/open?id=1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO
+
 * * *
 
 ### Readings
