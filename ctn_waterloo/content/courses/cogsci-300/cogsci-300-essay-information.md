@@ -64,11 +64,10 @@ Essays not using these headings will be penalized 25% of the essay grade.
 4. Learning
 5. Analogy
 6. Emotion
-7. Consciousness
-8. Action
-9. Language
-10. Creativity
-11. The self
+7. Action
+8. Language
+9. Creativity
+10. The self
 
 *How to narrow down the topic:*<br>
 After choosing one of the 11 topics, you can narrow it down to particular aspects and entitites (human, computer, animal). For example, you could narrow perception down to sound, the computer down to SIRI, and the animal down to dogs. Imagery could be narrowed down to visual, auditory, etc. Learning could be narrowed down to supervised or unsupervised, or to teaching. Analogy could be narrowed down to intelligence test type analogies (A is to B as C is to what?). Emotion could be narrowed down to empathy, and so on. 

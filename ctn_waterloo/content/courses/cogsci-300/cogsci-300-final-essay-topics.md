@@ -6,4 +6,9 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 
 #### Topics that have been chosen
 
-1. Test topic.
+1. Superhuman intelligence (B.1; one more person can use this topic as well).
+2. Reinforcement learning in machines, humans, and other animals.
+3. Superhuman intelligence (B.1; this topic is now taken)
+4. Social learning in machines, humans, and other animals.
+5. Analogies in machines, humans, and other animals.
+6. Self awareness in machines, humans, and other animals.
