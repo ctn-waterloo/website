@@ -12,3 +12,5 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 4. Social learning in machines, humans, and other animals.
 5. Analogies in machines, humans, and other animals.
 6. Self awareness in machines, humans, and other animals.
+7. Perception, specifically classification in machines, humans, and other animals.
+8. Language learning in machines, humans, and other animals.
