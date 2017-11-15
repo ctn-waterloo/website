@@ -17,3 +17,4 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 9. Problem solving in machines, humans, and other animals.
 10. Emotional empathy in machines, humans, and other animals.
 11. Language in machines, humans, and other animals.
+12. Moral decisions in machines, humans, and other animals.
