@@ -52,6 +52,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 7: [Animals and plants]https://drive.google.com/open?id=14puD_Ae-GSpgiP09uiiUiQKG6byTRt47
  * Topic 8: [Stanley the card]https://drive.google.com/open?id=1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO
  * Topic 9: [Siri and Google translate]https://drive.google.com/open?id=1bAJ4kQvnNjNx9YpcGCDHSJJ-5RnKaKB-
+ * Topic 10: [Kanzi]https://drive.google.com/open?id=1rXjJNcU5PZLRmtzV9nGlZn6Og6rme3Lv
 
 * * *
 
