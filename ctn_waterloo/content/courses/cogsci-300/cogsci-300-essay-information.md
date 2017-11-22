@@ -41,7 +41,7 @@ Length: 10 pages (3000 words)
 Topic due date: Nov 13
 Essay due date: Dec 4
 
-The final essay will require the defence of a hypothesis regarding the relative strengths and weaknesses of 3 different intelligent systems, one each of human, animal, and machine. A 1-2 sentence formulation must be emailed to the course email for approval by the topic deadline. Once approved the topic will be [posted to the website](/courses/cogsci-300/cogsci-300-final-essay-topics.html) and no longer available. Check the website before submitting your topic for approval.
+The final essay will require the defence of a hypothesis regarding the relative strengths and weaknesses of 3 different intelligent systems, one each of human, animal, and machine. A 1-2 sentence formulation must be emailed to the course email for approval by the topic deadline. Once approved the topic will be [posted to the website](/courses/cogsci-300/cogsci-300-final-essay-topics.html) and no longer available. Check the website before submitting your topic for approval..
 
 Your essay MUST have the following explicit headings:
 
@@ -70,7 +70,7 @@ Essays not using these headings will be penalized 25% of the essay grade.
 10. The self
 
 *How to narrow down the topic:*<br>
-After choosing one of the 11 topics, you can narrow it down to particular aspects and entitites (human, computer, animal). For example, you could narrow perception down to sound, the computer down to SIRI, and the animal down to dogs. Imagery could be narrowed down to visual, auditory, etc. Learning could be narrowed down to supervised or unsupervised, or to teaching. Analogy could be narrowed down to intelligence test type analogies (A is to B as C is to what?). Emotion could be narrowed down to empathy, and so on. 
+After choosing one of the topics, you can narrow it down to particular aspects and entitites (human, computer, animal). For example, you could narrow perception down to sound, the computer down to SIRI, and the animal down to dogs. Imagery could be narrowed down to visual, auditory, etc. Learning could be narrowed down to supervised or unsupervised, or to teaching. Analogy could be narrowed down to intelligence test type analogies (A is to B as C is to what?). Emotion could be narrowed down to empathy, and so on. 
 
 *How to translate the topic into an essay with the issue-alternatives-evidence structure:* <br>
 Once you pick the aspect and entitities, the issue becomes: How similar and different are the entities with respect to the aspect? Alternatives could include:
@@ -84,8 +84,8 @@ The crucial part is to assemble evidence and argue for the alternative that is b
 
 **B.** Discuss one of the following ethical issues.
 
-1. Should human-level or superior artificial intelligence be allowed to develop? Using what you have learned about human intelligence, discuss the feasibility of the development of equal or better AI. If superintelligent machines are a threat to humans, how might they be prevented? Evaluate Bostrom (on reserve).
-2. What are the implications of the theories of intelligence discussed in this course for the question of ethical obligations toward non-human animals? Take into pain, suffering, emotions, and consciousness.
+1. Should human-level or superior artificial intelligence be allowed to develop? Using what you have learned about human intelligence, discuss the feasibility of the development of equal or better AI. If superintelligent machines are a threat to humans, how might they be prevented? 
+2. What are the implications of the theories of intelligence discussed in this course for the question of ethical obligations toward non-human animals? Take into account pain, suffering, emotions, and consciousness.
 
 **C.** Propose your own topic. Submit a proposal (maximum 1-page) in class by the topic deadline indicating the question you want to answer and some relevant sources.
 
