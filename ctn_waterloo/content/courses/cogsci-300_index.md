@@ -47,13 +47,13 @@ The in-class lecture notes will be posted here before each class.
  * Topic 2: [Theories of Intelligence](https://drive.google.com/open?id=0Bw1vzEJL0FzyVWJGNUFodkFwcFU)
  * Topic 3: [Biological and Artificial](https://drive.google.com/open?id=0Bw1vzEJL0FzyVXc3VXNFbUJTOWs)
  * Topic 4: [Math/logic and machine methods](https://drive.google.com/open?id=0Bw1vzEJL0FzyaWxEdnRpcUZzVFU)
- * Topic 5: [Vision]https://drive.google.com/open?id=0Bw1vzEJL0FzyaXlhaXpHSmlMbzA
- * Topic 6: [AlphaGo]https://drive.google.com/open?id=0Bw1vzEJL0FzySnpvcE1uWGEtZTQ
- * Topic 7: [Animals and plants]https://drive.google.com/open?id=14puD_Ae-GSpgiP09uiiUiQKG6byTRt47
- * Topic 8: [Stanley the card]https://drive.google.com/open?id=1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO
- * Topic 9: [Siri and Google translate]https://drive.google.com/open?id=1bAJ4kQvnNjNx9YpcGCDHSJJ-5RnKaKB-
- * Topic 10: [Kanzi]https://drive.google.com/open?id=1rXjJNcU5PZLRmtzV9nGlZn6Og6rme3Lv
- * Topic 11: [Kinesthetics and embodiment]https://drive.google.com/open?id=1OoeS6V5qlOTd2cHGed3Xh4ZEXWByC18l
+ * Topic 5: [Vision](https://drive.google.com/open?id=0Bw1vzEJL0FzyaXlhaXpHSmlMbzA)
+ * Topic 6: [AlphaGo](https://drive.google.com/open?id=0Bw1vzEJL0FzySnpvcE1uWGEtZTQ)
+ * Topic 7: [Animals and plants](https://drive.google.com/open?id=14puD_Ae-GSpgiP09uiiUiQKG6byTRt47)
+ * Topic 8: [Stanley the card](https://drive.google.com/open?id=1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO)
+ * Topic 9: [Siri and Google translate](https://drive.google.com/open?id=1bAJ4kQvnNjNx9YpcGCDHSJJ-5RnKaKB-)
+ * Topic 10: [Kanzi](https://drive.google.com/open?id=1rXjJNcU5PZLRmtzV9nGlZn6Og6rme3Lv)
+ * Topic 11: [Kinesthetics and embodiment](https://drive.google.com/open?id=1OoeS6V5qlOTd2cHGed3Xh4ZEXWByC18l)
 
 * * *
 
