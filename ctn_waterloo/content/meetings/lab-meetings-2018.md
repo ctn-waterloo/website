@@ -9,11 +9,11 @@ Nengo development meetings take place based on the [schedule here](https://forum
 
 This year's meetings:
 
-- Jan 5: Chp 7 & 8 of HTBAB (Andreas)
-- Jan 12: Chp 9 & 10 of HTBAB (Su)
-- Jan 19: HTBAB Appendices (Aaron)
-- Jan 26: round table/cogsci update
-- Feb 2: 
+- Jan 5: round table
+- Jan 12: cogsci update
+- Jan 19: Chp 7 & 8 of HTBAB (Andreas)
+- Jan 26: Chp 9 & 10 of HTBAB (Su)
+- Feb 2: HTBAB Appendices (Aaron)
 - Feb 9: 
 - Feb 16: 
 - Feb 23: no meeting (reading week)
