@@ -54,8 +54,8 @@ This year's meetings:
 - Nov 3: Jan on Gephi; Chp 1 of HTBAB (Duggins)
 - Nov 10: Chp 2 (No one, review) & 3 (Ryan) of HTBAB 
 - Nov 17: Chp 4 of HTBAB (Ivana)
-- Nov 24: Pete Suma on Master's thesis and maybe Chp 5 of HTBAB (Sverrir)
-- Dec 1: Eric thesis practice; Chp 6 of HTBAB (Sean)
-- Dec 8: Chp 7 & 8 of HTBAB (Andreas)
-- Dec 15: Chp 9 & 10 of HTBAB (Su)
-- Next year probably: HTBAB Appendices (Aaron)
+- Nov 24: Pete Suma on Master's thesis and Terry on unified models of mind 
+- Dec 1: Eric thesis practice; Chp 5 of HTBAB (Sverrir)
+- Dec 8: Chp 6 of HTBAB (Sean)
+- Dec 15: Roundtable/Cogsci update
+- Next year: Chp 7 & 8 of HTBAB (Andreas); Chp 9 & 10 of HTBAB (Su); HTBAB Appendices (Aaron)
