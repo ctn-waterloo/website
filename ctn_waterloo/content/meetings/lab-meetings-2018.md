@@ -9,15 +9,15 @@ Nengo development meetings take place based on the [schedule here](https://forum
 
 This year's meetings:
 
-- Jan 6: Andreas welcome, and talk
-- Jan 13: round table
-- Jan 20: cancelled (chris away)
-- Jan 27: round table (volunteers?) 
-- Feb 3: cancelled (chris away)
-- Feb 10: Cogsci Paper presentations
-- Feb 17: finishing cogsci presentations
-- Feb 24: no meeting (reading week)
-- Mar 3: Evaluating applications for summer school
-- Mar 10: Jan on Latex best practicies
-- Mar 17: Chris: What I saw at NICE 2017
-- Mar 24: Field trip (neurorobotics lab)
+- Jan 5: Chp 7 & 8 of HTBAB (Andreas)
+- Jan 12: Chp 9 & 10 of HTBAB (Su)
+- Jan 19: HTBAB Appendices (Aaron)
+- Jan 26: round table/cogsci update
+- Feb 2: 
+- Feb 9: 
+- Feb 16: 
+- Feb 23: no meeting (reading week)
+- Mar 2: no meeting (chris away)
+- Mar 9: what we saw at cosyne
+- Mar 16: 
+- Mar 23: 
