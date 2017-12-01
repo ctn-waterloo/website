@@ -9,7 +9,7 @@ Nengo development meetings take place based on the [schedule here](https://forum
 
 This year's meetings:
 
-- Jan 5: round table
+- Jan 5: Allen on population mode
 - Jan 12: cogsci update
 - Jan 19: Chp 7 & 8 of HTBAB (Andreas)
 - Jan 26: Chp 9 & 10 of HTBAB (Su)
