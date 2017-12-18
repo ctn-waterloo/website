@@ -6,7 +6,7 @@ title: Masters Student
 picture: http://compneuro.uwaterloo.ca/files/sean.jpg
 links:
     - text: CV (December 2017)
-      url: /files/people/aubin-cv.pdf
+      url: /files/people/seanaubin/aubin-cv.pdf
     - text: Github
       url: https://github.com/Seanny123
     - text: Twitter
