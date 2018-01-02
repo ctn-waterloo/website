@@ -4,7 +4,7 @@ _Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
 _Instructor_: Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), HH 331)
 
-_Room and Time_: E5 6127, Mon & Thurs. 12:30p-1:50p (2:00p-2:50p Thurs for 750)
+_Room and Time_: E5 6127, Mon 12:00pm-1:20pm & Thurs 12:30p-1:50p (plus 2:00p-2:50p Thurs for SYDE 750)
 
 _Texts_: Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
 and Dynamics in Neurobiological Systems. MIT Press.
@@ -27,31 +27,31 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 <table style="border: 1px solid black;" cellspacing="10">
 <tr><th>Week</th><th>Reading</th><th>Topic</th><th>Assignments</th></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 5</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td style="padding:0 15px 0 15px;">Introduction</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 4</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td style="padding:0 15px 0 15px;">Introduction</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 9, 12</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td>Neurons, Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 8, 11</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td>Neurons, Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 16, 19</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td>Temporal Representation</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 15, 18</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td>Temporal Representation</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 23, 26, 30</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (23rd at midnight); #2 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 22, 25, 29</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (22rd at midnight); #2 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 2, 6, 9</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 1, 5, 8</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 13, 16</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td style="padding:0 15px 0 15px;">Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (18th at midnight); #3 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 12, 15</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td style="padding:0 15px 0 15px;">Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (17th at midnight); #3 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 20, 23</td><td></td><td>*Reading Week*</td><td></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 19, 22</td><td></td><td>*Reading Week*</td><td></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 27, Mar 2</td><td style="padding:0 15px 0 15px;">Provided</td><td>Symbols</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 26, Mar 1</td><td style="padding:0 15px 0 15px;">Provided</td><td>Symbols</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 6, 9</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;">#3 due (6th at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 5</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;">#3 due (5th at midnight)</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 13, 16</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (13th at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 8, 12, 15</td><td style="padding:0 15px 0 15px;">Provided</td><td>Ongoing Research</td><td style="padding:0 15px 0 15px;">#4 due (12th at midnight)</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 20, 23</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td>Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 19, 22</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td>Action Selection and Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 27</td><td style="padding:0 15px 0 15px;"></td><td>Conclusion</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 26</td><td style="padding:0 15px 0 15px;"></td><td>Conclusion</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 30, Apr 3</td><td style="padding:0 15px 0 15px;"></td><td>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 29, Apr 2</td><td style="padding:0 15px 0 15px;"></td><td>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
 
 </table>
 
@@ -106,7 +106,7 @@ Students should be aware that this course contains the intellectual property of 
 <li>Questions or solution sets from various types of assessments (e.g., assignments, quizzes, tests, final exams); and</li>
 <li>Work protected by copyright (e.g., any work authored by the instructor or TA or used by the instructor or TA with permission of the copyright owner).</li></ul>
 
-Course materials and the intellectual property contained therein, are used to enhance a student’s educational experience.  However, sharing this intellectual property without the intellectual property owner’s permission is a violation of intellectual property rights.  For this reason, it is necessary to ask the instructor, TA and/or the University of Waterloo for permission before uploading and sharing the intellectual property of others online (e.g., to an online repository).
+Course materials and the intellectual property contained therein, are used to enhance a student's educational experience.  However, sharing this intellectual property without the intellectual property owner's permission is a violation of intellectual property rights.  For this reason, it is necessary to ask the instructor, TA and/or the University of Waterloo for permission before uploading and sharing the intellectual property of others online (e.g., to an online repository).
 
 Permission from an instructor, TA or the University is also necessary before sharing the intellectual property of others from completed courses with students taking the same/similar courses in subsequent terms/years.  In many cases, instructors might be happy to allow distribution of certain materials.  However, doing so without expressed permission is considered a violation of intellectual property rights.
 
