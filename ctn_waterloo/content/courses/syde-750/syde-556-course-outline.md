@@ -2,7 +2,7 @@ title: SYDE 556 Course Outline
 
 _Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
-_Instructor_: Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), HH 331)
+_Instructor_: Terry Stewart ([tcstewar@uwaterloo.ca](mailto:tcstewar@uwaterloo.ca), PAS 2463)
 
 _Room and Time_: E5 6127, Mon 12:00pm-1:20pm & Thurs 12:30p-1:50p (plus 2:00p-2:50p Thurs for SYDE 750)
 
@@ -27,7 +27,7 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 <table style="border: 1px solid black;" cellspacing="10">
 <tr><th>Week</th><th>Reading</th><th>Topic</th><th>Assignments</th></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 4</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td style="padding:0 15px 0 15px;">Introduction</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 4</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td>Introduction</td><td style="padding:0 15px 0 15px;"></td></tr>
 
 <tr><td style="padding:0 15px 0 15px;">Jan 8, 11</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td>Neurons, Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
 
@@ -37,7 +37,7 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 
 <tr><td style="padding:0 15px 0 15px;">Feb 1, 5, 8</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 12, 15</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td style="padding:0 15px 0 15px;">Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (17th at midnight); #3 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 12, 15</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td>Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (17th at midnight); #3 posted</td></tr>
 
 <tr><td style="padding:0 15px 0 15px;">Feb 19, 22</td><td></td><td>*Reading Week*</td><td></td></tr>
 
