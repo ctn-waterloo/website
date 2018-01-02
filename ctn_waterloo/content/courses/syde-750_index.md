@@ -1,7 +1,7 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Winter 2017.
+    Course information for SYDE 556/750, taught Winter 2018.
 people:
     - Chris Eliasmith
     - Terry Stewart
@@ -14,50 +14,32 @@ toc:
 
 [Course outline](/courses/syde-750/syde-556-course-outline.html)
 
-_Instructor:_ Chris Eliasmith ([email](mailto:celiasmith@uwaterloo.ca))
+_Instructor:_ Terry Stewart ([tcstewar@uwaterloo.ca](mailto:tcstewar@uwaterloo.ca))
 
-_Office:_ HH 331
+_Office:_ PAS 2463
 
 _Office Hours:_ Monday 2-3 and Thursday 3-4, or by appointment
 
 _Location:_ E5 6127
 
-_Times:_ Mon & Thurs. 12:30p-1:50p (plus 2:00p-2:50p Thurs for 750)
+_Times:_ Mon 12:00pm-1:20pm & Thurs. 12:30p-1:50p (plus 2:00p-2:50p Thurs for SYDE 750)
 
 _Due Dates:_ 
 
- * Jan 23rd: Assignment #1 (due at midnight) (20%)
- * Feb 18th: Assignment #2 (due at midnight) (20%) 
- * Mar 6th: Assignment #3 (due at midnight) (10%)
- * Mar 13th: Assignment #4 (due at midnight) (10%)
- * Apr 20th: Final Project (40%)
+ * Jan 22rd: Assignment #1 (due at midnight) (20%)
+ * Feb 17th: Assignment #2 (due at midnight) (20%) 
+ * Mar 5th: Assignment #3 (due at midnight) (10%)
+ * Mar 12th: Assignment #4 (due at midnight) (10%)
+ * Apr 19th: Final Project (40%)
 
 
 * * *
-
-## Tutoring Services
-
-If you would like more personalized help for the assignments in this course, 
-two of previous PhD students in the lab (Xuan Choo and Travis DeWolf) offer tutoring 
-services.  They can be contacted at [ctntutoring@gmail.com](mailto:ctntutoring@gmail.com)
-and they charge \$20 per half hour (or \$15 per person per half hour for groups). 
 
 ## Lecture Notes
 
 The in-class lecture notes will be posted here before each class.
 
- * Week 1: (January 5) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
- * Week 2: (January 9, 12) [Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
- * Week 3: (January 16, 19) [Temporal Representation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
- * Week 4: (January 23, 26, 30) [Transformation](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb) and [Final Projects](/research/syde-750/syde-556-possible-projects.html)
- * Week 5: (February 2, 6, 9) [Dynamics](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
- * Week 6 (February 13, 16) [Decoder Analysis](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
- * Week 7 (February 27, Mar 2) [Symbols](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
- * Week 8 (March 6, 9) [Memory](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%208%20Memory.ipynb)
- * Week 9 (March 13, 16) [Action Selection](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
- * Week 10 (March 20, 23) [Learning](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
- * Conclusion (March 27)
- * Presentations (March 30, Apr 3) - Project Presentations/Other topics
+ * Week 1: (January 4) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
 
 * * *
 
@@ -71,10 +53,6 @@ The four assignments will be posted here.
  * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
-  * Assignment 1: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%201.ipynb)
-  * Assignment 2: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%202.ipynb)
-  * Assignment 3: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%203.ipynb)
-  * Assignment 4: [HTML](http://nbviewer.jupyter.org/github/celiasmith/syde556/blob/master/Assignment%204.ipynb)
   
 * * *
 
