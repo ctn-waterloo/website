@@ -39,7 +39,7 @@ _Due Dates:_
 
 The in-class lecture notes will be posted here before each class.
 
- * Week 1: (January 4) [Introduction](http://nbviewer.ipython.org/github/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
+ * Week 1: (January 4) [Introduction](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
 
 * * *
 
