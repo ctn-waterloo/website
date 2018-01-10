@@ -11,10 +11,10 @@ This year's meetings:
 
 - Jan 5: Allen on population mode
 - Jan 12: cogsci update
-- Jan 19: Chp 7 & 8 of HTBAB (Andreas)
+- Jan 19: Chp 7 & 8 of HTBAB (Andreas) ***Note: 11am Start
 - Jan 26: Chp 9 & 10 of HTBAB (Su)
 - Feb 2: HTBAB Appendices (Aaron)
-- Feb 9: 
+- Feb 9: Brent on "What I did this Fall."
 - Feb 16: 
 - Feb 23: no meeting (reading week)
 - Mar 2: no meeting (chris away)
