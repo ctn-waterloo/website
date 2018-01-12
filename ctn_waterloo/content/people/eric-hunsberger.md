@@ -1,7 +1,7 @@
 name: Eric Hunsberger
 email: ehunsber@uwaterloo.ca
 one_liner: Vision
-group: Grad students
+group: Alumnus
 title: PhD candidate
 picture: http://compneuro.uwaterloo.ca/files/people/eric-hunsberger.jpg
 
