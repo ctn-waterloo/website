@@ -1,0 +1,14 @@
+@phdthesis{hunsberger2018,
+  author={Hunsberger, Eric},
+  school={University of Waterloo},
+  title={Spiking Deep Neural Networks: Engineered and Biological Approaches to Object Recognition},
+  type={PhD thesis},
+  year={2018},
+  url={http://hdl.handle.net/10012/12819},
+  pdf={http://compneuro.uwaterloo.ca/files/publications/hunsberger2018.pdf},
+  abstract={Modern machine learning models are beginning to rival human performance on some realistic object recognition tasks, but we still lack a full understanding of how the human brain solves this same problem. This thesis combines knowledge from machine learning and computational neuroscience to create models of human object recognition that are increasingly realistic both in their treatment of low-level neural mechanisms and in their reproduction of high-level human behaviour.
+First, I present extensions to the Neural Engineering Framework to make its preferred type of model---the “fixed-encoding” network---more accurate for object recognition tasks. These extensions include better distributions---such as Gabor filters---for the encoding weights, and better loss functions---namely weighted squared loss, softmax loss, and hinge loss---to solve for decoding weights.
+Second, I introduce increased biological realism into deep convolutional neural networks trained with backpropagation, by training them to run using spiking leaky integrate-and-fire (LIF) neurons. These models have been successful in machine learning, and I am able to convert them to spiking networks while retaining similar levels of performance. I present a novel method to smooth the LIF rate response function in order to avoid the common problems associated with differentiating spiking neurons in general and LIF neurons in particular. I also derive a number of novel characterizations of spiking variability, and use these to train spiking networks to be more robust to this variability.
+Finally, to address the problems with implementing backpropagation in a biological system, I train spiking deep neural networks using the more biological Feedback Alignment algorithm. I examine this algorithm in depth, including many variations on the core algorithm, methods to train using non-differentiable spiking neurons, and some of the limitations of the algorithm. Using these findings, I construct a spiking model that learns online in a biologically realistic manner.
+The models developed in this thesis help to explain both how spiking neurons in the brain work together to allow us to recognize complex objects, and how the brain may learn this behaviour. Their spiking nature allows them to be implemented on highly efficient neuromorphic hardware, opening the door to object recognition on energy-limited devices such as cell phones and mobile robots.}
+}
