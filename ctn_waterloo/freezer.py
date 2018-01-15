@@ -3,7 +3,7 @@ import mimetypes
 
 from . import app, pages, redirects, serve_static
 from .filters import slugify
-from flask.ext.frozen import Freezer
+from flask_frozen import Freezer
 
 # Seems to be available only on some systems...
 mimetypes.add_type('application/atom+xml', '.atom')

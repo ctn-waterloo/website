@@ -1,7 +1,7 @@
 name: Peter Blouw
 email: pblouw@gmail.com
 one_liner: Semantics
-group: Grad students
+group: Alumnus
 title: PhD Student
 picture: http://i.imgur.com/ftmHXGp.jpg
 links:

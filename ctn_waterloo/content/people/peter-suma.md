@@ -1,7 +1,7 @@
 name: Peter Suma
 email: petergsuma@gmail.com
 one_liner: Cortical processing and single-cell adaptation
-group: Grad students
+group: Alumnus
 title: Masters Student
 picture: http://compneuro.uwaterloo.ca/files/peter_suma_pic.jpg
 links:

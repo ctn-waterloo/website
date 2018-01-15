@@ -1,5 +1,13 @@
 title: People
 alumni:
+    - text: Peter Suma (2017 Masters)
+      url: people/peter-suma.html
+    - text: Eric Hunsberger (2017 PhD)
+      url: people/eric-hunsberger.html
+    - text: Mariah Martin Shein (2017 Masters)
+      url: people/mariah-martin-shein.html
+    - text: Peter Blouw (2017 PhD)
+      url: people/peter-blouw.html
     - text: Youssef Zaky (2016 PhD incomplete)
       url: people/youssef-zaky.html
     - text: Trevor Bekolay (2016 PhD)
