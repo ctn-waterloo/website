@@ -43,6 +43,7 @@ The in-class lecture notes will be posted here before each class.
  * Week 2: (January 8, 11) [Representation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
  * Week 3: (January 15, 18) [Temporal Representation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
  * Week 4: (January 22, 25) [Transformation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb)
+ * Week 5: (January 29, Feb 1) [Dynamics](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
 
 * * *
 
