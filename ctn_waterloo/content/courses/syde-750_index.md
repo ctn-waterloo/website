@@ -58,6 +58,7 @@ The four assignments will be posted here.
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
  * Assignment 1: (due January 22nd) [Assignment 1](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%201.ipynb)
+ * Assignment 2: (due February 17th) [Assignment 2](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%202.ipynb)
   
 * * *
 
