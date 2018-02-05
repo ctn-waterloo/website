@@ -17,7 +17,11 @@ This year's meetings:
 - Feb 9: Brent on "What I did this Fall."
 - Feb 16: Ryan & Andreas on course project
 - Feb 23: no meeting (reading week)
-- Mar 2: no meeting (chris away)
-- Mar 9: what we saw at cosyne
-- Mar 16: 
-- Mar 23: 
+- Mar 2: no meeting (chris away) 
+- Mar 9: no meeting (chris away)
+- Mar 16: no meeting (chris away)
+- Mar 23: what we saw at cosyne
+- Mar 30: no meeting (good friday)
+- Apr 6: no meeting (brain day)
+- Apr 13: no meeting (chris away)
+- Apr 20: 
