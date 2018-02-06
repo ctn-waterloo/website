@@ -1,6 +1,6 @@
 name: Peter Duggins
 email: psipeter@gmail.com
-one_liner: Social Simulations with Emotionally and Cognitively Plausible Agents
+one_liner: Biologically detailed neuron models and the NEF; Social simulations with emotionally and cognitively plausible agents
 group: Grad students
 title: Masters Student in Systems Design Engineering
 picture: http://compneuro.uwaterloo.ca/files/peter_duggins_profile2.JPG
