@@ -43,7 +43,9 @@ The in-class lecture notes will be posted here before each class.
  * Week 2: (January 8, 11) [Representation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
  * Week 3: (January 15, 18) [Temporal Representation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
  * Week 4: (January 22, 25) [Transformation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb)
- * Week 5: (January 29, Feb 1) [Dynamics](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
+ * Week 5, 6: (January 29, Feb 1, 5, 8) [Dynamics](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
+   * [Critter Example](https://github.com/tcstewar/syde556-1/blob/master/critter.py)
+ * Week 7: (Feb 12, 15) [Final Project](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb) [Symbols](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
 
 * * *
 
@@ -65,9 +67,9 @@ The four assignments will be posted here.
 ## Project Ideas
 
 The final project for the course consists of picking a neurobiological system and
-building a model for it.  There is a list of possible projects and more info [here](/research/syde-750/syde-556-possible-projects.html),
+building a model for it.  There is a list of possible projects and more info at [http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
-Please have your projects approved by me by the beginning of Reading Week.  You will need to present your project idea in a couple of overhead slides to the class at the end of March.  These presentations are pass/fail. If you do not present you will lose 10 marks off your project report.
+Please have your projects approved by me by the end of Reading Week.  You will need to submit a short (3-paragraph) summary of your project by March 29th.
 
 ### Project Format
 
