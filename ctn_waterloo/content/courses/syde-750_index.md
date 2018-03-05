@@ -49,6 +49,7 @@ The in-class lecture notes will be posted here before each class.
 
  * Week 7: (Feb 12, 15) [Final Project](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb), [Symbols](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
  * Week 8: (Feb 26) [Action Selection](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
+ * Week 9: (Mar 5) [Learning](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
 
 * * *
 
