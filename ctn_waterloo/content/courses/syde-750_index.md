@@ -49,13 +49,13 @@ The in-class lecture notes will be posted here before each class.
 
  * Week 7: (Feb 12, 15) [Final Project](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb), [Symbols](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
  * Week 8: (Feb 26) [Action Selection](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
- * Week 9: (Mar 5) [Learning](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
+ * Week 9: (Mar 5) [Learning](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb), [Memory Summary](https://nbviewer.jupyter.org/github/Seanny123/guest_syde556_lec/blob/master/Memory%20Summary.ipynb), [Large Scale Modelling](https://nbviewer.jupyter.org/github/Seanny123/guest_syde556_lec/blob/master/Scaling%20SPA%20for%20complex%20behaviour.ipynb)
 
 * * *
 
 ##  Assignments
 
-The four assignments will be posted here. 
+The four assignments will be posted here.
 
  * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
  * Each student must write their own code and submit their own assignment.
