@@ -66,6 +66,7 @@ The four assignments will be posted here.
  * Assignment 1: (due January 22nd) [Assignment 1](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%201.ipynb)
  * Assignment 2: (due February 17th) [Assignment 2](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%202.ipynb)
  * Assignment 3: (due March 12th) [Assignment 3](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%203.ipynb)
+ * Assignment 4: (due March 26th) [Assignment 4](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%204.ipynb)
   
 * * *
 
