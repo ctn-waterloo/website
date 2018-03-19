@@ -4,9 +4,6 @@ one_liner: Semantics
 group: Alumnus
 title: PhD Student
 picture: http://i.imgur.com/ftmHXGp.jpg
-links:
-    - text: ""
-      url: #
 
 ### Bio
 
