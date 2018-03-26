@@ -5,7 +5,7 @@ the popular press. This list is current as of May 2013, a more up-to-date list
 will be [found here](http://nengo.ca/popularpress).
 
 ![Cartoon](http://nengo.ca/sites/nengo.ca/files/ChrisSpaun.jpg){: .pull-right width="200"}
-
+- [CBC Ideas](http://www.cbc.ca/radio/ideas/imagining-the-singularity-what-happens-when-computers-transcend-us-1.4526303) - Imagining the singularity: What happens when computers transcend us?
 - [Communitech News](http://news.communitech.ca/news/the-communitech-podcast-chris-eliasmith-has-a-brain-in-a-box/) - The Communitech Podcast: Chris Eliasmith has a brain in a box
 - [Waterloo University Strategic Plan](https://uwaterloo.ca/research/sites/ca.research/files/uploads/files/strategic_research_plan_-_accessible_pdf.pdf) - Cover of 2015 Waterloo University Strategic Plan
 - [BBC World](http://www.bbc.co.uk/iplayer/episode/p010z973/Science_In_Action_Melting_ice_caps/) (radio interview, opening 5s and interview starts at 11:50)
