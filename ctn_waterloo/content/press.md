@@ -1,12 +1,21 @@
 title: Popular press coverage
 
 This is a collection of coverage of work with Nengo that has appeared in
-the popular press. This list is current as of May 2013, a more up-to-date list 
-will be [found here](http://nengo.ca/popularpress).
+the popular press. This list is current as of March 2018.
 
 ![Cartoon](http://nengo.ca/sites/nengo.ca/files/ChrisSpaun.jpg){: .pull-right width="200"}
 - [CBC Ideas](http://www.cbc.ca/radio/ideas/imagining-the-singularity-what-happens-when-computers-transcend-us-1.4526303) - Imagining the singularity: What happens when computers transcend us?
 - [Communitech News](http://news.communitech.ca/news/the-communitech-podcast-chris-eliasmith-has-a-brain-in-a-box/) - The Communitech Podcast: Chris Eliasmith has a brain in a box
+- [I Programmer](http://www.i-programmer.info/news/105-artificial-intelligence/5158-the-truth-about-spaun-the-brain-simulation.html)- 
+The Truth About Spaun - The Brain Simulation
+- [Greg Laden’s Blog (ScienceBlogs)](http://scienceblogs.com/gregladen/2012/12/05/canadian-scientists-create-virtual-human-brain/#.UL9RktAqPTE.reddit)-Canadian Scientists Create Virtual Human Brain
+- [Prosa](https://www.prosa.dk/artikel/?no_cache=1&amp;L=0&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bnews%5D=5235&amp;cHash=f8f92f1827ac52a9e452b4f95081ca92)- Nu bygger forskerne en hjerne
+- [The Weekly Weinersmith podcast](http://www.weeklyweinersmith.com/?p=510) - 
+(radio interview) Trevor Bekolay on Spaun, a large-scale simulated brain
+- [The Voice of Russia](https://sputniknews.com/voiceofrussia_us/radio_broadcast/72430379/98099772/) - 
+(radio interview) Canadian Scientists Work to Build A Thinking Computer
+- [Futura Santé](http://www.futura-sciences.com/sante/actualites/biologie-spaun-cerveau-artificiel-mieux-comprendre-cerveau-humain-43156/) - Spaun, un cerveau artificiel pour mieux comprendre le cerveau humain
+- [The Record](https://www.therecord.com/news-story/3875165-uw-prof-teaches-readers-how-to-build-a-brain/">) - UW prof teaches readers how to build a brain
 - [Waterloo University Strategic Plan](https://uwaterloo.ca/research/sites/ca.research/files/uploads/files/strategic_research_plan_-_accessible_pdf.pdf) - Cover of 2015 Waterloo University Strategic Plan
 - [BBC World](http://www.bbc.co.uk/iplayer/episode/p010z973/Science_In_Action_Melting_ice_caps/) (radio interview, opening 5s and interview starts at 11:50)
 - [CNN](http://thechart.blogs.cnn.com/2012/11/29/brain-model-may-help-build-humanlike-robot/) - Brain model may help build human-like robot
