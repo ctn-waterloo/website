@@ -3,7 +3,6 @@ title: Popular press coverage
 This is a collection of coverage of work with Nengo that has appeared in
 the popular press. This list is current as of March 2018.
 
-![Cartoon](http://nengo.ca/sites/nengo.ca/files/ChrisSpaun.jpg){: .pull-right width="200"}
 - [CBC Ideas](http://www.cbc.ca/radio/ideas/imagining-the-singularity-what-happens-when-computers-transcend-us-1.4526303) - Imagining the singularity: What happens when computers transcend us?
 - [Communitech News](http://news.communitech.ca/news/the-communitech-podcast-chris-eliasmith-has-a-brain-in-a-box/) - The Communitech Podcast: Chris Eliasmith has a brain in a box
 - [I Programmer](http://www.i-programmer.info/news/105-artificial-intelligence/5158-the-truth-about-spaun-the-brain-simulation.html)- 
