@@ -50,6 +50,8 @@ The in-class lecture notes will be posted here before each class.
  * Week 7: (Feb 12, 15) [Final Project](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb), [Symbols](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
  * Week 8: (Feb 26) [Action Selection](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
  * Week 9: (Mar 5) [Learning](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb), [Memory Summary](https://nbviewer.jupyter.org/github/Seanny123/guest_syde556_lec/blob/master/Memory%20Summary.ipynb), [Large Scale Modelling](https://nbviewer.jupyter.org/github/Seanny123/guest_syde556_lec/blob/master/Scaling%20SPA%20for%20complex%20behaviour.ipynb)
+ * Week 10: (Mar 19) [Symbols part 2](https://github.com/tcstewar/syde556-1/blob/master/2018-Relational%20Reasoning.pdf)
+
 
 * * *
 
@@ -66,7 +68,7 @@ The four assignments will be posted here.
  * Assignment 1: (due January 22nd) [Assignment 1](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%201.ipynb)
  * Assignment 2: (due February 17th) [Assignment 2](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%202.ipynb)
  * Assignment 3: (due March 12th) [Assignment 3](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%203.ipynb)
- * Assignment 4: (due March 26th) [Assignment 4](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%204.ipynb)
+ * Assignment 4: (due March 29th) [Assignment 4](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%204.ipynb)
   
 * * *
 
