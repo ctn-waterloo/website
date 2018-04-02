@@ -3,7 +3,7 @@ email: rworr@uwaterloo.ca
 one_liner: Knowledge Representation, Emotion
 group: Grad students
 title: Masters Student
-picture: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAOeAAAAJDNiNDlkMDZiLTVlZDYtNGM1ZS1hMzRmLWQ2MWU2Yzk4OTg3OA.jpg
+picture: https://media.licdn.com/dms/image/C5103AQEmn471BYk6lg/profile-displayphoto-shrink_200_200/0?e=1527886800&v=alpha&t=EHlUKWyc7RYTMUx61K9caNlluWe6vR2eoJLQ3QN1_Fs
 links:
     - text: LinkedIn
       url: https://ca.linkedin.com/in/rworr
