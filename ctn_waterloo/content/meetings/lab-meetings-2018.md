@@ -24,4 +24,10 @@ This year's meetings:
 - Mar 30: no meeting (good friday)
 - Apr 6: no meeting (brain day)
 - Apr 13: no meeting (chris away)
-- Apr 20: 
+- Apr 20: roundtable, chris on spaun 2.0
+- Apr 27:
+- May 4:
+- May 11:
+- May 18: no meeting (chris away)
+- May 25:
+- Jun 1:
