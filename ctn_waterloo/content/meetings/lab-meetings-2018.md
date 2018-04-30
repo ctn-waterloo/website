@@ -26,8 +26,8 @@ This year's meetings:
 - Apr 13: no meeting (chris away)
 - Apr 20: roundtable
 - Apr 27: ivana on semantic network structure
-- May 4: su on learning priors in spiking nets, and the oddball task
-- May 11: chris on spaun 2.0
+- May 4: chris on spaun 2.0
+- May 11: su on learning priors in spiking nets, and the oddball task
 - May 18: no meeting (chris away)
 - May 25:
 - Jun 1:
