@@ -29,5 +29,5 @@ This year's meetings:
 - May 4: chris on spaun 2.0
 - May 11: su on learning priors in spiking nets, and the oddball task
 - May 18: no meeting (chris away)
-- May 25:
+- May 25: aaron and brent on capo caccia
 - Jun 1:
