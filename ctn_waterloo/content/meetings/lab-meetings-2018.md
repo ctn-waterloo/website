@@ -30,4 +30,4 @@ This year's meetings:
 - May 11: su on learning priors in spiking nets, and the oddball task
 - May 18: no meeting (chris away)
 - May 25: aaron and brent on capo caccia
-- Jun 1:
+- Jun 1: sean on Rec BCM learning-rule for WTA memories
