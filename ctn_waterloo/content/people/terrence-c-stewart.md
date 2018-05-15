@@ -13,19 +13,24 @@ links:
 ## Terrence C. Stewart
 
   * tcstewar@uwaterloo.ca
-  * [c.v./resume](http://www.nengo.ca/sites/nengo.ca/files/2012Nov-Stewart-cv.pdf) (as of Nov, 2012)
+  * [c.v./resume](https://github.com/tcstewar/cv/raw/master/2018-05-Stewart-cv.pdf) (as of May, 2018)
 
   * I am one of the researchers behind [Spaun](http://nengo.ca/build-a-brain/spaunvideos), the first biologically realistic brain simulation that can perform multiple tasks.
-  * I am one of the developers behind [Nengo](http://nengo.ca), an open-source software package for developing simulated brains.
+  * I am one of the developers behind [Nengo](http://nengo.ai), an open-source software package for developing simulated brains.
 
 ## Bio
 
-I am a post-doctoral research associate working with Chris Eliasmith and Paul
-Thagard. My initial training was as an engineer (B.A.Sc. in Systems Design
+I am a post-doctoral research associate working with Chris Eliasmith at
+the Centre for Theoretical Neuroscience at the Universit of Waterloo.
+My initial training was as an engineer (B.A.Sc. in Systems Design
 Engineering, University of Waterloo, 1999), my masters involved applying
 experimental psychology on simulated robots (M.Phil. in Computer Science and
 Artificial Intelligence, University of Sussex, 2000), and my Ph.D. was on
 cognitive modelling (Ph.D. in Cognitive Science, Carleton University, 2007).
+
+I am also a co-founder of [Applied Brain Research](https://appliedbrainresearch.com/),
+a research-based start-up company based around using low-power hardware (neuromorphic
+computer chips) and adaptive neural algorithms.
 
 ## Research Interests
 
