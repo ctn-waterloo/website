@@ -13,7 +13,7 @@ Thesis entitled "Biologically Plausible Cortical Hierarchical-Classifier Circuit
 in Spiking Neurons".
 
 Workign with Dr. Eliasmith and the team at Applied Brain Research Inc.
-(http://appliedbrainresearch.com) in commercializing their ground breaking 
+(http://appliedbrainresearch.com) on commercializing their ground breaking 
 research in artificial intelligence as co-CEO of Applied Brain Research Inc.
 
 Previous Academics: Hon. B.Sc. from the University of Toronto, a M.B.A. from the 
