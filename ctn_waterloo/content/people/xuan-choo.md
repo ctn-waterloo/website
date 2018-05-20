@@ -1,7 +1,7 @@
 name: Xuan Choo
 email: fchoo@uwaterloo.ca
 one_liner: Working memory and large-scale model design and integration
-group: Grad students
+group: Alumnus
 title: PhD Student
 picture: http://compneuro.uwaterloo.ca/files/xuan.jpg
 links:
