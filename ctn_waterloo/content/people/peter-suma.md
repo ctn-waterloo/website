@@ -8,13 +8,13 @@ links:
     - text: LinkedIn
       url: https://www.linkedin.com/in/petersuma
 
-Supporting Dr. Eliasmith and the team at Applied Brain Research Inc. 
-( http://appliedbrainresearch.com ) in commercializing their ground breaking 
-research in artificial intelligence as co-CEO of Applied Brain Research Inc.
-
 Completed my MASc in Theoretical and Computational Neuroscience under Dr Eliasmith's supervision.
 Thesis entitled "Biologically Plausible Cortical Hierarchical-Classifier Circuit Extensions 
-in Spiking Neurons" ( https://uwspace.uwaterloo.ca/handle/10012/12821 ).
+in Spiking Neurons".
+
+Workign with Dr. Eliasmith and the team at Applied Brain Research Inc.
+(http://appliedbrainresearch.com) in commercializing their ground breaking 
+research in artificial intelligence as co-CEO of Applied Brain Research Inc.
 
 Previous Academics: Hon. B.Sc. from the University of Toronto, a M.B.A. from the 
 University of Chicago, a P.D.A.M. majoring in Financial Engineering from the Schulich School
