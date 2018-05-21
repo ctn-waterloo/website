@@ -1,6 +1,6 @@
 title: People
 alumni:
-    - text: Peter Suma (2018 PhD)
+    - text: Xuan Choo (2018 PhD)
       url: people/xuan-choo.html
     - text: Peter Suma (2017 Masters)
       url: people/peter-suma.html
