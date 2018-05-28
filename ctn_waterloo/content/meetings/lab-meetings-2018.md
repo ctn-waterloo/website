@@ -30,4 +30,7 @@ This year's meetings:
 - May 11: su on learning priors in spiking nets, and the oddball task
 - May 18: no meeting (chris away)
 - May 25: aaron and brent on capo caccia
-- Jun 1: sean on Rec BCM learning-rule for WTA memories
+- Jun 1: jan thesis defense rehearsal and the new nengo-spa
+- Jun 8: nengo for summer school
+- Jun 15: still nengo summer school
+- Jun 22: sean learning-rules for WTA memories
