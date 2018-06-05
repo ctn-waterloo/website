@@ -34,3 +34,4 @@ This year's meetings:
 - Jun 8: nengo for summer school
 - Jun 15: still nengo summer school
 - Jun 22: sean learning-rules for WTA memories
+- Jun 29: sverrir ICCM presentation
