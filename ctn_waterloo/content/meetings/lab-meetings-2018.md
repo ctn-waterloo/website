@@ -33,5 +33,7 @@ This year's meetings:
 - Jun 1: jan thesis defense rehearsal and the new nengo-spa
 - Jun 8: nengo for summer school
 - Jun 15: still nengo summer school
-- Jun 22: sean learning-rules for WTA memories
+- Jun 22: no meeting (jan defense)
 - Jun 29: sverrir ICCM presentation
+- Jul 6, 13: no meeting (people at telluride)
+- Jul 20: roundtable
