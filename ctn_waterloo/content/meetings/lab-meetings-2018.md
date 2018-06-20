@@ -34,6 +34,6 @@ This year's meetings:
 - Jun 8: nengo for summer school
 - Jun 15: still nengo summer school
 - Jun 22: no meeting (jan defense)
-- Jun 29: sverrir ICCM presentation
+- Jun 29: sverrir CS seminar presentation
 - Jul 6, 13: no meeting (people at telluride)
 - Jul 20: roundtable
