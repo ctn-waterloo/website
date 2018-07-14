@@ -36,4 +36,5 @@ This year's meetings:
 - Jun 22: no meeting (jan defense)
 - Jun 29: sverrir CS seminar presentation
 - Jul 6, 13: no meeting (people at telluride)
-- Jul 20: roundtable
+- Jul 20: no meeting (chris, terry away)
+- July 27: roundtable - Telluride report
