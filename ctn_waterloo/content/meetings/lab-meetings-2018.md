@@ -40,7 +40,8 @@ This year's meetings:
 - July 27: roundtable 
 - Aug 3-17: no meeting (chris away)
 - Aug 24: Jan on new vector binding method
-- Aug 31: roundtable - terry, aaron, ivana, chris telluride report
-- Sep 7 - jason on what he does
+- Aug 31: terry, aaron, ivana, chris telluride report
+- Sep 7 - roundtable
 - Sep 14 - no meeting (chris away)
-- Sep 21 - tbd
+- Sep 21 - jason (new ctn researcher) on what he does
+- Sep 28 - tbd
