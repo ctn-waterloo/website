@@ -37,7 +37,10 @@ This year's meetings:
 - Jun 29: sverrir CS seminar presentation
 - Jul 6, 13: no meeting (people at telluride)
 - Jul 20: no meeting (chris, terry away)
-- July 27: roundtable - Telluride report
+- July 27: roundtable 
 - Aug 3-17: no meeting (chris away)
 - Aug 24: Jan on new vector binding method
-- Aug 31: tbd
+- Aug 31: roundtable - terry, aaron, ivana, chris telluride report
+- Sep 7 - jason on what he does
+- Sep 14 - no meeting (chris away)
+- Sep 21 - tbd
