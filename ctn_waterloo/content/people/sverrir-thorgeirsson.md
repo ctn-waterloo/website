@@ -8,4 +8,4 @@ links:
     - text: GitHub
       url: https://github.com/sverrirth
 
-Homepage: https://cs.uwaterloo.ca/~sthorgei/
+Homepage: <a href=https://cs.uwaterloo.ca/~sthorgei/>https://cs.uwaterloo.ca/~sthorgei/</a>
