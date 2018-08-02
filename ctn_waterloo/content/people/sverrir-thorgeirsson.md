@@ -8,4 +8,4 @@ links:
     - text: GitHub
       url: https://github.com/sverrirth
 
-Content coming soon
+Homepage: https://cs.uwaterloo.ca/~sthorgei/
