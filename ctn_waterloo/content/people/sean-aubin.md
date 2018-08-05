@@ -5,7 +5,7 @@ group: Grad students
 title: Masters Student
 picture: http://compneuro.uwaterloo.ca/files/sean.jpg
 links:
-    - text: CV (December 2017)
+    - text: CV (July 2018)
       url: /files/people/seanaubin/aubin-cv.pdf
     - text: Github
       url: https://github.com/Seanny123
