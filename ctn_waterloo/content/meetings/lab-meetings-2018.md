@@ -41,7 +41,7 @@ This year's meetings:
 - Aug 3-17: no meeting (chris away)
 - Aug 24: Jan on new vector binding method
 - Aug 31: terry, aaron, ivana, chris telluride report
-- Sep 7 - roundtable
+- Sep 7 - sverrir on iccm and cogsci (and terry)
 - Sep 14 - no meeting (chris away)
 - Sep 21 - jason (new ctn researcher) on what he does
 - Sep 28 - tbd
