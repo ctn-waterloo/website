@@ -1,7 +1,7 @@
 name: Sugandha Sharma
 email: s72sharm@uwaterloo.ca
 one_liner: Biologically Plausible Bayesian Models of Inference
-group: Grad students
+group: Alumnus
 title: Masters Student in Systems Design Engineering
 picture: https://avatars3.githubusercontent.com/u/12284191?v=3&s=460
 links:

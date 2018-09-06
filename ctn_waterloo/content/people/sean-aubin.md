@@ -1,7 +1,7 @@
 name: Sean Aubin
 email: seanaubin@gmail.com
 one_liner: Visualization, Learning
-group: Grad students
+group: Alumnus
 title: Masters Student
 picture: http://compneuro.uwaterloo.ca/files/sean.jpg
 links:

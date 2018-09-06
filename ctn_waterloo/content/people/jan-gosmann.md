@@ -1,7 +1,7 @@
 name: Jan Gosmann
 email: jgosmann@uwaterloo.ca
 one_liner: Memory
-group: Grad students
+group: Alumnus
 title: PhD candidate
 picture: http://hyper-world.de/images/jgosmann_photo.jpg
 links: 
