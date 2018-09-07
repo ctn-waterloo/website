@@ -1,5 +1,11 @@
 title: People
 alumni:
+    - text: Sugandha Sharma (2018 Masters)
+      url: people/sugandha-sharma.html
+    - text: Sean Aubin (2018 Masters)
+      url: people/sean-aubin.html
+    - text: Jan Gosmann (2018 PhD)
+      url: people/jan-gosmann.html
     - text: Xuan Choo (2018 PhD)
       url: people/xuan-choo.html
     - text: Peter Suma (2017 Masters)
