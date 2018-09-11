@@ -1,9 +1,5 @@
 title: Using the book as a text
 
-************************
-Using the book as a text
-************************
-
 Given the practical nature of much of the material in the book,
 it can be used quite successfully as a textbook
 for a course on cognitive or neural modelling.
