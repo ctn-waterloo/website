@@ -3,11 +3,10 @@ title: Supplementary materials
 Chapter 1
 =========
 
-.. image:: https://i.imgur.com/AQGOIDO.jpg
-   :target: http://archives-dc.library.caltech.edu/islandora/object/ct1%3A551
+<a href="http://archives-dc.library.caltech.edu/islandora/object/ct1%3A551"><center><img src="https://i.imgur.com/AQGOIDO.jpg" alt="Blackboard" width=600/></center></a>
 
 Richard Feynman's Blackboard at the time of his death.
-Provided by `Caltech Archives <http://archives.caltech.edu/>`_.
+Provided by [Caltech Archives](http://archives.caltech.edu/).
 
 Chapter 2
 =========
