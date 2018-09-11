@@ -5,13 +5,12 @@ it can be used quite successfully as a textbook
 for a course on cognitive or neural modelling.
 The material below will assist instructors in running such a course.
 
-.. note:: If you are looking for something specific
+Note: If you are looking for something specific
           (e.g. specific slides, images, code, etc.),
           please do not hesitate to contact
-          `Chris Eliasmith <mailto:celiasmith@uwaterloo.ca>`_.
+          Chris Eliasmith <celiasmith@uwaterloo.ca>.
 
-Suggested lecture schedule
-==========================
+## Suggested lecture schedule
 
 I've provided more lectures
 than I believe you can fit in a single term.
@@ -123,8 +122,7 @@ I'm assuming that each lecture is
 |            |                |   and other approaches       |                    |
 |------------|----------------|------------------------------|--------------------|
 
-Assignment details
-==================
+## Assignment details
 
 The assignments above mirror those in the book.
 It is also useful to ask questions
@@ -134,10 +132,9 @@ to examine different aspects of neural/cognitive processing.
 The intent of this section of the website
 is to provide examples of such questions,
 as we develop them.
-`Suggestions welcome <forum_>`_.
+[Suggestions welcome](https://forum.nengo.ai/).
 
-Suggested projects
-==================
+## Suggested projects
 
 * Build a creature to seek food and return to a home nest.
 
@@ -152,12 +149,9 @@ Suggested projects
 
 * Build a model that does any one of the tasks in Spaun.
 
-* Build something on the `modelling ideas list <ideas_>`_.
+* Build something on the [modelling ideas list](https://github.com/ctn-waterloo/modelling_ideas/issues).
 
 If you have a project suggestions,
-please add it to the `modelling ideas list <ideas_>`_,
-or post it `on the forum <forum_>`_.
+please add it to the [modelling ideas list](https://github.com/ctn-waterloo/modelling_ideas/issues),
+or post it on [the Nengo forum](https://forum.nengo.ai/).
 
-.. _ideas: https://github.com/ctn-waterloo/modelling_ideas/issues
-
-.. _forum: https://forum.nengo.ai/
