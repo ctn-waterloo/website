@@ -19,9 +19,6 @@ Chapter 3
 
 The 6 DOF physical arm model can be [downloaded here](http://compneuro.uwaterloo.ca/research/motor-control/6-muscle-3-link-arm-model.html).
 
-.. todo:: Move this arm model somewhere more permanent
-          (new GitHub repo perhaps?)
-
 Chapter 5
 =========
 
