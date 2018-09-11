@@ -1,13 +1,9 @@
 title: Supplementary materials
 
-***********************
-Supplementary materials
-***********************
-
 Chapter 1
 =========
 
-.. image:: feynmann-blackboard.jpg
+.. image:: https://i.imgur.com/AQGOIDO.jpg
    :target: http://archives-dc.library.caltech.edu/islandora/object/ct1%3A551
 
 Richard Feynman's Blackboard at the time of his death.
