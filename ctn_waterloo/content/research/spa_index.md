@@ -13,7 +13,7 @@ people:
 toc:
     - Semantic Pointer Architecture
     - Using the book as a text
-    - Supplemntary materials
+    - Supplementary materials
 
 The book
 [How to build a brain](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/)
