@@ -26,12 +26,9 @@ one can think of this as a
 [synthesis](https://www.psychologytoday.com/blog/hot-thought/201306/the-new-synthesis-in-cognitive-science)
 of prior approaches in cognitive science.
 
-The book provides tutorials in [Nengo](http://nengo.ca)
+The book provides tutorials in [Nengo](http://nengo.ai)
 to explain and demonstrate many
-of the central concepts discussed in the book.
-Information that supports the book by providing
-links to models, demos, videos, and tutorials mentioned in the book,
-as well as a summary of the Semantic Pointer Architecture (SPA),
-can be found on the [Nengo website](http://nengo.ca/build-a-brain).
+of the central concepts discussed in the book.  Click below for a summary and further
+information on the SPA.
 
 <center><img src="http://i.imgur.com/H1Hljcr.png" alt="Spaun" width=600/></center>
