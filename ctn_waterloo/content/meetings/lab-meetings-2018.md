@@ -44,4 +44,4 @@ This year's meetings:
 - Sep 7 - sverrir on iccm and cogsci (and terry)
 - Sep 14 - no meeting (chris away)
 - Sep 21 - jason (new ctn researcher) on what he does
-- Sep 28 - tbd
+- Sep 28 - no meeting (chris away)
