@@ -3,7 +3,7 @@ year: 2018
 
 Here we will post slides/discussions/papers related to recent or upcoming lab meetings. Subject to change, of course.
 
-Meetings take place in PAS 2464 Friday at high noon.
+Meetings take place in E7 6323 Friday at high noon.
 
 Nengo development meetings take place based on the [schedule here](https://forum.nengo.ai/c/dev), and run for an hour.
 
@@ -41,11 +41,11 @@ This year's meetings:
 - Aug 3-17: no meeting (chris away)
 - Aug 24: Jan on new vector binding method
 - Aug 31: terry, aaron, ivana, chris telluride report
-- Sep 7 - sverrir on iccm and cogsci (and terry)
-- Sep 14 - no meeting (chris away)
-- Sep 21 - jason (new ctn researcher) on what he does
-- Sep 28 - no meeting (chris away)
-- Oct 5 - roundtable
-- Oct 12 - tbd
-- Oct 19 - tbd
-- Oct 26 - no meeting (chris away)
+- Sep 7: sverrir on iccm and cogsci (and terry)
+- Sep 14: no meeting (chris away)
+- Sep 21: jason (new ctn researcher) on what he does
+- Sep 28: no meeting (chris away)
+- Oct 5: roundtable
+- Oct 12: tbd
+- Oct 19: tbd
+- Oct 26: no meeting (chris away)
