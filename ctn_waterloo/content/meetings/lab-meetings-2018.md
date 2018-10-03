@@ -45,3 +45,7 @@ This year's meetings:
 - Sep 14 - no meeting (chris away)
 - Sep 21 - jason (new ctn researcher) on what he does
 - Sep 28 - no meeting (chris away)
+- Oct 5 - roundtable
+- Oct 12 - tbd
+- Oct 19 - tbd
+- Oct 26 - no meeting (chris away)
