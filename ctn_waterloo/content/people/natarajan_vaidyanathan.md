@@ -3,7 +3,7 @@ email: nvaidyan@uwaterloo.ca
 one_liner: Motor control
 group: Grad students
 title: PhD Student in Systems Design Engineering
-picture: http://compneuro.uwaterloo.ca/files/Nat.JPEG
+picture: http://compneuro.uwaterloo.ca/files/nat.jpg
 links:
     - text: LinkedIn
       url: https://www.linkedin.com/in/natarajan-v/
