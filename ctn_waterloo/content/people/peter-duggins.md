@@ -2,7 +2,7 @@ name: Peter Duggins
 email: psipeter@gmail.com
 one_liner: Biologically detailed neuron models and the NEF; Social simulations with emotionally and cognitively plausible agents
 group: Grad students
-title: Masters Student in Systems Design Engineering
+title: PhD Student in Systems Design Engineering
 picture: http://compneuro.uwaterloo.ca/files/peter_duggins_profile2.JPG
 links:
     - text: Website
