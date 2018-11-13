@@ -3,7 +3,7 @@ email: arvoelke@uwaterloo.ca
 one_liner: "Representing and processing dynamic information"
 group: Grad students
 title: PhD Candidate
-picture: http://i.imgur.com/KpFcHAd.jpg
+picture: /files/people/voelker.jpg
 links: 
     - text: Research Gate
       url: https://www.researchgate.net/profile/Aaron_Voelker
