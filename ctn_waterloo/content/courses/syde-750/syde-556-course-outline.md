@@ -45,7 +45,7 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 
 <tr><td style="padding:0 15px 0 15px;">Mar 6, 11</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;">#3 due (6th at midnight)</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 13, 18</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (18th at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 13, 18</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (20th at midnight)</td></tr>
 
 <tr><td style="padding:0 15px 0 15px;">Mar 20, 25</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td>Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
 
