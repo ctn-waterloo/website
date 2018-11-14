@@ -1,7 +1,7 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Winter 2018.
+    Course information for SYDE 556/750, taught Winter 2019.
 people:
     - Chris Eliasmith
     - Terry Stewart
@@ -14,23 +14,23 @@ toc:
 
 [Course outline](/courses/syde-750/syde-556-course-outline.html)
 
-_Instructor:_ Terry Stewart ([tcstewar@uwaterloo.ca](mailto:tcstewar@uwaterloo.ca))
+_Instructor:_ Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca))
 
-_Office:_ PAS 2463
+_Office:_ E7 6324
 
-_Office Hours:_ Monday 2-3 and Thursday 3-4, or by appointment
+_Office Hours:_ By appointment
 
-_Location:_ E5 6127
+_Location:_ Mon: E5-6004, Wed: E7-5343
 
-_Times:_ Mon 12:00pm-1:20pm & Thurs. 12:30p-1:50p (plus 2:00p-2:50p Thurs for SYDE 750)
+_Times:_ Mon 9:00a-11:20a & Wed. 9:00a-11:20a (plus 11:30a-12:30p Wed for SYDE 750)
 
 _Due Dates:_ 
 
- * Jan 22rd: Assignment #1 (due at midnight) (20%)
- * Feb 17th: Assignment #2 (due at midnight) (20%) 
- * Mar 12th: Assignment #3 (due at midnight) (10%)
- * Mar 19th: Assignment #4 (due at midnight) (10%)
- * Apr 19th: Final Project (40%)
+ * Jan 23rd: Assignment #1 (due at midnight) (20%)
+ * Feb 15th: Assignment #2 (due at midnight) (20%) 
+ * Mar 6th: Assignment #3 (due at midnight) (10%)
+ * Mar 20th: Assignment #4 (due at midnight) (10%)
+ * Apr 18th: Final Project (40%)
 
 
 * * *
@@ -39,19 +39,16 @@ _Due Dates:_
 
 The in-class lecture notes will be posted here before each class.
 
- * Week 1: (January 4) [Introduction](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
- * Week 2: (January 8, 11) [Representation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
- * Week 3: (January 15, 18) [Temporal Representation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
- * Week 4: (January 22, 25) [Transformation](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb)
- * Week 5, 6: (January 29, Feb 1, 5, 8) [Dynamics](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
-
-   * [Critter Example](https://github.com/tcstewar/syde556-1/blob/master/critter.py)
-
- * Week 7: (Feb 12, 15) [Final Project](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb), [Symbols](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
- * Week 8: (Feb 26) [Action Selection](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
- * Week 9: (Mar 5) [Learning](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb), [Memory Summary](https://nbviewer.jupyter.org/github/Seanny123/guest_syde556_lec/blob/master/Memory%20Summary.ipynb), [Large Scale Modelling](https://nbviewer.jupyter.org/github/Seanny123/guest_syde556_lec/blob/master/Scaling%20SPA%20for%20complex%20behaviour.ipynb)
- * Week 10: (Mar 19) [Symbols part 2](https://github.com/tcstewar/syde556-1/blob/master/2018-Relational%20Reasoning.pdf)
-
+ * Week 1: (January 7) [Introduction]
+ * Week 2: (January 9, 14) [Representation]
+ * Week 3: (January 16, 21) [Temporal Representation]
+ * Week 4, 5: (January 23, 28, 30) [Transformation]
+ * Week 5, 6: (Feb 4, 6, 11) [Dynamics]
+ * Week 7: (Feb 13, 25) [Analysis of Representation]
+ * Week 8: (Feb 27, Mar 4) [Symbols]
+ * Week 9: (Mar 6, 11) [Memory]
+ * Week 10: (Mar 13, 18) [Action Selection]
+ * Week 11: (Mar 20, 25) [Learning]
 
 * * *
 
@@ -65,19 +62,19 @@ The four assignments will be posted here.
  * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
- * Assignment 1: (due January 22nd) [Assignment 1](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%201.ipynb)
- * Assignment 2: (due February 17th) [Assignment 2](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%202.ipynb)
- * Assignment 3: (due March 12th) [Assignment 3](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%203.ipynb)
- * Assignment 4: (due March 29th) [Assignment 4](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/Assignment%204.ipynb)
+ * Assignment 1: (due January 23rd) [Assignment 1]
+ * Assignment 2: (due February 15th) [Assignment 2]
+ * Assignment 3: (due March 6th) [Assignment 3]
+ * Assignment 4: (due March 20th) [Assignment 4]
   
 * * *
 
 ## Project Ideas
 
 The final project for the course consists of picking a neurobiological system and
-building a model for it.  There is a list of possible projects and more info at [http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb](http://nbviewer.jupyter.org/github/tcstewar/syde556-1/blob/master/Final%20Projects.ipynb),
+building a model for it.  There is a list of possible projects and more info at [TBD],
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
-Please have your projects approved by me by the end of Reading Week.  You will need to submit a short (3-paragraph) summary of your project by March 29th.
+Please have your projects approved by me by the end of Reading Week.  You will need to submit a short (3-paragraph) summary of your project by March 11th.
 
 ### Project Format
 
