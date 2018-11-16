@@ -50,3 +50,7 @@ This year's meetings:
 - Oct 19: tbd
 - Oct 26: no meeting (chris away)
 - Nov 2: roundtable, cogsci/cosyne updates
+- Nov 9: no meeting, chris away
+- Nov 16: roundtable, cogsci updates
+- Nov 23: roundtable
+- Nov 30: roundtable
