@@ -4,4 +4,4 @@ flask-script
 latexcodec>=1.0.4
 markdown==2.6.11
 pyyaml
-pybtex
+pybtex==0.21.0
