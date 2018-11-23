@@ -54,3 +54,4 @@ This year's meetings:
 - Nov 16: roundtable, cogsci updates
 - Nov 23: roundtable
 - Nov 30: roundtable
+- Dec 7: 
