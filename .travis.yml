@@ -25,7 +25,7 @@ before_script:
   - echo -e "Host compneuro.uwaterloo.ca\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 
 script:
-  - echo "$vpnpass" | sudo openconnect -u cnrglab --passwd-on-stdin --no-dtls --script /etc/vpnc/vpnc-script -b --pid-file /var/run/openconnect.pid cn-vpn.uwaterloo.ca
+  - echo "$vpnpass" | sudo openconnect -u cnrglab --passwd-on-stdin --no-dtls --with-default-gnutls-priority --script /etc/vpnc/vpnc-script -b --pid-file /var/run/openconnect.pid cn-vpn.uwaterloo.ca
   - python manage.py up cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
 
 after_script:
