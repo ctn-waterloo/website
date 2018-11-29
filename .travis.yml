@@ -23,9 +23,21 @@ before_script:
   - base64 --decode --ignore-garbage ~/.ssh/id_rsa_base64 > ~/.ssh/id_rsa
   - chmod 600 ~/.ssh/id_rsa
   - echo -e "Host compneuro.uwaterloo.ca\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+  - sudo apt-get install curl vpnc-scripts build-essential libssl-dev libxml2-dev liblz4-dev
+  - curl -O ftp://ftp.infradead.org/pub/openconnect/openconnect-7.08.tar.gz
+  ###- curl -O ftp://ftp.infradead.org/pub/openconnect/openconnect-7.08.tar.gz.asc
+  #- gpg --keyserver pgp.mit.edu --recv-key 67e2f359
+  #- gpg --verify openconnect-7.08.tar.gz.asc
+  - tar xzf openconnect-7.08.tar.gz
+  - cd openconnect-7.08
+  - ./configure --without-gnutls --with-vpnc-script=/usr/share/vpnc-scripts/vpnc-script
+  - make
+  - sudo make install
+  - sudo ldconfig /usr/local/lib
+  - cd ..
 
 script:
-  - echo "$vpnpass" | sudo openconnect -u cnrglab --passwd-on-stdin --no-dtls --with-default-gnutls-priority --script /etc/vpnc/vpnc-script -b --pid-file /var/run/openconnect.pid cn-vpn.uwaterloo.ca
+  - echo "$vpnpass" | sudo openconnect -u cnrglab --passwd-on-stdin --no-dtls --script /etc/vpnc/vpnc-script -b --pid-file /var/run/openconnect --interface=tun1.pid cn-vpn.uwaterloo.ca
   - python manage.py up cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
 
 after_script:
