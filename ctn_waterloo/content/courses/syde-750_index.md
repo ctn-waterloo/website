@@ -22,7 +22,7 @@ _Office Hours:_ By appointment
 
 _Location:_ Mon: E5-6004, Wed: E7-5343
 
-_Times:_ Mon 9:00a-11:20a & Wed. 9:00a-11:20a (plus 11:30a-12:30p Wed for SYDE 750)
+_Times:_ Mon 9:00a-10:20a & Wed. 9:00a-10:20a (plus 10:30a-11:30p Wed for SYDE 750)
 
 _Due Dates:_ 
 
