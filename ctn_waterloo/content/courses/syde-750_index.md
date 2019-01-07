@@ -39,7 +39,7 @@ _Due Dates:_
 
 The in-class lecture notes will be posted here before each class.
 
- * Week 1: (January 7) [Introduction]
+ * Week 1: (January 7) [Introduction](http://nbviewer.ipython.org/github/tcstewar/syde556-1/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
  * Week 2: (January 9, 14) [Representation]
  * Week 3: (January 16, 21) [Temporal Representation]
  * Week 4, 5: (January 23, 28, 30) [Transformation]
