@@ -72,7 +72,7 @@ The four assignments will be posted here.
 ## Project Ideas
 
 The final project for the course consists of picking a neurobiological system and
-building a model for it.  There is a list of possible projects and more info at [TBD],
+building a model for it.  There is a list of possible projects and more info at [this link](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
 Please have your projects approved by me by the end of Reading Week.  You will need to submit a short (3-paragraph) summary of your project by March 11th.
 
