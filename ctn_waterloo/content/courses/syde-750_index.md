@@ -26,7 +26,7 @@ _Times:_ Mon 9:00a-10:20a & Wed. 9:00a-10:20a (plus 10:30a-11:30p Wed for SYDE 7
 
 _Due Dates:_ 
 
- * Jan 23rd: Assignment #1 (due at midnight) (20%)
+ * Jan 28th: Assignment #1 (due at midnight) (20%)
  * Feb 15th: Assignment #2 (due at midnight) (20%) 
  * Mar 6th: Assignment #3 (due at midnight) (10%)
  * Mar 20th: Assignment #4 (due at midnight) (10%)
