@@ -62,7 +62,7 @@ The four assignments will be posted here.
  * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
- * Assignment 1: (due January 23rd) [Assignment 1] (https://github.com/celiasmith/syde556/blob/master/Assignment%201.ipynb)
+ * Assignment 1: (due January 28th) [Assignment 1](https://github.com/celiasmith/syde556/blob/master/Assignment%201.ipynb)
  * Assignment 2: (due February 15th) [Assignment 2]
  * Assignment 3: (due March 6th) [Assignment 3]
  * Assignment 4: (due March 20th) [Assignment 4]
