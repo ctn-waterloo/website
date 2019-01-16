@@ -20,7 +20,13 @@ _Office:_ E7 6324
 
 _Office Hours:_ By appointment
 
-_Location:_ Mon: E5-6004, Wed: E7-5343
+_TA:_ Andreas Stoeckel ([astoeckel@uwaterloo.ca](mailto:astoeckel@uwaterloo.ca))
+
+_Office:_ E7 6321
+
+_Office Hours:_ By appointment
+
+_Class Location:_ Mon: E5-6004, Wed: E7-5343
 
 _Times:_ Mon 9:00a-10:20a & Wed. 9:00a-10:20a (plus 10:30a-11:30p Wed for SYDE 750)
 
