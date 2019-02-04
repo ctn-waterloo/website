@@ -17,6 +17,6 @@ This year's meetings:
 * Feb 8: nat; arm model
 * Feb 15: no meeting; chris away 
 * Feb 22: no meeting; reading week
-* Mar 1: pete; bioneuron stuff
-* Mar 8: joost; intro to interests, recent work, etc.
+* Mar 1: joost; intro to interests, recent work, etc.
+* Mar 8: pete; bioneuron stuff
 * Mar 15: 
