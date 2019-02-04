@@ -18,5 +18,5 @@ This year's meetings:
 * Feb 15: no meeting; chris away 
 * Feb 22: no meeting; reading week
 * Mar 1: pete; bioneuron stuff
-* Mar 8: 
+* Mar 8: joost; intro to interests, recent work, etc.
 * Mar 15: 
