@@ -70,7 +70,7 @@ The four assignments will be posted here.
 
  * Assignment 1: (due January 28th) [Assignment 1](https://github.com/celiasmith/syde556/blob/master/Assignment%201.ipynb)
  * Assignment 2: (due February 15th) [Assignment 2](https://github.com/celiasmith/syde556/edit/master/Assignment%202.ipynb)
- * Assignment 3: (due March 6th) [Assignment 3]
+ * Assignment 3: (due March 6th) [Assignment 3](https://github.com/celiasmith/syde556/edit/master/Assignment%203.ipynb)
  * Assignment 4: (due March 20th) [Assignment 4]
   
 * * *
