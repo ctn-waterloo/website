@@ -69,8 +69,8 @@ The four assignments will be posted here.
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
  * Assignment 1: (due January 28th) [Assignment 1](https://github.com/celiasmith/syde556/blob/master/Assignment%201.ipynb)
- * Assignment 2: (due February 15th) [Assignment 2](https://github.com/celiasmith/syde556/edit/master/Assignment%202.ipynb)
- * Assignment 3: (due March 6th) [Assignment 3](https://github.com/celiasmith/syde556/edit/master/Assignment%203.ipynb)
+ * Assignment 2: (due February 15th) [Assignment 2](https://github.com/celiasmith/syde556/blob/master/Assignment%202.ipynb)
+ * Assignment 3: (due March 6th) [Assignment 3](https://github.com/celiasmith/syde556/blob/master/Assignment%203.ipynb)
  * Assignment 4: (due March 20th) [Assignment 4]
   
 * * *
@@ -80,7 +80,7 @@ The four assignments will be posted here.
 The final project for the course consists of picking a neurobiological system and
 building a model for it.  There is a list of possible projects and more info at [this link](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
-Please have your projects approved by me by the end of Reading Week.  You will need to submit a short (3-paragraph) summary of your project by March 11th.
+Please have your projects approved by me by the end of Reading Week.  To do so, you will need to submit a short summary of your project by Feb 24th.
 
 ### Project Format
 
