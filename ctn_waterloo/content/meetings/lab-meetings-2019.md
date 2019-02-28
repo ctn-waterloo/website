@@ -19,4 +19,6 @@ This year's meetings:
 * Feb 22: no meeting; reading week
 * Mar 1: joost; intro to interests, recent work, etc.
 * Mar 8: pete; bioneuron stuff
-* Mar 15: 
+* Mar 15: no meeting; chris away
+* Mar 22: Ivana giving an overview of recent NLP research
+* Mar 29:
