@@ -50,8 +50,8 @@ The in-class lecture notes will be posted here before each class.
  * Week 3: (January 16, 21) [Temporal Representation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
  * Week 4, 5: (January 23, 28, 30) [Transformation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb)
  * Week 5, 6: (Feb 4, 6, 11) [Dynamics](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
- * Week 7: (Feb 13, 25) [Analysis of Representation]
- * Week 8: (Feb 27, Mar 4) [Symbols]
+ * Week 7: (Feb 13, 25) [Analysis of Representation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
+ * Week 8: (Feb 27, Mar 4) [Symbols](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
  * Week 9: (Mar 6, 11) [Memory]
  * Week 10: (Mar 13, 18) [Action Selection]
  * Week 11: (Mar 20, 25) [Learning]
