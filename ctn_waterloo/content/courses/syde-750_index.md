@@ -52,7 +52,7 @@ The in-class lecture notes will be posted here before each class.
  * Week 5, 6: (Feb 4, 6, 11) [Dynamics](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
  * Week 7: (Feb 13, 25) [Analysis of Representation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
  * Week 8: (Feb 27, Mar 4) [Symbols](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
- * Week 9: (Mar 6, 11) [Memory]
+ * Week 9: (Mar 6, 11) [Memory](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%208%20Memory.ipynb)
  * Week 10: (Mar 13, 18) [Action Selection]
  * Week 11: (Mar 20, 25) [Learning]
 
@@ -71,7 +71,7 @@ The four assignments will be posted here.
  * Assignment 1: (due January 28th) [Assignment 1](https://github.com/celiasmith/syde556/blob/master/Assignment%201.ipynb)
  * Assignment 2: (due February 15th) [Assignment 2](https://github.com/celiasmith/syde556/blob/master/Assignment%202.ipynb)
  * Assignment 3: (due March 6th) [Assignment 3](https://github.com/celiasmith/syde556/blob/master/Assignment%203.ipynb)
- * Assignment 4: (due March 20th) [Assignment 4]
+ * Assignment 4: (due March 20th) [Assignment 4](https://github.com/celiasmith/syde556/blob/master/Assignment%204.ipynb)
   
 * * *
 
