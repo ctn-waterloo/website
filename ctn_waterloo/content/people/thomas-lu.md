@@ -8,4 +8,4 @@ links:
     - text: LinkedIn
       url: www.linkedin.com/in/thomas-lu-19743924
 
-Lorem Ipsum
+Interested in Computer Vision and Reinforcement Learning. Currently working on applications of semantic pointer architecture for memory and spatial reasoning.
