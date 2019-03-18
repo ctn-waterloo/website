@@ -1,7 +1,7 @@
 title: Advanced Nengo tips and tricks
 
 This reference sheet gathers some extra information that may be useful for
-more advanced users of Nengo. Specifically, there is information on: - User-
+more advanced users of Nengo 1.4 (not the latest, [Nengo 2.0](http://nengo.ai/)). Specifically, there is information on: - User-
 defined functions - Function inputs (defining a wide variety of functions to
 drive a network) - More precise control over tuning curves (with preferred
 direction vectors)
