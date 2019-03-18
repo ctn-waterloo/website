@@ -53,7 +53,7 @@ The in-class lecture notes will be posted here before each class.
  * Week 7: (Feb 13, 25) [Analysis of Representation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
  * Week 8: (Feb 27, Mar 4) [Symbols](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
  * Week 9: (Mar 6, 11) [Memory](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%208%20Memory.ipynb)
- * Week 10: (Mar 13, 18) [Action Selection]
+ * Week 10: (Mar 13, 18) [Action Selection](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
  * Week 11: (Mar 20, 25) [Learning]
 
 * * *
