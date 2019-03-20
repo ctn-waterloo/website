@@ -54,7 +54,7 @@ The in-class lecture notes will be posted here before each class.
  * Week 8: (Feb 27, Mar 4) [Symbols](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
  * Week 9: (Mar 6, 11) [Memory](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%208%20Memory.ipynb)
  * Week 10: (Mar 13, 18) [Action Selection](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
- * Week 11: (Mar 20, 25) [Learning]
+ * Week 11: (Mar 20, 25) [Learning](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
 
 * * *
 
