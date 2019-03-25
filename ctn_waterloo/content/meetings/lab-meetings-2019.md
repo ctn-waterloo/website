@@ -21,4 +21,10 @@ This year's meetings:
 * Mar 8: pete; bioneuron stuff
 * Mar 15: no meeting; chris away
 * Mar 22: Ivana giving an overview of recent NLP research
-* Mar 29:
+* Mar 29: chris; goings on in abr
+* Apr 5: brent; practice syde talk
+* Apr 12: pete; prospectus practice
+* Apr 19: nat; syde project (reaching)
+* Apr 26: no meeting; chris away
+* May 3: thomas; syde project (object visual memory)
+* May 10: TBD
