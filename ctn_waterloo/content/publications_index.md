@@ -3,7 +3,7 @@ highlight:
   - voelker2018
   - neckar2019
   - blouw2018
-  - Rasmussen2017
+  - rasmussen2017
   - kajic2017
   - gosmann2017
   - eliasmith2016
