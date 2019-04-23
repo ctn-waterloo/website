@@ -16,17 +16,17 @@ are not especially relevant for the course.
 
 There are two main things needed for the project:
 
-1. build a simulation of a neurobiological system
+1. build a simulation of a neurobiological system or a neurally implemented system
 2. evaluate its behaviour
 
-You will produce a written report on your system using the steps outlined in chapter 1 of the book. This should be 10-20 pages, with lots of diagrams, graphs, and code.
+You will produce a written report on your system using the steps outlined in chapter 1 of the book. This should be 10-20 pages, with lots of diagrams, graphs, and code. Please hand in all code and a self-contained project report, with your name in the file names.  Please include an introduction with background information, well labelled figures and tables, and a discussion of any results.
 
 To evaluate the behaviour of the system, the idea is to vary some aspect of the model and see how that affects its behaviour. To do this, you must:
 
 1. Define some measurable aspect of the system's behaviour (e.g. accuracy of representation, or number of errors, or speed of response); and
 2. Change an aspect of the model (e.g. number of neurons, or neuron model, or maximum firing rates, or post-synaptic time constants, etc., etc.), and see how that affects the measurement. 
 
-Note that because there is randomness in the creation of a neuron model, you will generally have to measure a model multiple times.
+Note that because there is randomness in the creation of a neuron model, you will generally have to measure a model multiple times.  All projects should use spiking neurons, and include dynamics in the constructed circuit (i.e. a purely feedforward network is not acceptable).
 
 ## Example Extension Projects 
 
