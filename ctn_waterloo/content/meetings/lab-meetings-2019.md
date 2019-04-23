@@ -24,7 +24,9 @@ This year's meetings:
 * Mar 29: chris; goings on in abr
 * Apr 5: brent; practice syde talk
 * Apr 12: pete; prospectus practice
-* Apr 19: nat; syde project (reaching)
+* Apr 19: no meeting; good friday
 * Apr 26: no meeting; chris away
 * May 3: thomas; syde project (object visual memory)
-* May 10: TBD
+* May 10: nat; syde project (reaching)
+* May 17: roundtable
+* May 24: TBD
