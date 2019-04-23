@@ -78,7 +78,7 @@ The four assignments will be posted here.
 ## Project Ideas
 
 The final project for the course consists of picking a neurobiological system and
-building a model for it.  There is a list of possible projects and more info at [this link](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html),
+building a model for it.  There is a list of possible projects, expectations for the project and more info at [this link](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
 Please have your projects approved by me by the end of Reading Week.  To do so, you will need to submit a short summary of your project by Feb 24th.
 
@@ -86,8 +86,9 @@ Please have your projects approved by me by the end of Reading Week.  To do so, 
 
 The project report should be in the format discussed in chapter 1 of the book
 (see pp. 19-23; i.e., System Description, Design Specification,
-Implementation). Students will also be expected to do a short (5-10min)
-presentation on your topic in the last week or so.  That presentation should consist of a few slides (max 4), that sets up the problem and describes your expected approach. As with assignments, all code for projects must be submitted as well.
+Implementation), see the [project page](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html) for details. 
+Students will also be expected to do a short (5-10min)
+presentation on their topic in the last week or so.  That presentation should consist of a few slides (max 4), that sets up the problem and describes your expected approach. As with assignments, all code for projects must be submitted as well.
 
 * * *
 
