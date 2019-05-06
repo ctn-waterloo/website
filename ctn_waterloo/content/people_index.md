@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Aaron R. Voelker (2019 PhD)
+      url: people/aaron-r-voelker.html
     - text: Sugandha Sharma (2018 Masters)
       url: people/sugandha-sharma.html
     - text: Sean Aubin (2018 Masters)
