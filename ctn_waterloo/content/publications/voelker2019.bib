@@ -1,0 +1,30 @@
+@phdthesis{voelker2019,
+  location = {{Waterloo, ON}},
+  title = {Dynamical Systems in Spiking Neuromorphic Hardware},
+  abstract = {
+Dynamical systems are universal computers. They can perceive stimuli, remember, learn from
+feedback, plan sequences of actions, and coordinate complex behavioural responses. The
+Neural Engineering Framework (NEF) provides a general recipe to formulate models of such
+systems as coupled sets of nonlinear differential equations and compile them onto recurrently
+connected spiking neural networks -- akin to a programming language for spiking models of
+computation. The Nengo software ecosystem supports the NEF and compiles such models
+onto neuromorphic hardware. In this thesis, we analyze the theory driving the success of the
+NEF, and expose several core principles underpinning its correctness, scalability, completeness,
+robustness, and extensibility. We also derive novel theoretical extensions to the framework
+that enable it to far more effectively leverage a wide variety of dynamics in digital hardware,
+and to exploit the device-level physics in analog hardware. At the same time, we propose
+a novel set of spiking algorithms that recruit an optimal nonlinear encoding of time, which
+we call the Delay Network (DN). Backpropagation across stacked layers of DNs dramatically
+outperforms stacked Long Short-Term Memory (LSTM) networks---a state-of-the-art deep
+recurrent architecture---in accuracy and training time, on a continuous-time memory task, and
+a chaotic time-series prediction benchmark. The basic component of this network is shown to
+function on state-of-the-art spiking neuromorphic hardware including Braindrop and Loihi.
+This implementation approaches the energy-efficiency of the human brain in the former case,
+and the precision of conventional computation in the latter case.},
+  school = {{University of Waterloo}},
+  type = {PhD Thesis},
+  year = {2019},
+  author = {Aaron R. Voelker},
+  url = {http://hdl.handle.net/10012/14625},
+  pdf = {https://uwspace.uwaterloo.ca/bitstream/handle/10012/14625/Voelker_Aaron.pdf}
+}
