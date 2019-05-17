@@ -29,4 +29,14 @@ This year's meetings:
 * May 3: thomas; syde project (object visual memory)
 * May 10: nat; syde project (reaching)
 * May 17: roundtable
-* May 24: TBD
+* May 24: no meeting (Kamp Steve!)
+* May 31: ivana: LMU paper
+* Jun 7: duggins consciousness
+* Jun 14-21: no meeting (Brain Camp)
+* Jun 28: 
+* Jul 5: no meeting (Telluride)
+* Jul 12: joost; iccm test talk
+* Jul 19: thomas/brent; cogsci talks
+* July 26 - Aug 23: no meetings (various travel/3 conferences)
+* Aug 30: jason; tbd
+
