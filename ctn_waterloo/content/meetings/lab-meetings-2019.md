@@ -35,7 +35,7 @@ This year's meetings:
 * Jun 14-21: no meeting (Brain Camp)
 * Jun 28: 
 * Jul 5: no meeting (Telluride)
-* Jul 12: joost; iccm test talk
+* Jul 12: joost; iccm test talk; paul thagard; cogsci talk
 * Jul 19: thomas/brent; cogsci talks
 * July 26 - Aug 23: no meetings (various travel/3 conferences)
 * Aug 30: jason; tbd
