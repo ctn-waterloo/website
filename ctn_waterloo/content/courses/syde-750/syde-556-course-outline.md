@@ -60,11 +60,26 @@ _Grading_: The course requires four assignments (60%) and a final project (40%).
 
 _Learning Objectives:_ By the end of the course students should be able to:
 
-1. **Demonstrate** a basic understanding of neural processes, neural mechanisms, theories of neural communication and computation, and theories of neural dynamics. 
-2. **Converse** at a fundamental level with neuroscientists, psychologists, and neural and cogitive modelers.
-3. **Design** and **Analyze** simple and complex neural circuits for performing small- and large-scale neural computations.
-4. **Apply** engineering methods in signal processing, optimization, and control theory, among others, to characterizing and building neural circuits.
-5. **Identify** problems and solutions that may exploit the advantages of neural computation in an engineering context.
+1. **Demonstrate** a basic understanding of neural processes, neural mechanisms, theories of neural communication and computation, and theories of neural dynamics. (KB: 1b, 1c, 1d)
+2. **Converse** at a fundamental level with neuroscientists, psychologists, and neural and cogitive modelers. (KB: 1b, I: 3b)
+3. **Design** and **Analyze** simple and complex neural circuits for performing small- and large-scale neural computations. (I: 3b, 3c)
+4. **Apply** engineering methods in signal processing, optimization, and control theory, among others, to characterizing and building neural circuits. (Kb: 1d, UET: 5c)
+5. **Identify** problems and solutions that may exploit the advantages of neural computation in an engineering context. (UET: 5a, 5c)
+
+Abbreviations:
+KB - Knowledge base
+  - 1b: Demonstrate understanding of concepts in natural science
+  - 1c: Demonstrate understanding of engineering fundamentals
+  - 1d: Demonstrate understanding of specialized engineering knowledge
+
+I - Investigation
+  - 3b: Gather information from relevant sources2 to address complex engineering problems
+  - 3c: Synthesize information from multiple sources,such as modeling, simulation or
+experiments, to reach valid conclusions
+
+UET - Use of Engineering Tools
+  - 5a Select appropriate engineering tools, considering their limitations
+  - 5c Use engineering tools appropriately
 
 _Academic Integrity:_ In order to maintain a culture of academic integrity,
 members of the University of Waterloo are expected to promote honesty, trust,
