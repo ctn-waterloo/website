@@ -24,13 +24,16 @@ before_script:
   - chmod 600 ~/.ssh/id_rsa
   - echo -e "Host compneuro.uwaterloo.ca\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   - sudo apt-get install curl vpnc-scripts build-essential libssl-dev libxml2-dev liblz4-dev
-  - curl -O https://raw.githubusercontent.com/celiasmith/syde556/master/openconnect-7.08.tar.gz
+  - curl -O ftp://ftp.infradead.org/pub/openconnect/openconnect-8.02.tar.gz
+  ###- curl -O https://raw.githubusercontent.com/celiasmith/syde556/master/openconnect-7.08.tar.gz
   ###- curl -O ftp://ftp.infradead.org/pub/openconnect/openconnect-7.08.tar.gz
   ###- curl -O ftp://ftp.infradead.org/pub/openconnect/openconnect-7.08.tar.gz.asc
   #- gpg --keyserver pgp.mit.edu --recv-key 67e2f359
   #- gpg --verify openconnect-7.08.tar.gz.asc
-  - tar xzf openconnect-7.08.tar.gz
-  - cd openconnect-7.08
+  - tar xzf openconnect-8.02.tar.gz
+  - cd openconnect-8.02
+  ###- tar xzf openconnect-7.08.tar.gz
+  ###- cd openconnect-7.08
   - ./configure --without-gnutls --without-openssl-version-check --with-vpnc-script=/usr/share/vpnc-scripts/vpnc-script
   - make
   - sudo make install
