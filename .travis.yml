@@ -34,7 +34,8 @@ before_script:
   - cd openconnect-8.02
   ###- tar xzf openconnect-7.08.tar.gz
   ###- cd openconnect-7.08
-  - ./configure --without-gnutls --without-openssl-version-check --with-vpnc-script=/usr/share/vpnc-scripts/vpnc-script
+  - ./configure --without-gnutls --without-openssl-version-check
+  ###- ./configure --without-gnutls --without-openssl-version-check --with-vpnc-script=/usr/share/vpnc-scripts/vpnc-script
   - make
   - sudo make install
   - sudo ldconfig /usr/local/lib
