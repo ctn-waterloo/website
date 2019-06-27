@@ -33,7 +33,7 @@ This year's meetings:
 * May 31: ivana: LMU paper
 * Jun 7: duggins consciousness
 * Jun 14-21: no meeting (Brain Camp)
-* Jun 28: 
+* Jun 28: roundtable
 * Jul 5: no meeting (Telluride)
 * Jul 12: joost; iccm test talk; paul thagard; cogsci talk
 * Jul 19: thomas/brent; cogsci talks
