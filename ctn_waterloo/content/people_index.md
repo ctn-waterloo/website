@@ -12,6 +12,8 @@ alumni:
       url: people/jan-gosmann.html
     - text: Xuan Choo (2018 PhD)
       url: people/xuan-choo.html
+    - text: Ryan Orr (2018 Masters incomplete)
+      url: people/ryan-orr.html      
     - text: Peter Suma (2017 Masters)
       url: people/peter-suma.html
     - text: Eric Hunsberger (2017 PhD)
