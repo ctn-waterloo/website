@@ -37,6 +37,8 @@ This year's meetings:
 * Jul 5: no meeting (Telluride)
 * Jul 12: joost; iccm test talk; paul thagard; cogsci talk
 * Jul 19: thomas/brent; cogsci talks
-* July 26 - Aug 23: no meetings (various travel/3 conferences)
+* Jul 26: no meeting (cogsci)
+* Aug 2: cogsci debrief
+* Aug 9 - Aug 23: no meetings (various travel/3 conferences)
 * Aug 30: jason; tbd
 
