@@ -1,8 +1,8 @@
 name: Terrence C. Stewart
 email: terry.stewart@gmail.com
 one_liner: Cognitive architectures and the Basal Ganglia
-group: Postdocs
-title: Postdoc
+group: Collaborators
+title: NRC Associate Research Officer
 picture: http://compneuro.uwaterloo.ca/files/people/TerryStewart.png
 links:
     - text: ResearchGate
@@ -20,7 +20,8 @@ links:
 
 ## Bio
 
-I am a post-doctoral research associate working with Chris Eliasmith at
+I am an Associate Research Officer at National Research Council Canada.
+Previously I was a post-doctoral research associate working with Chris Eliasmith at
 the Centre for Theoretical Neuroscience at the Universit of Waterloo.
 My initial training was as an engineer (B.A.Sc. in Systems Design
 Engineering, University of Waterloo, 1999), my masters involved applying

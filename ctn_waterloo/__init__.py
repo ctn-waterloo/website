@@ -112,7 +112,8 @@ def meetings():
 def people_index():
     g.topic = 'people'
     page = pages.get('people_index')
-    groups = ('Faculty', 'Postdocs', 'Grad students', 'Undergrad students')
+    groups = ('Faculty', 'Collaborators', 'Postdocs', 'Grad students',
+              'Undergrad students')
     page.groups = [{'title': group, 'people': model.people(group)}
                    for group in groups]
     return render_template('people_index.html', page=page)
