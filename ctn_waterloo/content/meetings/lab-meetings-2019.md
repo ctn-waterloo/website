@@ -41,4 +41,9 @@ This year's meetings:
 * Aug 2: cogsci debrief
 * Aug 9 - Aug 23: no meetings (various travel/3 conferences)
 * Aug 30: jason; tbd
-
+* Sept 6: roundtable
+* Sept 13: andreas, comp presentation
+* Sept 20: terry, travels and collabs
+* Sept 27: tbd
+* Oct 4: chris away
+* Oct 11: nat and pete, SfN posters
