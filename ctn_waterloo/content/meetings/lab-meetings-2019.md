@@ -44,7 +44,7 @@ This year's meetings:
 * Sept 6: roundtable
 * Sept 13: andreas, comp presentation; cogsci/cosyne projects?
 * Sept 20: terry, travels and collabs
-* Sept 27: tbd
-* Oct 4: chris away
+* Sept 27: tbd (climate strike)
+* Oct 4: cogsci updates
 * Oct 11: nat and pete, SfN posters
 * Oct 18: nani, practice talk for ml course
