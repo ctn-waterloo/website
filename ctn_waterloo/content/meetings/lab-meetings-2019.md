@@ -48,3 +48,11 @@ This year's meetings:
 * Oct 4: cogsci updates
 * Oct 11: nat and pete, SfN posters
 * Oct 18: nani, practice talk for ml course
+* Oct 25: pete on sfn, roundtable
+* Nov 1: nat on sfn
+* Nov 8: 
+* Nov 15: 
+* Nov 22: 
+* Nov 29: 
+
+
