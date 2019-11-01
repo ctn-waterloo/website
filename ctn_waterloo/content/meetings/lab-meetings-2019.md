@@ -51,7 +51,7 @@ This year's meetings:
 * Oct 25: pete on sfn, roundtable
 * Nov 1: nat on sfn
 * Nov 8: terry on learning and using predictions with lmus
-* Nov 15: 
+* Nov 15: read and discuss [this](https://www.nature.com/articles/s41586-019-1724-z#MOESM2) StarCraft paper
 * Nov 22: 
 * Nov 29: 
 
