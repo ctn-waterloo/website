@@ -1,5 +1,6 @@
 title: Publications
 highlight:
+  - voelker2019lmu
   - voelker2018
   - neckar2019
   - blouw2018

@@ -31,8 +31,11 @@ def index():
     page.teaser_image = page['teaser_image']
     page.videolink = Markup(youtubify(page['video'], 320))
     pubs = pages.get('publications_index')
-    page.publications = [model.publication(pages.get('publications/' + citekey))
+    # display recent publications as well as a fixed set of publications
+    page.publications = model.publications(end=7)
+    fixed_publications = [model.publication(pages.get('publications/' + citekey))
                          for citekey in pubs['highlight']]
+    page.publications.extend(p for p in fixed_publications if p not in page.publications)
     page.blogposts = model.blogposts(end=5)
     return render_template('index.html', page=page)
 
