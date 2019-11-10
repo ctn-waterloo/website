@@ -1,10 +1,11 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Winter 2019.
+    Course information for SYDE 556/750, taught Winter 2020.
 people:
     - Chris Eliasmith
     - Terry Stewart
+    - Andreas Stöckel
 toc:
     - SYDE 556 Course Outline
     - SYDE 556 Possible Projects
@@ -14,29 +15,23 @@ toc:
 
 [Course outline](/courses/syde-750/syde-556-course-outline.html)
 
-_Instructor:_ Chris Eliasmith ([celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca))
+_Instructor:_ Andreas Stöckel ([astoecke@uwaterloo.ca](mailto:astoecke@uwaterloo.ca))
 
-_Office:_ E7 6324
-
-_Office Hours:_ By appointment
-
-_TA:_ Andreas Stoeckel ([astoeckel@uwaterloo.ca](mailto:astoeckel@uwaterloo.ca))
-
-_Office:_ E7 6321
+_Office:_ E7 6342
 
 _Office Hours:_ By appointment
 
-_Class Location:_ Mon: E5-6004, Wed: E7-5343
+_Class Location:_ Tue: E5-4106, Thu: E5-6004
 
-_Times:_ Mon 9:00a-10:20a & Wed. 9:00a-10:20a (plus 10:30a-11:30p Wed for SYDE 750)
+_Times:_ Tue 11:30a-12:50a & Thu. 9:00a-10:20a (plus 10:30a-11:30p Thu for SYDE 750)
 
 _Due Dates:_ 
 
- * Jan 28th: Assignment #1 (due at midnight) (20%)
- * Feb 15th: Assignment #2 (due at midnight) (20%) 
- * Mar 6th: Assignment #3 (due at midnight) (10%)
- * Mar 20th: Assignment #4 (due at midnight) (10%)
- * Apr 18th: Final Project (40%)
+ * tba: Assignment #1 (due at midnight) (20%)
+ * tba: Assignment #2 (due at midnight) (20%) 
+ * tba: Assignment #3 (due at midnight) (10%)
+ * tba: Assignment #4 (due at midnight) (10%)
+ * tba: Final Project (40%)
 
 
 * * *
@@ -45,16 +40,7 @@ _Due Dates:_
 
 The in-class lecture notes will be posted here before each class.
 
- * Week 1: (January 7) [Introduction](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%201%20Introduction.ipynb)
- * Week 2: (January 9, 14) [Representation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%202%20Representation.ipynb)
- * Week 3: (January 16, 21) [Temporal Representation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%203%20Temporal%20Representation.ipynb)
- * Week 4, 5: (January 23, 28, 30) [Transformation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%204%20Transformation.ipynb)
- * Week 5, 6: (Feb 4, 6, 11) [Dynamics](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%205%20Dynamics.ipynb)
- * Week 7: (Feb 13, 25) [Analysis of Representation](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%206%20Decoder%20Analysis.ipynb)
- * Week 8: (Feb 27, Mar 4) [Symbols](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%207%20Symbols.ipynb)
- * Week 9: (Mar 6, 11) [Memory](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%208%20Memory.ipynb)
- * Week 10: (Mar 13, 18) [Action Selection](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%209%20Action%20Selection.ipynb)
- * Week 11: (Mar 20, 25) [Learning](https://github.com/celiasmith/syde556/blob/master/SYDE%20556%20Lecture%2010%20Learning.ipynb)
+**Not yet available**
 
 * * *
 
@@ -68,10 +54,7 @@ The four assignments will be posted here.
  * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
 
- * Assignment 1: (due January 28th) [Assignment 1](https://github.com/celiasmith/syde556/blob/master/Assignment%201.ipynb)
- * Assignment 2: (due February 15th) [Assignment 2](https://github.com/celiasmith/syde556/blob/master/Assignment%202.ipynb)
- * Assignment 3: (due March 6th) [Assignment 3](https://github.com/celiasmith/syde556/blob/master/Assignment%203.ipynb)
- * Assignment 4: (due March 20th) [Assignment 4](https://github.com/celiasmith/syde556/blob/master/Assignment%204.ipynb)
+**Not yet available**
   
 * * *
 
