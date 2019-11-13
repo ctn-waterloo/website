@@ -43,13 +43,13 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 
 <tr><td style="padding:0 15px 0 15px;">Feb 18, 20</td><td></td><td>*Reading Week*</td><td></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 25, 27</td><td style="padding:0 15px 0 15px;">Provided</td><td>Symbols</td><td style="padding:0 15px 0 15px;">#3 due (25th at midnight); #4 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 25, 27</td><td style="padding:0 15px 0 15px;">Provided</td><td>Symbols</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 3, 5</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 3, 5</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;">#3 due (3rd at midnight); #4 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 10, 12</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (10th at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 10, 12</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 17, 19</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td>Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 17, 19</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td>Learning</td><td style="padding:0 15px 0 15px;">#4 due (17th at midnight)</td></tr>
 
 <tr><td style="padding:0 15px 0 15px;">Mar 24, 26</td><td style="padding:0 15px 0 15px;"></td><td>Conclusion</td><td style="padding:0 15px 0 15px;"></td></tr>
 
