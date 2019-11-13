@@ -2,9 +2,11 @@ title: SYDE 556 Course Outline
 
 _Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
-_Instructor_: Chris Eliasmith [celiasmith@uwaterloo.ca](mailto:celiasmith@uwaterloo.ca), E7 6324
+_Instructor_: Andreas Stöckel [astoecke@uwaterloo.ca](mailto:astoecke@uwaterloo.ca), E7 6342
 
-_Room and Time_: E5-6004, Wed: E7-5343, Mon 9:00a-10:20a & Wed. 9:00a-10:20a (plus 10:30a-11:30p Wed for SYDE 750)
+_Room and Time_:
+* Tue: E5-4106, 11:30a-12:50a
+* Thu: E5-6004, 9:00a-10:20a (plus 10:30a-11:30p Thu for SYDE 750)
 
 _Texts_: Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
 and Dynamics in Neurobiological Systems. MIT Press.
@@ -27,31 +29,31 @@ _Discussion Forum:_ You can sign up [on piazza.com](https://piazza.com/) to talk
 <table style="border: 1px solid black;" cellspacing="10">
 <tr><th>Week</th><th>Reading</th><th>Topic</th><th>Assignments</th></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 7</td><td style="padding:0 15px 0 15px;">Chpt 1</td><td>Introduction</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 7, Jan 9</td><td style="padding:0 15px 0 15px;">Chpt 1, 2</td><td>Introduction, Neurons</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 9, 14</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td>Neurons, Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 14, 16</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td>Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 16, 21</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td>Temporal Representation</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 21, 23</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td>Temporal Representation</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Jan 23, 28, 30</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (23rd at midnight); #2 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Jan 28, 30</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (28th at midnight); #2 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 4, 6, 11</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 4, 6</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 13, 25</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td>Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (15th at midnight); #3 posted</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 11, 13</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td>Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (11th at midnight); #3 posted</td></tr>
 
 <tr><td style="padding:0 15px 0 15px;">Feb 18, 20</td><td></td><td>*Reading Week*</td><td></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Feb 27, Mar 4</td><td style="padding:0 15px 0 15px;">Provided</td><td>Symbols</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Feb 25, 27</td><td style="padding:0 15px 0 15px;">Provided</td><td>Symbols</td><td style="padding:0 15px 0 15px;">#3 due (25th at midnight); #4 posted</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 6, 11</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;">#3 due (6th at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 3, 5</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 13, 18</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (20th at midnight)</td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 10, 12</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;">#4 due (10th at midnight)</td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 20, 25</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td>Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 17, 19</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td>Learning</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Mar 27</td><td style="padding:0 15px 0 15px;"></td><td>Conclusion</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 24, 26</td><td style="padding:0 15px 0 15px;"></td><td>Conclusion</td><td style="padding:0 15px 0 15px;"></td></tr>
 
-<tr><td style="padding:0 15px 0 15px;">Apr 1, Apr 3</td><td style="padding:0 15px 0 15px;"></td><td>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
+<tr><td style="padding:0 15px 0 15px;">Mar 31, Apr 2</td><td style="padding:0 15px 0 15px;"></td><td>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
 
 </table>
 
