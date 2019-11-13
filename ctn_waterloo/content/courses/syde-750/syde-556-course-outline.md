@@ -20,7 +20,7 @@ representation, and dynamics in such systems. Students will learn how the
 fundamentals of signal processing, control theory and statistical inference,
 can be applied to modeling sensory, motor, and cognitive systems.
 
-_Prerequisites:_ Knowing how to program using numpy in Python is highly recommended.  Familiarity with calculus and linear algebra is required.
+_Prerequisites:_ Knowing how to program using `numpy` in Python is highly recommended.  Familiarity with calculus and linear algebra is required.
 
 **_Schedule_**:
 
