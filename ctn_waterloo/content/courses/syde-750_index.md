@@ -104,8 +104,6 @@ Familiarity with calculus and linear algebra is required.
 Programming
 
 * [NumPy for MATLAB users](https://docs.scipy.org/doc/numpy-1.15.0/user/numpy-for-matlab-users.html) (a good quick reference for common matrix operations, comparing both Python and Matlab)
-* [Mathworks](http://www.mathworks.com/) (makers of Matlab)
-* [Matlab Tutorial](/courses/syde-750/matlab-tutorial-for-syde-556.html) (Eliasmith)
 
 Computational Neuroscience
 
