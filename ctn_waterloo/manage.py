@@ -18,14 +18,14 @@ def freeze(serve=False):
         freezer.run(debug=True)
     else:
         urls = freezer.freeze()
-        print 'Built %i files.' % len(urls)
+        print('Built %i files.' % len(urls))
 
 
 @manager.command
 def up(destination):
-    print '### Freezing'
+    print ('### Freezing')
     freeze()
-    print '### Uploading to', destination
+    print('### Uploading to', destination)
     subprocess.call(['rsync', '-Pah', '--del', freezer.root + '/', destination])
 
 
