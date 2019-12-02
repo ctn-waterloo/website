@@ -9,7 +9,6 @@ people:
 toc:
     - SYDE 556 Course Outline
     - SYDE 556 Possible Projects
-    - Matlab Tutorial for SYDE 556
 
 #  SYDE 556: Simulating Neurobiological Systems
 
