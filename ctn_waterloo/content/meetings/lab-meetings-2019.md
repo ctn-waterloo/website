@@ -50,7 +50,11 @@ This year's meetings:
 * Nov 1: nat on sfn
 * Nov 8: terry on learning and using predictions with lmus
 * Nov 15: read and discuss [this](https://www.nature.com/articles/s41586-019-1724-z#MOESM2) StarCraft paper
-* Nov 22: 
-* Nov 29: 
+* Nov 22: Roundtable
+* Nov 29: Roundtable
+* Dec 6: nicole lead discussion of [this paper](https://arxiv.org/pdf/1806.02813.pdf)
+* Dec 13: pete decision model; nani course project
+* Dec 20: hugo 'what I did here' :)
+(No more meetings this year!)
 
 
