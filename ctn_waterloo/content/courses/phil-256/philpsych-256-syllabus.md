@@ -4,13 +4,11 @@ title: PHIL/PSYCH 256 Syllabus
 
 _Instructor:_ Chris Eliasmith ([email](mailto:philpsych256@gmail.com))
 
-_Office:_ E7 6324
-
-_Office Hours:_ Wed 230p-3:30p, or by appointment
-
 _Location:_ PAS 2083
 
 _Times:_ Mon/Wed 1:00p-2:20p
+
+*** Note: PHIL 256 and PSYCH 256 are interchangeable and count towards all plans in the same way ***
 
 *Readings:*
 
@@ -47,7 +45,7 @@ _Course Description:_ This is a survey course
         <p  align=center style='text-align:center'>Jan 6 </p>      </td>
       <td width=384 valign=top>Mind, Chapter 1 </td>
       <td width=204 valign=top> 
-        <p >Introduction</p>  </td>
+        <p >Introduction</p> <p> Guest Lecturer: *Paul Thagard(!)*</p> </td>
     </tr>
     <tr> 
       <td width=82 valign=top> 

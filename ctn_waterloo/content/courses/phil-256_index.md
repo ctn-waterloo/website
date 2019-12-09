@@ -17,11 +17,19 @@ _Instructor:_ Chris Eliasmith ([email](mailto:philpsych256@gmail.com))
 
 _Office:_ E7 6324
 
+_Office Hours:_ Wed 3:00p-4:00p, or by appointment
+
+_TA_: Jessica Oddan ([email](joddan@uwaterloo.ca))
+
+_Office:_ HH 337
+
 _Office Hours:_ Wed 230p-3:30p, or by appointment
+
+_Class Times:_ Mon/Wed 1:00p-2:20p
 
 _Location:_ PAS 2083
 
-_Times:_ Mon/Wed 1:00p-2:20p
+*** Note: PHIL 256 and PSYCH 256 are interchangeable and count towards all plans in the same way ***
 
 *Readings:*
 
@@ -43,7 +51,7 @@ _Important Dates:_
 
 The in-class lecture notes will be posted here before each class.
 
- * Topic 1: [Introduction]
+ * Topic 1: [Introduction] **Special Guest Lecture: Paul Thagard**
  * Topic 2: [Computation and Representation]
  * Topic 3: [Logic & RTM]
  * Topic 4: [Rules]
