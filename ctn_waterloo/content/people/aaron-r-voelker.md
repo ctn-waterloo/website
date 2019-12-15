@@ -11,7 +11,7 @@ links:
       url: https://scholar.google.ca/citations?hl=en&user=CmFzxbYAAAAJ
     - text: GitHub
       url: https://github.com/arvoelke
-    - text: CV (April, 2019)
+    - text: CV (December, 2019)
       url: /files/people/voelker-cv.html
 
 I started my masters in Computer Science at the lab in September 2013, and fast-tracked towards a PhD in September 2014. I successfully defended my PhD, titled "Dynamical Systems in Spiking Neuromorphic Hardware", in April 2019. I received my BMath Double Honours in Computer Science and Combinatorics & Optimization from the University of Waterloo, and have had software development internships involving machine learning / big data at companies such as Google, Amazon, and ContextLogic. I also helped start-up the multi-billion dollar company, Wish, by developing their personalization/relevancy algorithms. I now work for Applied Brain Research, as a Senior Research Scientist, helping develop the next generation of spiking neuromorphic algorithms and applications.
