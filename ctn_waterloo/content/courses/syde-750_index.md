@@ -20,7 +20,7 @@ _Office:_ E7 6342
 
 _Office Hours:_ By appointment
 
-_Class Location:_ Tue: E5-4106, Thu: E5-6004
+_Class Location:_ Tue: E5-4106, Thu: E5-6004, (plus E5-6127 for SYDE 750)
 
 _Times:_ Tue 11:30a-12:50a & Thu. 9:00a-10:20a (plus 10:30a-11:30p Thu for SYDE 750)
 
