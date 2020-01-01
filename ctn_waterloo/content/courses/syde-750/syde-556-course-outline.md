@@ -62,6 +62,8 @@ title: SYDE 556 Course Outline
 
 ## Schedule
 
+*Note:* This schedule is preliminary and still subject to change.
+
 <table style="border-spacing: 0.5em">
 <thead>
 <tr class="header">
