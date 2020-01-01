@@ -42,11 +42,11 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 
 -   **Due dates**
 
-    * tba: Assignment #1 (due at midnight) (20%)
-    * tba: Assignment #2 (due at midnight) (20%) 
-    * tba: Assignment #3 (due at midnight) (10%)
-    * tba: Assignment #4 (due at midnight) (10%)
-    * tba: Final Project (40%)
+    * Jan 28: Assignment #1 (due at midnight) (20%)
+    * Feb 11: Assignment #2 (due at midnight) (20%) 
+    * Mar 3: Assignment #3 (due at midnight) (10%)
+    * Mar 17: Assignment #4 (due at midnight) (10%)
+    * Apr 15: Final Project (40%)
 
 
 * * *
@@ -65,10 +65,9 @@ The four assignments will be posted here.
 
  * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
  * Each student must write their own code and submit their own assignment.
- * Please hand in electronic copies by mailing them to me in .pdf format.  Please name the document like this: `<lastname>.Assignment<number>.pdf`.  This document will have all the graphs and any written answers to questions. (From a jupyter notebook, you can do ```jupyter nbconvert --to pdf my_name.assignment1.ipynb```)
- * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
- * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
-
+ * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late. You may be at most seven days late.
+ * **Please read and follow the instructions regarding submission posted on the front page of each assignment.**
+ 
 **Not yet available**
   
 * * *
