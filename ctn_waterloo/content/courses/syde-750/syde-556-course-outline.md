@@ -305,7 +305,9 @@ UET - Use of Engineering Tools
   - 5a Select appropriate engineering tools, considering their limitations
   - 5c Use engineering tools appropriately
 
-## Academic Integrity
+## Policies
+
+### Academic Integrity
 
 In order to maintain a culture of academic integrity,
 members of the University of Waterloo are expected to promote honesty, trust,
