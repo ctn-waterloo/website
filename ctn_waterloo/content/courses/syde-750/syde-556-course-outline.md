@@ -23,18 +23,18 @@ can be applied to modeling sensory, motor, and cognitive systems.
 _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recommended.  Familiarity with calculus and linear algebra is required.
 
 **_Schedule_**:
-<table>
+<table style="border-spacing: 0.5em">
 <thead>
 <tr class="header">
-<th><strong>Date</strong></th>
-<th><strong>Reading</strong></th>
-<th><strong>Topic</strong></th>
-<th><strong>Assignments</strong></th>
+<th style="text-align: left; border-bottom: 2px solid black"><strong>Date</strong></th>
+<th style="text-align: left; border-bottom: 2px solid black"><strong>Reading</strong></th>
+<th style="text-align: left; border-bottom: 2px solid black"><strong>Topic</strong></th>
+<th style="text-align: left; border-bottom: 2px solid black"><strong>Assignments</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 1</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 1</th>
 </tr>
 <tr class="even">
 <td>Jan 7</td>
@@ -49,7 +49,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 2</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 2</th>
 </tr>
 <tr class="odd">
 <td>Jan 14</td>
@@ -64,7 +64,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="odd">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 3</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 3</th>
 </tr>
 <tr class="even">
 <td>Jan 21</td>
@@ -79,7 +79,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 4</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 4</th>
 </tr>
 <tr class="odd">
 <td>Jan 28</td>
@@ -94,7 +94,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="odd">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 5</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 5</th>
 </tr>
 <tr class="even">
 <td>Feb 4</td>
@@ -109,7 +109,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 6</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 6</th>
 </tr>
 <tr class="odd">
 <td>Feb 11</td>
@@ -130,13 +130,13 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td>Project proposal due</td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 7</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 7</th>
 </tr>
 <tr class="even">
 <td colspan="4" style="text-align: center; font-style: italic;">― Reading week, no lectures ―</td>
 </tr>
 <tr class="odd">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 8</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 8</th>
 </tr>
 <tr class="even">
 <td>Feb 25</td>
@@ -151,7 +151,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 9</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 9</th>
 </tr>
 <tr class="odd">
 <td>Mar 3</td>
@@ -166,7 +166,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="odd">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 10</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 10</th>
 </tr>
 <tr class="even">
 <td>Mar 10</td>
@@ -181,7 +181,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 11</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 11</th>
 </tr>
 <tr class="odd">
 <td>Mar 17</td>
@@ -196,7 +196,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="odd">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 12</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 12</th>
 </tr>
 <tr class="even">
 <td>Mar 24</td>
@@ -211,7 +211,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 13</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 13</th>
 </tr>
 <tr class="odd">
 <td>Mar 31, Apr 2</td>
@@ -220,7 +220,7 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 15</th>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 15</th>
 </tr>
 <tr class="odd">
 <td>Apr 15</td>
@@ -228,9 +228,13 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 <td></td>
 <td>Projects due*</td>
 </tr>
+<tr>
+<th colspan="4" style="border-bottom: 3px solid black">
+</tr>
 </tbody>
 </table>
-
+\* The project and all assignments are due at midnight (≈ 11:59p EST) of
+that day.
 
 _Grading_: The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by _Midnight_ of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
 
