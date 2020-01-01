@@ -1,28 +1,67 @@
 title: SYDE 556 Course Outline
 
-_Course Title_: Simulating Neurobiological Systems (SYDE 556/750 topic 8)
+## General Information
 
-_Instructor_: Andreas Stöckel [astoecke@uwaterloo.ca](mailto:astoecke@uwaterloo.ca), E7 6342
+-   **Course title**  
+    Simulating Neurobiological Systems (SYDE 556/750 topic 8)
 
-_Room and Time_:
-* Tue: E5-4106, 11:30a-12:50a
-* Thu: E5-6004, 9:00a-10:20a (plus 10:30a-11:30p Thu for SYDE 750)
+-   **Course website**  
+    Links to all course material, including slides and these lecture
+    notes and slides can be found at the following URLs:
 
-_Texts_: Eliasmith and Anderson (2003). Neural Engineering: Representation, Computation
-and Dynamics in Neurobiological Systems. MIT Press.
+    -   <http://compneuro.uwaterloo.ca/courses/syde-750.html>
 
-_Homepage_: http://compneuro.uwaterloo.ca/research/syde-750.html
+    -   <https://github.com/astoeckel/syde556-w20>
 
-_Course Description_: This course examines a general framework for modeling
-computation by neurobiological systems with an emphasis on quantitative
-formulations. Particular emphasis will be placed on understanding computation,
-representation, and dynamics in such systems. Students will learn how the
-fundamentals of signal processing, control theory and statistical inference,
-can be applied to modeling sensory, motor, and cognitive systems.
+    *Note:* Any material on GitHub should be considered “preliminary”
+    until officially linked at from the course website. Until then, the
+    material is still subject to change.
 
-_Prerequisites:_ Knowing how to program using `numpy` in Python is highly recommended.  Familiarity with calculus and linear algebra is required.
+-   **Instructor**  
+    Andreas Stöckel  
+    Office: E7-6342 (office hours in E7-6323)  
+    Email: [astoecke@uwaterloo.ca](astoecke@uwaterloo.ca)  
+    Website:
+    <http://compneuro.uwaterloo.ca/people/andreas-stoeckel.html>
 
-**_Schedule_**:
+-   **Course times and location**
+
+    -   Tuesday: 11:30-12:50 in E5-4106 (SYDE 556/750)
+
+    -   Thursday: 9:00-10:20 in E5-6004 (SYDE 556/750)
+
+    -   Thursday: 10:30-11:20 in E5-6127 (SYDE 750, optional for 556)
+
+-   **Office hours**
+
+    -   Office hours are generally in E7-6323 (this is a larger
+        conference room).
+
+    -   Time yet to be determined, one fixed office hour per week.
+
+    -   Alternatively, if that time doesn’t work for you, by
+        appointment.
+
+-   **Readings**
+
+    -   Main resource: “Neural Engineering: Representation, Computation and Dynamics in Neurobiological Systems”, Chris Eliasmith and Charles Anderson, 2003. MIT Press.
+
+    -   Optional: “How to Build a Brain”, Chris Eliasmith, 2012
+
+
+-   **Course Description**  
+    This course examines a general framework for modeling
+    computation by neurobiological systems with an emphasis on quantitative
+    formulations. Particular emphasis will be placed on understanding computation,
+    representation, and dynamics in such systems. Students will learn how the
+    fundamentals of signal processing, control theory and statistical inference,
+    can be applied to modeling sensory, motor, and cognitive systems.
+
+-   **Prerequisites:**  
+    Knowing how to program using `numpy` in Python is highly recommended.  Familiarity with calculus and linear algebra is required.
+
+## Schedule
+
 <table style="border-spacing: 0.5em">
 <thead>
 <tr class="header">
@@ -233,12 +272,17 @@ _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recomm
 </tr>
 </tbody>
 </table>
+
 \* The project and all assignments are due at midnight (≈ 11:59p EST) of
 that day.
 
-_Grading_: The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by _Midnight_ of the due date. Late assignments lose 1 mark per day. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
+## Grading
 
-_Learning Objectives:_ By the end of the course students should be able to:
+The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by  _Midnight_ of the due date. Late assignments lose 1 mark per day and may be at most seven days late. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
+
+## Learning Objectives
+
+By the end of the course students should be able to:
 
 1. **Demonstrate** a basic understanding of neural processes, neural mechanisms, theories of neural communication and computation, and theories of neural dynamics. (KB: 1b, 1c, 1d)
 2. **Converse** at a fundamental level with neuroscientists, psychologists, and neural and cogitive modelers. (KB: 1b, I: 3b)
@@ -246,7 +290,7 @@ _Learning Objectives:_ By the end of the course students should be able to:
 4. **Apply** engineering methods in signal processing, optimization, and control theory, among others, to characterizing and building neural circuits. (Kb: 1d, UET: 5c)
 5. **Identify** problems and solutions that may exploit the advantages of neural computation in an engineering context. (UET: 5a, 5c)
 
-Abbreviations:
+### Abbreviations
 KB - Knowledge base
   - 1b: Demonstrate understanding of concepts in natural science
   - 1c: Demonstrate understanding of engineering fundamentals
@@ -261,11 +305,15 @@ UET - Use of Engineering Tools
   - 5a Select appropriate engineering tools, considering their limitations
   - 5c Use engineering tools appropriately
 
-_Academic Integrity:_ In order to maintain a culture of academic integrity,
+## Academic Integrity
+
+In order to maintain a culture of academic integrity,
 members of the University of Waterloo are expected to promote honesty, trust,
 fairness, respect and responsibility.
 
-_Discipline:_ A student is expected to know what constitutes academic
+### Discipline
+
+A student is expected to know what constitutes academic
 integrity, to avoid committing academic offences, and to take responsibility
 for his/her actions. A student who is unsure whether an action constitutes an
 offence, or who needs help in learning how to avoid offences (e.g.,
@@ -276,25 +324,33 @@ disciplinary penalties will be imposed under Policy 71 - Student Discipline.
 For information on categories of offenses and types of penalties, students
 should refer to [Policy 71 - Student Discipline](http://www.adm.uwaterloo.ca/infosec/Policies/policy71.htm)
 
-_Grievance_: A student who believes that a decision affecting some aspect of
+### Grievance
+
+A student who believes that a decision affecting some aspect of
 his/her university life has been unfair or unreasonable may have grounds for
 initiating a grievance. Read [Policy 70 - Student Petitions and Grievances, Section 4](http://www.adm.uwaterloo.ca/infosec/Policies/policy70.htm)
 
-_Appeals_: A student may appeal the finding and/or penalty in a decision made
+### Appeals
+
+A student may appeal the finding and/or penalty in a decision made
 under Policy 70 - Student Petitions and Grievances (other than regarding a
 petition) or Policy 71 - Student Discipline if a ground for an appeal can be
 established. Read [Policy 72 - Student Appeals](http://www.adm.uwaterloo.ca/infosec/Policies/policy72.htm)
 
-_Academic Integrity Office (UW):_ [http://uwaterloo.ca/academicintegrity/](http://uwaterloo.ca/academicintegrity/)
+### Academic Integrity Office (UW)
 
-_Accommodation for Students with Disabilities:_ The Office for Persons with
-Disabilities (OPD), located in Needles Hall, Room 1132, collaborates with all
-academic departments to arrange appropriate accommodations for students with
-disabilities without compromising the academic integrity of the curriculum. If
-you require academic accommodations to lessen the impact of your disability,
+See [http://uwaterloo.ca/academicintegrity/](http://uwaterloo.ca/academicintegrity/)
+
+### Accommodation for Students with Disabilities
+
+The Office for Persons with disabilities (OPD), located in Needles Hall, Room 1132,
+collaborates with all academic departments to arrange appropriate accommodations for
+students with disabilities without compromising the academic integrity of the curriculum.
+If you require academic accommodations to lessen the impact of your disability,
 please register with the OPD at the beginning of each academic term.
 
-_Intellectual Property:_
+### Intellectual Property
+
 Students should be aware that this course contains the intellectual property of their instructor, TA, and/or the University of Waterloo.  Intellectual property includes items such as:<ul>
 <li>Lecture content, spoken and written (and any audio/video recording thereof);</li>
 <li>Lecture handouts, presentations, and other materials prepared for the course (e.g., PowerPoint slides);</li>
