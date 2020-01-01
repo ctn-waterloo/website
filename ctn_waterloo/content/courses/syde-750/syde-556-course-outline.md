@@ -23,36 +23,212 @@ can be applied to modeling sensory, motor, and cognitive systems.
 _Prerequisites:_ Knowing how to program using `numpy` in Python is highly recommended.  Familiarity with calculus and linear algebra is required.
 
 **_Schedule_**:
-
-<table style="border: 1px solid black;" cellspacing="10">
-<tr><th>Week</th><th>Reading</th><th>Topic</th><th>Assignments</th></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Jan 7, Jan 9</td><td style="padding:0 15px 0 15px;">Chpt 1, 2</td><td>Introduction, Neurons</td><td style="padding:0 15px 0 15px;"></td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Jan 14, 16</td><td style="padding:0 15px 0 15px;">Chpt 2,4</td><td>Population Representation</td><td style="padding:0 15px 0 15px;">#1 posted</td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Jan 21, 23</td><td style="padding:0 15px 0 15px;">Chpt 4</td><td>Temporal Representation</td><td style="padding:0 15px 0 15px;"></td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Jan 28, 30</td><td style="padding:0 15px 0 15px;">Chpt 5,6</td><td>Feedforward Transformations</td><td style="padding:0 15px 0 15px;">#1 due (28th at midnight); #2 posted</td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Feb 4, 6</td><td style="padding:0 15px 0 15px;">Chpt 6,8</td><td>Dynamics</td><td style="padding:0 15px 0 15px;"></td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Feb 11, 13</td><td style="padding:0 15px 0 15px;">Chpt 7</td><td>Analysis of Representations</td><td style="padding:0 15px 0 15px;">#2 due (11th at midnight); #3 posted</td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Feb 18, 20</td><td></td><td>*Reading Week*</td><td></td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Feb 25, 27</td><td style="padding:0 15px 0 15px;">Provided</td><td>Symbols</td><td style="padding:0 15px 0 15px;"></td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Mar 3, 5</td><td style="padding:0 15px 0 15px;">Chpt 8</td><td>Memory</td><td style="padding:0 15px 0 15px;">#3 due (3rd at midnight); #4 posted</td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Mar 10, 12</td><td style="padding:0 15px 0 15px;">Provided</td><td>Action Selection</td><td style="padding:0 15px 0 15px;"></td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Mar 17, 19</td><td style="padding:0 15px 0 15px;">Chpt 9</td><td>Learning</td><td style="padding:0 15px 0 15px;">#4 due (17th at midnight)</td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Mar 24, 26</td><td style="padding:0 15px 0 15px;"></td><td>Conclusion</td><td style="padding:0 15px 0 15px;"></td></tr>
-
-<tr><td style="padding:0 15px 0 15px;">Mar 31, Apr 2</td><td style="padding:0 15px 0 15px;"></td><td>Project Presentations</td><td style="padding:0 15px 0 15px;"></td></tr>
-
+<table>
+<thead>
+<tr class="header">
+<th><strong>Date</strong></th>
+<th><strong>Reading</strong></th>
+<th><strong>Topic</strong></th>
+<th><strong>Assignments</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 1</th>
+</tr>
+<tr class="even">
+<td>Jan 7</td>
+<td>Chapter 1</td>
+<td>Introduction</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Jan 9</td>
+<td>Chapter 2</td>
+<td>Neurons</td>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 2</th>
+</tr>
+<tr class="odd">
+<td>Jan 14</td>
+<td>Chapter 2</td>
+<td>Population Representation (I)</td>
+<td>#1 posted</td>
+</tr>
+<tr class="even">
+<td>Jan 16</td>
+<td>Chapter 2</td>
+<td>Population Representation (II)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 3</th>
+</tr>
+<tr class="even">
+<td>Jan 21</td>
+<td>Chapter 4</td>
+<td>Temporal Representation (I)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Jan 23</td>
+<td>Chapter 4</td>
+<td>Temporal Representation (II)</td>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 4</th>
+</tr>
+<tr class="odd">
+<td>Jan 28</td>
+<td>Chapters 5, 6</td>
+<td>Feedforward Transformations (I)</td>
+<td>#1 due*, #2 posted</td>
+</tr>
+<tr class="even">
+<td>Jan 30</td>
+<td>Chapters 5, 6</td>
+<td>Feedforward Transformations (II)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 5</th>
+</tr>
+<tr class="even">
+<td>Feb 4</td>
+<td>Chapter 8</td>
+<td>Dynamics (I)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Feb 6</td>
+<td>Chapter 8</td>
+<td>Dynamics (II)</td>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 6</th>
+</tr>
+<tr class="odd">
+<td>Feb 11</td>
+<td>Chapter 7</td>
+<td>Analysis of Representation</td>
+<td>#2 due*, #3 posted</td>
+</tr>
+<tr class="even">
+<td>Feb 13</td>
+<td><em>provided</em></td>
+<td>Temporal Basis Functions</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Feb 14</td>
+<td></td>
+<td></td>
+<td>Project proposal due</td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 7</th>
+</tr>
+<tr class="even">
+<td colspan="4" style="text-align: center; font-style: italic;">― Reading week, no lectures ―</td>
+</tr>
+<tr class="odd">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 8</th>
+</tr>
+<tr class="even">
+<td>Feb 25</td>
+<td><em>provided</em></td>
+<td>Symbols (I)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Feb 27</td>
+<td><em>provided</em></td>
+<td>Symbols (II)</td>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 9</th>
+</tr>
+<tr class="odd">
+<td>Mar 3</td>
+<td>Chapter 8</td>
+<td>Memory</td>
+<td>#3 due*, #4 posted</td>
+</tr>
+<tr class="even">
+<td>Mar 5</td>
+<td><em>provided</em></td>
+<td>Action Selection</td>
+<td></td>
+</tr>
+<tr class="odd">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 10</th>
+</tr>
+<tr class="even">
+<td>Mar 10</td>
+<td>Chaper 9</td>
+<td>Learning (I)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mar 12</td>
+<td>Chaper 9</td>
+<td>Learning (II)</td>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 11</th>
+</tr>
+<tr class="odd">
+<td>Mar 17</td>
+<td><em>provided</em></td>
+<td>Spatial Semantic Pointers</td>
+<td>#4 due*</td>
+</tr>
+<tr class="even">
+<td>Mar 19</td>
+<td><em>provided</em></td>
+<td>Biological Details</td>
+<td></td>
+</tr>
+<tr class="odd">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 12</th>
+</tr>
+<tr class="even">
+<td>Mar 24</td>
+<td><em>provided</em></td>
+<td>Other modelling frameworks</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Apr 2</td>
+<td></td>
+<td>Conclusion</td>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 13</th>
+</tr>
+<tr class="odd">
+<td>Mar 31, Apr 2</td>
+<td></td>
+<td>Project presentations</td>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em">WEEK 15</th>
+</tr>
+<tr class="odd">
+<td>Apr 15</td>
+<td></td>
+<td></td>
+<td>Projects due*</td>
+</tr>
+</tbody>
 </table>
 
 
