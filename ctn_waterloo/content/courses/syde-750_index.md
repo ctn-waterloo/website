@@ -22,22 +22,18 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
     <http://compneuro.uwaterloo.ca/people/andreas-stoeckel.html>
 
 -   **Course times and location**
-
     -   Tuesday: 11:30-12:50 in E5-4106 (SYDE 556/750)
     -   Thursday: 9:00-10:20 in E5-6004 (SYDE 556/750)
     -   Thursday: 10:30-11:20 in E5-6127 (SYDE 750, optional for 556)
 
 -   **Office hours**
-
     -   Office hours are generally in E7-6323 (this is a larger
         conference room).
     -   Time yet to be determined, one fixed office hour per week.
     -   Alternatively, if that time doesn’t work for you, by
         appointment.
 
-
 -   **Due dates**
-
     * Jan 28: Assignment #1 (due at midnight) (20%)
     * Feb 11: Assignment #2 (due at midnight) (20%) 
     * Mar 3: Assignment #3 (due at midnight) (10%)
