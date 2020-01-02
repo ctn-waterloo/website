@@ -55,7 +55,7 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 
 The in-class lecture notes will be posted here before each class.
 
-**Lecture 0** ― Monday, January 7
+**Lecture 0** ― Administrative Remarks ― Monday, January 7
 * Slides  
   [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_slides.pdf)]
   [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_slides.pdf)]
