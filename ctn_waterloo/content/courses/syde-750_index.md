@@ -52,8 +52,10 @@ The in-class lecture notes will be posted here before each class.
 -   **Slides**
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_slides.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_slides.pdf)]
+
 -   **Slides (Annotated)**  
     **N/A**
+
 -   **Notes**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
