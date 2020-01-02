@@ -25,7 +25,7 @@ life-long fashion.
 Apart from these focus areas, I am interested in a broad range of topics including ‒ but not limited to
 ‒ neuromorphic hardware, neurorobotics, and unsupervised learning strategies.
 
-I'm teaching SYDE 556/750 "Simulating Neurobiological Systems" in Winter 2020.
+I'm teaching [SYDE 556/750 "Simulating Neurobiological Systems"](http://compneuro.uwaterloo.ca/courses/syde-750.html) in Winter 2020.
 
 Prior to joining the CNRG in January 2017, I have been a research assistant at the
 [Cognitronics and Sensor Systems Group](http://www.ks.cit-ec.uni-bielefeld.de/) in Bielefeld,
