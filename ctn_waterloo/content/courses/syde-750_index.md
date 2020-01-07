@@ -109,7 +109,7 @@ presentation on their topic in the last week or so.  That presentation should co
 ## Course Format
 
 Two lectures per week and homework assignments consisting of computer
-exercises using Python (or Matlab). For SYDE 750 a larger class project is required, usually a
+exercises using Python. For SYDE 750 a larger class project is required, usually a
 computer simulation developed based on significant neuroscientific research
 and/or collaboration with a neurophysiologist. For Syde 556 a class project
 based on an in class/text example is required. This course examines a general
@@ -124,7 +124,7 @@ cognitive systems.
 
 ## Course Prerequisites
 
-Knowing how to program with matrices using Python, Matlab or some other language is highly 
+Knowing how to program with matrices using Python or some other language is highly 
 recommended. Familiarity with Fourier Transforms and other signal processing concepts is recommended.
 Familiarity with calculus and linear algebra is required.
 
