@@ -12,25 +12,33 @@ toc:
 
 #  SYDE 556: Simulating Neurobiological Systems
 
-[Course outline](/courses/syde-750/syde-556-course-outline.html)
+See the [course outline](/courses/syde-750/syde-556-course-outline.html) for more information.
 
-_Instructor:_ Andreas Stöckel ([astoecke@uwaterloo.ca](mailto:astoecke@uwaterloo.ca))
+-   **Instructor**  
+    Andreas Stöckel  
+    Office: E7-6342 (office hours in E7-6323)  
+    Email: [astoecke@uwaterloo.ca](astoecke@uwaterloo.ca)  
+    Website:
+    <http://compneuro.uwaterloo.ca/people/andreas-stoeckel.html>
 
-_Office:_ E7 6342
+-   **Course times and location**
+    -   Tuesday: 11:30-12:50 in E5-4106 (SYDE 556/750)
+    -   Thursday: 9:00-10:20 in E5-6004 (SYDE 556/750)
+    -   Thursday: 10:30-11:20 in E5-6127 (SYDE 750, optional for 556)
 
-_Office Hours:_ By appointment
+-   **Office hours**
+    -   Office hours are generally in E7-6323 (this is a larger
+        conference room).
+    -   Thursdays, 11:30am - 12:30pm (subject to change if we find a better timeslot)
+    -   Alternatively, if that time doesn’t work for you, by
+        appointment.
 
-_Class Location:_ Tue: E5-4106, Thu: E5-6004
-
-_Times:_ Tue 11:30a-12:50a & Thu. 9:00a-10:20a (plus 10:30a-11:30p Thu for SYDE 750)
-
-_Due Dates:_ 
-
- * tba: Assignment #1 (due at midnight) (20%)
- * tba: Assignment #2 (due at midnight) (20%) 
- * tba: Assignment #3 (due at midnight) (10%)
- * tba: Assignment #4 (due at midnight) (10%)
- * tba: Final Project (40%)
+-   **Due dates**
+    * Jan 28: Assignment #1 (due at midnight) (20%)
+    * Feb 11: Assignment #2 (due at midnight) (20%) 
+    * Mar 3: Assignment #3 (due at midnight) (10%)
+    * Mar 17: Assignment #4 (due at midnight) (10%)
+    * Apr 15: Final Project (40%)
 
 
 * * *
@@ -39,7 +47,31 @@ _Due Dates:_
 
 The in-class lecture notes will be posted here before each class.
 
-**Not yet available**
+### Lecture 0 ― Administrative Remarks ― January 7
+
+-   **Slides**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)]
+
+-   **Slides (Annotated)**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_slides_annotated.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_slides_annotated.pdf)]
+
+-   **Notes**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
+
+### Lecture 1 ― Introduction ― January 7, 9
+
+-   **Slides**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)]
+
+-   **Notes**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
+
+
 
 * * *
 
@@ -49,10 +81,9 @@ The four assignments will be posted here.
 
  * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
  * Each student must write their own code and submit their own assignment.
- * Please hand in electronic copies by mailing them to me in .pdf format.  Please name the document like this: `<lastname>.Assignment<number>.pdf`.  This document will have all the graphs and any written answers to questions. (From a jupyter notebook, you can do ```jupyter nbconvert --to pdf my_name.assignment1.ipynb```)
- * Include code, or any modified code, in a second document as well.  This should be in a single file (e.g. .zip) named similarly: `<lastname>.Assignment<numnber>.Code.zip`
- * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late.
-
+ * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late. You may be at most seven days late.
+ * **Please read and follow the instructions regarding submission posted on the front page of each assignment.**
+ 
 **Not yet available**
   
 * * *
@@ -77,7 +108,7 @@ presentation on their topic in the last week or so.  That presentation should co
 ## Course Format
 
 Two lectures per week and homework assignments consisting of computer
-exercises using Python (or Matlab). For SYDE 750 a larger class project is required, usually a
+exercises using Python. For SYDE 750 a larger class project is required, usually a
 computer simulation developed based on significant neuroscientific research
 and/or collaboration with a neurophysiologist. For Syde 556 a class project
 based on an in class/text example is required. This course examines a general
@@ -92,7 +123,7 @@ cognitive systems.
 
 ## Course Prerequisites
 
-Knowing how to program with matrices using Python, Matlab or some other language is highly 
+Knowing how to program with matrices using Python or some other language is highly 
 recommended. Familiarity with Fourier Transforms and other signal processing concepts is recommended.
 Familiarity with calculus and linear algebra is required.
 
