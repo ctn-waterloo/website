@@ -29,7 +29,7 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 -   **Office hours**
     -   Office hours are generally in E7-6323 (this is a larger
         conference room).
-    -   Time yet to be determined, one fixed office hour per week.
+    -   Thursdays, 11:30am - 12:30pm (subject to change if we find a better timeslot)
     -   Alternatively, if that time doesn’t work for you, by
         appointment.
 
@@ -47,31 +47,30 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 
 The in-class lecture notes will be posted here before each class.
 
-### Lecture 0 ― Administrative Remarks ― Tuesday, January 7
+### Lecture 0 ― Administrative Remarks ― January 7
 
 -   **Slides**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)]
 
 -   **Slides (Annotated)**  
-    **N/A**
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_slides_annotated.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_slides_annotated.pdf)]
 
 -   **Notes**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
 
-### Lecture 1 ― Introduction ― Tuesday, January 7
+### Lecture 1 ― Introduction ― January 7, 9
 
 -   **Slides**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)]
 
--   **Slides (Annotated)**  
-    **N/A**
-
 -   **Notes**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
+
 
 
 * * *
