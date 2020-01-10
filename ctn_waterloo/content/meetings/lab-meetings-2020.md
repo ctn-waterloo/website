@@ -8,5 +8,5 @@ Meetings take place in E7 6323 Friday at high noon (12 p.m.).
 This year's meetings:
 
 * Jan 10: Roundtable
-* Jan 17: Ivana talks about her internship
+* Jan 17: Ivana talks about her internship (starting at 1p)
 * Jan 24: TBD
