@@ -53,7 +53,7 @@ The in-class lecture notes will be posted here before each class.
 
  * Topic 1: [Introduction](https://drive.google.com/open?id=1FwNOH2QbICySel0BjI_eeF8_PVuTNgAQ) **Special Guest Lecture: Paul Thagard**
  * Topic 2: [Computation and Representation](https://drive.google.com/open?id=1l9quGHuBjDS71RVwdnowpTiW5_UvF9IX)
- * Topic 3: [Logic & RTM]
+ * Topic 3: [Logic]
  * Topic 4: [Rules]
  * Topic 5: [The Chinese Room]
  * Topic 6: [Concepts]

@@ -65,7 +65,7 @@ _Course Description:_ This is a survey course
         <p  align=center style='text-align:center'>13</p>      </td>
       <td width=384 valign=top> 
         <p >Mind, Chapter 2<br>    </td>
-      <td width=204 valign=top>Logic &amp; RTM</td>
+      <td width=204 valign=top>Logic</td>
     </tr>
     <tr> 
       <td width=82 valign=top> 
