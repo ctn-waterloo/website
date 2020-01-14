@@ -71,7 +71,7 @@ The in-class lecture notes will be posted here before each class.
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
 
-### Lecture 2 ― Neurons ― January 9
+### Lecture 2 ― Neurons ― January 9, 14
 
 -   **Slides**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)]
