@@ -78,12 +78,25 @@ The in-class lecture notes will be posted here before each class.
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)]
 
 -   **Slides (Annotated)**  
-    **N/A**
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_02/syde556_lecture_02_slides_annotated.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_02/syde556_lecture_02_slides_annotated.pdf)]
 
 -   **Notes**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)]
 
+### Lecture 3 ― Representation ― January 14, 16
+
+-   **Slides**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)]
+
+-   **Slides (Annotated)**  
+    **N/A**
+
+-   **Notes**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)]
 
 * * *
 
