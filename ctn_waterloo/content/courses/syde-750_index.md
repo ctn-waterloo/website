@@ -96,7 +96,7 @@ The four assignments will be posted here.
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late. You may be at most seven days late.
  * **Please read and follow the instructions regarding submission posted on the front page of each assignment.**
 
-### Assignment 1 ― due Tuesday, January 30
+### Assignment 1 ― due Thursday, January 30
 
 -   **Instructions**  
   [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_01/syde556_assignment_01.pdf)]
