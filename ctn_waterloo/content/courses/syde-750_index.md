@@ -95,8 +95,16 @@ The four assignments will be posted here.
  * Each student must write their own code and submit their own assignment.
  * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late. You may be at most seven days late.
  * **Please read and follow the instructions regarding submission posted on the front page of each assignment.**
- 
-**Not yet available**
+
+### Assignment 1 ― due Tuesday, January 30
+
+-   **Instructions**  
+  [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_01/syde556_assignment_01.pdf)]
+  [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_01/syde556_assignment_01.pdf)]
+
+-   **Jupyter Notebook Template**  
+  [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_01/syde556_assignment_01_template.ipynb)]
+  [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_01/syde556_assignment_01_template.ipynb)]
   
 * * *
 
