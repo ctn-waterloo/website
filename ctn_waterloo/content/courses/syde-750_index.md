@@ -29,7 +29,7 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 -   **Office hours**
     -   Office hours are generally in E7-6323 (this is a larger
         conference room).
-    -   Thursdays, 11:30am - 12:30pm (subject to change if we find a better timeslot)
+    -   Thursdays, 11:30am - 12:30pm
     -   Alternatively, if that time doesn’t work for you, by
         appointment.
 
