@@ -42,7 +42,7 @@ before_script:
   - cd ..
 
 script:
-  - echo "$vpnpass" | sudo openconnect -u cnrglab --passwd-on-stdin --no-dtls --script /usr/share/vpnc-scripts/vpnc-script -b --pid-file /var/run/openconnect --interface=tun1.pid cn-vpn.uwaterloo.ca
+  - echo "$vpnpass" | sudo openconnect -u cnrglab --authgroup="UW-Campus" --passwd-on-stdin --no-dtls --script /usr/share/vpnc-scripts/vpnc-script -b --pid-file /var/run/openconnect --interface=tun1.pid cn-vpn.uwaterloo.ca
   ###- echo "$vpnpass" | sudo openconnect -u cnrglab --passwd-on-stdin --no-dtls --script /etc/vpnc/vpnc-script -b --pid-file /var/run/openconnect --interface=tun1.pid cn-vpn.uwaterloo.ca
   ###- echo "$vpnpass" | sudo openconnect -u cnrglab --passwd-on-stdin --no-dtls -b --pid-file /var/run/openconnect --interface=tun1.pid cn-vpn.uwaterloo.ca
   - python manage.py up cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
