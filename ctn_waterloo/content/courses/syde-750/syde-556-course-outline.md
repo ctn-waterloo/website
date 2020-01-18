@@ -126,13 +126,13 @@ title: SYDE 556 Course Outline
 <td>Jan 28</td>
 <td>Chapters 5, 6</td>
 <td>Feedforward Transformations (I)</td>
-<td>#1 due*, #2 posted</td>
+<td>#2 posted</td>
 </tr>
 <tr class="even">
 <td>Jan 30</td>
 <td>Chapters 5, 6</td>
 <td>Feedforward Transformations (II)</td>
-<td></td>
+<td>#1 due*</td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 5</th>
