@@ -55,7 +55,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 2: [Computation and Representation](https://drive.google.com/open?id=1l9quGHuBjDS71RVwdnowpTiW5_UvF9IX)
  * Topic 3: [Logic](https://drive.google.com/open?id=1KC_OMW88kNWk3CUjAou0Hizqdml5oI_6)
  * Topic 4: [Rules](https://drive.google.com/file/d/1FHOUT3cXq0NPcBijaFQQ_G5oHCuuFR9a/view?usp=sharing)
- * Topic 5: [The Chinese Room]
+ * Topic 5: [The Chinese Room](https://drive.google.com/file/d/1SEmlwF6zoB4FZXvrFA215nkDD2fpQgW2/view?usp=sharing)
  * Topic 6: [Concepts]
  * Topic 7: [Imagery]
  * Topic 8: [Connectionism]
