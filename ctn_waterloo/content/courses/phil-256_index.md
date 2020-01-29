@@ -56,7 +56,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 3: [Logic](https://drive.google.com/open?id=1KC_OMW88kNWk3CUjAou0Hizqdml5oI_6)
  * Topic 4: [Rules](https://drive.google.com/file/d/1FHOUT3cXq0NPcBijaFQQ_G5oHCuuFR9a/view?usp=sharing)
  * Topic 5: [The Chinese Room](https://drive.google.com/file/d/1SEmlwF6zoB4FZXvrFA215nkDD2fpQgW2/view?usp=sharing)
- * Topic 6: [Concepts 1](https://drive.google.com/file/d/1GoL3xTNnJwqZ1lpUcpTp20TS0GGAgpQx/view?usp=sharing) [Concepts 2] 
+ * Topic 6: [Concepts 1](https://drive.google.com/file/d/1GoL3xTNnJwqZ1lpUcpTp20TS0GGAgpQx/view?usp=sharing) [Concepts 2](https://drive.google.com/open?id=1dkM7tQXQUbrF_hd9m95fn_TnQgK2wmzX)
  * Topic 7: [Imagery]
  * Topic 8: [Connectionism]
  * Topic 9: [Neuroscience Methods]
