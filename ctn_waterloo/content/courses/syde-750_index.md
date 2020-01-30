@@ -106,10 +106,6 @@ The in-class lecture notes will be posted here before each class.
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_04/syde556_lecture_04_notes.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_04/syde556_lecture_04_notes.pdf)]
 
- -   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf)]
-
 
 ### Lecture 5 ― Feed-Forward Transformation ― January 30
 
