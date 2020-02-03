@@ -220,6 +220,7 @@ _Course Description:_ This is a survey course
     <tr>
       <td width=82 valign=top><p  align=center style='text-align:center'>23</p></td> 
       <td width=384 valign=top> 
+        <p> Mind, Chapter 11</p>
         <p >Michel et al., <i>Opportunities and challenges for a maturing science of consciousness</i>.</p>      </td>
       <td width=204 valign=top> 
         <p >Consciousness</p>      </td>
