@@ -7,6 +7,7 @@ people:
 toc:
     - PHIL/PSYCH 256 Syllabus
     - PHIL/PSYCH 256 Essay Information
+    - PHIL/PSYCH 256 Midterm I
 
 <img style="float: right;" width=200 src="https://i.imgur.com/yXVgMlf.png">
 ##  PHIL/PSYCH 256: Introduction to Cognitive Science
@@ -80,7 +81,7 @@ At the _beginning_ of each lecture you are required to submit a ~100 word comm
 
 Possible questions for the midterm and final test will be posted here 1 week before the test.  Instructions on the test will be something like "Six of the following ten questions will be on the midterm. You will have to answer five of them. Each will be worth 7% of your final grade. You will have 80 minutes to answer them in class" (details may change).
 
-- [Midterm]
+- [Midterm](phil-256/philpsych-256-midterm-i.html)
 - [Final test]
 
 
