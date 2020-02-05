@@ -162,7 +162,7 @@ title: SYDE 556 Course Outline
 <td>Feb 13</td>
 <td><em>provided</em></td>
 <td>Temporal Basis Functions</td>
-<td>#2 due</td>
+<td>#2 due*</td>
 </tr>
 <tr class="odd">
 <td>Feb 14</td>
