@@ -35,7 +35,7 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 
 -   **Due dates**
     * Jan 30: Assignment #1 (due at midnight) (20%)
-    * Feb 11: Assignment #2 (due at midnight) (20%) 
+    * Feb 13: Assignment #2 (due at midnight) (20%) 
     * Mar 3: Assignment #3 (due at midnight) (10%)
     * Mar 17: Assignment #4 (due at midnight) (10%)
     * Apr 15: Final Project (40%)
@@ -142,7 +142,7 @@ The four assignments will be posted here.
   [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_01/syde556_assignment_01_template.ipynb)]
   [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_01/syde556_assignment_01_template.ipynb)]
 
-### Assignment 2 ― due Tuesday, February 11
+### Assignment 2 ― due Thursday, February 13
 
 -   **Instructions**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_02/syde556_assignment_02.pdf)]
