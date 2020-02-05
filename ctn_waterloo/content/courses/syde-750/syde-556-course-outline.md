@@ -156,13 +156,13 @@ title: SYDE 556 Course Outline
 <td>Feb 11</td>
 <td>Chapter 7</td>
 <td>Analysis of Representation</td>
-<td>#2 due*, #3 posted</td>
+<td>#3 posted</td>
 </tr>
 <tr class="even">
 <td>Feb 13</td>
 <td><em>provided</em></td>
 <td>Temporal Basis Functions</td>
-<td></td>
+<td>#2 due</td>
 </tr>
 <tr class="odd">
 <td>Feb 14</td>
