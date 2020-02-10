@@ -130,11 +130,11 @@ class Page(object):
     def __repr__(self):
         return '<Page %r>' % self.path
 
-    @werkzeug.cached_property
+    @werkzeug.utils.cached_property
     def html(self):
         return self.html_renderer(self.body)
 
-    @werkzeug.cached_property
+    @werkzeug.utils.cached_property
     def meta(self):
         # Should do this more properly, but for now, if metadata
         # starts with @ we'll consider it bibtex.
@@ -223,7 +223,7 @@ class FlatPages(object):
             self._file_cache[filename] = page, mtime
         return page
 
-    @werkzeug.cached_property
+    @werkzeug.utils.cached_property
     def _pages(self):
         def _walk(directory, path_prefix=()):
             for name in os.listdir(directory):
