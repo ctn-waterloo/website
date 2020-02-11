@@ -154,13 +154,13 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="odd">
 <td>Feb 11</td>
-<td>Chapter 7</td>
-<td>Analysis of Representation</td>
+<td>Chapter 8</td>
+<td>Dynamics</td>
 <td>#3 posted</td>
 </tr>
 <tr class="even">
 <td>Feb 13</td>
-<td><em>provided</em></td>
+<td><em>see Notes</em></td>
 <td>Temporal Basis Functions</td>
 <td>#2 due*</td>
 </tr>
@@ -181,14 +181,14 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="even">
 <td>Feb 25</td>
-<td><em>provided</em></td>
-<td>Symbols (I)</td>
+<td><em>Chapter 7</em></td>
+<td>Analysing Representations</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Feb 27</td>
 <td><em>provided</em></td>
-<td>Symbols (II)</td>
+<td>Symbols (I)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -197,7 +197,7 @@ title: SYDE 556 Course Outline
 <tr class="odd">
 <td>Mar 3</td>
 <td>Chapter 8</td>
-<td>Memory</td>
+<td>Symbols (II)</td>
 <td>#3 due*, #4 posted</td>
 </tr>
 <tr class="even">
