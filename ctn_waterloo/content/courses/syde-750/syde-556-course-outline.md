@@ -140,13 +140,13 @@ title: SYDE 556 Course Outline
 <tr class="even">
 <td>Feb 4</td>
 <td>Chapter 8</td>
-<td>Dynamics (I)</td>
+<td>Nengo Tutorial</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Feb 6</td>
 <td>Chapter 8</td>
-<td>Dynamics (II)</td>
+<td>Dynamics (I)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -155,7 +155,7 @@ title: SYDE 556 Course Outline
 <tr class="odd">
 <td>Feb 11</td>
 <td>Chapter 8</td>
-<td>Dynamics</td>
+<td>Dynamics (II)</td>
 <td>#3 posted</td>
 </tr>
 <tr class="even">
