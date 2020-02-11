@@ -181,14 +181,14 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="even">
 <td>Feb 25</td>
-<td><em>Chapter 7</em></td>
-<td>Analysing Representations</td>
+<td><em>Chapter 9</em></td>
+<td>Learning (I)</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Feb 27</td>
-<td><em>provided</em></td>
-<td>Symbols (I)</td>
+<td><em>Chapter 9</em></td>
+<td>Learning (II)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -196,14 +196,14 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="odd">
 <td>Mar 3</td>
-<td><em>provided</em></td>
-<td>Symbols (II)</td>
+<td><em>Chapter 7</em></td>
+<td>Analysing Representations</td>
 <td>#3 due*, #4 posted</td>
 </tr>
 <tr class="even">
 <td>Mar 5</td>
 <td><em>provided</em></td>
-<td>Action Selection</td>
+<td>Symbols (I)</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -211,14 +211,14 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="even">
 <td>Mar 10</td>
-<td>Chaper 9</td>
-<td>Learning (I)</td>
+<td><em>provided</em></td>
+<td>Symbols (II)</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Mar 12</td>
-<td>Chaper 9</td>
-<td>Learning (II)</td>
+<td><em>provided</em></td>
+<td>Action Selection</td>
 <td></td>
 </tr>
 <tr class="even">
