@@ -160,7 +160,7 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="even">
 <td>Feb 13</td>
-<td><em>see Notes</em></td>
+<td><em>see notes</em></td>
 <td>Temporal Basis Functions</td>
 <td>#2 due*</td>
 </tr>
