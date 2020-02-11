@@ -196,7 +196,7 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="odd">
 <td>Mar 3</td>
-<td>Chapter 8</td>
+<td><em>provided</em></td>
 <td>Symbols (II)</td>
 <td>#3 due*, #4 posted</td>
 </tr>
