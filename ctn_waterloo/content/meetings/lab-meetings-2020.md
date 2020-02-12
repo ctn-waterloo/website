@@ -13,6 +13,8 @@ This year's meetings:
 * Jan 31: Roundtable
 * Feb 7: Nicole grid cells
 * Feb 14: Andreas cerebellum
-* Feb 21: Pete decision making
+* Feb 21: reading week
 * Feb 28: Nat prospectus practice
 * Mar 6: Brent maze repn
+* Mar 13: Pete decision making
+* Mar 20:
