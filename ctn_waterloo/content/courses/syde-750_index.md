@@ -114,7 +114,8 @@ The in-class lecture notes will be posted here before each class.
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf)]
 
 -   **Notes**  
-    Coming soon...
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_05/syde556_lecture_05_notes.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_05/syde556_lecture_05_notes.pdf)]
 
 ### Lecture 6 ― Recurrent Dynamics ― February 4, 6, 11
 
