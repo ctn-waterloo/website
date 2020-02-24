@@ -21,8 +21,7 @@ There are two main things needed for the project:
 
 You will produce a written report on your system using the steps outlined in chapter 1 of the book. This should be 10-20 pages, with lots of diagrams, graphs, and code. Please hand in all code and a self-contained project report, with your name in the file names.  Please include an introduction with background information, well labelled figures and tables, and a discussion of any results.
 
-Have a look at the following project template for some more information regarding the formatting
-
+Feel free to use the following template as a basis for the project report:
 * **[Project Report Template PDF File](https://github.com/astoeckel/syde556-w20/raw/master/project/template/syde556_project_template.pdf)**  
   Contains some advice on how to structure the report, the formating, as well as some example uses of LaTeX.
 * **[Project Report Template Source ZIP File](https://github.com/astoeckel/syde556-w20/raw/master/project/template.zip)**  
