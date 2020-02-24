@@ -169,7 +169,7 @@ The four assignments will be posted here.
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_02/syde556_assignment_02_template.ipynb)]
     [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_02/syde556_assignment_02_template.ipynb)]
 
-### Assignment 3 ― due Tuesday, March 3
+### Assignment 3 ― due Friday, March 6
 
 -   **Instructions**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_03/syde556_assignment_03.pdf)]
@@ -191,11 +191,18 @@ Please have your projects approved by me by the end of Reading Week.  To do so, 
 
 ### Project Format
 
-The project report should be in the format discussed in chapter 1 of the book
+It is suggested that the project report is in the format discussed in chapter 1 of the book
 (see pp. 19-23; i.e., System Description, Design Specification,
-Implementation), see the [project page](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html) for details. 
-Students will also be expected to do a short (5-10min)
-presentation on their topic in the last week or so.  That presentation should consist of a few slides (max 4), that sets up the problem and describes your expected approach. As with assignments, all code for projects must be submitted as well.
+Implementation), see the [project page](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html) for details.
+
+The final document should be between, at least ten, and (at the very most) twenty content pages at 12pt, 1.25 line spacing. Have a look at the following project template for more information.
+
+* **[Project Report Template PDF File](https://github.com/astoeckel/syde556-w20/raw/master/project/template/syde556_project_template.pdf)**  
+  Contains some advice on how to structure the report, the formating, as well as some example uses of LaTeX.
+* **[Project Report Template Source ZIP File](https://github.com/astoeckel/syde556-w20/raw/master/project/template.zip)**  
+  Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service souch as Overleaf.
+
+Students will also be expected to do a short (5min) presentation on their topic in the last week.  That presentation should consist of a few slides (max 4), that sets up the problem and describes your expected approach. As with assignments, all code for projects must be submitted as well.
 
 * * *
 
@@ -204,7 +211,7 @@ presentation on their topic in the last week or so.  That presentation should co
 Two lectures per week and homework assignments consisting of computer
 exercises using Python. For SYDE 750 a larger class project is required, usually a
 computer simulation developed based on significant neuroscientific research
-and/or collaboration with a neurophysiologist. For Syde 556 a class project
+and/or collaboration with a neurophysiologist. For SYDE 556 a class project
 based on an in class/text example is required. This course examines a general
 framework for modeling computation by neurobiological systems with an emphasis
 on quantitative formulations. Particular emphasis will be placed on
