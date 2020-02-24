@@ -21,6 +21,14 @@ There are two main things needed for the project:
 
 You will produce a written report on your system using the steps outlined in chapter 1 of the book. This should be 10-20 pages, with lots of diagrams, graphs, and code. Please hand in all code and a self-contained project report, with your name in the file names.  Please include an introduction with background information, well labelled figures and tables, and a discussion of any results.
 
+Have a look at the following project template for some more information regarding the formatting
+
+* **[Project Report Template PDF File](https://github.com/astoeckel/syde556-w20/raw/master/project/template/syde556_project_template.pdf)**  
+  Contains some advice on how to structure the report, the formating, as well as some example uses of LaTeX.
+* **[Project Report Template Source ZIP File](https://github.com/astoeckel/syde556-w20/raw/master/project/template.zip)**  
+  Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service souch as Overleaf.
+
+
 To evaluate the behaviour of the system, the idea is to vary some aspect of the model and see how that affects its behaviour. To do this, you must:
 
 1. Define some measurable aspect of the system's behaviour (e.g. accuracy of representation, or number of errors, or speed of response); and
