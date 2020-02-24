@@ -198,13 +198,13 @@ title: SYDE 556 Course Outline
 <td>Mar 3</td>
 <td><em>Chapter 7</em></td>
 <td>Analysing Representations</td>
-<td>#3 due*, #4 posted</td>
+<td>#4 posted</td>
 </tr>
 <tr class="even">
 <td>Mar 5</td>
 <td><em>provided</em></td>
 <td>Symbols (I)</td>
-<td></td>
+<td>3 due (6th)*</td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 10</th>
