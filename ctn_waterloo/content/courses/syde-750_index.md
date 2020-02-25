@@ -138,6 +138,17 @@ The in-class lecture notes will be posted here before each class.
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_07/syde556_lecture_07_notes.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_07/syde556_lecture_07_notes.pdf)]
 
+
+### Lecture 8 ― Temporal Basis Functions ― February 25, 27
+
+-   **Slides**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_08/syde556_lecture_08_slides_distr.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_08/syde556_lecture_08_slides_distr.pdf)]
+
+-   **Notes (incomplete)**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_08/syde556_lecture_08_notes.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_08/syde556_lecture_08_notes.pdf)]
+
 * * *
 
 ##  Assignments
