@@ -13,4 +13,4 @@ fully dealt with.
 **Simulation challenges:**
 
   * various learning methods (e.g. batch learning, backprop, etc.) could be more completely integrated in current environments
-  * scaling up simiulations (many hardware/software issues arise here, but they generally aren't specific to the NEF)
+  * scaling up simulations (many hardware/software issues arise here, but they generally aren't specific to the NEF)
