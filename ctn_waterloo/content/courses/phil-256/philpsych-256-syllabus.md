@@ -208,7 +208,8 @@ _Course Description:_ This is a survey course
       <td width=384 valign=top> 
         <p >Mind, Chapter 10 </p>      </td>
       <td width=204 valign=top> 
-        <p >Emotion</p>      </td>
+        <p >Emotion<br>
+        (Final essay topic picked) </p>    </td>
     </tr>
     <tr>
       <td width=82 valign=top><p  align=center style='text-align:center'>18</p></td>

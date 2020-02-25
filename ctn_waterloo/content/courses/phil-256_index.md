@@ -41,7 +41,7 @@ _Important Dates:_
 
  * Feb 12: Midterm
  * Apr 1: Final test
- * Mar 16: Finall essay topic picked
+ * Mar 16: Final essay topic picked
  * Apr 8: Final essay due
 
 *Please use the course email, [philpsych256@gmail.com](mailto:philpsych256@gmail.com) for all course related correspondence.*
@@ -86,6 +86,8 @@ Possible questions for the midterm and final test will be posted here 1 week bef
 
 
 ### Final Essay Information
+
+*** Note: The due date to choose and email me with an essay topic is March 16th. ***
 
 You will write a final essay for this class. Topics and lots of additional information can be found on the [Essay Information](phil-256/philpsych-256-essay-information.html) page.
 
