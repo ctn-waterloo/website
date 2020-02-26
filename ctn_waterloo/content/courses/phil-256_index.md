@@ -61,7 +61,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 7: [Imagery](https://drive.google.com/open?id=1zWdfNIej6xoRVw3dQooNAVAnPxHi-WM6)
  * Topic 8: [Connectionism](https://drive.google.com/open?id=19Cp3gEKUh595saa34t43RqDXJchc5vgF)
  * Topic 9: [Neuroscience Methods](https://drive.google.com/open?id=1W80GktA1L9mMBAX122iSd6bj67byDfSZ)
- * Topic 10: [The Mental as Mechanism]
+ * Topic 10: [Neurophilosophy](https://drive.google.com/open?id=1-NhOgaLy9fBa0jc2qtKoE7G_Uy7EayG5)
  * Topic 11: [Critique of Connectionism]
  * Topic 12: [Dynamicism and Robotics]
  * Topic 13: [Emotions]
