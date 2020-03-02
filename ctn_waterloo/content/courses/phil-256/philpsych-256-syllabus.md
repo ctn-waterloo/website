@@ -180,7 +180,7 @@ _Course Description:_ This is a survey course
              architecture</i> (excerpts)</p>      </td>
       <td width=204 valign=top> 
         <p >Critique (.pdf <a
-  href="papers/fodor.pylyshyn.1988.Connectionism%20cog%20architec.bbs.pdf">here</a>)<br>
+  href="https://drive.google.com/open?id=1GOSWUNYqTId1TMxJmfAkkKDsCp0Hk5dY">here</a>)<br>
         pp. 1-20, 46-50 </p>      </td>
     </tr>
     <tr> 
