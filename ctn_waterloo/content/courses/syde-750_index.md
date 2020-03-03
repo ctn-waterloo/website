@@ -190,6 +190,16 @@ The four assignments will be posted here.
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_03/syde556_assignment_03_template.ipynb)]
     [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_03/syde556_assignment_03_template.ipynb)]
 
+### Assignment 4 ― due Tuesday, March 17
+
+-   **Instructions**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_04/syde556_assignment_04.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_04/syde556_assignment_04.pdf)]
+
+-   **Jupyter Notebook Template**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_04/syde556_assignment_04_template.ipynb)]
+    [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_04/syde556_assignment_04_template.ipynb)]
+
   
 * * *
 
