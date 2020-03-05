@@ -196,14 +196,14 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="odd">
 <td>Mar 3</td>
-<td><em>Chapter 7</em></td>
-<td>Analysing Representations</td>
+<td><em>Chapter 9</em></td>
+<td>Learning (III)</td>
 <td>#4 posted</td>
 </tr>
 <tr class="even">
 <td>Mar 5</td>
-<td><em>provided</em></td>
-<td>Symbols (I)</td>
+<td><em>Chapter 7</em></td>
+<td>Analysing Representations</td>
 <td>#3 due (Fri, 6th)*</td>
 </tr>
 <tr class="odd">
@@ -212,13 +212,13 @@ title: SYDE 556 Course Outline
 <tr class="even">
 <td>Mar 10</td>
 <td><em>provided</em></td>
-<td>Symbols (II)</td>
+<td>Symbols (I)</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Mar 12</td>
 <td><em>provided</em></td>
-<td>Action Selection</td>
+<td>Symbols (II)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -227,13 +227,13 @@ title: SYDE 556 Course Outline
 <tr class="odd">
 <td>Mar 17</td>
 <td><em>provided</em></td>
-<td>Spatial Semantic Pointers</td>
+<td>Action Selection</td>
 <td>#4 due*</td>
 </tr>
 <tr class="even">
 <td>Mar 19</td>
 <td><em>provided</em></td>
-<td>Biological Details</td>
+<td>Spatial Semenatic Pointers</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -242,7 +242,7 @@ title: SYDE 556 Course Outline
 <tr class="even">
 <td>Mar 24</td>
 <td><em>provided</em></td>
-<td>Other modelling frameworks</td>
+<td>Biological Details</td>
 <td></td>
 </tr>
 <tr class="odd">
