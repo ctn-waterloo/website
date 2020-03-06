@@ -17,4 +17,7 @@ This year's meetings:
 * Feb 28: Nat prospectus practice
 * Mar 6: Brent maze repn
 * Mar 13: Pete decision making
-* Mar 20:
+* Mar 20: 
+* Mar 27: cancelled (nucc and syde meeting conflict)
+* Apr 3:
+* Apr 10:
