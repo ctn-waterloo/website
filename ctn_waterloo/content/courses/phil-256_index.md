@@ -63,7 +63,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 9: [Neuroscience Methods](https://drive.google.com/open?id=1W80GktA1L9mMBAX122iSd6bj67byDfSZ)
  * Topic 10: [Neurophilosophy](https://drive.google.com/open?id=1-NhOgaLy9fBa0jc2qtKoE7G_Uy7EayG5)
  * Topic 11: [Critique of Connectionism](https://drive.google.com/open?id=1uvZ5MExG9MjPoyW8XdD8dEOewcqPfZF8)
- * Topic 12: [Dynamicism and Robotics]
+ * Topic 12: [Dynamicism and Robotics](https://drive.google.com/open?id=11C9W9XhWQ3Kail4sfiMM58Y0qmQ45pfP)
  * Topic 13: [Emotions]
  * Topic 14: [Consciousness]
  * Topic 15: [Next Generation CS]
