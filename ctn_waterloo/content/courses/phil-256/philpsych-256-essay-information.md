@@ -6,7 +6,7 @@ title: PHIL/PSYCH 256 Essay Information
 
 *Length:* 7-8 pages (2000 words)
 *Topic due date:* Mar 16
-*Essay due date:* Apr 8
+*Essay due date:* Apr 1
 
 Essays are due by midnight of the due date.  All submissions should be emailed to the [course email](mailto:cogsci300@gmail.com).  
 
