@@ -42,7 +42,7 @@ _Important Dates:_
  * Feb 12: Midterm
  * Apr 1: Final test
  * Mar 16: Final essay topic picked
- * Apr 8: Final essay due
+ * Apr 1: Final essay due
 
 *Please use the course email, [philpsych256@gmail.com](mailto:philpsych256@gmail.com) for all course related correspondence.*
 
