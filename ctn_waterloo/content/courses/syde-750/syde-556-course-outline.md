@@ -227,7 +227,7 @@ title: SYDE 556 Course Outline
 <tr class="odd">
 <td>Mar 17, Mar 19</td>
 <td colspan="2"><strong>CLASSES CANCELLED</strong></td>
-<td>#4 due* (Tue, 17th)</td>
+<td>#4 due (Tue, 17th)*</td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 12</th>
