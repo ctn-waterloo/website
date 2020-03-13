@@ -225,22 +225,29 @@ title: SYDE 556 Course Outline
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 11</th>
 </tr>
 <tr class="odd">
-<td>Mar 17</td>
-<td><em>provided</em></td>
-<td>Action Selection</td>
-<td>#4 due*</td>
-</tr>
-<tr class="even">
-<td>Mar 19</td>
-<td><em>provided</em></td>
-<td>Spatial Semenatic Pointers</td>
-<td></td>
+<td>Mar 17, Mar 19</td>
+<td colspan="3"><strong>CLASSES CANCELLED</strong></td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 12</th>
 </tr>
 <tr class="even">
 <td>Mar 24</td>
+<td><em>provided</em></td>
+<td>Action Selection</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mar 26</td>
+<td><em>provided</em></td>
+<td>Spatial Semantic Pointers</td>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 13</th>
+</tr>
+<tr class="even">
+<td>Mar 31</td>
 <td><em>provided</em></td>
 <td>Biological Details</td>
 <td></td>
@@ -249,15 +256,6 @@ title: SYDE 556 Course Outline
 <td>Apr 2</td>
 <td></td>
 <td>Conclusion</td>
-<td></td>
-</tr>
-<tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 13</th>
-</tr>
-<tr class="odd">
-<td>Mar 31, Apr 2</td>
-<td></td>
-<td>Project presentations</td>
 <td></td>
 </tr>
 <tr class="even">
