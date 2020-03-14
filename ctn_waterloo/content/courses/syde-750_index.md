@@ -241,8 +241,6 @@ The final document should be between, at least ten, and (at the very most) twent
 * **[Project Report Template Source ZIP File](https://github.com/astoeckel/syde556-w20/raw/master/project/template.zip)**  
   Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service souch as Overleaf.
 
-~~Students will also be expected to do a short (5min) presentation on their topic in the last week.  That presentation should consist of a few slides (max 4), that sets up the problem and describes your expected approach. As with assignments, all code for projects must be submitted as well.~~
-
 *Update:* Instead of a presentation, students are expected to provide a short, one-page "intermediate" project report by Apr 2, 2020. While this intermediate report is not marked, not submitting a report by the deadline will result in a -10 mark penalty (25% of the final project). Have a look at [this document](
 https://raw.githubusercontent.com/astoeckel/syde556-w20/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information.
 
