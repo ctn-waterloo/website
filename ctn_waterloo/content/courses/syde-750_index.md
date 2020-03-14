@@ -27,11 +27,7 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
     -   Thursday: 10:30-11:20 in E5-6127 (SYDE 750, optional for 556)
 
 -   **Office hours**
-    -   Office hours are generally in E7-6323 (this is a larger
-        conference room).
-    -   Thursdays, 11:30am - 12:30pm
-    -   Alternatively, if that time doesn’t work for you, by
-        appointment.
+    -   Please make an appointment by email! We can video chat using Microsoft Skype or Google Hangouts.
 
 -   **Due dates**
     * Jan 30: Assignment #1 (due at midnight) (20%)
@@ -212,7 +208,7 @@ The four assignments will be posted here.
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_03/syde556_assignment_03_template.ipynb)]
     [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_03/syde556_assignment_03_template.ipynb)]
 
-### Assignment 4 ― due Tuesday, March 17
+### Assignment 4 ― due Tuesday, March 24
 
 -   **Instructions**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_04/syde556_assignment_04.pdf)]
