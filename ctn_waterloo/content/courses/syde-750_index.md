@@ -37,8 +37,9 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
     * Jan 30: Assignment #1 (due at midnight) (20%)
     * Feb 13: Assignment #2 (due at midnight) (20%) 
     * Mar 6: Assignment #3 (due at midnight) (10%)
-    * Mar 17: Assignment #4 (due at midnight) (10%)
-    * Apr 15: Final Project (40%)
+    * Mar 24: Assignment #4 (due at midnight) (10%)
+    * Apr 2: One-page intermediate project report (due at midnight) (-10 marks if not submitted by the *sharp* deadline)
+    * Apr 15: Final Project (due at midnight) (40%)
 
 
 * * *
