@@ -39,7 +39,7 @@ Please [email](mailto:philpsych256@gmail.com) me with your selected topic number
 1. Provide a comparison of at least two large-scale neural models of cognition. Discuss the strengths and weaknesses of each.  Evaluate the potential each has for continuing to scale. Provide specific suggestions for how each model should be improved.
 1. <strike>Characterize, contrast and compare three different theories/methods of unsupervised learning. Describe the strengths and weaknesses of each, and how they might help us understand biological learning.</strike>
 1. Choose a paper or book on concepts and examine it in the context of other theories of concepts we discussed in class. Compare, contrast, and evaluate the theory you have chosen.
-1. Discuss arguments for and against using ‘representations’ to explain behavior. Which kind of explanation do you think is mostly likely to succeed and why?
+1. <strike>Discuss arguments for and against using ‘representations’ to explain behavior. Which kind of explanation do you think is mostly likely to succeed and why?</strike>
 1. <strike>There have been many recent advancements in understanding emotion in the brain. Discuss some of them and show how they relate to standard problems in Cognitive Science.</strike>
 1. Examine evidence for and against imagery in a modality other than vision. How is the visual imagery debate like and unlike the debate in your chosen modality?
 1. Compare and contrast (at least) two views of the role of semantics in providing cognitive explanations. Evaluate the different options and argue for what you take to be the most appropriate role for intentional explanations.
