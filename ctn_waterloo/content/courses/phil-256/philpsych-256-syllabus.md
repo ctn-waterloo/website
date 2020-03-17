@@ -249,9 +249,9 @@ _Course Description:_ This is a survey course
       <td width=82 valign=top> 
         <p  align=center style='text-align:center'> Apr 1</p>      </td>
       <td width=384 valign=top> 
-        <p >Final Test (in-class exam)</p>      </td>
+        <p >Final Test (emailed at home test)</p>      </td>
       <td width=204 valign=top> 
-        <p ><b><i>EXAM</i> </b></p>      </td>
+        <p ><b><i>Test</i> </b></p>      </td>
     </tr>
   </table>
 </div>
