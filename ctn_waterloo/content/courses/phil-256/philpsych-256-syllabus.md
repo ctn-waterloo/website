@@ -206,44 +206,48 @@ _Course Description:_ This is a survey course
     <tr>
       <td width=82 valign=top><p  align=center style='text-align:center'>16</p></td>
       <td width=384 valign=top> 
-        <p >Mind, Chapter 10 </p>      </td>
+        <p ><strike>Mind, Chapter 10 </strike></p>      </td>
       <td width=204 valign=top> 
-        <p >Emotion<br>
-        (Final essay topic picked) </p>    </td>
+        <p ><strike>Emotion<br>
+        (Final essay topic picked)</strike> </p>    </td>
     </tr>
     <tr>
       <td width=82 valign=top><p  align=center style='text-align:center'>18</p></td>
       <td width=384 valign=top> 
-        <p >Griffiths,<i> Modularity and the psychoevolutionary 
-          theory</i>.</p>      </td>
+        <p ><strike>Griffiths,<i> Modularity and the psychoevolutionary 
+          theory</i>.</strike></p>      </td>
       <td width=204 valign=top>&nbsp; </td>
     </tr>
     <tr>
       <td width=82 valign=top><p  align=center style='text-align:center'>23</p></td> 
       <td width=384 valign=top> 
-        <p> Mind, Chapter 11</p>
-        <p >Michel et al., <i>Opportunities and challenges for a maturing science of consciousness</i>.</p>      </td>
+        <strike><p> Mind, Chapter 11</p>
+        <p >Michel et al., <i>Opportunities and challenges for a maturing science of consciousness</i>.</p></strike>
+        <p> Mind, Chapter 10      </td>
       <td width=204 valign=top> 
-        <p >Consciousness</p>      </td>
-    </tr>
-    <tr> 
-      <td width=670 colspan=3 valign=top> 
-        <p  align=center style='text-align:center'><b><span>Future 
-          of Cognitive Science</span></b></p>      </td>
+        <p ><strike>Consciousness</strike></p><p>Emotion<br>(Final essay topic picked)</p>      </td>
     </tr>
     <tr> 
       <td width=82 valign=top> 
         <p  align=center style='text-align:center'>25</p>      </td>
       <td width=384 valign=top> 
-        <p >Eliasmith et al., <i>A Large-Scale Model of the Functioning Brain</i>.</p>      </td>
+        <p ><strike>Eliasmith et al., <i>A Large-Scale Model of the Functioning Brain</i>.</strike></p>
+        <p>Mind, Chapter 11      </td>
       <td width=204 valign=top> 
-        <p >Future directions</p>      </td>
+        <p ><strike>Future directions</strike></p><p>Consciousness</p>      </td>
     </tr>
+    <tr> 
+      <td width=670 colspan=3 valign=top> 
+        <p  align=center style='text-align:center'><b><span>Future 
+          of Cognitive Science</span></b></p>      </td>
+    </tr>    
     <tr> 
       <td width=82 valign=top> 
         <div align="center">30 </div>      </td>
-      <td width=384 valign=top>Mind, Chapter 14</td>
-      <td width=204 valign=top>Conclusion</td>
+      <td width=384 valign=top><strike>Mind, Chapter 14</strike>
+      <p>Eliasmith et al., <i>A Large-Scale Model of the Functioning Brain</i>.</p></td>
+      <td width=204 valign=top><strike>Conclusion
+      </strike> <p>Future directions</p></td>
     </tr>
     <tr> 
       <td width=82 valign=top> 
