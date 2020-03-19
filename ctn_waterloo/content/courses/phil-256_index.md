@@ -41,10 +41,16 @@ _Important Dates:_
 
  * Feb 12: Midterm
  * Apr 1: Final test
- * Mar 16: Final essay topic picked
+ * Mar 23: Final essay topic picked
  * Apr 8: Final essay due
 
 *Please use the course email, [philpsych256@gmail.com](mailto:philpsych256@gmail.com) for all course related correspondence.*
+
+*** COVID Response Summary ***
+
+I have prepared a mitigation plan so that all students have reasonable and fair opportunity to earn course credit and cover the majority of course material. I have been providing email updates, and updated the website to reflect changes. Should you have concerns, please contact me by 4pm, March 20. 
+
+In summary, the plan includes syllabus updates, reducing the number of readings for the remaining topics. The commentaries we missed, will not be counted.  The final test questions will be emailed to students (see below. The essay topics due date was move to Mar 23rd. 
 
 * * *
 
@@ -82,12 +88,22 @@ At the _beginning_ of each lecture you are required to submit a ~100 word comm
 Possible questions for the midterm and final test will be posted here 1 week before the test.  Instructions on the test will be something like "Six of the following ten questions will be on the midterm. You will have to answer five of them. Each will be worth 7% of your final grade. You will have 80 minutes to answer them in class" (details may change).
 
 - [Midterm](phil-256/philpsych-256-midterm-i.html)
-- [Final test]
 
+*** COVID-19 New Instructions for Final Test: ***
+
+The final test will take place between 1p and 3p on Wed April 1st.  At 1p a list of six questions will be sent to this email list.  You will have to answer 5 of them.  They will cover these topics:
+
+* connectionism
+* dynamics/robotics
+* emotions
+* consciousness
+* next generation cognitive science
+
+You are expected to send your answers to this email (philpsych256@gmail.com) before 3p (2h for writing your answers).  You are expected to write your answers independently (no group work). You may use the course material (open book test). 
 
 ### Final Essay Information
 
-*** Note: The due date to choose and email me with an essay topic is March 16th. ***
+*** Note: The due date to choose and email me with an essay topic is March 23rd. ***
 
 You will write a final essay for this class. Topics and lots of additional information can be found on the [Essay Information](phil-256/philpsych-256-essay-information.html) page.
 
