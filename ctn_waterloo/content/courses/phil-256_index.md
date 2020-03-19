@@ -48,9 +48,9 @@ _Important Dates:_
 
 *** COVID Response Summary ***
 
-I have prepared a mitigation plan so that all students have reasonable and fair opportunity to earn course credit and cover the majority of course material. I have been providing email updates, and updated the website to reflect changes. Should you have concerns, please contact me by 4pm, March 20. 
+I have prepared a mitigation plan so that all students have reasonable and fair opportunity to earn course credit and cover the majority of course material. I have been providing email updates, and updated the website to reflect changes. Should you have concerns about specific changes, please contact me by 4pm, March 20. 
 
-In summary, the plan includes syllabus updates, reducing the number of readings for the remaining topics. The commentaries we missed, will not be counted.  The final test questions will be emailed to students (see below. The essay topics due date was move to Mar 23rd. 
+In summary, the plan includes syllabus updates and reducing the number of readings for the remaining topics. The commentaries we missed, will not be counted.  The final test questions will be emailed to students (see below). The essay topics due date was move to Mar 23rd. 
 
 * * *
 
