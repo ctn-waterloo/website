@@ -50,7 +50,7 @@ _Important Dates:_
 
 I have prepared a mitigation plan so that all students have reasonable and fair opportunity to earn course credit and cover the majority of course material. I have been providing email updates, and updated the website to reflect changes. Should you have concerns about specific changes, please contact me by 4pm, March 20. 
 
-In summary, the plan includes syllabus updates and reducing the number of readings for the remaining topics. The commentaries we missed, will not be counted.  The final test questions will be emailed to students (see below). The essay topics due date was move to Mar 23rd. 
+In summary, the plan includes syllabus updates and reducing the number of readings for the remaining topics. The commentaries we missed, will not be counted.  The final test questions will be emailed to students (see below). The essay topics due date was move to Mar 23rd.  The remaining lectures will be online via Learn.
 
 * * *
 
@@ -70,7 +70,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 10: [Neurophilosophy](https://drive.google.com/open?id=1-NhOgaLy9fBa0jc2qtKoE7G_Uy7EayG5)
  * Topic 11: [Critique of Connectionism](https://drive.google.com/open?id=1uvZ5MExG9MjPoyW8XdD8dEOewcqPfZF8)
  * Topic 12: [Dynamicism and Robotics](https://drive.google.com/open?id=11C9W9XhWQ3Kail4sfiMM58Y0qmQ45pfP)
- * Topic 13: [Emotions]
+ * Topic 13: [Emotions](https://drive.google.com/open?id=1WBAEHmRCGHYNLrvA0lyIdwD9YEm5yDAJ)
  * Topic 14: [Consciousness]
  * Topic 15: [Next Generation CS]
  * Topic 16: [Conclusion]
