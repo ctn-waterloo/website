@@ -4,7 +4,7 @@ title: PHIL/PSYCH 256 Essay Information
 
 ### Overview
 
-*Length:* 7-8 pages (2000 words)
+*Length:* 7-8 pages (2000 words +/- 10%)
 *Topic due date:* Mar 16
 *Essay due date:* Apr 8
 
@@ -17,7 +17,7 @@ Essays will be evaluated on the basis of:
 3. Understanding: Demonstrate that you have mastered the relevant concepts
 4. Argument: Make a compelling case for the answer or analysis you prefer, and consider alternative answers. Essays will be graded on the quality of the argument, not on the particular conclusion you reach.
 
-Please use a 12pt font with 1½ inch margins and double space, and include a word count. The bibliiographic format does not matter, but make sure that you use a standard one and indicate all your sources, including web sites. This is a research essay so you should use 5-10 sources in addition to the readings. Include at least one reference to the readings. Use at least three 'professional' sources (professional sources are intended to be peer reviewed articles in journals or books, not from textbooks, handbooks, encyclopedia, or other reference sources). Ensure that several of your sources are recent (i.e., within the last 5 years).
+Please use a 12pt font with 1½ inch margins and double space, and include a word count. The bibliiographic format does not matter, but make sure that you use a standard one and indicate all your sources, including web sites. This is a research essay so you should use 5 or more sources in addition to the readings. Include at least one reference to the readings. Use at least three 'professional' sources (professional sources are intended to be peer reviewed articles in journals or books, not from textbooks, handbooks, encyclopedia, or other reference sources). Ensure that several of your sources are recent (i.e., within the last 5 years).
 
 Make sure you write an essay (i.e., [structured like one](http://www.sfu.ca/philosophy/resources/writing.html)).
 
