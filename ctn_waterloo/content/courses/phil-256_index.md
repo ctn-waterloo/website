@@ -50,7 +50,7 @@ _Important Dates:_
 
 I have prepared a mitigation plan so that all students have reasonable and fair opportunity to earn course credit and cover the majority of course material. I have been providing email updates, and updated the website to reflect changes. Should you have concerns about specific changes, please contact me by 4pm, March 20. 
 
-In summary, the plan includes syllabus updates and reducing the number of readings for the remaining topics. The commentaries we missed, will not be counted.  The final test questions will be emailed to students (see below). The essay topics due date was move to Mar 23rd.  The remaining lectures will be online via Learn.
+In summary, the plan includes syllabus updates and reducing the number of readings for the remaining topics. The commentaries we missed, will not be counted. Going forward commentaries are to be submitted on the day of the class and won't be accepted after 130p that day. The final test questions will be emailed to students (see below). The essay topics due date was move to Mar 23rd.  The remaining lectures will be online via Learn.
 
 * * *
 
