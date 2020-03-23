@@ -81,6 +81,8 @@ The in-class lecture notes will be posted here before each class.
 
 At the _beginning_ of each lecture you are required to submit a ~100 word commentary on the claim, hypothesis, or issue that you found most interesting in the reading. Your commentary should identify the claim that interests you and the strongest evidence for and against it. The purpose of these commentaries is to ensure that everyone comes to class prepared for discussion. There is no penalty for missing 3. There will be approximately 20 over the term. Commentaries should be handed in on paper.
 
+Covid update: For your daily commentaries, please send them to this email address (i.e., philpsych256@gmail.com), with the subject '[date] Daily Commentary' (e.g. '03/16/20 Daily Commentary' will be the subject for Monday).  Please email it to me on the day of the class.  Commentaries won't be accepted after 130p on the day of the class.
+
 * * * 
 
 ### Tests
