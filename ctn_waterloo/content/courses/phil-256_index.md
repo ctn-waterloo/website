@@ -8,6 +8,7 @@ toc:
     - PHIL/PSYCH 256 Syllabus
     - PHIL/PSYCH 256 Essay Information
     - PHIL/PSYCH 256 Midterm I
+    - Disaster Response
 
 <img style="float: right;" width=200 src="https://i.imgur.com/yXVgMlf.png">
 ##  PHIL/PSYCH 256: Introduction to Cognitive Science
@@ -46,7 +47,11 @@ _Important Dates:_
 
 *Please use the course email, [philpsych256@gmail.com](mailto:philpsych256@gmail.com) for all course related correspondence.*
 
-*** COVID Response Summary ***
+*** Coronavirus Response Essay ***
+
+On the front of the Hitchiker's Guide to the Galaxy, printed in large, friendly letters are the words "Don't Panic."  Arthur C. Clarke suggested this was perhaps the best advice that could be given to humanity, and I'm thinking it might be useful to remind ourselves of this in the current coronavirus situation.  Now, don't get me wrong, the virus is serious, and we should treat it seriously. However, I don't think anyone needs reminding of *that*, because all we hear is how serious it is!  This is the job of the media, governments, economists, and health professionals. They are doing that job extremely well, from what I can tell.  In fact, if that's all we listened to, we might just panic.... [Read more](phil-256/disaster-response.html)
+
+*** Course Coronavirus Response Summary ***
 
 I have prepared a mitigation plan so that all students have reasonable and fair opportunity to earn course credit and cover the majority of course material. I have been providing email updates, and updated the website to reflect changes. Should you have concerns about specific changes, please contact me by 4pm, March 20. 
 
