@@ -21,7 +21,7 @@ _Office:_ E7 6324
 
 _Office Hours:_ Wed 3:00p-4:00p, or by appointment
 
-_TA_: Jessica Oddan ([email](joddan@uwaterloo.ca))
+_TA_: Jessica Oddan ([email](mailto:joddan@uwaterloo.ca))
 
 _Office:_ HH 337
 
