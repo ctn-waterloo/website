@@ -162,9 +162,20 @@ The in-class lecture notes will be posted here before each class.
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_10/syde556_lecture_10_slides_distr.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_10/syde556_lecture_10_slides_distr.pdf)]
 
--   **Notes (incomplete)**  
+-   **Notes**  
     [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_10/syde556_lecture_10_notes.pdf)]
     [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_10/syde556_lecture_10_notes.pdf)]
+
+### Lecture 11 ― Symbols and Symbol-like Representations ― March 24, 26
+
+
+-   **Slides**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_11/syde556_lecture_11_slides_distr.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_11/syde556_lecture_11_slides_distr.pdf)]
+
+-   **Notes (incomplete)**  
+    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_11/syde556_lecture_11_notes.pdf)]
+    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_11/syde556_lecture_11_notes.pdf)]
 
 
 * * *
