@@ -19,5 +19,5 @@ This year's meetings:
 * Mar 13: Pete decision making
 * Mar 20: cancelled (covid)
 * Mar 27: cancelled (covid)
-* Apr 3:
+* Apr 3: roundtable
 * Apr 10:
