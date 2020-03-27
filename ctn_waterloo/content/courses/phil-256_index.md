@@ -77,8 +77,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 12: [Dynamicism and Robotics](https://drive.google.com/open?id=11C9W9XhWQ3Kail4sfiMM58Y0qmQ45pfP)
  * Topic 13: [Emotions](https://drive.google.com/open?id=1WBAEHmRCGHYNLrvA0lyIdwD9YEm5yDAJ)
  * Topic 14: [Consciousness](https://drive.google.com/open?id=1PsEZecdzNx1HBi4PUBX9NjRGoQ5I5YLr)
- * Topic 15: [Next Generation CS]
- * Topic 16: [Conclusion]
+ * Topic 15: [Next Generation CS](https://drive.google.com/open?id=1l_a1876oH3UzTSe94JIOfmlmIp-5diM9)
 
 * * *
 
