@@ -62,8 +62,6 @@ title: SYDE 556 Course Outline
 
 ## Schedule
 
-*Note:* This schedule is preliminary and still subject to change.
-
 <table style="border-spacing: 0.5em">
 <thead>
 <tr class="header">
@@ -235,13 +233,13 @@ title: SYDE 556 Course Outline
 <tr class="even">
 <td>Mar 24</td>
 <td><em>provided</em></td>
-<td>Action Selection</td>
+<td>SPA (I, Working Memory)</td>
 <td>#4 due*</td>
 </tr>
 <tr class="odd">
 <td>Mar 26</td>
 <td><em>provided</em></td>
-<td>Spatial Semantic Pointers</td>
+<td>SPA (II, Action Selection)</td>
 <td></td>
 </tr>
 <tr class="even">
