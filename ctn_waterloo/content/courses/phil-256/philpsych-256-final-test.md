@@ -2,6 +2,7 @@ title: PHIL/PSYCH 256 Final Test
 
 
 *** This is the email I sent at 1pm Wed, April 1st, 2020 ***
+
 Hello Everyone,
 
 As promised, find the final test questions below. You need to answer five of the following six questions. Each will be worth 5% of your final grade. You have 120 minutes to answer them.  Please hand in your answers in .pdf format attached to an email sent to me (philpsych256@gmail.com) and joddan@uwaterloo.ca (Jessie Oddan, the TA). You may not hand in the test late (after 3pm).  I will be available for questions at this email, or online in the Learn virtual classroom.  Good luck!
