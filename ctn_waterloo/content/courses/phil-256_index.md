@@ -8,6 +8,7 @@ toc:
     - PHIL/PSYCH 256 Syllabus
     - PHIL/PSYCH 256 Essay Information
     - PHIL/PSYCH 256 Midterm I
+    - PHIL/PSYCH 256 Final Test
     - Disaster Response
 
 <img style="float: right;" width=200 src="https://i.imgur.com/yXVgMlf.png">
@@ -94,6 +95,7 @@ Covid update: For your daily commentaries, please send them to this email addres
 Possible questions for the midterm and final test will be posted here 1 week before the test.  Instructions on the test will be something like "Six of the following ten questions will be on the midterm. You will have to answer five of them. Each will be worth 7% of your final grade. You will have 80 minutes to answer them in class" (details may change).
 
 - [Midterm](phil-256/philpsych-256-midterm-i.html)
+- [Final Test](phil-256/philpsych-256-final-test.html)
 
 *** COVID-19 New Instructions for Final Test: ***
 
