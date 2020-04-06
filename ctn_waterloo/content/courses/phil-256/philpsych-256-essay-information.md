@@ -8,7 +8,7 @@ title: PHIL/PSYCH 256 Essay Information
 *Topic due date:* Mar 16
 *Essay due date:* Apr 8
 
-Essays are due by midnight of the due date.  All submissions should be emailed to the [course email](mailto:cogsci300@gmail.com).  
+Essays are due by midnight of the due date.  All submissions should be emailed to the [course email](mailto:philpsych256@gmail.com).  
 
 Essays will be evaluated on the basis of:
 
