@@ -20,4 +20,9 @@ This year's meetings:
 * Mar 20: cancelled (covid)
 * Mar 27: cancelled (covid)
 * Apr 3: roundtable
-* Apr 10:
+* Apr 10: cancelled (covid)
+* Apr 17: roundtable
+* Apr 24: roundtable
+* May 1: nicole on RL paper
+* May 8: nat on MOSAIC model
+* May 15: 
