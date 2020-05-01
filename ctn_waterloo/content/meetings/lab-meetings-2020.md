@@ -25,4 +25,5 @@ This year's meetings:
 * Apr 24: roundtable
 * May 1: nicole on RL paper
 * May 8: nat on MOSAIC model
-* May 15: 
+* May 15: andreas on cerebellar model
+* May 22: 
