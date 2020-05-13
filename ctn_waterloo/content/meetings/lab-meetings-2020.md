@@ -26,4 +26,5 @@ This year's meetings:
 * May 1: nicole on RL paper
 * May 8: nat on MOSAIC model
 * May 15: andreas on cerebellar model
-* May 22: 
+* May 22: terry on his iccm submissions 
+* May 29:
