@@ -29,7 +29,9 @@ This year's meetings:
 * May 22: terry on his iccm submissions 
 * May 29: roundtable
 * Jun 5: roundtable
-* Jun 12: 
-* Jun 19:
-* Jun 26:
+* Jun 12: andreas on temporal tuning curves
+* Jun 19: nani on feedfwd LMU training and NLP (maybe)
+* Jun 26: chris on dynamic SSPs
+* Jul 3: thomas on thesis plan and gesture recognition
+* Jul 10: 
 
