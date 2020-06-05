@@ -27,4 +27,9 @@ This year's meetings:
 * May 8: nat on MOSAIC model
 * May 15: andreas on cerebellar model
 * May 22: terry on his iccm submissions 
-* May 29:
+* May 29: roundtable
+* Jun 5: roundtable
+* Jun 12: 
+* Jun 19:
+* Jun 26:
+
