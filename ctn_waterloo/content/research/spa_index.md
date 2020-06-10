@@ -33,4 +33,6 @@ to explain and demonstrate many
 of the central concepts discussed in the book.  Click below for a summary and further
 information on the SPA.
 
+Click [here](https://xchoo.github.io/spaun2.0/videos.html) to see videos of [Spaun](https://xchoo.github.io/spaun2.0/index.html) in action.
+
 <center><img src="http://i.imgur.com/H1Hljcr.png" alt="Spaun" width=600/></center>
