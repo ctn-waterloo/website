@@ -33,5 +33,8 @@ This year's meetings:
 * Jun 19: nani on feedfwd LMU training and NLP (maybe)
 * Jun 26: chris on dynamic SSPs
 * Jul 3: thomas on thesis plan and gesture recognition
-* Jul 10: 
+* Jul 10: cogsci 3 min videos
+* July 17: no meeting (chris away)
+* july 24: roundtable
+* July 31: no meeting (cogsci)
 
