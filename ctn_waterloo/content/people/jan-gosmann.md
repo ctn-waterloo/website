@@ -3,7 +3,7 @@ email: jgosmann@uwaterloo.ca
 one_liner: Memory
 group: Alumnus
 title: PhD candidate
-picture: http://hyper-world.de/images/jgosmann_photo.jpg
+picture: https://jgosmann.de/headshot.jpg
 links: 
     - text: Github
       url: https://github.com/jgosmann
