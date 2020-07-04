@@ -74,7 +74,10 @@ def bibtex_to_dict(text):
         'type': entry.type,
         'authors': [_format_person(person)
                     for person in entry.persons['author']],
-        'cite_info': {k.lower(): v for k, v in entry.fields.iteritems()},
+        'cite_info': {
+            k.lower(): v.render_as('plaintext')
+            for k, v in entry.rich_fields.iteritems()
+        },
         'cite_bibtex': text,
         'cite_plain': formatted_entry.text.render(plain_render),
     }
