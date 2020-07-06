@@ -38,6 +38,6 @@ is not here, please contact us.
 
   * [Nengo 2.0](http://www.nengo.ca/) (Our Main GUI Simulator; in Python)
     * This software has been developed for large-scale neural simulation. It has a GUI as well as full scripting. Runs on GPU, CPU and neuromorphic hardware. Demonstration videos, tutorials, example models, etc. can be found at http://nengo.ca.
-  * [Nengo 1.4](http://www.nengo.ca/download) (Our legacy neural simulator; java and python)
-  * [NeSim](https://sourceforge.net/projects/nesim/) (Our super legacy neural simulator; in Matlab; [documentation](http://compneuro.uwaterloo.ca/codelibrary/NEHelp/index.html))
+  * [Nengo 1.4](https://www.nengo.ai/nengo-1.4/) (Our legacy neural simulator; java and python)
+  * [NeSim](https://sourceforge.net/projects/nesim/) (Our super legacy neural simulator; in Matlab; [documentation](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/3095/versions/1/previews/Help/editor.html))
   * [CC07.zip](/files/cc07.zip) (Code for reproducing the results of [this](?q=node/26) paper on decoding and neural variability; in Matlab)
