@@ -37,4 +37,5 @@ This year's meetings:
 * July 17: no meeting (chris away)
 * july 24: roundtable
 * July 31: no meeting (cogsci)
+* aug 7: cogsci review
 
