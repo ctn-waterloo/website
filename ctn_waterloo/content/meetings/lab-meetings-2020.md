@@ -39,4 +39,4 @@ This year's meetings:
 * July 31: no meeting (cogsci)
 * Aug 7: cogsci review
 * Aug 14 - Sept 4: no meeting
-* Sept 11: roundtable 
+* Sept 11: brent thesis defense practice; roundtable 
