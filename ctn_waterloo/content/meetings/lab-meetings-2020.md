@@ -40,3 +40,6 @@ This year's meetings:
 * Aug 7: cogsci review
 * Aug 14 - Sept 4: no meeting
 * Sept 11: brent thesis defense practice; roundtable 
+* Sept 18: roundtable
+* Sept 25: ivana thesis defense practice
+* Oct 2:
