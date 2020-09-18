@@ -42,4 +42,7 @@ This year's meetings:
 * Sept 11: brent thesis defense practice; roundtable 
 * Sept 18: roundtable
 * Sept 25: ivana thesis defense practice
-* Oct 2:
+* Oct 2: nicole on her rl project
+* Oct 9: terry on telluride
+* Oct 16: pete d on his rl project
+* 
