@@ -39,7 +39,7 @@ and then running `python manage.py run`
 from the root of this repository.
 
 Images and other files
-----------------------
+------------------------------
 
 This repository should not be used to store
 files or images. Doing so would cause the repository
@@ -70,7 +70,7 @@ and use it in my content pages like so:
 `![Screenshot](http://i.imgur.com/2WpbV.png)` = ![Screenshot](http://i.imgur.com/2WpbV.png)
 
 Under the hood
---------------
+---------------------------
 
 In general, you shouldn't need to read past this.
 The content in `ctn_waterloo/content/` should be straightforward
