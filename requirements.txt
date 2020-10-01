@@ -5,3 +5,6 @@ latexcodec>=1.0.4
 markdown==2.6.11
 pyyaml
 pybtex==0.21.0
+flask-framework
+pysql
+django
