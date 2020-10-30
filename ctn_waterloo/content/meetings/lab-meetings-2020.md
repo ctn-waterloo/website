@@ -46,3 +46,9 @@ This year's meetings:
 * Oct 9: terry on telluride
 * Oct 16: pete d on his rl project
 * Oct 23: nicole on her rl project
+* Oct 30: roundtable
+* Nov 6:
+* Nov 13:
+* Nov 20:
+* Nov 27: michael on his past research
+* 
