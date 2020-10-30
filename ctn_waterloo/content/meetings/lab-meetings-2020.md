@@ -49,6 +49,6 @@ This year's meetings:
 * Oct 30: roundtable
 * Nov 6:
 * Nov 13:
-* Nov 20:
+* Nov 20: ivana on wisconsin card task
 * Nov 27: michael on his past research
 * 
