@@ -47,8 +47,8 @@ This year's meetings:
 * Oct 16: pete d on his rl project
 * Oct 23: nicole on her rl project
 * Oct 30: roundtable
-* Nov 6:
-* Nov 13:
+* Nov 6: roundtable
+* Nov 13: hippo paper discussion: https://arxiv.org/pdf/2008.07669.pdf
 * Nov 20: ivana on wisconsin card task
 * Nov 27: michael on his past research
 * 
