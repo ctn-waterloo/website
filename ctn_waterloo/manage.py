@@ -17,8 +17,12 @@ def freeze(serve=False):
     if serve:
         freezer.run(debug=True)
     else:
-        urls = freezer.freeze()
-        print('Built %i files.' % len(urls))
+        print("Writing files to {}".format(freezer.root))
+        n_urls = 0
+        for entity in freezer.freeze_yield():
+            n_urls += 1
+            print("Processing {}".format(entity.url))
+        print('Done. Built {} files.'.format(n_urls))
 
 
 @manager.command
