@@ -55,19 +55,19 @@ def bibtex_to_dict(text):
         first = ' '.join(person.first_names + person.middle_names)
         fullname = ' '.join(part for part in (first, von_last, jr) if part)
         # Handle escaped LaTeX characters
-        return fullname.decode('ulatex')
+        return codecs.decode(fullname, 'ulatex')
 
     bib_data = pybtex.database.parse_string(text, 'bibtex')
 
     plain_style = NonURLDecodingPlainStyle()
     plain_render = pybtex.backends.plaintext.Backend()
-    formatted_entry = next(plain_style.format_entries(bib_data.entries.values()))
+    formatted_entry = next(plain_style.format_entries(list(bib_data.entries.values())))
 
     # It is possible to parse out multiple BibTeX entries
     # in one go! But, I'm assuming that the metadata
     # contains information about only one publication.
 
-    citekey = bib_data.entries.keys()[0]
+    citekey = list(bib_data.entries.keys())[0]
     entry = bib_data.entries[citekey]
     meta = {
         'citekey': citekey,
@@ -76,7 +76,7 @@ def bibtex_to_dict(text):
                     for person in entry.persons['author']],
         'cite_info': {
             k.lower(): v.render_as('plaintext')
-            for k, v in entry.rich_fields.iteritems()
+            for k, v in entry.rich_fields.items()
         },
         'cite_bibtex': text,
         'cite_plain': formatted_entry.text.render(plain_render),
@@ -92,7 +92,7 @@ def bibtex_to_dict(text):
     decode = ('title', 'abstract', 'keywords')
     for key in decode:
         if key in meta:
-            meta[key] = meta[key].decode('ulatex')
+            meta[key] = codecs.decode(meta[key], 'ulatex')
 
     # Add editors to cite_info, if they exist
     if 'editor' in entry.persons:
@@ -168,7 +168,7 @@ class FlatPages(object):
             self.init_app(app)
 
     def __iter__(self):
-        return self._pages.itervalues()
+        return iter(self._pages.values())
 
     def init_app(self, app):
         for key, value in self.default_config:
@@ -220,8 +220,8 @@ class FlatPages(object):
         if cached and cached[1] == mtime:
             page = cached[0]
         else:
-            with open(filename) as fd:
-                content = fd.read().decode(self.config('encoding'))
+            with open(filename, 'rb') as fd:
+                content = str(fd.read(), self.config('encoding'))
             page = self._parse(content, path, ext)
             self._file_cache[filename] = page, mtime
         return page
@@ -236,22 +236,22 @@ class FlatPages(object):
                     _walk(full_name, path_prefix + (name,))
                 elif any([name.endswith(ext) for ext in extensions]):
                     name_without_extension = os.path.splitext(name)[0]
-                    path = u'/'.join(path_prefix + (name_without_extension, ))
+                    path = '/'.join(path_prefix + (name_without_extension, ))
                     pages[path] = self._load_file(path, full_name)
 
-        extensions = self.config('renderers').keys()
+        extensions = list(self.config('renderers').keys())
         pages = {}
 
         # Fail if the root is a non-ASCII byte string. Use Unicode.
-        _walk(unicode(self.root))
+        _walk(str(self.root))
 
         return pages
 
     def _parse(self, string, path, ext):
-        lines = iter(string.split(u'\n'))
-        meta = u'\n'.join(itertools.takewhile(unicode.strip, lines))
+        lines = iter(string.split('\n'))
+        meta = '\n'.join(itertools.takewhile(str.strip, lines))
 
-        content = u'\n'.join(lines)
+        content = '\n'.join(lines)
         html_renderer = self.config('renderers')[ext]
 
         if not callable(html_renderer):
