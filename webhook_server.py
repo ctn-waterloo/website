@@ -132,8 +132,8 @@ def _handle_webhook(args, runner, secret=None):
 
         # Read information from the request
         try:
-            # If args.branch is set, check whether the push request is for the
-            # specified branch
+            # Filter the request. First make sure that this is a supported
+            # event type.
             matches = True
             if (not "X-GitHub-Event" in req.headers) or (
                     req.headers["X-GitHub-Event"] != "push"):
@@ -141,12 +141,22 @@ def _handle_webhook(args, runner, secret=None):
                     "Received webhook event with unknown or missing webhook event type"
                 )
                 matches = False
-            if args.branch and (body["ref"] != "refs/heads/" + args.branch):
-                logger.info("Received webhook event for unmonitored branch")
+
+            # Make sure that this is actually a change for the right repository.
+            repository_name = body["repository"]["full_name"]
+            if args.repository and (args.repository != repository_name):
+                logger.info("Received webhook event for unmonitored repository {}".format(repository_name))
                 matches = False
 
-            # Fetch some information about the push request
-            repository_name = body["repository"]["full_name"]
+            # If args.branch is set, check whether the push request is for the
+            # specified branch
+            if args.branch and (body["ref"] != "refs/heads/" + args.branch):
+                logger.info("Received webhook event for unmonitored branch {}".format(body["ref"]))
+                matches = False
+
+            # Now try to fetch some information about the person initiating
+            # this push request. We'll need that information in case something
+            # goes wrong. Gotta know who to yell at.
             commit_id = body["after"][:7]
             email = None
             if "email" in body["head_commit"]["committer"]:
