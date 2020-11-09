@@ -700,8 +700,8 @@ class JobRunner:
             if "PATH" in os.environ:
                 environ["PATH"] = os.environ["PATH"]
 
-            # Open the target file, as well as a pip to which we redirect stdout
-            # and stderr. Then open a process connected to that file.
+            # Open the target file, as well as a pipe to which we redirect
+            # stdout and stderr. Then open a process connected to that file.
             output, out_file = [bytes()], mk_out_file("running")
             logger.debug("Executing subprocess [%s], writing to \"%s\"",
                          ", ".join(job.data["args"]), out_file)
@@ -775,7 +775,7 @@ class JobRunner:
                     logger.debug("Subprocess exited successfully")
                     os.rename(out_file, mk_out_file("success"))
                 else:
-                    logger.debug("Subprocess with an error code")
+                    logger.debug("Subprocess exited with an error code")
                     os.rename(out_file, mk_out_file("failure"))
 
     def queue_job(self,
