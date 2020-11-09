@@ -7,20 +7,20 @@
 # phases. The "first stage" immutably resides on the build server. It
 # simply downloads the Git repository with the website into a temporary
 # directory and then proceeds to execute the "second stage" build script
-# inside a disposable sandbox.
+# inside a disposable Docker sandbox.
 #
 # The second stage installs Python dependencies and performs the actual
 # build. Once that is done, the first stage resumes and uploads the
 # website to the webserver.
 #
-# This way the code in this repository is completely isolated from the
-# rest of the build server. This is less meant as a security measure
-# but to prevent the website code from accidentially breaking something.
+# This way the code in this repository is completely isolated from the rest of
+# the build server. This is less meant as a security measure, and more to
+# prevent the website code from accidentially breaking something.
 #
 # Note that changes to the "first stage" of the build script are not
-# automatically reflected on the build server. The build script (as well
-# as the webhook server) need to be manually updated by logging into
-# the server.
+# automatically reflected on the build server. The build script (as well as the
+# webhook server) need to be manually updated by logging into the build
+# server.
 #
 # Authors:
 # 	Andreas Stöckel, 2020
@@ -41,8 +41,10 @@ cd "$DIR"
 STAGE=${1:-first}
 if [ $STAGE = "first" ]; then
 	# IMPORTANT: Changes to the first stage require manually updating
-	#            the build script on the build server!
-	msg "==> Entering first stage build"
+	#            the build script on the build server! They will NOT
+	#            be reflected in the next CI run. This section just
+	#            sets up the CI environment.
+	msg "==> Entering first-stage build"
 
 	# Create a random temporary directory
 	TMP=$(mktemp -d -t cnrg_website_build_XXXXXXXXXX)
@@ -81,15 +83,19 @@ if [ $STAGE = "first" ]; then
 		/repo/build_and_deploy.sh second
 
 	# Upload the compiled website
-	msg
-	msg "==> Re-entering first stage build"
-	msg "Uploading website to the webserver"
-	if [ -d "$TMP/ctn_waterloo/build" ]; then
-		rsync -ah --del "$TMP/ctn_waterloo/build/" cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
+	msg "==> Re-entering first-stage build"
+	if [ -d "$TMP/repo/ctn_waterloo/build" ]; then
+		msg "Uploading website to the webserver"
+		rsync -ah --del "$TMP/repo/ctn_waterloo/build/" cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
+	else
+		msg "Build directory not found!"
+		exit 1
 	fi
 elif [ $STAGE = "second" ]; then
-	msg
-	msg "==> Entering second stage build"
+	# IMPORTANT: Changes in this section are immediately reflected in the
+	#            next CI run.
+
+	msg "==> Entering second-stage build"
 
 	# Install all requirements
 	msg "Installing Python dependencies"
