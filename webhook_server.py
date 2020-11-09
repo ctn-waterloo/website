@@ -1076,7 +1076,10 @@ def child_main():
     with JobRunner(args.job_dir, args.out_dir, args.timeout) as runner:
         # Iterate over the job directory and fetch the newest job, where "newest"
         # corresponds to the job file with the highest hexadecimal suffix.
-        while job := runner.fetch_newest_job():
+        while True:
+            job = runner.fetch_newest_job()
+            if not job:
+                break
             try:
                 logger.debug("Processing job {}".format(job.path))
                 returncode, output = runner.execute_job(job)
