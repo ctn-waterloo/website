@@ -86,7 +86,8 @@ if [ $STAGE = "first" ]; then
 	msg "==> Re-entering first-stage build"
 	if [ -d "$TMP/repo/ctn_waterloo/build" ]; then
 		msg "Uploading website to the webserver"
-		rsync -ah --del "$TMP/repo/ctn_waterloo/build/" cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
+		ssh ctnuser@ctn15.uwaterloo.ca -L 2222:compneuro.uwaterloo.ca:22 -N
+		rsync -ah --port 2222 --del "$TMP/repo/ctn_waterloo/build/" cnrglab@.ca:/home/cnrglab/public_html/
 	else
 		msg "Build directory not found!"
 		exit 1
