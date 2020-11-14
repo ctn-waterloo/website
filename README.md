@@ -3,8 +3,40 @@ CNRGlab@UWaterloo webpage
 
 This repository contains code and sources files
 to generate [CNRGlab's static website](http://compneuro.uwaterloo.ca/).
-If you want to adapt it to your own purposes,
-check out HACKING.md.
+
+**Downloading this repository and installing dependencies**  
+```sh
+git clone git@github.com/ctn-waterloo/website cnrg-website
+cd cnrg-website
+pip3 install -r requirements.txt
+```
+
+**Testing the website locally**  
+```sh
+python3 manage.py run
+```
+Navigate to http://localhost:5000/ to see the website.
+
+*Note:* Depending on your Python distribution you may have to use
+`pip` and `python` instead of `pip3` and `python3`.
+
+**Building the website locally**  
+```sh
+python3 manage.py freeze
+```
+Once this has finished,
+the static HTML files can be found at `ctn_waterloo/build`.
+
+**Manually building and deploying the website in the CI environment**  
+*Note:* Under normal circumstances you don't need to do this.
+This requires `docker` to be installed.
+You SSH key must be authorized
+to push onto the webserver for this to succeed.
+```sh
+./build_and_deploy.sh
+```
+
+
 
 Editing content
 ---------------
