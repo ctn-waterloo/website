@@ -103,7 +103,7 @@ elif [ $STAGE = "second" ]; then
 
 	msg "==> Entering second-stage build"
 
-	# XXX
+	# XXX (2)
 	exit 1
 
 	# Install all requirements
