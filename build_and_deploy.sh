@@ -103,9 +103,6 @@ elif [ $STAGE = "second" ]; then
 
 	msg "==> Entering second-stage build"
 
-	# XXX (4)
-	exit 1
-
 	# Install all requirements
 	msg "Installing Python dependencies"
 	pip install --user -r requirements.txt --progress-bar off --no-warn-script-location
