@@ -159,10 +159,10 @@ def _handle_webhook(args, runner, secret=None):
             # goes wrong. Gotta know who to yell at.
             commit_id = body["after"][:7]
             email = None
-            if "email" in body["head_commit"]["committer"]:
-                email = body["head_commit"]["committer"]["email"]
             if (not email) and ("email" in body["head_commit"]["author"]):
                 email = body["head_commit"]["author"]["email"]
+            if (not email) and "email" in body["head_commit"]["committer"]:
+                email = body["head_commit"]["committer"]["email"]
         except Exception as e:
             logger.exception(e)
             return _handle_error(400, "Invalid Request Body")(req)
