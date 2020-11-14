@@ -34,7 +34,7 @@ def nice_date(date_str):
 
 def slugify(value, separator='-'):
     """ Slugify a string, to make it URL friendly. """
-    if type(value) == unicode:
+    if type(value) == str:
         # Transform the string to NFKC before perfoming any operation on it.
         # This is important as e.g. umlauts have a distinct Unicode codepoint,
         # but may be represented as two Unicode codepoints in the input (e.g.
@@ -44,13 +44,13 @@ def slugify(value, separator='-'):
 
         # Implement proper transliteration of German umlauts.
         replacement_dict = ({
-            unichr(0xE4): "ae",
-            unichr(0xF6): "oe",
-            unichr(0xFC): "ue",
-            unichr(0xC4): "Ae",
-            unichr(0xD6): "Oe",
-            unichr(0xDC): "Ue",
-            unichr(0xDF): "ss",
+            chr(0xE4): "ae",
+            chr(0xF6): "oe",
+            chr(0xFC): "ue",
+            chr(0xC4): "Ae",
+            chr(0xD6): "Oe",
+            chr(0xDC): "Ue",
+            chr(0xDF): "ss",
         })
         for src, tar in replacement_dict.items():
             value = value.replace(src, tar)

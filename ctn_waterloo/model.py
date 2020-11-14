@@ -66,9 +66,9 @@ class Model(object):
         return people
 
     def publication(self, pub):
-        if pub.meta.has_key('url'):
+        if 'url' in pub.meta:
             pub.fulltext = pub['url']
-        if pub['cite_info'].has_key('journal'):
+        if 'journal' in pub['cite_info']:
             pub.journal = pub['cite_info']['journal']
         elif pub['type'] == 'techreport':
             pub.journal = "Tech Report"
@@ -82,7 +82,7 @@ class Model(object):
                     pub.journal = "PhD Thesis"
         elif 'book' in pub['type']:
             pub.journal = pub['cite_info']['publisher']
-        elif pub['cite_info'].has_key('booktitle'):
+        elif 'booktitle' in pub['cite_info']:
             pub.journal = pub['cite_info']['booktitle']
 
         pub.authors = [self.authorlink(name) for name in pub['authors']]
