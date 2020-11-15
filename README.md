@@ -4,6 +4,11 @@ CNRGlab@UWaterloo webpage
 This repository contains code and sources files
 to generate [CNRGlab's static website](http://compneuro.uwaterloo.ca/).
 
+**See here for the current [build status](https://ctnsrv-vm.uwaterloo.ca/cnrg-website-webhook/status)**
+
+Useful code snippets
+--------------------
+
 **Downloading this repository and installing dependencies**  
 ```sh
 git clone git@github.com/ctn-waterloo/website cnrg-website
