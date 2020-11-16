@@ -110,4 +110,8 @@ elif [ $STAGE = "second" ]; then
 	# Build the website and store the results in the "build" directory
 	msg "Building the website"
 	./manage.py freeze
+
+	# Add a symlink to the "files directory to the website root directory
+	cd /repo/ctn_waterloo/build/
+	ln -s ../files
 fi
