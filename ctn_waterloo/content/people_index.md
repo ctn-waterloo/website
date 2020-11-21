@@ -1,5 +1,9 @@
 title: People
 alumni:
+    - text: Ivana Kajić (2020 PhD)
+      url: people/ivana-kajic.html
+    - text: Brent Komer (2020 PhD)
+      url: people/brent-komer.html
     - text: Aaron R. Voelker (2019 PhD)
       url: people/aaron-r-voelker.html
     - text: Sverrir Thorgeirsson (2018 PhD incomplete)
