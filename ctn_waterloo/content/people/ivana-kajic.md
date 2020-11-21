@@ -1,7 +1,7 @@
 name: Ivana Kajić
 email: i2kajic@uwaterloo.ca
 one_liner: Language
-group: Grad students
+group: Alumnus
 title: PhD Student
 picture: https://avatars1.githubusercontent.com/u/2485670?v=3&s=460
 links: 

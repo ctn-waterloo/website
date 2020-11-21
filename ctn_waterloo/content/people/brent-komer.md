@@ -1,7 +1,7 @@
 name: Brent Komer
 email: bjkomer@uwaterloo.ca
 one_liner: Spatial memory
-group: Grad students
+group: Alumnus
 title: Masters Student
 picture: http://i.imgur.com/aLwyfMi.jpg
 links:
