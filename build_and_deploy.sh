@@ -85,14 +85,8 @@ if [ $STAGE = "first" ]; then
 	# Upload the compiled website
 	msg "==> Re-entering first-stage build"
 	if [ -d "$TMP/repo/ctn_waterloo/build" ]; then
-		msg "Tunneling into the research network..."
-		ssh ctnuser@ctn15.uwaterloo.ca -L 2223:compneuro.uwaterloo.ca:22 -N &
-		SSH_PID=$!
-		trap "kill $SSH_PID" EXIT
-		sleep 2.0
-
 		msg "Uploading website to the webserver"
-		rsync -e "ssh -p 2223" -ahv --del "$TMP/repo/ctn_waterloo/build/" cnrglab@localhost:/home/cnrglab/public_html/
+		rsync -ahv --del "$TMP/repo/ctn_waterloo/build/" cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
 	else
 		msg "Build directory not found!"
 		exit 1
