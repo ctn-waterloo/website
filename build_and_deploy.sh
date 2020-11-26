@@ -85,6 +85,7 @@ if [ $STAGE = "first" ]; then
 	# Upload the compiled website
 	msg "==> Re-entering first-stage build"
 	if [ -d "$TMP/repo/ctn_waterloo/build" ]; then
+		# FOO
 		msg "Uploading website to the webserver"
 		rsync -ahv --del "$TMP/repo/ctn_waterloo/build/" cnrglab@compneuro.uwaterloo.ca:/home/cnrglab/public_html/
 	else
