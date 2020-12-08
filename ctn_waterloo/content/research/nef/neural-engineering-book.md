@@ -5,9 +5,7 @@ and Charles H. Anderson,
 wrote a book detailing the framework presented here. The
 title is *"Neural Engineering: Computation, Representation and Dynamics
 in Neurobiological Systems."*
-The official MIT Press website is
-[here](http://mitpress.mit.edu/books/neural-engineering).
-The book is also available at
+The book is available at
 [Amazon](http://www.amazon.com/exec/obidos/ASIN/0262050714/dictionaofphilosA/102-7106411-9852917).
 
 Please send us an [email](mailto:celiasmith@uwaterloo.ca) if you have
