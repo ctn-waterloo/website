@@ -51,4 +51,5 @@ This year's meetings:
 * Nov 13: hippo paper discussion: https://arxiv.org/pdf/2008.07669.pdf
 * Nov 20: ivana on wisconsin card task
 * Nov 27: michael on his past research
-* 
+* Dec 4: roundtable
+* Dec 11: nani on lmu deeplearning
