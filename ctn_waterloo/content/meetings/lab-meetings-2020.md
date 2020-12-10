@@ -53,3 +53,4 @@ This year's meetings:
 * Nov 27: michael on his past research
 * Dec 4: roundtable
 * Dec 11: nani on lmu deeplearning
+* Jan 8: nicole on path integration work
