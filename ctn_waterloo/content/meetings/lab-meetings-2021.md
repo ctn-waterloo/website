@@ -7,7 +7,7 @@ Meetings take place <strike>in E7 6323</strike> online Friday at high noon (12 p
 
 This year's meetings:
 
-* Jan 8: nicole on path integration work
-* Jan 15: round table
-* Jan 22: round table
-* Jan 29: andreas' tech report
+* Jan 8: Nicole on path integration work
+* Jan 15: Round table
+* Jan 22: Round table
+* Jan 29: Andreas' tech report
