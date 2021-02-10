@@ -14,3 +14,4 @@ This year's meetings:
 * Feb 5: roundtable
 * Feb 12: Nani 2nd order optimization methods; icml paper
 * Feb 19: Nicole's cosyne poster
+* Feb 26: Pete on his website - come ready to test it!
