@@ -19,22 +19,28 @@
       <h3>Abstract</h3>
       <p>{{ publication.abstract }}</p>
       {% endif -%}
-      {%- if publication.pdf or publication.fulltext -%}
+      {%- if publication.pdf or publication.fulltext or publication.doi or publication.arxiv -%}
       <h3>Full text links</h3>
       {% if publication.pdf -%}
-      <p><a href="{{ publication.pdf }}">PDF</a></p>
+      <p><a href="{{ publication.pdf }}"><i class="icon-external-link-sign"></i>&nbsp;PDF</a></p>
       {% endif -%}
       {%- if publication.fulltext -%}
-      <p><a href="{{ publication.fulltext }}">External link</a></p>
+      <p><a href="{{ publication.fulltext }}"><i class="icon-external-link-sign"></i>&nbsp;External link</a></p>
+      {% endif -%}
+      {%- if publication.meta.doi -%}
+      <p><a href="https://dx.doi.org/{{ publication.meta.doi }}"><i class="icon-external-link-sign"></i>&nbsp;DOI</a></p>
+      {% endif -%}
+      {%- if publication.meta.arxiv -%}
+      <p><a href="https://arxiv.org/{{ publication.meta.arxiv }}"><i class="icon-external-link-sign"></i>&nbsp;arXiv</a></p>
       {% endif -%}
       {% endif -%}
       {% if publication.poster or publication.presentation %}
       <h3>Supplementary information</h3>
       {% if publication.poster -%}
-      <p><a href="{{ publication.poster }}">Poster</a></p>
+      <p><a href="{{ publication.poster }}"><i class="icon-external-link-sign"></i>&nbsp;Poster</a></p>
       {% endif -%}
       {% if publication.presentation -%}
-      <p><a href="{{ publication.presentation }}">Presentation</a></p>
+      <p><a href="{{ publication.presentation }}"><i class="icon-external-link-sign"></i>&nbsp;Presentation</a></p>
       {% endif -%}
       {% endif -%}
       {% if publication.html -%}

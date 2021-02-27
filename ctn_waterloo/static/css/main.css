@@ -527,3 +527,50 @@ img.thumbsize {
 #psc-table tbody tr td:last-child { border-right: none; }
 #psc-table tbody th { text-align: center; background: #FFF6DD; }
 #psc-table tbody tr:nth-child(even) { background-color: #DDD; }
+
+/* People page publication stuff */
+
+ul.pubs li {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+ul.pubs a {
+  color: inherit;
+}
+
+.pub-title::before,
+.pub-links::before,
+.pub-residual::before {
+	content: '\A';
+  white-space: pre;
+}
+
+.pub-links {
+  font-size: 90%;
+}
+
+.pub-links a::after {
+  content: '';
+  font-size: 75%;
+  margin-right: 0.3em;
+  padding-right: 0.6em;
+  border-right: 1px solid gray;
+}
+
+.pub-links a:last-child::after {
+  border-right: 0px;
+}
+
+ul.pubs a:link {
+  text-decoration: underline dotted;
+  text-underline-offset: 0.15em;
+}
+
+ul.pubs a:hover {
+  text-decoration: none;
+}
+
+.pub-title {
+  font-style: italic;
+}

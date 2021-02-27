@@ -125,7 +125,32 @@ def people_index():
 def people_page(slug):
     g.topic = 'people'
     person = pages.get('people/' + slug)
+
+    # Fetch all publications
     person.publications = model.publications(author=person['name'])
+
+    # Fetch publications by category
+    person.book_publications = model.publications(
+        author=person['name'],
+        types={"book", "incollection"},
+    )
+    person.conference_publications = model.publications(
+        author=person['name'],
+        types={"inproceedings", "proceedings"},
+    )
+    person.journal_publications = model.publications(
+        author=person['name'],
+        types={"article"},
+    )
+    person.techreport_publications = model.publications(
+        author=person['name'],
+        types={"techreport", "preprint"},
+    )
+    person.thesis_publications = model.publications(
+        author=person['name'],
+        types={"mastersthesis", "phdthesis"},
+    )
+
     person.blogposts = model.blogposts(author=person['name'])
     return render_template('people_page.html', person=person)
 

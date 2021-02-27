@@ -17,6 +17,7 @@ TYPE_TEXT = {
     'mastersthesis': 'Thesis',
     'phdthesis': 'Thesis',
     'article': 'Journal Article',
+    'preprint': 'Preprint',
 }
 
 PEOPLE_CACHE = {}

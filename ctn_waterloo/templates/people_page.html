@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from 'publication_macros.html' import format_publications %}
 
 {% block title %} | People {% endblock title %}
 {% block bodytags %} data-spy="scroll" data-target=".headers-sidenav"{% endblock bodytags %}
@@ -33,13 +34,21 @@
       {% if person.publications -%}
       <a class="anchor" id="publications"></a>
       <h2>Publications</h2>
-      <ul class="icons-ul">
-        {% for pub in person.publications -%}
-        <li>
-          <i class="icon-li icon-file-alt"></i><a href="{{ pub.url }}">{{ pub.title }}</a>
-        </li>
-        {%- endfor %}
-      </ul>
+      {% if person.thesis_publications -%}
+      {{ format_publications(person.thesis_publications, 'Theses', 'icon-trophy') }}
+      {% endif -%}
+      {% if person.book_publications -%}
+      {{ format_publications(person.book_publications, 'Books and Book Chapters', 'icon-book') }}
+      {% endif -%}
+      {% if person.journal_publications -%}
+      {{ format_publications(person.journal_publications, 'Journal Articles', 'icon-bookmark') }}
+      {% endif -%}
+      {% if person.conference_publications -%}
+      {{ format_publications(person.conference_publications, 'Conference and Workshop Papers') }}
+      {% endif -%}
+      {% if person.techreport_publications -%}
+      {{ format_publications(person.techreport_publications, 'Technical Reports and Preprints', 'icon-gear') }}
+      {% endif -%}
       {% endif -%}
       {%- if person.blogposts -%}
       <a class="anchor" id="blog-posts"></a>

@@ -1,0 +1,45 @@
+{% macro format_publication(pub) %}
+<span class="pub-authors">
+  {% for author in pub.authors -%}
+  {% if loop.index > 1 -%} {%- endif %}
+  <span class="pub-author">{{ author }}</span>{% if loop.index < loop.length -%},{%- endif %}
+  {%- endfor %}
+</span>
+<span class="pub-year">({{ pub.year }})</span>
+<span class="pub-title">
+  {{ pub.title }}.
+</span>
+<span class="pub-residual">{{ pub.cite_plain_residual }}</span>
+<span class="pub-links">
+  {% if pub.url %}
+  <a href="{{ pub.url }}"><i class="icon-external-link-sign"></i>&nbsp;Abstract</a>
+  {%- endif %}
+  {% if pub.meta.pdf %}
+  <a href="{{ pub.meta.pdf }}"><i class="icon-external-link-sign"></i>&nbsp;PDF</a>
+  {%- endif %}
+  {% if pub.meta.poster %}
+  <a href="{{ pub.meta.poster }}"><i class="icon-external-link-sign"></i>&nbsp;Poster</a>
+  {%- endif %}
+  {% if pub.meta.doi %}
+  <a href="https://dx.doi.org/{{ pub.meta.doi }}"><i class="icon-external-link-sign"></i>&nbsp;DOI</a>
+  {%- endif %}
+  {% if pub.meta.arxiv %}
+  <a href="https://arxiv.org/abs/{{ pub.meta.arxiv }}"><i class="icon-external-link-sign"></i>&nbsp;arXiv</a>
+  {%- endif %}
+  {% if pub.fulltext %}
+  <a href="{{ pub.fulltext }}"><i class="icon-external-link-sign"></i>&nbsp;External link</a>
+  {%- endif %}
+</span>
+{% endmacro %}
+
+{% macro format_publications(pubs, title, icon='icon-file-alt') %}
+<h3>{{ title }}</h3>
+<ul class="pubs icons-ul">
+  {% for pub in pubs -%}
+  <li>
+    <i class="icon-li {{ icon }}"></i>{{ format_publication(pub) }}
+  </li>
+  {%- endfor %}
+</ul>
+{% endmacro %}
+
