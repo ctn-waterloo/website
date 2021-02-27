@@ -86,7 +86,7 @@ def bibtex_to_dict(text):
     extract = ('title', 'abstract', 'pdf', 'url', 'year', 'keywords',
                'poster', 'presentation')
     for key in extract:
-        if key in entry.fields:
+        if key in meta['cite_info']:
             meta[key] = meta['cite_info'].pop(key)
 
     decode = ('title', 'abstract', 'keywords')
