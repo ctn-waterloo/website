@@ -574,3 +574,8 @@ ul.pubs a:hover {
 .pub-title {
   font-style: italic;
 }
+
+.pub-links a {
+  font-weight: bold
+}
+
