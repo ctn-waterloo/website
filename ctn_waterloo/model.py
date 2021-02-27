@@ -1,4 +1,5 @@
 import datetime
+import re
 
 from flask import Flask, Markup
 from flask import abort, g, render_template, url_for
@@ -17,6 +18,30 @@ TYPE_TEXT = {
     'phdthesis': 'Thesis',
     'article': 'Journal Article',
 }
+
+PEOPLE_CACHE = {}
+
+NAME_SPLIT_RE = re.compile('[- .]')
+
+def canonicalise_name(name):
+    """Converts the name to lowercase and extracts the first and last name"""
+    parts = NAME_SPLIT_RE.split(name.lower())
+    if len(parts) >= 2:
+        return parts[0] + " " + parts[-1]
+    elif len(parts) == 1:
+        return parts[0]
+    else:
+        return ""
+
+
+def fuzzy_name_match(name, name_list):
+    name = canonicalise_name(name)
+    name_list = [canonicalise_name(name) for name in name_list]
+    try:
+        return name_list.index(name)
+    except ValueError:
+        return None
+
 
 class Model(object):
     def __init__(self, pages_instance):
@@ -56,18 +81,21 @@ class Model(object):
         return person
 
     def people(self, group=None):
-        if group is None:
-            test = lambda p: p.path.startswith('people/')
-        else:
-            test = lambda p: p.path.startswith('people/') and p['group'] == group
+        if not group in PEOPLE_CACHE:
+            if group is None:
+                test = lambda p: p.path.startswith('people/')
+            else:
+                test = lambda p: p.path.startswith('people/') and p['group'] == group
 
-        people = sorted([self.person(p) for p in self.pages if test(p)],
-                        key=lambda p: p['name'])
-        return people
+            people = sorted((self.person(p) for p in self.pages if test(p)),
+                            key=lambda p: p['name'])
+            PEOPLE_CACHE[group] = people
+        return PEOPLE_CACHE[group]
 
     def publication(self, pub):
         if 'url' in pub.meta:
             pub.fulltext = pub['url']
+
         if 'journal' in pub['cite_info']:
             pub.journal = pub['cite_info']['journal']
         elif pub['type'] == 'techreport':
@@ -90,15 +118,14 @@ class Model(object):
         pub.type = TYPE_TEXT.get(pub['type'], pub['type'])
         return pub
 
-    def publications(self, end=None, start=None, author=None):
-        if author is None:
-            test = lambda p: p.path.startswith('publications/')
-        else:
-            test = lambda p: (p.path.startswith('publications/')
-                              and author in p['authors'])
+    def publications(self, end=None, start=None, author=None, types=None):
+        # Construct a filter
+        test = lambda p: (
+                p.path.startswith('publications/')
+            and ((author is None) or (not fuzzy_name_match(author, p['authors']) is None))
+            and ((types is None) or (p['type'] in types)))
 
-        allpubs = sorted([self.publication(pub) for pub in self.pages
-                          if test(pub)],
+        allpubs = sorted((self.publication(pub) for pub in self.pages if test(pub)),
                          reverse=True, key=lambda pub: pub['year'])
 
         if end is not None and len(allpubs) > end:
@@ -181,13 +208,14 @@ class Model(object):
         return page
 
     def authorlink(self, name):
-        if self.pages.get('people/' + slugify(name)) is not None:
+        people_lst = self.people()
+        idx = fuzzy_name_match(name, (canonicalise_name(person['name']) for person in people_lst))
+        if not idx is None:
             return Markup('<a href="' + url_for('people_page',
-                                                slug=slugify(name))
+                                                slug=slugify(people_lst[idx]["name"]))
                           + '">' + name + '</a>')
-        else:
-            return name
 
+        return name
 
 if __name__ == '__main__':
     app.run()
