@@ -31,7 +31,7 @@
       <p><a href="https://dx.doi.org/{{ publication.meta.doi }}"><i class="icon-external-link-sign"></i>&nbsp;DOI</a></p>
       {% endif -%}
       {%- if publication.meta.arxiv -%}
-      <p><a href="https://arxiv.org/{{ publication.meta.arxiv }}"><i class="icon-external-link-sign"></i>&nbsp;arXiv</a></p>
+      <p><a href="https://arxiv.org/abs/{{ publication.meta.arxiv }}"><i class="icon-external-link-sign"></i>&nbsp;arXiv</a></p>
       {% endif -%}
       {% endif -%}
       {% if publication.poster or publication.presentation %}
