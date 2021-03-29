@@ -15,3 +15,6 @@ This year's meetings:
 * Feb 12: Nani 2nd order optimization methods; icml paper
 * Feb 19: Nicole's cosyne poster
 * Feb 26: Pete on his website - come ready to test it!
+* Mar: Roundtables, abr discussion
+* Apr 2: 
+* Apr 30: Pawel on visual odometry
