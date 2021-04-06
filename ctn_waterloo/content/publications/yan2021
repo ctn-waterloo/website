@@ -1,0 +1,8 @@
+@article {yan2021,
+  title = {Comparing Loihi with a SpiNNaker 2 Prototype on Low-Latency Keyword Spotting and Adaptive Robotic Control},
+  journal = {Neuromorphic Computing and Engineering},
+  year = {2021},
+  doi = {10.1088/2634-4386/abf150},
+  url = {https://iopscience.iop.org/article/10.1088/2634-4386/abf150},
+  author = {Yexin Yan and Terrence Stewart and Xuan Choo and Bernhard Vogginger and Johannes Partzsch and Sebastian Hoeppner and Florian Kelber and Chris Eliasmith and Steve Furber and Christian Mayr},
+}
