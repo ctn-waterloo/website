@@ -70,7 +70,7 @@ alumni:
     - text: Aubie, Brandon (2008 CS)
     - text: Litt, Abby (2007 CS)
     - text: Tackstrom, Oscar (2007 PhD)
-    - text: Martens, James (2006 Ugrad CS/Math)
+    - text: Martens, James (2006 CS/Math)
     - text: Fishbein, Jon (2006 MASc)
     - text: Miller, Avery (2006)
     - text: Lerman, Mike (2006)
