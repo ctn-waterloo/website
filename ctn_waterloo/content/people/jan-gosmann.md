@@ -10,7 +10,7 @@ links:
     - text: Twitter
       url: https://twitter.com/jgosmann
     - text: Private homepage
-      url: http://www.hyper-world.de/en/
+      url: http://www.jgosmann.de
 
 I am a PhD student in Systems Design Engineering at the CNRG. My thesis will be
 on an integrated model of context, short-term, and long-term memory. Based on
