@@ -17,4 +17,5 @@ This year's meetings:
 * Feb 26: Pete on his website - come ready to test it!
 * Mar: Roundtables, abr discussion
 * Apr 2: good friday
+* Apr 23: nani on debugging neural networks
 * Apr 30: Pawel on visual odometry
