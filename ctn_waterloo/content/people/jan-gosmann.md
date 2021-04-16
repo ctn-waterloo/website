@@ -8,7 +8,7 @@ links:
     - text: Github
       url: https://github.com/jgosmann
     - text: Twitter
-      url: https://twitter.com/hyper_world
+      url: https://twitter.com/jgosmann
     - text: Private homepage
       url: http://www.hyper-world.de/en/
 
