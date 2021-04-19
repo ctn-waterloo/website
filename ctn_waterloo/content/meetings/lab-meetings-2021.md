@@ -19,3 +19,4 @@ This year's meetings:
 * Apr 2: good friday
 * Apr 23: nani on debugging neural networks
 * Apr 30: Pawel on visual odometry
+* May 7: michael on mutual information sampling with SSPs
