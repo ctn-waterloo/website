@@ -20,3 +20,4 @@ This year's meetings:
 * Apr 23: nani on debugging neural networks
 * Apr 30: Pawel on visual odometry
 * May 7: michael on mutual information sampling with SSPs
+* May 28: pete SYDE seminar presentation
