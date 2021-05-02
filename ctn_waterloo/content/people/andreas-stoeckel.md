@@ -1,6 +1,6 @@
 name: Andreas Stöckel
 email: astoecke@uwaterloo.ca
-one_liner: Adaptive control and filters
+one_liner: Biological detail and adaptive filters
 group: Grad students
 title: PhD Candidate in Computer Science
 picture: https://avatars1.githubusercontent.com/u/1783545?v=3
@@ -9,8 +9,8 @@ links:
       url: https://github.com/astoeckel
 
 My research interests are mostly focused on extending the
-Neural Engineering to work with more detailed neuron models, and using adaptive control and
-filtering as a model of motor control and sensory inference in the brain.
+Neural Engineering to work with more detailed neuron models, and using adaptive filtering as a
+model of sensory inference in the brain.
 
 Regarding my work on more detailed neuron models, I have been working on incorporating simple
 multi-compartment models with conductance-based synapses into the NEF. The more complex interaction
@@ -19,13 +19,13 @@ multiplication. Most of this work has been implemented in [NengoBio](https://git
 an extension library for Nengo facilitating the construction of biologically constrained models.
 I have adapted some of this work to construct a model of eyeblink conditioning the cerebellum.
 
-Regarding my work on adaptive control and filtering, I am working on constructing neurobiologically plausible
-artificial agents. I'm particularly focusing on sensory processing hierachies based on adaptive state observers.
+Regarding my work on adaptive filtering, I am focusing on predictive neural networks based on adaptive state observers.
 
 Apart from these focus areas, I am interested in a broad range of topics including–but not limited to
 –neuromorphic hardware, neurorobotics, and unsupervised learning strategies.
 
 I have been teaching [SYDE 556/750 "Simulating Neurobiological Systems"](http://compneuro.uwaterloo.ca/courses/syde-750.html) in Winter 2020.
+See [here](https://github.com/astoeckel/syde556-w20) for the lecture notes and slides I prepared for the course.
 
 Prior to joining the CNRG in January 2017, I have been a research assistant at the
 [Cognitronics and Sensor Systems Group](http://www.ks.cit-ec.uni-bielefeld.de/) in Bielefeld,
