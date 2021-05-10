@@ -21,4 +21,5 @@ This year's meetings:
 * Apr 30: Pawel on visual odometry
 * May 7: michael on mutual information sampling with SSPs
 * May 14: thomas master's thesis final talk
+* May 21: nicole on complementary learning paper
 * May 28: pete SYDE seminar presentation
