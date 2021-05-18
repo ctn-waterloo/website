@@ -23,3 +23,6 @@ This year's meetings:
 * May 14: thomas master's thesis final talk
 * May 21: nicole on complementary learning paper
 * May 28: pete SYDE seminar presentation
+* Jun 4: round table
+* Jun 11: nat talk on recent work for syde seminar
+* Jun 18: 
