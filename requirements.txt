@@ -1,4 +1,4 @@
-flask
+flask=1.1.4 
 frozen-flask
 flask-script
 latexcodec>=1.0.4
