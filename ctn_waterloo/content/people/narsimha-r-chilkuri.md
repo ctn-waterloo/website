@@ -6,7 +6,7 @@ title: Masters Student in Systems Design Engineering
 picture: https://i.imgur.com/1CHph6C.jpg
 links:
     - text: CV (May, 2021)
-      url: https://drive.google.com/file/d/1XFJePZODpebNvqsCuc-3ZnlztBtFrLmK/view?usp=sharing
+      url: https://drive.google.com/file/d/17MwLLcgHRb7bVMe7bqJj5eiVlWTTMEl3/view?usp=sharing 
 TBD: MASc Completed.
 
 May 2021: ICML accepted! Started work at [ABR](https://appliedbrainresearch.com/)!
