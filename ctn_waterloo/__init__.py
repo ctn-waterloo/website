@@ -132,7 +132,7 @@ def people_page(slug):
     # Fetch publications by category
     person.book_publications = model.publications(
         author=person['name'],
-        types={"book", "incollection"},
+        types={"book", "incollection", "inbook"},
     )
     person.conference_publications = model.publications(
         author=person['name'],

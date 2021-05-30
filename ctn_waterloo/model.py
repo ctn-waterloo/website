@@ -11,6 +11,7 @@ from .filters import get_headings, lead_paragraph, nice_date, slugify, youtubify
 TYPE_TEXT = {
     'techreport': 'CTN Tech Report',
     'incollection': 'Book Chapter',
+    'inbook': 'Book Chapter',
     'inproceedings': 'Conference Proceedings',
     'proceedings': 'Conference Proceedings',
     'book': 'Book',
