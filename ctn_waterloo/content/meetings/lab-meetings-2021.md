@@ -26,3 +26,4 @@ This year's meetings:
 * Jun 4: round table
 * Jun 11: nat talk on recent work for syde seminar
 * Jun 18: round table
+* Jun 25: round table
