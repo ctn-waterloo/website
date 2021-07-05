@@ -28,6 +28,6 @@ This year's meetings:
 * Jun 18: round table
 * Jun 25: round table
 * Jul 2: cancelled (canada day weekend)
-* Jul 9: roundtable
+* Jul 9: cancelled
 * Jul 16: cancelled (chris away)
 * Jul 23: roundtable
