@@ -1,7 +1,7 @@
 name: Narsimha R. Chilkuri 
 email: nrchilku@uwaterloo.ca 
 one_liner: Deep Learning 
-group: Grad students
+group: Alumnus
 title: Masters Student in Systems Design Engineering 
 picture: https://i.imgur.com/1CHph6C.jpg
 links:
