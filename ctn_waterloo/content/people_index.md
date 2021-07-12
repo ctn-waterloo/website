@@ -1,5 +1,9 @@
 title: People
 alumni:
+    - text: Narsimha R. Chilkuri (2021 Masters)
+      url: people/narsimha-r-chilkuri.html
+    - text: Thomas Lu (2021 Masters)
+      url: people/thomas-lu.html
     - text: Ivana Kajić (2020 PhD)
       url: people/ivana-kajic.html
     - text: Brent Komer (2020 PhD)
