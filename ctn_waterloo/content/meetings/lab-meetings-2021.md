@@ -31,3 +31,8 @@ This year's meetings:
 * Jul 9: cancelled
 * Jul 16: cancelled (chris away)
 * Jul 23: roundtable
+* Jul 30: roundtable
+* Aug 6: pete on oscillators with nicole
+* Aug 13:
+* Aug 20: (last meeting)
+* Aug 27: cancelled (chris away)
