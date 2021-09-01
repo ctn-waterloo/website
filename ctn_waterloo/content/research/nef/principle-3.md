@@ -1,7 +1,5 @@
 title: Principle 3
 
-## Principle 3
-
 > Neural dynamics are characterized by considering neural
 > representations as control theoretic state variables. Thus, the
 > dynamics of neurobiological systems can be analyzed using control
