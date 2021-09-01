@@ -1,7 +1,5 @@
 title: Principle 2
 
-## Principle 2
-
 > Transformations of neural representations are functions of variables
 > that are represented by neural populations. Transformations are
 > determined using an alternately weighted linear decoding (i.e., the
