@@ -8,8 +8,7 @@ title: Comments on Theoretical Neuroscience Books
   6. Arbib, M. A. (ed.) (1995). _The handbook of brain theory and neural networks_. MIT Press.
   7. Kandel, E. R., J. H. Schwartz, and T. M. Jessell (eds.) (1991). _Principles of neural science_. Third Edition. Elsevier.
 
-## 1.  Spikes: Exploring the neural
-code_._
+## 1.  Spikes: Exploring the neural code
 
 ### 1.1  Overview
 
@@ -45,8 +44,7 @@ An additional strength is the many mathematical appendices provided for those
 wishing to get an in-depth look at the methods, assumptions, and tools used
 for generating the results discussed in the main text.
 
-## 2.  Spikes, decisions, and actions:
-Dynamical foundations of neuroscience
+## 2.  Spikes, decisions, and actions: Dynamical foundations of neuroscience
 
 ### 2.1  Overview
 
@@ -83,8 +81,7 @@ exposition of the methods of reduction from high dimensional single cell
 models is most useful. Nowhere else have we found such a good summary of the
 literature in this area.
 
-## 3.  The book of Genesis: Exploring
-realistic neural models with the GEneral NEural SImulation System
+## 3.  The book of Genesis: Exploring realistic neural models with the GEneral NEural SImulation System
 
 ### 3.1  Overview
 
@@ -119,8 +116,7 @@ single neuronal cells. This kind of background is very important to have in
 order to communicate effectively with more biologically oriented computational
 neuroscientists.
 
-## 4.  Biophysics of computation:
-Information processing in single neurons
+## 4.  Biophysics of computation: Information processing in single neurons
 
 ### 4.1  Overview
 
@@ -151,8 +147,7 @@ Seldom are so many of the important issues brought together in a single
 volume. For those wanting to know what computational neuroscientists are
 interested regarding single cells, this book is an unmatched resource.
 
-## 5.  Methods in neuronal modeling: From
-synapses to networks
+## 5.  Methods in neuronal modeling: From synapses to networks
 
 ### 5.1  Overview
 
@@ -179,8 +174,7 @@ good background reading for a number of subjects still central to the
 discipline. The main weakness, from our point of view, is the lack of articles
 on theoretical analysis of systems level networks.
 
-## 6.  The handbook of brain theory and
-neural networks
+## 6.  The handbook of brain theory and neural networks
 
 ### 6.1  Overview
 
