@@ -1,8 +1,5 @@
 title: What is theoretical neuroscience?
 
-## What is theoretical neuroscience?
-
-
 
 In recent years, most of the behavioral sciences have seen a heavy influx of
 influence from the neurosciences. Most obviously, the psychology of only three
