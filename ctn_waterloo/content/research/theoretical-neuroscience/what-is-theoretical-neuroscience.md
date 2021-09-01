@@ -51,8 +51,7 @@ is ever proportional to the motive force impressed; and is made in the
 direction of the right line in which that force is impressed (Newton, 1729,
 p. 19). In short form: F=ma. The purpose of this statement is to make a clear,
 straightforward hypothesis about motion. I describe similar principles in the
-sections [sub:Representation-NEF]-[sub:Dynamics-NEF]???links for neural
-representation, transformation, and dynamics.
+sections about neural [representation](http://compneuro.uwaterloo.ca/research/nef/principle-1.html), [transformation](http://compneuro.uwaterloo.ca/research/nef/principle-2.html), and [dynamics](http://compneuro.uwaterloo.ca/research/nef/principle-3.html).
 
 
 A second analogy between these two subfields is that both are interested in
