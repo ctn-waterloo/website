@@ -1,7 +1,5 @@
 title: Principle 1
 
-## Principle 1
-
 > Neural representations are defined by the combination of nonlinear
 > encoding (exemplified by neuron tuning curves) and weighted linear
 > decoding.
