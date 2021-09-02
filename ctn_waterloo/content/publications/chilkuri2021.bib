@@ -1,8 +1,15 @@
-@article{chilkuri2021parallelizing,
-  title={Parallelizing Legendre Memory Unit Training},
-  author={Chilkuri, Narsimha and Eliasmith, Chris},
-  journal={International Conference on Machine Learning},
-  year={2021},
-  url={http://proceedings.mlr.press/v139/chilkuri21a/chilkuri21a.pdf},
-  abstract={Recently, a new recurrent neural network (RNN) named the Legendre Memory Unit (LMU) was proposed and shown to achieve state-of-the-art performance on several benchmark datasets. Here we leverage the linear time-invariant (LTI) memory component of the LMU to construct a simplified variant that can be parallelized during training (and yet executed as an RNN during inference), thus overcoming a well known limitation of training RNNs on GPUs. We show that this reformulation that aids parallelizing, which can be applied generally to any deep network whose recurrent components are linear, makes training up to 200 times faster. Second, to validate its utility, we compare its performance against the original LMU and a variety of published LSTM and transformer networks on seven benchmarks, ranging from psMNIST to sentiment analysis to machine translation. We demonstrate that our models exhibit superior performance on all datasets, often using fewer parameters. For instance, our LMU sets a new state-of-the-art result on psMNIST, and uses half the parameters while outperforming DistilBERT and LSTM models on IMDB sentiment analysis.}
+@InProceedings{chilkuri2021parallelizing,
+  title = 	 {Parallelizing Legendre Memory Unit Training},
+  author =       {Chilkuri, Narsimha Reddy and Eliasmith, Chris},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {1898--1907},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {18--24 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v139/chilkuri21a/chilkuri21a.pdf},
+  url = 	 {https://proceedings.mlr.press/v139/chilkuri21a.html},
+  abstract = 	 {Recently, a new recurrent neural network (RNN) named the Legendre Memory Unit (LMU) was proposed and shown to achieve state-of-the-art performance on several benchmark datasets. Here we leverage the linear time-invariant (LTI) memory component of the LMU to construct a simplified variant that can be parallelized during training (and yet executed as an RNN during inference), resulting in up to 200 times faster training. We note that our efficient parallelizing scheme is general and is applicable to any deep network whose recurrent components are linear dynamical systems. We demonstrate the improved accuracy of our new architecture compared to the original LMU and a variety of published LSTM and transformer networks across seven benchmarks. For instance, our LMU sets a new state-of-the-art result on psMNIST, and uses half the parameters while outperforming DistilBERT and LSTM models on IMDB sentiment analysis.}
 }
