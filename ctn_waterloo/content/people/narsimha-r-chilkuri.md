@@ -7,7 +7,11 @@ picture: https://i.imgur.com/1CHph6C.jpg
 links:
     - text: CV (May, 2021)
       url: https://drive.google.com/file/d/17MwLLcgHRb7bVMe7bqJj5eiVlWTTMEl3/view?usp=sharing 
-TBD: MASc Completed.
+
+
+October 2021: Submitted work on [scaling laws of LTI systems](https://arxiv.org/pdf/2110.02402.pdf) to ICLR; Started work on non-parametric convolution augmented transformer.
+
+Aug 2021: MASc Completed.
 
 May 2021: ICML accepted! Started work at [ABR](https://appliedbrainresearch.com/)!
 
