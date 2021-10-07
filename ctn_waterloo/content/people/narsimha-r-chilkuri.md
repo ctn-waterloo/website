@@ -9,7 +9,7 @@ links:
       url: https://drive.google.com/file/d/17MwLLcgHRb7bVMe7bqJj5eiVlWTTMEl3/view?usp=sharing 
 
 
-October 2021: Submitted work on [scaling laws of LTI systems](https://arxiv.org/pdf/2110.02402.pdf) to ICLR; Started work on non-parametric convolution augmented transformer.
+Oct 2021: Submitted work on [scaling laws of LTI systems](https://arxiv.org/pdf/2110.02402.pdf) to ICLR; Started work on non-parametric convolution augmented transformer.
 
 Aug 2021: MASc Completed.
 
