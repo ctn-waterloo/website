@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Andreas Stöckel (2021 PhD)
+      url: people/andreas-stoeckel.html
     - text: Narsimha R. Chilkuri (2021 Masters)
       url: people/narsimha-r-chilkuri.html
     - text: Thomas Lu (2021 Masters)

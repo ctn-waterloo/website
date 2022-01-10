@@ -1,8 +1,8 @@
 name: Andreas Stöckel
 email: astoecke@uwaterloo.ca
 one_liner: Biological detail and adaptive filters
-group: Grad students
-title: PhD Candidate in Computer Science
+group: Alumnus
+title: PhD Student
 picture: https://avatars1.githubusercontent.com/u/1783545?v=3
 links: 
     - text: GitHub
@@ -23,6 +23,8 @@ Regarding my work on adaptive filtering, I am focusing on predictive neural netw
 
 Apart from these focus areas, I am interested in a broad range of topics including–but not limited to
 –neuromorphic hardware, neurorobotics, and unsupervised learning strategies.
+
+I defended my PhD thesis in December 2021; please find my thesis [here](http://hdl.handle.net/10012/17850).
 
 I have been teaching [SYDE 556/750 "Simulating Neurobiological Systems"](http://compneuro.uwaterloo.ca/courses/syde-750.html) in Winter 2020.
 See [here](https://github.com/astoeckel/syde556-w20) for the lecture notes and slides I prepared for the course.
