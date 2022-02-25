@@ -5,3 +5,4 @@ latexcodec>=1.0.4
 markdown==2.6.11
 pyyaml
 pybtex==0.21.0
+markupsafe==2.0.1
