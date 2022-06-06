@@ -1,0 +1,77 @@
+#!/usr/bin/python3
+
+import os
+import sys
+import datetime
+from subprocess import check_output
+
+import pybtex.database
+
+def blank_check(line):
+    return line in ['\n', '\r\n']
+
+def missing_comma_check(line):
+    return (not line.startswith('}')) and (not line.endswith(','))
+
+def unbalanced_braces_check(line):
+    num_open = line.count('{')
+    num_close = line.count('}')
+    return (not num_open == num_close) and not (line.startswith('@') or line.startswith('}'))
+
+def check_lines(filename):
+    fault = 0
+    blank_lines = []
+    missing_commas = []
+    unbalanced_braces = []
+    for line_idx, line in enumerate(open(filename, 'r').readlines()):
+        if blank_check(line):
+            blank_lines.append(line_idx)
+        if missing_comma_check(line.strip()):
+            missing_commas.append(line_idx)
+        if unbalanced_braces_check(line):
+            unbalanced_braces.append(line_idx)
+        ### end if
+    ### end for
+    return blank_lines, missing_commas, unbalanced_braces
+### end has_blank_lines
+
+changed = check_output(['git', 'diff', '--cached', '--name-only'])
+changed = changed.decode('utf-8').split('\n')
+
+fault = 0
+for filename in changed:
+    file_fault = 0
+    try:
+        print(filename)
+        if not filename.endswith('.bib'):
+            continue
+
+        blank_lines, bad_comma_lines, bad_braces = check_lines(filename)
+        file_fault = len(blank_lines) > 0 or len(bad_comma_lines) > 0 or len(bad_braces) > 0
+
+        if file_fault:
+            fault = 1
+            print(f'PROBLEMS: In {filename}:\n\t Lines {blank_lines} are blank.\n\t Lines {bad_comma_lines} are missing an ending comma.\n\t Lines {bad_braces} have an unequal number of open and close braces\n')
+            if len(bad_braces) > 0:
+                print('Reminder: The closing brace for the bibtex entry should be on its own line.\n')
+
+
+        # check pybtex parsing
+        file_data = str(open(filename, 'r').read()) 
+        try:
+            bib_data = pybtex.database.parse_string(file_data, 'bibtex')
+        except Exception as e:
+            fault = 1
+            print(f'ERROR: pybtex was unable to parse {filename}. \nIt reported the error: {e}')
+
+    except Exception as e:
+        print(f'Error while processing {filename}')
+        raise e
+    ### end try
+### end for
+
+# Default is to fail.
+if not fault:
+    sys.exit(0)
+
+sys.exit(-1)
