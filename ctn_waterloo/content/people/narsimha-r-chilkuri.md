@@ -9,7 +9,9 @@ links:
       url: https://drive.google.com/file/d/17MwLLcgHRb7bVMe7bqJj5eiVlWTTMEl3/view?usp=sharing 
 
 
-Oct 2021: Submitted work on [scaling laws of LTI systems](https://arxiv.org/pdf/2110.02402.pdf) to ICLR; Started work on non-parametric convolution augmented transformer.
+Jun 2022: [Debugging using Orthogonal Descent](https://arxiv.org/abs/2206.08489), [Workshop on Updatable Machine Learning, ICML 2022](https://upml2022.github.io/)
+
+Oct 2021: Submitted work on [scaling laws of LTI systems](https://arxiv.org/pdf/2110.02402.pdf) to ICLR; Started work on non-parametric convolution augmented transformer; (update: iclr rejected)
 
 Aug 2021: MASc Completed.
 
