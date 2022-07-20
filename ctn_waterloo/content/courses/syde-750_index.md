@@ -1,7 +1,7 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Winter 2020.
+    Course information for SYDE 556/750, taught Fal 2022.
 people:
     - Chris Eliasmith
     - Terry Stewart
@@ -15,19 +15,19 @@ toc:
 See the [course outline](/courses/syde-750/syde-556-course-outline.html) for more information.
 
 -   **Instructor**  
-    Andreas Stöckel  
-    Office: E7-6342 (office hours in E7-6323)  
-    Email: [astoecke@uwaterloo.ca](astoecke@uwaterloo.ca)  
+    Chris Eliasmith  
+    Office: E7-6324   
+    Email: [celiasmith@uwaterloo.ca](celiasmith@uwaterloo.ca)  
     Website:
-    <http://compneuro.uwaterloo.ca/people/andreas-stoeckel.html>
+    <http://compneuro.uwaterloo.ca>
 
 -   **Course times and location**
-    -   Tuesday: 11:30-12:50 in E5-4106 (SYDE 556/750)
-    -   Thursday: 9:00-10:20 in E5-6004 (SYDE 556/750)
-    -   Thursday: 10:30-11:20 in E5-6127 (SYDE 750, optional for 556)
+    -   Wednesday: 11:00-11:50 in E5-6008 (SYDE 750, optional for 556)
+    -   Thursday: 4:00-5:20 in E5-6008 (SYDE 556/750)
+    -   Friday: 3:30-4:50 in E5-6008 (SYDE 556/750)
 
 -   **Office hours**
-    -   Please make an appointment by email! We can video chat using Microsoft Skype or Google Hangouts.
+    -   Please make an appointment by email.
 
 * * *
 
