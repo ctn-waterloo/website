@@ -196,7 +196,7 @@ title: SYDE 556 Course Outline
 <td>Nov 4</td>
 <td><em>Chapter 7</em></td>
 <td>Analysing Representations</td>
-<td>#3 due (Fri, 6th)*</td>
+<td>#3 due*</td>
 </tr>
 <tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 10</th>
