@@ -3,44 +3,38 @@ title: SYDE 556 Course Outline
 ## General Information
 
 -   **Course title**  
-    Simulating Neurobiological Systems (SYDE 556/750 topic 8)
+    Simulating Neurobiological Systems (SYDE 556/750)
 
 -   **Course website**  
-    Links to all course material, including slides and these lecture
+    Links to all course material, including lecture
     notes and slides can be found at the following URLs:
 
     -   <http://compneuro.uwaterloo.ca/courses/syde-750.html>
 
-    -   <https://github.com/astoeckel/syde556-w20>
+    -   <https://github.com/celiasmith/syde556-f22>
 
     *Note:* Any material on GitHub should be considered “preliminary”
-    until officially linked at from the course website. Until then, the
+    until officially linked at from the github README. Until then, the
     material is still subject to change.
 
 -   **Instructor**  
-    Andreas Stöckel  
-    Office: E7-6342 (office hours in E7-6323)  
-    Email: [astoecke@uwaterloo.ca](astoecke@uwaterloo.ca)  
+    Chris Eliasmith  
+    Office: E7-6324   
+    Email: [celiasmith@uwaterloo.ca](celiasmith@uwaterloo.ca)  
     Website:
-    <http://compneuro.uwaterloo.ca/people/andreas-stoeckel.html>
+    <http://compneuro.uwaterloo.ca>
 
 -   **Course times and location**
 
-    -   Tuesday: 11:30-12:50 in E5-4106 (SYDE 556/750)
+    -   Wednesday: 11:00-11:50 in E5-6008 (SYDE 750, optional for 556)
 
-    -   Thursday: 9:00-10:20 in E5-6004 (SYDE 556/750)
+    -   Thursday: 4:00-5:20 in E5-6008 (SYDE 556/750)
 
-    -   Thursday: 10:30-11:20 in E5-6127 (SYDE 750, optional for 556)
+    -   Friday: 3:30-4:50 in E5-6008 (SYDE 556/750)
 
 -   **Office hours**
 
-    -   Office hours are generally in E7-6323 (this is a larger
-        conference room).
-
-    -   Time yet to be determined, one fixed office hour per week.
-
-    -   Alternatively, if that time doesn’t work for you, by
-        appointment.
+    -   By appointment
 
 -   **Readings**
 
@@ -76,13 +70,13 @@ title: SYDE 556 Course Outline
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 1</th>
 </tr>
 <tr class="even">
-<td>Jan 7</td>
+<td>Sept 8</td>
 <td>Chapter 1</td>
 <td>Introduction</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Jan 9</td>
+<td>Sept 9</td>
 <td>Chapter 2</td>
 <td>Neurons</td>
 <td></td>
@@ -91,13 +85,13 @@ title: SYDE 556 Course Outline
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 2</th>
 </tr>
 <tr class="odd">
-<td>Jan 14</td>
+<td>Sept 15</td>
 <td>Chapter 2</td>
 <td>Population Representation (I)</td>
 <td>#1 posted</td>
 </tr>
 <tr class="even">
-<td>Jan 16</td>
+<td>Sept 16</td>
 <td>Chapter 2</td>
 <td>Population Representation (II)</td>
 <td></td>
@@ -106,13 +100,13 @@ title: SYDE 556 Course Outline
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 3</th>
 </tr>
 <tr class="even">
-<td>Jan 21</td>
+<td>Sept 22</td>
 <td>Chapter 4</td>
 <td>Temporal Representation (I)</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Jan 23</td>
+<td>Sept 23</td>
 <td>Chapter 4</td>
 <td>Temporal Representation (II)</td>
 <td></td>
@@ -121,13 +115,13 @@ title: SYDE 556 Course Outline
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 4</th>
 </tr>
 <tr class="odd">
-<td>Jan 28</td>
+<td>Sept 29</td>
 <td>Chapters 5, 6</td>
 <td>Feedforward Transformations (I)</td>
 <td>#2 posted</td>
 </tr>
 <tr class="even">
-<td>Jan 30</td>
+<td>Sept 30</td>
 <td>Chapters 5, 6</td>
 <td>Feedforward Transformations (II)</td>
 <td>#1 due*</td>
@@ -136,13 +130,13 @@ title: SYDE 556 Course Outline
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 5</th>
 </tr>
 <tr class="even">
-<td>Feb 4</td>
+<td>Oct 6</td>
 <td>Chapter 8</td>
 <td>Nengo Tutorial</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Feb 6</td>
+<td>Oct 7</td>
 <td>Chapter 8</td>
 <td>Dynamics (I)</td>
 <td></td>
@@ -150,118 +144,125 @@ title: SYDE 556 Course Outline
 <tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 6</th>
 </tr>
+<tr class="even">
+<td colspan="4" style="text-align: center; font-style: italic;">― Reading week, no lectures ―</td>
+</tr>
 <tr class="odd">
-<td>Feb 11</td>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 7</th>
+</tr>
+<tr class="even">
+<td>Oct 20</td>
 <td>Chapter 8</td>
 <td>Dynamics (II)</td>
 <td>#3 posted</td>
 </tr>
-<tr class="even">
-<td>Feb 13</td>
+<tr class="odd">
+<td>Oct 21</td>
 <td><em>see notes</em></td>
 <td>Temporal Basis Functions</td>
 <td>#2 due*</td>
 </tr>
-<tr class="odd">
-<td>Feb 14</td>
+<tr class="even">
+<td>Oct 21</td>
 <td></td>
 <td></td>
 <td>Project proposal due</td>
-</tr>
-<tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 7</th>
-</tr>
-<tr class="even">
-<td colspan="4" style="text-align: center; font-style: italic;">― Reading week, no lectures ―</td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 8</th>
 </tr>
 <tr class="even">
-<td>Feb 25</td>
+<td>Oct 27</td>
 <td><em>Chapter 9</em></td>
 <td>Learning (I)</td>
 <td></td>
 </tr>
-<tr class="odd">
-<td>Feb 27</td>
+<tr class="even">
+<td>Oct 28</td>
 <td><em>Chapter 9</em></td>
 <td>Learning (II)</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 9</th>
 </tr>
-<tr class="odd">
-<td>Mar 3</td>
+<tr class="even">
+<td>Nov 3</td>
 <td><em>Chapter 9</em></td>
 <td>Learning (III)</td>
 <td>#4 posted</td>
 </tr>
-<tr class="even">
-<td>Mar 5</td>
+<tr class="odd">
+<td>Nov 4</td>
 <td><em>Chapter 7</em></td>
 <td>Analysing Representations</td>
 <td>#3 due (Fri, 6th)*</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 10</th>
 </tr>
-<tr class="even">
-<td>Mar 10</td>
+<tr class="odd">
+<td>Nov 10</td>
 <td><em>provided</em></td>
 <td>Symbols (I)</td>
 <td></td>
 </tr>
-<tr class="odd">
-<td>Mar 12</td>
+<tr class="even">
+<td>Nov 11</td>
 <td><em>provided</em></td>
 <td>Symbols (II)</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 11</th>
 </tr>
-<tr class="odd">
-<td>Mar 17, Mar 19</td>
-<td colspan="2"><strong>CLASSES CANCELLED</strong></td>
-<td></td>
+<tr class="even">
+<td>Nov 17</td>
+<td><em>provided</em></td>
+<td>SPA (I, Working Memory)</td>
+<td>#5 posted</td>
 </tr>
 <tr class="odd">
+<td>Nov 18</td>
+<td><em>provided</em></td>
+<td>SPA (II, Action Selection)</td>
+<td>#4 due*</td>
+</tr>
+<tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 12</th>
 </tr>
 <tr class="even">
-<td>Mar 24</td>
+<td>Nov 24</td>
 <td><em>provided</em></td>
-<td>SPA (I, Working Memory)</td>
-<td>#4 due*</td>
+<td>Biological Details</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td>Mar 26</td>
-<td><em>provided</em></td>
-<td>SPA (II, Action Selection)</td>
+<td>Nov 25</td>
+<td></td>
+<td>Conclusion</td>
 <td></td>
 </tr>
 <tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 13</th>
 </tr>
 <tr class="even">
-<td>Mar 31</td>
-<td><em>provided</em></td>
-<td>Biological Details</td>
+<td>Dec 1</td>
+<td></td>
+<td>Project Presentations</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Apr 2</td>
+<td>Dec 2</td>
 <td></td>
-<td>Conclusion</td>
-<td></td>
+<td>Project Presentations</td>
+<td>#5 due*</td>
 </tr>
 <tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 15</th>
 </tr>
 <tr class="odd">
-<td>Apr 15</td>
+<td>Dec 18</td>
 <td></td>
 <td></td>
 <td>Projects due*</td>
@@ -277,7 +278,7 @@ that day.
 
 ## Grading
 
-The course requires four assignments (60%) and a final project (40%). Assignments are due electronically by  _Midnight_ of the due date. Late assignments lose 1 mark per day and may be at most seven days late. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
+The course requires five assignments from all students (100% for 556, 80% for 750) and a final project (20%) from students taking 750. Assignments are due electronically by  _Midnight_ of the due date. Late assignments lose 1 mark per day and may be at most seven days late. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
 
 ## Learning Objectives
 
