@@ -33,7 +33,7 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 
 ## Lecture Notes and Assignments
 
-All lecture notes and assignments are available on [github](https://github.com/celiasmith/syde556-f22)). The lecture notes will be posted there before each class. While everything is available earlier on github, all material is subject to change until it is explicitly linked from the github README.
+All lecture notes and assignments are available on [github](https://github.com/celiasmith/syde556-f22). The lecture notes will be posted there before each class. While everything is available earlier on github, all material is subject to change until it is explicitly linked from the github README.
   
 * * *
 
