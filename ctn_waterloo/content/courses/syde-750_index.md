@@ -1,7 +1,7 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Winter 2020.
+    Course information for SYDE 556/750, taught Fal 2022.
 people:
     - Chris Eliasmith
     - Terry Stewart
@@ -15,234 +15,25 @@ toc:
 See the [course outline](/courses/syde-750/syde-556-course-outline.html) for more information.
 
 -   **Instructor**  
-    Andreas Stöckel  
-    Office: E7-6342 (office hours in E7-6323)  
-    Email: [astoecke@uwaterloo.ca](astoecke@uwaterloo.ca)  
+    Chris Eliasmith  
+    Office: E7-6324   
+    Email: [celiasmith@uwaterloo.ca](celiasmith@uwaterloo.ca)  
     Website:
-    <http://compneuro.uwaterloo.ca/people/andreas-stoeckel.html>
+    <http://compneuro.uwaterloo.ca>
 
 -   **Course times and location**
-    -   Tuesday: 11:30-12:50 in E5-4106 (SYDE 556/750)
-    -   Thursday: 9:00-10:20 in E5-6004 (SYDE 556/750)
-    -   Thursday: 10:30-11:20 in E5-6127 (SYDE 750, optional for 556)
+    -   Wednesday: 11:00-11:50 in E5-6008 (SYDE 750, optional for 556)
+    -   Thursday: 4:00-5:20 in E5-6008 (SYDE 556/750)
+    -   Friday: 3:30-4:50 in E5-6008 (SYDE 556/750)
 
 -   **Office hours**
-    -   Please make an appointment by email! We can video chat using Microsoft Skype or Google Hangouts.
-
--   **Due dates**
-    * Jan 30: Assignment #1 (due at midnight) (20%)
-    * Feb 13: Assignment #2 (due at midnight) (20%) 
-    * Mar 6: Assignment #3 (due at midnight) (10%)
-    * Mar 24: Assignment #4 (due at midnight) (10%)
-    * Apr 2: One-page intermediate project report (due at midnight) (-10 marks if not submitted by the *sharp* deadline)
-    * Apr 15: Final Project (due at midnight) (40%)
-
+    -   Please make an appointment by email.
 
 * * *
 
-## Lecture Notes
+## Lecture Notes and Assignments
 
-The in-class lecture notes will be posted here before each class.
-
-### Lecture 0 ― Administrative Remarks ― January 7
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)]
-
--   **Slides (Annotated)**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_slides_annotated.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_slides_annotated.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
-
-### Lecture 1 ― Introduction ― January 7, 9
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
-
-### Lecture 2 ― Neurons ― January 9, 14
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)]
-
--   **Slides (Annotated)**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_02/syde556_lecture_02_slides_annotated.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_02/syde556_lecture_02_slides_annotated.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)]
-
-### Lecture 3 ― Representation ― January 14, 16, 21
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)]
-
-
-### Lecture 4 ― Temporal Representation ― January 23, 28
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_04/syde556_lecture_04_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_04/syde556_lecture_04_slides_distr.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_04/syde556_lecture_04_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_04/syde556_lecture_04_notes.pdf)]
-
-
-### Lecture 5 ― Feed-Forward Transformation ― January 30
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_05/syde556_lecture_05_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_05/syde556_lecture_05_notes.pdf)]
-
-### Lecture 6 ― Recurrent Dynamics ― February 4, 6, 11
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_06/syde556_lecture_06_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_06/syde556_lecture_06_slides_distr.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_06/syde556_lecture_06_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_06/syde556_lecture_06_notes.pdf)]
-
-### Lecture 7 ― Temporal Basis Functions ― February 13
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_07/syde556_lecture_07_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_07/syde556_lecture_07_slides_distr.pdf)]
-
--   **Notes (incomplete)**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_07/syde556_lecture_07_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_07/syde556_lecture_07_notes.pdf)]
-
-### Lecture 8 ― Learning ― February 25, 27; March 3
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_08/syde556_lecture_08_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_08/syde556_lecture_08_slides_distr.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_08/syde556_lecture_08_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_08/syde556_lecture_08_notes.pdf)]
-
-### Lecture 9 ― Analysing Representation ― March 5
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_09/syde556_lecture_09_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_09/syde556_lecture_09_slides_distr.pdf)]
-
--   **Notes (incomplete)**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_09/syde556_lecture_09_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_09/syde556_lecture_09_notes.pdf)]
-
-### Lecture 10 ― Symbols and Symbol-like Representations ― March 10, 12
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_10/syde556_lecture_10_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_10/syde556_lecture_10_slides_distr.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_10/syde556_lecture_10_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_10/syde556_lecture_10_notes.pdf)]
-
-### Lecture 11 ― The Semantic Pointer Architecture ― March 24, 26
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_11/syde556_lecture_11_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_11/syde556_lecture_11_slides_distr.pdf)]
-
--   **Notes (incomplete)**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_11/syde556_lecture_11_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_11/syde556_lecture_11_notes.pdf)]
-
-### Lecture 12 ― Biological Details ― March 31
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_12/syde556_lecture_12_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_12/syde556_lecture_12_slides_distr.pdf)]
-
--   **Notes**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_12/syde556_lecture_12_notes.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_12/syde556_lecture_12_notes.pdf)]
-
-### Lecture 13 ― Conclusion ― April 2
-
--   **Slides**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/lectures/lecture_13/syde556_lecture_13_slides_distr.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/lectures/lecture_13/syde556_lecture_13_slides_distr.pdf)]
-
-
-
-* * *
-
-##  Assignments
-
-The four assignments will be posted here.
-
- * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
- * Each student must write their own code and submit their own assignment.
- * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late. You may be at most seven days late.
- * **Please read and follow the instructions regarding submission posted on the front page of each assignment.**
-
-### Assignment 1 ― due Thursday, January 30
-
--   **Instructions**  
-  [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_01/syde556_assignment_01.pdf)]
-  [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_01/syde556_assignment_01.pdf)]
-
--   **Jupyter Notebook Template**  
-  [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_01/syde556_assignment_01_template.ipynb)]
-  [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_01/syde556_assignment_01_template.ipynb)]
-
-### Assignment 2 ― due Thursday, February 13
-
--   **Instructions**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_02/syde556_assignment_02.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_02/syde556_assignment_02.pdf)]
-
--   **Jupyter Notebook Template**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_02/syde556_assignment_02_template.ipynb)]
-    [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_02/syde556_assignment_02_template.ipynb)]
-
-### Assignment 3 ― due Friday, March 6
-
--   **Instructions**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_03/syde556_assignment_03.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_03/syde556_assignment_03.pdf)]
-
--   **Jupyter Notebook Template**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_03/syde556_assignment_03_template.ipynb)]
-    [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_03/syde556_assignment_03_template.ipynb)]
-
-### Assignment 4 ― due Tuesday, March 24
-
--   **Instructions**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_04/syde556_assignment_04.pdf)]
-    [[Download PDF](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_04/syde556_assignment_04.pdf)]
-
--   **Jupyter Notebook Template**  
-    [[Preview](https://github.com/astoeckel/syde556-w20/blob/master/assignments/assignment_04/syde556_assignment_04_template.ipynb)]
-    [[Download Jupyter Notebook](https://github.com/astoeckel/syde556-w20/raw/master/assignments/assignment_04/syde556_assignment_04_template.ipynb)]
-
+All lecture notes and assignments are available on [github](https://github.com/celiasmith/syde556-f22). The lecture notes will be posted there before each class. While everything is available earlier on github, all material is subject to change until it is explicitly linked from the github README.
   
 * * *
 
@@ -251,7 +42,8 @@ The four assignments will be posted here.
 The final project for the course consists of picking a neurobiological system and
 building a model for it.  There is a list of possible projects, expectations for the project and more info at [this link](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
-Please have your projects approved by me by the end of Reading Week.  To do so, you will need to submit a short summary of your project by Feb 24th.
+Please have your projects approved by Oct 28th.  To do so, you will need to submit a short summary of your project by Oct 21st. Have a look at [this document](
+https://raw.githubusercontent.com/celiasmith/syde556-f22/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information
 
 ### Project Format
 
@@ -261,13 +53,12 @@ Implementation), see the [project page](http://compneuro.uwaterloo.ca/courses/sy
 
 The final document should be between, at least ten, and (at the very most) twenty content pages at 12pt, 1.25 line spacing. Have a look at the following project template for more information.
 
-* **[Project Report Template PDF File](https://github.com/astoeckel/syde556-w20/raw/master/project/template/syde556_project_template.pdf)**  
+* **[Project Report Template PDF File](https://github.com/celiasmith/syde556-f22/raw/master/project/template/syde556_project_template.pdf)**  
   Contains some advice on how to structure the report, the formating, as well as some example uses of LaTeX.
-* **[Project Report Template Source ZIP File](https://github.com/astoeckel/syde556-w20/raw/master/project/template.zip)**  
-  Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service souch as Overleaf.
+* **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-f22/raw/master/project/template.zip)**  
+  Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service such as Overleaf.
 
-*Update:* Instead of a presentation, students are expected to provide a short, one-page "intermediate" project report by Apr 2, 2020. While this intermediate report is not marked, not submitting a report by the deadline will result in a -10 mark penalty (25% of the final project). Have a look at [this document](
-https://raw.githubusercontent.com/astoeckel/syde556-w20/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information.
+Students are expected to provide a short, 5-10 min project presentation on the last two days of class. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f22/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
 
 
 * * *
@@ -277,8 +68,7 @@ https://raw.githubusercontent.com/astoeckel/syde556-w20/master/project/interim_r
 Two lectures per week and homework assignments consisting of computer
 exercises using Python. For SYDE 750 a larger class project is required, usually a
 computer simulation developed based on significant neuroscientific research
-and/or collaboration with a neurophysiologist. For SYDE 556 a class project
-based on an in class/text example is required. This course examines a general
+and/or collaboration with a neurophysiologist. This course examines a general
 framework for modeling computation by neurobiological systems with an emphasis
 on quantitative formulations. Particular emphasis will be placed on
 understanding computation, representation, and dynamics in such systems.
@@ -290,7 +80,7 @@ cognitive systems.
 
 ## Course Prerequisites
 
-Knowing how to program with matrices using Python or some other language is highly 
+Knowing how to program with matrices using Python is highly 
 recommended. Familiarity with Fourier Transforms and other signal processing concepts is recommended.
 Familiarity with calculus and linear algebra is required.
 
