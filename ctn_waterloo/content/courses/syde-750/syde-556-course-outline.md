@@ -20,9 +20,14 @@ title: SYDE 556 Course Outline
 -   **Instructor**  
     Chris Eliasmith  
     Office: E7-6324   
-    Email: [celiasmith@uwaterloo.ca](celiasmith@uwaterloo.ca)  
+    Email: [ns2dumont@uwaterloo.ca](ns2dumont@uwaterloo.ca)  
     Website:
     <http://compneuro.uwaterloo.ca>
+    
+-   **Teaching Assistant**
+    Nicole Dumont
+    Office: E7-6339
+    Email: [celiasmith@uwaterloo.ca](celiasmith@uwaterloo.ca) 
 
 -   **Course times and location**
 
