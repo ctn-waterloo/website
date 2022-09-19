@@ -20,6 +20,11 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
     Email: [celiasmith@uwaterloo.ca](celiasmith@uwaterloo.ca)  
     Website:
     <http://compneuro.uwaterloo.ca>
+    
+-   **Teaching Assistant**  
+    Nicole Dumont  
+    Office: E7-6339  
+    Email: [ns2dumont@uwaterloo.ca](ns2dumont@uwaterloo.ca)  
 
 -   **Course times and location**
     -   Wednesday: 11:00-11:50 in E5-6008 (SYDE 750, optional for 556)
