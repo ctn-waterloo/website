@@ -13,6 +13,6 @@ This year's meetings:
 * Sept 30: Sindi method (Nat)
 * Oct 7: Amygdala model results (Pete)
 * Oct 14: no meeting (reading week)
-* Oct 21: round table
-* Oct 28:
+* Oct 21: deepmind paper on [RL for matrix multiply](https://www.nature.com/articles/s41586-022-05172-4)
+* Oct 28: round table
 * Nov 4: 
