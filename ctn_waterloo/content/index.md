@@ -2,7 +2,7 @@ title: Introduction
 teaser:
   - <a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/"><em>How to Build a Brain</em></a> is available
 teaser_image: http://compneuro.uwaterloo.ca/files/htbab.jpg
-video: Y11sTKgC0Ys
+video: P_WRCyNQ9KY
 
 Welcome to the Computational Neuroscience Research Group (CNRG) site. We are
 one of the labs in the Waterloo [Centre for Theoretical Neuroscience](http://ctn.uwaterloo.ca/).
