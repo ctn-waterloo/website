@@ -24,4 +24,4 @@ You can [download](http://nengo.ca/publications/spaunsciencepaper) our
 Science paper called "A large-scale model of the functioning brain", or any of
 our [other publications](/publications.html).
 
-<center><img src="http://i.imgur.com/XB6kPAP.jpg" alt="Lab Photo" /></center>
+<center><img src="http://i.imgur.com/yxWzoWA.jpg" alt="Lab Photo" /></center>
