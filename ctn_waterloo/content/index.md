@@ -1,7 +1,7 @@
 title: Introduction
 teaser:
-  - <a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/"><em>How to Build a Brain</em></a> is available
-teaser_image: http://compneuro.uwaterloo.ca/files/htbab.jpg
+  - Home of the <em>Neural Engineering Framework</em> and <a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/"><em>How to Build a Brain</em></a>.
+teaser_image: https://i.imgur.com/dqOwB1H.png
 video: P_WRCyNQ9KY
 
 Welcome to the Computational Neuroscience Research Group (CNRG) site. We are
@@ -11,17 +11,15 @@ We are interested in understanding how the brain works. We research
 perception, action, cognition, and basic theoretical issues from a neural
 perspective. Most of this research is carried out by building large-scale
 models (usually simulating single neurons) of various brain areas. The main
-software tool we use and develop for this purpose is
-[Nengo](http://www.nengo.ca/). The book _How to build a brain_, which
-summarizes our work before 2013, is now [available at
-Amazon](http://www.amazon.com/How-Build-Brain-Architecture-
-Architectures/dp/0199794545/).
+software tool we use and developed for this purpose is
+[Nengo](http://nengo.ai/). The books _Neural Engineering_ and _How to build a brain_ summarize the main
+theoretical approaches we take. We recently proposed the Legendre Memory Unit (LMU) and Spatial Semantic Pointers (SSPs)
+based on our understanding of brain function. Both are helping to improve deep learning.
+
 We are currently offering the
-[Nengo summer school](http://nengo.ca/summerschool)
+[Nengo summer school](https://www.nengo.ai/summer-school)
 on how to use Nengo to build large-scale brain models.
 
-You can [download](http://nengo.ca/publications/spaunsciencepaper) our 
-Science paper called "A large-scale model of the functioning brain", or any of
-our [other publications](/publications.html).
+You can find and download our [publications](/publications.html) on this site.
 
 <center><img src="http://i.imgur.com/yxWzoWA.jpg" alt="Lab Photo" /></center>
