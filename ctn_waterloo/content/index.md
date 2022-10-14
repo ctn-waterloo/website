@@ -1,7 +1,7 @@
 title: Introduction
 teaser:
   - Home of the <br><ahref="http://compneuro.uwaterloo.ca/research/nef.html"><em>Neural Engineering Framework</em></a><br> and <br><a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/"><em>How to Build a Brain</em></a>.
-teaser_image: https://i.imgur.com/dqOwB1H.png
+teaser_image: https://i.imgur.com/dqOwB1H.png?1
 video: P_WRCyNQ9KY
 
 Welcome to the Computational Neuroscience Research Group (CNRG) site. We are
