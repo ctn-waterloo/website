@@ -16,6 +16,6 @@ This year's meetings:
 * Oct 21: deepmind paper on [RL for matrix multiply](https://www.nature.com/articles/s41586-022-05172-4)
 * Oct 28: round table
 * Nov 4: Nicole comprehensive practice talk
-* Nov 11: Hopfield networks is all you need blog/paper
+* Nov 11: Hopfield networks is all you need [blog](https://ml-jku.github.io/hopfield-layers/)/[paper](https://arxiv.org/pdf/2008.02217.pdf)
 * Nov 18: round table
 * Nov 25:
