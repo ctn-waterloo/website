@@ -21,8 +21,8 @@ This year's meetings:
 * Nov 25: Hopfield networks (round 2)
 * Dec 2: Round table
 * Dec 9: Continuous time neural nets [paper](https://www.nature.com/articles/s42256-022-00556-7)
-* Dec 16: Reward and efficient coding [paper](https://www.biorxiv.org/content/10.1101/2022.11.03.515104v1)
+* Dec 16: round table
 * Jan 9: round table
 * Jan 16: Brain sciences paper (maddy, nicole, chris, terry)
 * Jan 23: Large language models survey (terry)
-* Jan 30:
+* Jan 30: Reward and efficient coding [paper](https://www.biorxiv.org/content/10.1101/2022.11.03.515104v1)
