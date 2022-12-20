@@ -27,7 +27,7 @@ readings. Include at least one reference to the readings.
 ### Midterm Essay
 
 Length: 5 pages (1500 words)
-Essay due date: Oct 30
+Essay due date: Mar 2, 2023
 
 For the midterm essay you should provide a critical analysis of this definition of intelligence.
 
@@ -38,8 +38,8 @@ A *critical analysis* should discuss both the strengths and weaknesses of the ta
 ### Final Essay
 
 Length: 10 pages (3000 words)
-Topic due date: Nov 13
-Essay due date: Dec 4
+Topic due date: Mar 16, 2023
+Essay due date: Apr 21, 2023
 
 The final essay will require the defence of a hypothesis regarding the relative strengths and weaknesses of 3 different intelligent systems, one each of human, animal, and machine. A 1-2 sentence formulation must be emailed to the course email for approval by the topic deadline. Once approved the topic will be [posted to the website](/courses/cogsci-300/cogsci-300-final-essay-topics.html) and no longer available. Check the website before submitting your topic for approval.
 
@@ -90,7 +90,7 @@ The crucial part is to assemble evidence and argue for the alternative that is b
 **C.** Propose your own topic. Submit a proposal (maximum 1-page) in class by the topic deadline indicating the question you want to answer and some relevant sources.
 
 ### Use of pronouns
-Avoid gender-biased pronouns such as the generic "he" or "she". Try not use "they" or "their" as singular. In English, gender neutrality can almost always be achieved by using plurals. Example: "When people care about their friends" instead of "If someone cares about his friends" or "If someone cares about their friends".
+Avoid gender-biased pronouns such as the generic "he" or "she". In English, gender neutrality can almost always be achieved by using plurals. Example: "When people care about their friends" instead of "If someone cares about his friends" or "If someone cares about their friends".
 
 ### William Safire's rules for good writing
 No sentence fragments. Avoid run-on sentences they are hard to read. A writer must not shift your point of view. Reserve the apostrophe for it's proper use and omit it when its not needed. Write all adverbial forms correct. In their writing, everyone should make sure that their pronouns agree with its antecedent. Use the semicolon properly, use it between complete but related thoughts; and not between an independent clause and a mere phrase. Don't use no double negatives. Also, avoid awkward or affected alliteration. If I've told you once, I've told you a thousand times: Resist hyperbole. If any word is improper at the end of a sentence, a linking verb is. Avoid commas, that are not necessary. Verbs has to agree with their subjects. Avoid trendy locutions that sound flaky. And don't start a sentence with a conjunction. The passive voice should never be used. Writing carefully, dangling participles should be avoided. Unless you are quoting other people's exclamations, kill all exclamation points!!! Never use a long word when a diminutive one will do. Proofread carefully to see if you any words out. Use parallel structure when you write and in speaking. You should just avoid confusing readers with misplaced modifiers. Place pronouns as close as possible, especially in long sentences-such as those of ten or more words-to their antecedents. Eschew dialect, irregardless. Remember to never split an infinitive. Take the bull by the hand and don't mix metaphors. Don't verb nouns. Always pick on the correct idiom. Never, ever use repetitive redundancies. "Avoid overuse of 'quotation "marks."'" Never use prepositions to end a sentence with. Last but not least, avoid clichés like the plague.
