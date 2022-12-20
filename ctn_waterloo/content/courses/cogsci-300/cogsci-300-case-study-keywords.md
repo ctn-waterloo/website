@@ -7,40 +7,40 @@ The following is a list of keywords to identify case study topics.  If the keywo
 ### Keywords
 
  - Clarissa (NASA)
- - <s>ELIZA (chatbot)</s>
- - <s>Wolfram Alpha</s>
+ - ELIZA (chatbot)
+ - Wolfram Alpha
  - AI XPrize
  - Temple Grandin
  - Cleverbot
- - <s>Dreyfus (critique of AI)</s>
+ - Dreyfus (critique of AI)
  - Wechsler Test
  - SHRDLU (Winograd)
  - Marilyn Vos Savant
  - dogs
- - <s>Chinese Room (Searle)</s>
+ - Chinese Room (Searle)
  - ravens
- - <s>Siri</s>
+ - Siri
  - Alonzo Clemons
  - Allo (Google)
  - Cortana
- - <s>Mycin (expert system)</s>
- - <s>Kim Peek</s>
+ - Mycin (expert system)
+ - Kim Peek
  - Roomba
- - <s>Turing Test</s>
+ - Turing Test
  - Watson (IBM AI)
- - <s>pigs</s>
+ - pigs
  - parrots
  - William James Sidis
- - <s>cats</s>
+ - cats
  - elephants
- - <s>savant syndrome</s>
+ - savant syndrome
  - Shakey the robot
  - Judit Polgar
- - <s>General Problem Solver (Newell & Simon)</s>
+ - General Problem Solver (Newell & Simon)
  - genius
- - <s>bacteria</s>
- - <s>Raven's Matrices</s>
- - <s>Replika</s>
+ - bacteria
+ - Raven's Matrices
+ - Replika
 
 
 
