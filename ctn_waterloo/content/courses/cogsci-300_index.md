@@ -1,7 +1,7 @@
 title: COGSCI 300/PHIL 356 - Intelligence
 picture: http://i.imgur.com/xy81xN1.png
 intro: >
-    Course information for COGSCI 300/PHIL 356, taught Fall 2017.
+    Course information for COGSCI 300/PHIL 356, taught Winter 2023
 people:
     - Chris Eliasmith
 toc:
@@ -13,25 +13,25 @@ toc:
 <img style="float: right;" width=200 src="http://i.imgur.com/LTfECh7.png">
 ##  COGSCI 300/PHIL 356: Intelligence in Machines, Humans, and Other Animals
 
-[Course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZWdlaFdTS3V2WDg)
+[Course outline](https://drive.google.com/file/d/1Pkmf_TDhAwu5hMcNMvmq123pC9Psy_b0)
 
 _Instructor:_ Chris Eliasmith ([email](mailto:cogsci300@gmail.com))
 
-_Office:_ HH 331
+_Office:_ E7 6324
 
-_Office Hours:_ Wed 11:30a-12:30p, or by appointment
+_Office Hours:_ By appointment
 
-_Location:_ RCH 205
+_Location:_ PAS 2083
 
-_Times:_ Mon/Wed 10:00a-11:20a
+_Times:_ Tues/Thurs 4:00-5:20p
 
 _Due Dates:_ 
 
- * Oct 4: Case study chosen
- * Oct 16-23: One page write-up due on your presentation date
- * Oct 30: Midterm essay due
- * Nov 13: Final essay topics picked
- * Dec 4: Final essay due
+ * Feb 2: Case study chosen
+ * Feb 9-16: One page write-up due on your presentation date
+ * Mar 2: Midterm essay due
+ * Mar 16: Final essay topics picked
+ * Apr 21: Final essay due
 
 *Please use the course email, [cogsci300@gmail.com](mailto:cogsci300@gmail.com) for all course related correspondence.*
 
@@ -43,24 +43,24 @@ The in-class lecture notes will be posted here before each class.
 
 ***Note that the readings for the Neuro Review have changed (13/09/17)***
 
- * Topic 1: [Introduction](https://drive.google.com/open?id=0Bw1vzEJL0FzyV3FkTWk3N3BDYWs)
- * Topic 2: [Theories of Intelligence](https://drive.google.com/open?id=0Bw1vzEJL0FzyVWJGNUFodkFwcFU)
- * Topic 3: [Biological and Artificial](https://drive.google.com/open?id=0Bw1vzEJL0FzyVXc3VXNFbUJTOWs)
- * Topic 4: [Math/logic and machine methods](https://drive.google.com/open?id=0Bw1vzEJL0FzyaWxEdnRpcUZzVFU)
- * Topic 5: [Vision](https://drive.google.com/open?id=0Bw1vzEJL0FzyaXlhaXpHSmlMbzA)
- * Topic 6: [AlphaGo](https://drive.google.com/open?id=0Bw1vzEJL0FzySnpvcE1uWGEtZTQ)
- * Topic 7: [Animals and plants](https://drive.google.com/open?id=14puD_Ae-GSpgiP09uiiUiQKG6byTRt47)
- * Topic 8: [Stanley the card](https://drive.google.com/open?id=1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO)
- * Topic 9: [Siri and Google translate](https://drive.google.com/open?id=1bAJ4kQvnNjNx9YpcGCDHSJJ-5RnKaKB-)
- * Topic 10: [Kanzi](https://drive.google.com/open?id=1rXjJNcU5PZLRmtzV9nGlZn6Og6rme3Lv)
- * Topic 11: [Kinesthetics and embodiment](https://drive.google.com/open?id=1OoeS6V5qlOTd2cHGed3Xh4ZEXWByC18l)
- * Topic 12: [Emotions](https://drive.google.com/open?id=1EvT0SFCHUP7qDxCignpGWcvPO3XgCJrK)
+ * Topic 1: [Introduction]()
+ * Topic 2: [Theories of Intelligence]()
+ * Topic 3: [Biological and Artificial]()
+ * Topic 4: [Math/logic and machine methods]()
+ * Topic 5: [Vision]()
+ * Topic 6: [AlphaGo]()
+ * Topic 7: [Animals and plants]()
+ * Topic 8: [Stanley the card]()
+ * Topic 9: [Siri and Google translate]()
+ * Topic 10: [Kanzi]()
+ * Topic 11: [Kinesthetics and embodiment]()
+ * Topic 12: [Emotions]()
 
 * * *
 
 ### Readings
 
-The readings for the entire course can be accessed [in this folder](https://drive.google.com/drive/u/3/folders/0Bw1vzEJL0FzySUdjSEJqeExwMkk). The order and specific pages to read are listed on the [course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZWdlaFdTS3V2WDg). The first word of the .pdf file corresponds to the word on the [course outline](https://drive.google.com/open?id=0Bw1vzEJL0FzyZWdlaFdTS3V2WDg).
+The readings for the entire course can be accessed [in this folder](https://drive.google.com/drive/u/3/folders/0Bw1vzEJL0FzySUdjSEJqeExwMkk). The order and specific pages to read are listed on the [course outline](https://drive.google.com/file/d/1Pkmf_TDhAwu5hMcNMvmq123pC9Psy_b0). The first word of the .pdf file corresponds to the word on the [course outline](https://drive.google.com/file/d/1Pkmf_TDhAwu5hMcNMvmq123pC9Psy_b0).
 
 * * * 
 
