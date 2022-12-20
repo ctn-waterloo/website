@@ -41,8 +41,6 @@ _Due Dates:_
 
 The in-class lecture notes will be posted here before each class.
 
-***Note that the readings for the Neuro Review have changed (13/09/17)***
-
  * Topic 1: [Introduction]()
  * Topic 2: [Theories of Intelligence]()
  * Topic 3: [Biological and Artificial]()
