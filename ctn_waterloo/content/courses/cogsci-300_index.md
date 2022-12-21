@@ -1,7 +1,7 @@
 title: COGSCI 300/PHIL 356 - Intelligence
 picture: http://i.imgur.com/xy81xN1.png
 intro: >
-    Course information for COGSCI 300/PHIL 356, taught Winter 2023
+    Taught Winter 2023
 people:
     - Chris Eliasmith
 toc:
@@ -79,7 +79,7 @@ You are required to find material on a case study of intelligence (machine, huma
 
 ### Peer Feedback
 
-Students must provide 100 word constructive feedback and questions for 10 other student presentations. A maximum of 4 of these can be on presentations in the same day. Feedback can be emailed to the course email on the day of the presentation, with the subject line being the presenting student's name. Feedback will be provided to the presenting student.
+Students must provide 100 word constructive feedback and questions for 5 other student presentations. A maximum of 2 of these can be on presentations in the same day. Feedback can be emailed to the course email on the day of the presentation, with the subject line being the presenting student's name. Feedback will be provided to the presenting student.
 
 * * * 
 
