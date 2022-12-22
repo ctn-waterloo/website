@@ -58,7 +58,7 @@ The in-class lecture notes will be posted here before each class.
 
 ### Readings
 
-The readings for the entire course can be accessed [in this folder](https://drive.google.com/drive/u/3/folders/0Bw1vzEJL0FzySUdjSEJqeExwMkk). The order and specific pages to read are listed on the [course outline](https://drive.google.com/file/d/1Pkmf_TDhAwu5hMcNMvmq123pC9Psy_b0). The first word of the .pdf file corresponds to the word on the [course outline](https://drive.google.com/file/d/1Pkmf_TDhAwu5hMcNMvmq123pC9Psy_b0).
+The readings for the entire course can be accessed [in this folder](https://drive.google.com/drive/folders/0Bw1vzEJL0FzySUdjSEJqeExwMkk?resourcekey=0-w9lH6DkjE8t4ynU5sAa60Q). The order and specific pages to read are listed on the [course outline](https://drive.google.com/file/d/1Pkmf_TDhAwu5hMcNMvmq123pC9Psy_b0). The first word of the .pdf file corresponds to the word on the [course outline](https://drive.google.com/file/d/1Pkmf_TDhAwu5hMcNMvmq123pC9Psy_b0).
 
 * * * 
 
