@@ -41,7 +41,7 @@ _Due Dates:_
 
 The in-class lecture notes will be posted here before each class.
 
- * Topic 1: [Introduction](https://drive.google.com/open?id=0Bw1vzEJL0FzyV3FkTWk3N3BDYWs)
+ * Topic 1: [Introduction](https://drive.google.com/file/d/0Bw1vzEJL0FzyV3FkTWk3N3BDYWs/view?usp=sharing&resourcekey=0-aHloSHFtC92FfQ69AicZzw)
  * Topic 2: [Theories of Intelligence]()
  * Topic 3: [Biological and Artificial]()
  * Topic 4: [Math/logic and machine methods]()
