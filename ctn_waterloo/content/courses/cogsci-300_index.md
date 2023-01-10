@@ -42,17 +42,17 @@ _Due Dates:_
 The in-class lecture notes will be posted here before each class.
 
  * Topic 1: [Introduction](https://drive.google.com/file/d/0Bw1vzEJL0FzyV3FkTWk3N3BDYWs/view?usp=sharing&resourcekey=0-aHloSHFtC92FfQ69AicZzw)
- * Topic 2: [Theories of Intelligence]()
- * Topic 3: [Biological and Artificial]()
- * Topic 4: [Math/logic and machine methods]()
- * Topic 5: [Vision]()
- * Topic 6: [AlphaGo]()
- * Topic 7: [Animals and plants]()
- * Topic 8: [Stanley the card]()
- * Topic 9: [Siri and Google translate]()
- * Topic 10: [Kanzi]()
- * Topic 11: [Kinesthetics and embodiment]()
- * Topic 12: [Emotions]()
+ * Topic 2: [Theories of Intelligence]
+ * Topic 3: [Biological and Artificial]
+ * Topic 4: [Math/logic and machine methods]
+ * Topic 5: [Vision]
+ * Topic 6: [AlphaGo]
+ * Topic 7: [Animals and plants]
+ * Topic 8: [Stanley the card]
+ * Topic 9: [Large language models]
+ * Topic 10: [Kanzi]
+ * Topic 11: [Kinesthetics and embodiment]
+ * Topic 12: [Emotions]
 
 * * *
 
