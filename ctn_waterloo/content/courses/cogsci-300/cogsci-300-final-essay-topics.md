@@ -6,4 +6,4 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 
 #### Topics that have been chosen
 
-1. 
+1. Grief and anger in dogs, humans, and machines
