@@ -33,7 +33,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - William James Sidis
  - cats
  - elephants
- - savant syndrome
+ - <s>savant syndrome</s>
  - Shakey the robot
  - Judit Polgar
  - General Problem Solver (Newell & Simon)
