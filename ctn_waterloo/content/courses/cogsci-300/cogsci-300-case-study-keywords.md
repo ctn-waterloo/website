@@ -18,7 +18,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Marilyn Vos Savant
  - dogs
  - Chinese Room (Searle)
- - ravens
+ - <s>ravens</s>
  - Siri
  - Alonzo Clemons
  - Allo (Google)
