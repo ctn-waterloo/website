@@ -17,7 +17,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - SHRDLU (Winograd)
  - Marilyn Vos Savant
  - dogs
- - Chinese Room (Searle)
+ - <s>Chinese Room (Searle)</s>
  - <s>ravens</s>
  - Siri
  - Alonzo Clemons
@@ -39,7 +39,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - General Problem Solver (Newell & Simon)
  - genius
  - bacteria
- - Raven's Matrices
+ - <s>Raven's Matrices</s>
  - Replika
 
 
