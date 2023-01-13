@@ -29,7 +29,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>Turing Test</s>
  - Watson (IBM AI)
  - pigs
- - parrots
+ - <s>parrots</s>
  - William James Sidis
  - cats
  - elephants
