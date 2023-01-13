@@ -8,7 +8,7 @@ Here is a list of available presentation dates.  The number of dashes indicates 
  
 #### Feb, 9 2023
 
- * Malek,Anny,Amy,John,Rowan,-,-,-,-,-
+ * Malek,Anny,Amy,John,Rowan,Faizaan,-,-,-,-
 
 #### Feb, 14 2023
 
