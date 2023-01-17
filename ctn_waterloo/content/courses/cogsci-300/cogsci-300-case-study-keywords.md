@@ -20,7 +20,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>Chinese Room (Searle)</s>
  - <s>ravens</s>
  - Siri
- - Alonzo Clemons
+ - <s>Alonzo Clemons</s>
  - Allo (Google)
  - Cortana
  - Mycin (expert system)
