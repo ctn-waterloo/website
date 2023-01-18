@@ -23,6 +23,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>Alonzo Clemons</s>
  - Allo (Google)
  - Cortana
+ - <s>octopuses</s>
  - Mycin (expert system)
  - Kim Peek
  - <s>slime mold</s>
