@@ -13,7 +13,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Temple Grandin
  - Cleverbot
  - <s>Dreyfus (critique of AI)</s>
- - Wechsler Test
+ - <s>Wechsler Test</s>
  - SHRDLU (Winograd)
  - Marilyn Vos Savant
  - <s>dogs</s>
@@ -25,6 +25,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Cortana
  - Mycin (expert system)
  - Kim Peek
+ - <s>slime mold</s>
  - Roomba
  - <s>Turing Test</s>
  - Watson (IBM AI)
@@ -34,10 +35,11 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>elephants</s>
  - <s>savant syndrome</s>
  - Shakey the robot
+ - <s>horses</s>
  - Judit Polgar
  - General Problem Solver (Newell & Simon)
  - genius
- - bacteria
+ - <s>bacteria</s>
  - <s>Raven's Matrices</s>
  - Replika
  - <s>William James Sidis</s>
