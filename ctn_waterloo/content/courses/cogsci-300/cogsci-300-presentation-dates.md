@@ -12,7 +12,7 @@ Here is a list of available presentation dates.  The number of dashes indicates 
 
 #### Feb, 14 2023
 
- * Sam,-,-,-,-,-,-,-,-,-
+ * Sam,Jacob,Sophia,Monica,Edwin,-,-,-,-,-
 
 #### Feb, 16 2023
 
