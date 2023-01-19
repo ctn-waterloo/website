@@ -22,7 +22,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Siri
  - <s>Alonzo Clemons</s>
  - Allo (Google)
- - Cortana
+ - <s>Cortana</s>
  - <s>octopuses</s>
  - Mycin (expert system)
  - Kim Peek
