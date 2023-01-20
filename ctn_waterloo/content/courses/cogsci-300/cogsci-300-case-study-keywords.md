@@ -41,7 +41,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>horses</s>
  - Judit Polgar
  - General Problem Solver (Newell & Simon)
- - genius
+ - <s>genius</s>
  - <s>bacteria</s>
  - <s>Raven's Matrices</s>
  - Replika
