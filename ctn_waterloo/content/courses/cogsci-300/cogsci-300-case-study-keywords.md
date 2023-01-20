@@ -12,6 +12,8 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - AI XPrize
  - Temple Grandin
  - Cleverbot
+ - <s>dolphins</s>
+ - Atlas (Boston Dynamics)
  - <s>Dreyfus (critique of AI)</s>
  - <s>Wechsler Test</s>
  - SHRDLU (Winograd)
