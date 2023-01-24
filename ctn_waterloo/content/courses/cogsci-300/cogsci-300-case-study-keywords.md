@@ -24,6 +24,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - Siri
  - <s>Alonzo Clemons</s>
  - Allo (Google)
+ - <s>ants</s>
  - <s>Cortana</s>
  - <s>octopuses</s>
  - Mycin (expert system)
@@ -44,7 +45,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>genius</s>
  - <s>bacteria</s>
  - <s>Raven's Matrices</s>
- - Replika
+ - <s>Replika</s>
  - <s>William James Sidis</s>
 
 
