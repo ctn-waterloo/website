@@ -43,7 +43,7 @@ The in-class lecture notes will be posted here before each class.
 
  * Topic 1: [Introduction](https://drive.google.com/file/d/0Bw1vzEJL0FzyV3FkTWk3N3BDYWs/view?usp=sharing&resourcekey=0-aHloSHFtC92FfQ69AicZzw)
  * Topic 2: [Theories of Intelligence](https://drive.google.com/open?id=0Bw1vzEJL0FzyVWJGNUFodkFwcFU&authuser=6&resourcekey=0-O9jbHF7hmekjD4U7tJJ2hA&usp=drive_link)
- * Topic 3: [Biological and Artificial]
+ * Topic 3: [Biological and Artificial](https://drive.google.com/file/d/0Bw1vzEJL0FzyVXc3VXNFbUJTOWs/view?usp=share_link&resourcekey=0-AFsArvsiwcAyoEyIWAN8Uw)
  * Topic 4: [Math/logic and machine methods]
  * Topic 5: [Vision]
  * Topic 6: [AlphaGo]
