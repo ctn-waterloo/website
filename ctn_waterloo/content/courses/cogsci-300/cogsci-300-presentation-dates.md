@@ -12,8 +12,8 @@ Here is a list of available presentation dates.  The number of dashes indicates 
 
 #### Feb, 14 2023
 
- * Sam,Jacob,Sophia,Monica,Edwin,Arindam,-,-,-,-
+ * Sam,Jacob,Sophia,Monica,Edwin,Arindam,Stefan,-,-,-
 
 #### Feb, 16 2023
 
- * Nevetha,Kyra,-,-,-,-,-,-,-,-
+ * Nevetha,Kyra,Sami,-,-,-,-,-,-,-
