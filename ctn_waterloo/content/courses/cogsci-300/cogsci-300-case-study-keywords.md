@@ -6,7 +6,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
 
 ### Keywords
 
- - Clarissa (NASA)
+ - <s>Clarissa (NASA)</s>
  - <s>ELIZA (chatbot)</s>
  - Wolfram Alpha
  - AI XPrize
