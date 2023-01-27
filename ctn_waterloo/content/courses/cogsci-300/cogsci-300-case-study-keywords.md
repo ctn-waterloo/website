@@ -8,7 +8,7 @@ The following is a list of keywords to identify case study topics.  If the keywo
 
  - <s>Clarissa (NASA)</s>
  - <s>ELIZA (chatbot)</s>
- - Wolfram Alpha
+ - <s>Wolfram Alpha</s>
  - AI XPrize
  - <s>Temple Grandin</s>
  - Cleverbot
