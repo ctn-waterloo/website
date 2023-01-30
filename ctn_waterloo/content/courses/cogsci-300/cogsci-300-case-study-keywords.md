@@ -32,7 +32,6 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>slime mold</s>
  - Roomba
  - <s>Turing Test</s>
- - Watson (IBM AI)
  - pigs
  - <s>parrots</s>
  - cats
