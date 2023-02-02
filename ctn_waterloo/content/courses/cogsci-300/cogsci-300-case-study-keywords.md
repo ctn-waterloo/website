@@ -39,8 +39,8 @@ The following is a list of keywords to identify case study topics.  If the keywo
  - <s>savant syndrome</s>
  - Shakey the robot
  - <s>horses</s>
- - Judit Polgar
- - General Problem Solver (Newell & Simon)
+ - <s>Judit Polgar</s>
+ - <s>General Problem Solver (Newell & Simon)</s>
  - <s>genius</s>
  - <s>bacteria</s>
  - <s>Raven's Matrices</s>
