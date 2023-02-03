@@ -11,4 +11,9 @@ This year's meetings:
 * Jan 20: Brain sciences paper (maddy, nicole, chris, terry)
 * Jan 27: Large language models survey (terry)
 * Feb 3: Reward and efficient coding [paper](https://www.biorxiv.org/content/10.1101/2022.11.03.515104v1)
+* Feb 10: roundtable
+* Feb 17: Nat's paper (tbd)
+* Feb 24: none (reading week)
+* Mar 3: michael's SSP library
+* Mar 10:
 
