@@ -45,7 +45,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 2: [Theories of Intelligence](https://drive.google.com/open?id=0Bw1vzEJL0FzyVWJGNUFodkFwcFU&authuser=6&resourcekey=0-O9jbHF7hmekjD4U7tJJ2hA&usp=drive_link)
  * Topic 3: [Biological and Artificial](https://drive.google.com/file/d/0Bw1vzEJL0FzyVXc3VXNFbUJTOWs/view?usp=share_link&resourcekey=0-AFsArvsiwcAyoEyIWAN8Uw)
  * Topic 4: [Math/logic and machine methods](https://drive.google.com/file/d/1IxrAeHhrHM-bPOIq72dtRFObhjmcD_nJ/view?usp=share_link)
- * Topic 5: [Vision]
+ * Topic 5: [Vision](https://drive.google.com/file/d/0Bw1vzEJL0FzyaXlhaXpHSmlMbzA/view?usp=share_link&resourcekey=0-0a8g-NfLpcURXR1yRvBI7A)
  * Topic 6: [AlphaGo]
  * Topic 7: [Animals and plants]
  * Topic 8: [Stanley the card]
