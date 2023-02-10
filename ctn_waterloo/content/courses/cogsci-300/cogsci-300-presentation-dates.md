@@ -8,7 +8,7 @@ Here is a list of available presentation dates.  The number of dashes indicates 
  
 #### Feb, 9 2023
 
- * Malek,Anny,Amy,John,Rowan,Faizaan,Emily,Alexander,April,-
+ * Malek,Amy,John,Rowan,Faizaan,Emily,Alexander,April,-
 
 #### Feb, 14 2023
 
@@ -16,4 +16,4 @@ Here is a list of available presentation dates.  The number of dashes indicates 
 
 #### Feb, 16 2023
 
- * Nevetha,Kyra,Sami,Shubhang,Justin,Ioannis,Lily,Imaan,-,-
+ * Nevetha,Kyra,Sami,Shubhang,Justin,Ioannis,Lily,Imaan, Anny,-
