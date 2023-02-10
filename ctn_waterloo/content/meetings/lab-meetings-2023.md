@@ -12,8 +12,11 @@ This year's meetings:
 * Jan 27: Large language models survey (terry)
 * Feb 3: Reward and efficient coding [paper](https://www.biorxiv.org/content/10.1101/2022.11.03.515104v1)
 * Feb 10: roundtable
-* Feb 17: Nat's paper (tbd)
+* Feb 17: Nat's [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5788056/pdf/ENEURO.0179-17.2017.pdf)
 * Feb 24: none (reading week)
 * Mar 3: michael's SSP library
-* Mar 10:
+* Mar 10: reading raj rao's [recent paper](https://www.biorxiv.org/content/10.1101/2022.12.30.522267v1)
+* Mar 17: roundtable
+* Mar 24: no meeting?(chris away)
+* Mar 31:  
 
