@@ -16,7 +16,10 @@ This year's meetings:
 * Feb 24: none (reading week)
 * Mar 3: michael's SSP library
 * Mar 10: reading raj rao's [recent paper](https://www.biorxiv.org/content/10.1101/2022.12.30.522267v1)
-* Mar 17: roundtable
+* Mar 17: pete's practice defense; roundtable (time permitting)
 * Mar 24: no meeting?(chris away)
-* Mar 31:  
+* Mar 31: cancelled (Pete's defense at the same time/place)
+* Apr 7: roundtable
+* Apr 14:
+* Apr 21:
 
