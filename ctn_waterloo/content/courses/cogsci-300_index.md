@@ -49,7 +49,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 6: [AlphaGo and RL](https://drive.google.com/file/d/11cI9Ou3cOU6rghVbGtj0n5CHswMun-Dw/view?usp=share_link)
  * Topic 7: [Animals and plants]
  * Topic 8: [Stanley the card]
- * Topic 9: [Large language models]
+ * Topic 9: [Large language models] (Mar 22. Michael Furlong)
  * Topic 10: [Kanzi]
  * Topic 11: [Kinesthetics and embodiment]
  * Topic 12: [Emotions]
