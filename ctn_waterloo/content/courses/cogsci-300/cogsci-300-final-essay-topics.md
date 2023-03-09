@@ -7,3 +7,4 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 #### Topics that have been chosen
 
 1. Grief and anger in dogs, humans, and machines
+2. Human and super-human intelligence are likely to be achieved and difficult to prevent.
