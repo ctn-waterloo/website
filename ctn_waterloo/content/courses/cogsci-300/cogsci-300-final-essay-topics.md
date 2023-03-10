@@ -8,3 +8,5 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 
 1. Grief and anger in dogs, humans, and machines
 2. Human and super-human intelligence are likely to be achieved and difficult to prevent.
+3. Heirarchy in humans, chimps, and machines.
+4. Number sense and mathematical ability in humans, animals, and machines.
