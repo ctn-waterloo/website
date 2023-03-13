@@ -10,3 +10,5 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 2. Human and super-human intelligence are likely to be achieved and difficult to prevent.
 3. Heirarchy in humans, chimps, and machines.
 4. Number sense and mathematical ability in humans, animals, and machines.
+5. Language in humans, animals, and large language models
+6. Emergence of motivation in animals humans and machines
