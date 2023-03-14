@@ -48,9 +48,9 @@ The in-class lecture notes will be posted here before each class.
  * Topic 5: [Vision](https://drive.google.com/file/d/0Bw1vzEJL0FzyaXlhaXpHSmlMbzA/view?usp=share_link&resourcekey=0-0a8g-NfLpcURXR1yRvBI7A)
  * Topic 6: [AlphaGo and RL](https://drive.google.com/file/d/11cI9Ou3cOU6rghVbGtj0n5CHswMun-Dw/view?usp=share_link)
  * Topic 7: [Animals and plants](https://drive.google.com/file/d/14puD_Ae-GSpgiP09uiiUiQKG6byTRt47/view?usp=share_link)
- * Topic 8: [Stanley the card]
- * Topic 9: [Large language models] (Mar 22. Michael Furlong)
- * Topic 10: [Kanzi]
+ * Topic 8: [Stanley the card](https://drive.google.com/file/d/1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO/view?usp=share_link)
+ * Topic 9: [Large language models] (Mar 21. Michael Furlong)
+ * Topic 10: [Kanzi] (Mar 16)
  * Topic 11: [Kinesthetics and embodiment]
  * Topic 12: [Emotions]
 
