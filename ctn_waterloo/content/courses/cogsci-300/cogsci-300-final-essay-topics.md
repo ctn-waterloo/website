@@ -19,4 +19,5 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 11. B-1 Should human-level or superior artificial intelligence be allowed to develop?
 12. B-2 What are the implications of the theories of intelligence ...? (x2) 
 13. Sympathy in humans, elephants, and the AI Jessica
+14. Consciousness in humans, animals, and machines
 
