@@ -50,7 +50,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 7: [Animals and plants](https://drive.google.com/file/d/14puD_Ae-GSpgiP09uiiUiQKG6byTRt47/view?usp=share_link)
  * Topic 8: [Stanley the card](https://drive.google.com/file/d/1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO/view?usp=share_link)
  * Topic 9: [Large language models] (Mar 21. Michael Furlong)
- * Topic 10: [Kanzi] (Mar 16)
+ * Topic 10: [Kanzi](https://drive.google.com/file/d/1rXjJNcU5PZLRmtzV9nGlZn6Og6rme3Lv/view?usp=share_link) (Mar 16)
  * Topic 11: [Kinesthetics and embodiment]
  * Topic 12: [Emotions]
 
