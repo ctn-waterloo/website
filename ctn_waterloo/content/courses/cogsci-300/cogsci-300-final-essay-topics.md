@@ -12,3 +12,11 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 4. Number sense and mathematical ability in humans, animals, and machines.
 5. Language in humans, animals, and large language models
 6. Emergence of motivation in animals humans and machines
+7. Shame, guilt, and morality in humans, animals, and machines
+8. The Creation of "Art" in Humans, Machines, and Animals
+9. Self-models in humans and machines
+10. How do human, pig and AI emotional intelligence differ
+11. B-1 Should human-level or superior artificial intelligence be allowed to develop?
+12. B-2 What are the implications of the theories of intelligence ...? (x2) 
+13. Sympathy in humans, elephants, and the AI Jessica
+
