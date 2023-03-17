@@ -16,8 +16,14 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 8. The Creation of "Art" in Humans, Machines, and Animals
 9. Self-models in humans and machines
 10. How do human, pig and AI emotional intelligence differ
-11. B-1 Should human-level or superior artificial intelligence be allowed to develop?
+11. B-1 Should human-level or superior artificial intelligence be allowed to develop? (x2)
 12. B-2 What are the implications of the theories of intelligence ...? (x2) 
 13. Sympathy in humans, elephants, and the AI Jessica
 14. Consciousness in humans, animals, and machines
+15. Love as it is present in humans, animals, and machines
+16. Learning, communication, and manipulation in humans, animals, and AI companions
+17. Creation of "Music" in Humans, Machines, and Animals
+18. Convincing arguments against/an overall discussion of “strong AI”
+19. Computational creativity for novel content generation compared to human creativity
+20. Emergent conscious behaviour in humans, animals and machines
 
