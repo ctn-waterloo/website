@@ -26,4 +26,6 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 18. Convincing arguments against/an overall discussion of “strong AI”
 19. Computational creativity for novel content generation compared to human creativity
 20. Emergent conscious behaviour in humans, animals and machines
+21. Appreciation of beauty in humans, animals, and machines
+22. Language acquisition in humans, animals, and machines
 
