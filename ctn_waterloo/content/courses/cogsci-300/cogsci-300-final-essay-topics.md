@@ -28,4 +28,7 @@ As described on [the essay information page](cogsci-300-essay-information.html) 
 20. Emergent conscious behaviour in humans, animals and machines
 21. Appreciation of beauty in humans, animals, and machines
 22. Language acquisition in humans, animals, and machines
+23. The emergence of communication systems in ants, humans, artificial intelligence
+
+
 
