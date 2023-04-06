@@ -19,7 +19,7 @@ This year's meetings:
 * Mar 17: pete's practice defense; roundtable (time permitting)
 * Mar 24: no meeting?(chris away)
 * Mar 31: cancelled (Pete's defense at the same time/place)
-* Apr 7: roundtable
-* Apr 14:
-* Apr 21:
+* Apr 7: cancelled (good friday)
+* Apr 14: reviewing summer school applicants
+* Apr 21: roundtable
 
