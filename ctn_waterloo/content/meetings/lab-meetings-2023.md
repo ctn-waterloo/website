@@ -21,5 +21,9 @@ This year's meetings:
 * Mar 31: cancelled (Pete's defense at the same time/place)
 * Apr 7: cancelled (good friday)
 * Apr 14: reviewing summer school applicants
-* Apr 21: roundtable
+* Apr 21: Nicole, ICCM paper, Ryan, LMU Project
+* Apr 28: Cancelled (ryan and chris away)
+* May 5: Roundtable
+* May 12: Michael, Terry, ICCM Prob papers
+* May 17: 
 
