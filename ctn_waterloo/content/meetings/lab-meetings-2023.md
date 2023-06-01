@@ -25,5 +25,8 @@ This year's meetings:
 * Apr 28: Cancelled (ryan and chris away)
 * May 5: Roundtable
 * May 12: Michael, Terry, ICCM Prob papers
-* May 17: 
-
+* May 17: Roundtable
+* May 24: Roundtable
+* Jun 2: pete on compute canada optimization package; terry on nrc/montreal trip
+* Jun 9 - 15: cancelled (summer school)
+* Jun 22:  
