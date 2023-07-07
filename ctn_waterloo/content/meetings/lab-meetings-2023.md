@@ -29,4 +29,12 @@ This year's meetings:
 * May 24: Roundtable
 * Jun 2: pete on compute canada optimization package; terry on nrc/montreal trip
 * Jun 9 - 15: cancelled (summer school)
-* Jun 22:  
+* Jun 23: cancelled (people away)
+* Jun 30: Pete D on how to use Compute Canada effectively
+* Jul 7: Roundtable
+* Jul 14: Discuss lecture 1 from Telluride
+* Jul 21: Discuss lecture 2 from Telluride
+* Jul 28: cancelled (chris away)
+* Aug 4: Discuss lecture 3 from Telluride
+* Aug 11: cancelled (chris away)
+* Aug 18: tbd
