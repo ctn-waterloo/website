@@ -254,7 +254,7 @@ title: SYDE 556 Course Outline
 <td></td>
 </tr>
 <tr class="even">
-<td>Dec 29</td>
+<td>Nov 29</td>
 <td></td>
 <td>Project Presentations</td>
 <td></td>
