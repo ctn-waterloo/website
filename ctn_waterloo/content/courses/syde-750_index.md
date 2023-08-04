@@ -52,7 +52,7 @@ All lecture notes and assignments are available on [github](https://github.com/c
 The final project for the course consists of picking a neurobiological system and
 building a model for it.  There is a list of possible projects, expectations for the project and more info at [this link](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
-Please have your projects approved by Oct 28th.  To do so, you will need to submit a short summary of your project by Oct 21st. Have a look at [this document](
+Please have your projects approved by Oct 28th.  To do so, you will need to submit a short summary of your project by Oct 23rd. Have a look at [this document](
 https://raw.githubusercontent.com/celiasmith/syde556-f23/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information
 
 ### Project Format
