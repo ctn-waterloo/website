@@ -1,7 +1,7 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Fal 2022.
+    Course information for SYDE 556/750, taught Fal 2023.
 people:
     - Chris Eliasmith
     - Terry Stewart
@@ -21,15 +21,20 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
     Website:
     <http://compneuro.uwaterloo.ca>
     
--   **Teaching Assistant**  
-    Nicole Dumont  
-    Office: E7-6339  
-    Email: [ns2dumont@uwaterloo.ca](ns2dumont@uwaterloo.ca)  
+-   **Teaching Assistants**  
+    Ben Masters  
+    Office:   
+    Email: 
+
+    Karim Habashy
+    Office:
+    Email: 
 
 -   **Course times and location**
-    -   Wednesday: 11:00-11:50 in E5-6008 (SYDE 750, optional for 556)
-    -   Thursday: 4:00-5:20 in E5-6008 (SYDE 556/750)
-    -   Friday: 3:30-4:50 in E5-6008 (SYDE 556/750)
+    -   Monday: 10:30-12:20 in E7-4433 (SYDE 556/750)
+    -   Wednesday: 10:30-11:20 in E7-4433 (SYDE 556/750)
+    -   Wednesday: 11:30-12:20 in E7-4433 (SYDE 750, optional for 556)
+
 
 -   **Office hours**
     -   Please make an appointment by email.
@@ -38,7 +43,7 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 
 ## Lecture Notes and Assignments
 
-All lecture notes and assignments are available on [github](https://github.com/celiasmith/syde556-f22). The lecture notes will be posted there before each class. While everything is available earlier on github, all material is subject to change until it is explicitly linked from the github README.
+All lecture notes and assignments are available on [github](https://github.com/celiasmith/syde556-f23). The lecture notes will be posted there before each class. While everything is available earlier on github, all material is subject to change until it is explicitly linked from the github README.
   
 * * *
 
@@ -48,7 +53,7 @@ The final project for the course consists of picking a neurobiological system an
 building a model for it.  There is a list of possible projects, expectations for the project and more info at [this link](http://compneuro.uwaterloo.ca/courses/syde-750/syde-556-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
 Please have your projects approved by Oct 28th.  To do so, you will need to submit a short summary of your project by Oct 21st. Have a look at [this document](
-https://raw.githubusercontent.com/celiasmith/syde556-f22/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information
+https://raw.githubusercontent.com/celiasmith/syde556-f23/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information
 
 ### Project Format
 
@@ -58,12 +63,12 @@ Implementation), see the [project page](http://compneuro.uwaterloo.ca/courses/sy
 
 The final document should be between, at least ten, and (at the very most) twenty content pages at 12pt, 1.25 line spacing. Have a look at the following project template for more information.
 
-* **[Project Report Template PDF File](https://github.com/celiasmith/syde556-f22/raw/master/project/template/syde556_project_template.pdf)**  
+* **[Project Report Template PDF File](https://github.com/celiasmith/syde556-f23/raw/master/project/template/syde556_project_template.pdf)**  
   Contains some advice on how to structure the report, the formating, as well as some example uses of LaTeX.
-* **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-f22/raw/master/project/template.zip)**  
+* **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-f23/raw/master/project/template.zip)**  
   Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service such as Overleaf.
 
-Students are expected to provide a short, 5-10 min project presentation on the last two days of class. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f22/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
+Students are expected to provide a short, 5-10 min project presentation on the last two days of class. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f23/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
 
 
 * * *
