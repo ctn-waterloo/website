@@ -26,21 +26,19 @@ title: SYDE 556 Course Outline
     
 -   **Teaching Assistant**  
     Ben Masters  
-    Office: 
-    Email: 
+    Office:    
+    Email:       
 
-    Karim Habashy
-    Office: 
-    Email: 
+    Karim Habashy  
+    Office:    
+    Email:    
 
 -   **Course times and location**
-
     -   Monday: 10:30-12:20 in E7-4433 (SYDE 556/750)
     -   Wednesday: 10:30-11:20 in E7-4433 (SYDE 556/750)
     -   Wednesday: 11:30-12:20 in E7-4433 (SYDE 750, optional for 556)
 
 -   **Office hours**
-
     -   By appointment
 
 -   **Readings**
@@ -48,7 +46,6 @@ title: SYDE 556 Course Outline
     -   Main resource: “Neural Engineering: Representation, Computation and Dynamics in Neurobiological Systems”, Chris Eliasmith and Charles Anderson, 2003. MIT Press. On Reserve in Library.
 
     -   Optional: “How to Build a Brain”, Chris Eliasmith, 2012
-
 
 -   **Course Description**  
     This course examines a general framework for modeling
