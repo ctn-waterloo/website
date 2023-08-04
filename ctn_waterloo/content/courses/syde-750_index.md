@@ -31,13 +31,13 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
     Email: 
 
 -   **Course times and location**
-    -   Monday: 10:30-12:20 in E7-4433 (SYDE 556/750)
-    -   Wednesday: 10:30-11:20 in E7-4433 (SYDE 556/750)
-    -   Wednesday: 11:30-12:20 in E7-4433 (SYDE 750, optional for 556)
+    Monday: 10:30-12:20 in E7-4433 (SYDE 556/750)
+    Wednesday: 10:30-11:20 in E7-4433 (SYDE 556/750)
+    Wednesday: 11:30-12:20 in E7-4433 (SYDE 750, optional for 556)
 
 
 -   **Office hours**
-    -   Please make an appointment by email.
+    Please make an appointment by email.
 
 * * *
 
