@@ -11,7 +11,7 @@ title: SYDE 556 Course Outline
 
     -   <http://compneuro.uwaterloo.ca/courses/syde-750.html>
 
-    -   <https://github.com/celiasmith/syde556-f22>
+    -   <https://github.com/celiasmith/syde556-f23>
 
     *Note:* Any material on GitHub should be considered “preliminary”
     until officially linked at from the github README. Until then, the
@@ -25,17 +25,19 @@ title: SYDE 556 Course Outline
     <http://compneuro.uwaterloo.ca>
     
 -   **Teaching Assistant**  
-    Nicole Dumont  
-    Office: E7-6339  
-    Email: [ns2dumont@uwaterloo.ca](ns2dumont@uwaterloo.ca)  
+    Ben Masters  
+    Office: 
+    Email: 
+
+    Karim Habashy
+    Office: 
+    Email: 
 
 -   **Course times and location**
 
-    -   Wednesday: 11:00-11:50 in E5-6008 (SYDE 750, optional for 556)
-
-    -   Thursday: 4:00-5:20 in E5-6008 (SYDE 556/750)
-
-    -   Friday: 3:30-4:50 in E5-6008 (SYDE 556/750)
+    -   Monday: 10:30-12:20 in E7-4433 (SYDE 556/750)
+    -   Wednesday: 10:30-11:20 in E7-4433 (SYDE 556/750)
+    -   Wednesday: 11:30-12:20 in E7-4433 (SYDE 750, optional for 556)
 
 -   **Office hours**
 
@@ -43,7 +45,7 @@ title: SYDE 556 Course Outline
 
 -   **Readings**
 
-    -   Main resource: “Neural Engineering: Representation, Computation and Dynamics in Neurobiological Systems”, Chris Eliasmith and Charles Anderson, 2003. MIT Press.
+    -   Main resource: “Neural Engineering: Representation, Computation and Dynamics in Neurobiological Systems”, Chris Eliasmith and Charles Anderson, 2003. MIT Press. On Reserve in Library.
 
     -   Optional: “How to Build a Brain”, Chris Eliasmith, 2012
 
@@ -75,75 +77,69 @@ title: SYDE 556 Course Outline
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 1</th>
 </tr>
 <tr class="even">
-<td>Sept 8</td>
+<td>Sept 6</td>
 <td>Chapter 1</td>
 <td>Introduction</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Sept 9</td>
-<td>Chapter 2</td>
-<td>Neurons</td>
 <td></td>
 </tr>
 <tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 2</th>
 </tr>
 <tr class="odd">
-<td>Sept 15</td>
+<td>Sept 11</td>
+<td>Chapter 2</td>
+<td>Neurons</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sept 13</td>
 <td>Chapter 2</td>
 <td>Population Representation (I)</td>
 <td>#1 posted</td>
-</tr>
-<tr class="even">
-<td>Sept 16</td>
-<td>Chapter 2</td>
-<td>Population Representation (II)</td>
-<td></td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 3</th>
 </tr>
 <tr class="even">
-<td>Sept 22</td>
-<td>Chapter 4</td>
-<td>Temporal Representation (I)</td>
+<td>Sept 18</td>
+<td>Chapter 2</td>
+<td>Population Representation (II)</td>
 <td></td>
 </tr>
-<tr class="odd">
-<td>Sept 23</td>
+<tr class="even">
+<td>Sept 20</td>
 <td>Chapter 4</td>
-<td>Temporal Representation (II)</td>
+<td>Temporal Representation (I)</td>
 <td></td>
 </tr>
 <tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 4</th>
 </tr>
 <tr class="odd">
-<td>Sept 29</td>
+<td>Sept 25</td>
+<td>Chapter 4</td>
+<td>Temporal Representation (II)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sept 27</td>
 <td>Chapters 5, 6</td>
 <td>Feedforward Transformations (I)</td>
 <td>#2 posted</td>
 </tr>
-<tr class="even">
-<td>Sept 30</td>
-<td>Chapters 5, 6</td>
-<td>Feedforward Transformations (II)</td>
-<td>#1 due*</td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 5</th>
 </tr>
 <tr class="even">
-<td>Oct 6</td>
+<td>Oct 2</td>
+<td>Chapters 5, 6</td>
+<td>Feedforward Transformations (II)</td>
+<td>#1 due*</td>
+<tr class="even">
+<td>Oct 4</td>
 <td>Chapter 8</td>
 <td>Nengo Tutorial</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Oct 7</td>
-<td>Chapter 8</td>
-<td>Dynamics (I)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -155,116 +151,122 @@ title: SYDE 556 Course Outline
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 7</th>
 </tr>
+<tr class="odd">
+<td>Oct 16</td>
+<td>Chapter 8</td>
+<td>Dynamics (I)</td>
+<td></td>
+</tr>
 <tr class="even">
-<td>Oct 20</td>
+<td>Oct 18</td>
 <td>Chapter 8</td>
 <td>Dynamics (II)</td>
 <td>#3 posted</td>
 </tr>
 <tr class="odd">
-<td>Oct 21</td>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 8</th>
+</tr>
+<tr class="odd">
+<td>Oct 23</td>
 <td><em>see notes</em></td>
 <td>Temporal Basis Functions</td>
 <td>#2 due*</td>
 </tr>
 <tr class="even">
-<td>Oct 21</td>
+<td>Oct 23</td>
 <td></td>
 <td></td>
 <td>Project proposal due</td>
-</tr>
-<tr class="odd">
-<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 8</th>
-</tr>
 <tr class="even">
-<td>Oct 27</td>
+<td>Oct 25</td>
 <td><em>Chapter 9</em></td>
 <td>Learning (I)</td>
 <td></td>
 </tr>
-<tr class="even">
-<td>Oct 28</td>
-<td><em>Chapter 9</em></td>
-<td>Learning (II)</td>
-<td></td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 9</th>
 </tr>
 <tr class="even">
-<td>Nov 3</td>
+<td>Oct 30</td>
+<td><em>Chapter 9</em></td>
+<td>Learning (II)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Nov 1</td>
 <td><em>Chapter 9</em></td>
 <td>Learning (III)</td>
 <td>#4 posted</td>
 </tr>
 <tr class="odd">
-<td>Nov 4</td>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 10</th>
+</tr>
+</tr>
+<tr class="odd">
+<td>Nov 6</td>
 <td><em>Chapter 7</em></td>
 <td>Analysing Representations</td>
 <td>#3 due*</td>
-</tr>
-<tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 10</th>
-</tr>
 <tr class="odd">
-<td>Nov 10</td>
+<td>Nov 8</td>
 <td><em>provided</em></td>
 <td>Symbols (I)</td>
 <td></td>
 </tr>
 <tr class="even">
-<td>Nov 11</td>
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 11</th>
+</tr>
+<tr class="even">
+<td>Nov 13</td>
 <td><em>provided</em></td>
 <td>Symbols (II)</td>
 <td></td>
 </tr>
-<tr class="odd">
-<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 11</th>
-</tr>
 <tr class="even">
-<td>Nov 17</td>
+<td>Nov 15</td>
 <td><em>provided</em></td>
 <td>SPA (I, Working Memory)</td>
 <td>#5 posted</td>
 </tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 12</th>
+</tr>
 <tr class="odd">
-<td>Nov 18</td>
+<td>Nov 20</td>
 <td><em>provided</em></td>
 <td>SPA (II, Action Selection)</td>
 <td>#4 due*</td>
 </tr>
 <tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 12</th>
-</tr>
-<tr class="even">
-<td>Nov 24</td>
+<td>Nov 22</td>
 <td><em>provided</em></td>
 <td>Biological Details</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Nov 25</td>
-<td></td>
-<td>Conclusion</td>
 <td></td>
 </tr>
 <tr class="even">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 13</th>
 </tr>
+<tr class="odd">
+<td>Nov 27</td>
+<td></td>
+<td>Conclusion</td>
+<td></td>
+</tr>
 <tr class="even">
-<td>Dec 1</td>
+<td>Dec 29</td>
 <td></td>
 <td>Project Presentations</td>
 <td></td>
 </tr>
+<tr class="even">
+<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 14</th>
+</tr>
 <tr class="odd">
-<td>Dec 2</td>
+<td>Dec 4</td>
 <td></td>
 <td>Project Presentations</td>
 <td>#5 due*</td>
-</tr>
-<tr class="even">
-<th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 15</th>
 </tr>
 <tr class="odd">
 <td>Dec 18</td>
