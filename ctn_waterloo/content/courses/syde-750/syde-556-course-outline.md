@@ -24,14 +24,14 @@ title: SYDE 556 Course Outline
     Website:
     <http://compneuro.uwaterloo.ca>
     
--   **Teaching Assistant**  
+-   **Teaching Assistants**  
     Ben Masters  
-    Office:    
-    Email:       
+    Office: E7-6457
+    Email: [bpmasters@uwaterloo.ca](bpmasters@uwaterloo.ca)
 
     Karim Habashy  
-    Office:    
-    Email:    
+    Office: E7-6339
+    Email: [karim.habashy@uwaterloo.ca](karim.habashy@uwaterloo.ca)  
 
 -   **Course times and location**  
     Monday: 10:30-12:20 in E7-4433 (SYDE 556/750)  
