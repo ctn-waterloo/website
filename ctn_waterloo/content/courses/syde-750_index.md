@@ -23,11 +23,11 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
     
 -   **Teaching Assistants**  
     Ben Masters  
-    Office:   
+    Office: E7-6457
     Email: [bpmasters@uwaterloo.ca](bpmasters@uwaterloo.ca)
 
     Karim Habashy  
-    Office:  
+    Office: E7-6339
     Email: [karim.habashy@uwaterloo.ca](karim.habashy@uwaterloo.ca)
 
 -   **Course times and location**  
