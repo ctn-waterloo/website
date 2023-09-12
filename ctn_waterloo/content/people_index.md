@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Pawel Jaworksi (2023 Masters)
+      url: people/pawel-jaworski.html
     - text: Andreas Stöckel (2021 PhD)
       url: people/andreas-stoeckel.html
     - text: Narsimha R. Chilkuri (2021 Masters)
