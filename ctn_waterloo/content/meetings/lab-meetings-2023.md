@@ -37,4 +37,11 @@ This year's meetings:
 * Jul 28: cancelled (chris away)
 * Aug 4: Discuss lecture 3 from Telluride
 * Aug 11: cancelled (chris away)
-* Aug 18: tbd
+* Sept 8: Welcome roundtable
+* Sept 15: figure out lab meeting schedule/roundtable
+* Sept 22:
+* Sept 29:
+* Oct 6:
+* Oct 13:
+* Oct 20:
+* Oct 27:
