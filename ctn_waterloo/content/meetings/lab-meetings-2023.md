@@ -39,9 +39,18 @@ This year's meetings:
 * Aug 11: cancelled (chris away)
 * Sept 8: Welcome roundtable
 * Sept 15: figure out lab meeting schedule/roundtable
-* Sept 22:
-* Sept 29:
-* Oct 6:
-* Oct 13:
-* Oct 20:
-* Oct 27:
+* Sept 22: Varun on quantum machine learning
+* Sept 29: Karim on magnetic control of microbots and maybe LLMs
+* Oct 6: Rika Antonova (Oxford and collaborator) talk on Robotics 
+* Oct 13: Nicole CS Seminar on SLAM modeling
+* Oct 20: Michael practice talk for AAAI
+* Oct 27: Pete on compute canada methods
+* Nov 3: Chris on conferences and deadlines we track
+* Nov 10: Michael on sampling for SSP methods
+* Nov 17: roundtable
+* Nov 24: Michael on the Fourier former paper (https://arxiv.org/pdf/2206.00206.pdf)
+* Dec 1: Cancelled chris away
+* Dec 8:
+* Dec 15:
+* Dec 22:
+<next year>
