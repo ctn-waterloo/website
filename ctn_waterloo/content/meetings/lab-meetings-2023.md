@@ -41,10 +41,10 @@ This year's meetings:
 * Sept 15: figure out lab meeting schedule/roundtable
 * Sept 22: Varun on quantum machine learning
 * Sept 29: Karim on magnetic control of microbots and maybe LLMs
-* Oct 6: Rika Antonova (Oxford and collaborator) talk on Robotics 
+* Oct 6: Pete on compute canada methods 
 * Oct 13: Nicole CS Seminar on SLAM modeling
 * Oct 20: Michael practice talk for AAAI
-* Oct 27: Pete on compute canada methods
+* Oct 27: roundtable
 * Nov 3: Chris on conferences and deadlines we track
 * Nov 10: Michael on sampling for SSP methods
 * Nov 17: roundtable
