@@ -84,15 +84,15 @@ title: SYDE 556 Course Outline
 </tr>
 <tr class="odd">
 <td>Sept 11</td>
-<td>Chapter 2</td>
-<td>Neurons</td>
+<td>Chapter 1</td>
+<td>Introduction</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Sept 13</td>
 <td>Chapter 2</td>
-<td>Population Representation (I)</td>
-<td>#1 posted</td>
+<td>Neurons</td>
+<td></td>
 </tr>
 <tr class="odd">
 <th colspan="4" style="font-size: 75%; padding-top: 1em; text-align:left; border-bottom: 1px solid black">WEEK 3</th>
@@ -100,13 +100,13 @@ title: SYDE 556 Course Outline
 <tr class="even">
 <td>Sept 18</td>
 <td>Chapter 2</td>
-<td>Population Representation (II)</td>
-<td></td>
+<td>Population Representation (I)</td>
+<td>#1 posted</td>
 </tr>
 <tr class="even">
 <td>Sept 20</td>
-<td>Chapter 4</td>
-<td>Temporal Representation (I)</td>
+<td>Chapter 2</td>
+<td>Population Representation (II)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -115,7 +115,7 @@ title: SYDE 556 Course Outline
 <tr class="odd">
 <td>Sept 25</td>
 <td>Chapter 4</td>
-<td>Temporal Representation (II)</td>
+<td>Temporal Representation</td>
 <td></td>
 </tr>
 <tr class="odd">
