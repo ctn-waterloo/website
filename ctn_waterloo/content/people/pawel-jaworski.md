@@ -1,7 +1,7 @@
 name: Pawel Jaworski
 email: p3jawors@uwaterloo.ca
 one_liner: Adaptive robotic control and visual navigation
-group: Grad students
+group: Alumnus
 title: MASc Candidate in Systems Design Engineering
 picture: https://i.imgur.com/X6WGNEK.jpg
 links: 
