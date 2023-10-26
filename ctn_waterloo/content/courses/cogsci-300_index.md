@@ -48,7 +48,7 @@ The in-class lecture notes will be posted here before each class.
  * Topic 5: [Vision](https://drive.google.com/file/d/0Bw1vzEJL0FzyaXlhaXpHSmlMbzA/view?usp=share_link&resourcekey=0-0a8g-NfLpcURXR1yRvBI7A)
  * Topic 6: [AlphaGo and RL](https://drive.google.com/file/d/11cI9Ou3cOU6rghVbGtj0n5CHswMun-Dw/view?usp=share_link)
  * Topic 7: [Animals and plants](https://drive.google.com/file/d/14puD_Ae-GSpgiP09uiiUiQKG6byTRt47/view?usp=share_link)
- * Topic 8: [Stanley the card](https://drive.google.com/file/d/1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO/view?usp=share_link)
+ * Topic 8: [Stanley the car](https://drive.google.com/file/d/1GDRH3FBI48dKXftD-99TN9XtMnpSkNBO/view?usp=share_link)
  * Topic 9: [Large language models](https://drive.google.com/file/d/1bAJ4kQvnNjNx9YpcGCDHSJJ-5RnKaKB-/view?usp=share_link) (Mar 21. Michael Furlong)
  * Topic 10: [Kanzi](https://drive.google.com/file/d/1rXjJNcU5PZLRmtzV9nGlZn6Og6rme3Lv/view?usp=share_link) (Mar 16)
  * Topic 11: [Kinesthetics and embodiment](https://drive.google.com/file/d/1OoeS6V5qlOTd2cHGed3Xh4ZEXWByC18l/view?usp=share_link)
