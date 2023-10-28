@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Peter Duggins (2023 PhD)
+      url: people/peter-duggins.html
     - text: Pawel Jaworksi (2023 Masters)
       url: people/pawel-jaworski.html
     - text: Andreas Stöckel (2021 PhD)
