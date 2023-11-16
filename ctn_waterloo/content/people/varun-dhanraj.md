@@ -3,7 +3,7 @@ email: vdhanraj@uwaterloo.ca
 <! --- one_liner:  ---> 
 group: Grad students
 title: Masters Student in Computer Science
-picture: https://media.licdn.com/dms/image/C5603AQFJn2xif89O5g/profile-displayphoto-shrink_800_800/0/1576522295458?e=1700092800&v=beta&t=fbZ__03JqPQeDOrVvPjAAyQmAabcPC9oq6yKI00Rapw
+picture: https://media.licdn.com/dms/image/C5603AQFJn2xif89O5g/profile-displayphoto-shrink_200_200/0/1576522295343?e=1705536000&v=beta&t=7Y2o_9H12jiNNrbnwJMmTBr6KukIMyesTnlosWZHSC4
 links:
     - text: LinkedIn
       url: https://www.linkedin.com/in/varun-dhanraj/
