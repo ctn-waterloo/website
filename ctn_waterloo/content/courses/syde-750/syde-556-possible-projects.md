@@ -1,12 +1,11 @@
-title: SYDE 556 Possible Projects
+title: SYDE 750 Possible Projects
 
 The purpose of these projects is to have you apply what you learn in the
 course to constructing a novel simulation of some neural system. 
 The topics listed here and on the Nengo modelling page
 are not exclusive, feel free to propose your own topic.
 
-The project is worth 40% of your final mark. People in 556 can do a either an 
-"extension project" or a "research project", those in 750 must do a "research project."
+The project is worth 20% of your final mark. People in 750 must do a "research project."
 
 Another excellent source (other than below) for ideas is the [Nengo Modelling Ideas repository](https://github.com/ctn-waterloo/modelling_ideas).  This repository has a bunch of advanced and simple modelling suggestions.  You can
 use Nengo for your final project, so they are all doable.  However, be sure to talk to me before starting, as some
@@ -35,12 +34,12 @@ To evaluate the behaviour of the system, the idea is to vary some aspect of the 
 
 Note that because there is randomness in the creation of a neuron model, you will generally have to measure a model multiple times.  All projects should use spiking neurons, and include dynamics in the constructed circuit (i.e. a purely feedforward network is not acceptable).
 
-## Example Extension Projects 
+<!--## Example Extension Projects 
 
 1. ([Dora Angelaki](https://www.bcm.edu/people/view/dora-angelaki-ph-d/b15a5f58-ffed-11e2-be68-080027880ca6)): Dora contributed the data for the model of the vestibular system found in the textbook. This model could be used as a starting point for a project. Because there are many possible implementations of this network, it would be useful to implement the transformation in a few different ways and see if there are predictions that could determine which of the models is most like the real network. Or, an indepth examination of the derivative signal, $\dot{A}(t)$, could be undertaken, with attempts to design networks that can compute a derivative effectively. Right now, this signal is not part of the neural model. Or constructing a model that includes both tVOR and regular VOR. Or...
 2. Lamprey swimming: The model of lamprey swimming in the textbook could be extended in two ways: 1) make the model 3-dimensional; 2) include control signals for yaw, roll, and pitch.
 3. Statistical inference: more compex distributions, multiple steps in inference, temporal inference for slowly changing statistics, higher-dimensional representations could all be explored.
-4. Working memory: The model of working memory in the text is for parietal areas. A similar model could be construct for frontal working memory. More sophisticated representations than that used here could be implemented in a similar model. For instance, ramping function representation (i.e. function representations with temporal dynamics), or just higher-d functions than are used in the book. As well, additional working memory functions, like 'loading' a new memory, or 'erasing' an old memory could be examined.
+4. Working memory: The model of working memory in the text is for parietal areas. A similar model could be construct for frontal working memory. More sophisticated representations than that used here could be implemented in a similar model. For instance, ramping function representation (i.e. function representations with temporal dynamics), or just higher-d functions than are used in the book. As well, additional working memory functions, like 'loading' a new memory, or 'erasing' an old memory could be examined.-->
 
 ## Example Research Projects
 
