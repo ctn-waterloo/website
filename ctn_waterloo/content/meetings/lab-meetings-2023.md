@@ -49,8 +49,8 @@ This year's meetings:
 * Nov 10: Michael on sampling for SSP methods
 * Nov 17: roundtable
 * Nov 24: Nat practice PhD defense talk
-* Dec 1: Cancelled chris away
+* Dec 1: Cancelled (chris away)
 * Dec 8: Michael on the Fourier former paper (https://arxiv.org/pdf/2206.00206.pdf)
-* Dec 15:
+* Dec 15: Cancelled (chris away)
 * Dec 22:
 <next year>
