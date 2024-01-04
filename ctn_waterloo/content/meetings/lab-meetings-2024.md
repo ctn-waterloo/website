@@ -8,3 +8,5 @@ Meetings take place in E7 6323, Friday at high noon (12 p.m.).
 This year's meetings:
 
 * Jan 12: Welcome back! Roundtable
+* Jan 19: Karim will present the [Mamba paper](https://arxiv.org/abs/2312.00752)
+* 
