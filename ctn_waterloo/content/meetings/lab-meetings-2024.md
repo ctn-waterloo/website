@@ -15,12 +15,13 @@ This year's meetings:
 * Feb 16: Maddy - basal ganglia paper; conferences revisit 
 * Feb 23: no meeting - reading week
 * Mar 1: Michael & Nicole - aistats paper (SSP sampling) 
-* Mar 8: Karim - diffusion with SSPs
+* Mar 8: no meeting - Chris away
 * Mar 15: no meeting - Chris away
 * Mar 22: no meeting - Chris away
 * Mar 29: no meeting - Good Friday
-* Apr 5: Michael - two NICE papers
-* Apr 12: Varun - tree of throught
-* Apr 19: Michael - QBO work
-* Apr 26: Nicole - RL with Nengo
+* Apr 5: Karim - diffusion with SSPs
+* Apr 12: Michael - two NICE papers
+* Apr 19: Varun - tree of throught
+* Apr 26: Michael - QBO work
+* May 3: Nicole - RL with Nengo
 * 
