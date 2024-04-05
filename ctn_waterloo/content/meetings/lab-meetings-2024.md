@@ -3,7 +3,7 @@ year: 2024
 
 Here we will post slides/discussions/papers related to recent or upcoming lab meetings. Subject to change, of course.
 
-Meetings take place in E7 6323, Friday at 11:30a.
+Meetings take place in E7 6323, Friday at 12:00a.
 
 This year's meetings:
 
