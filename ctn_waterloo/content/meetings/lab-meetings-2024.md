@@ -23,5 +23,5 @@ This year's meetings:
 * Apr 12: Michael - two NICE papers
 * Apr 19: Varun - tree of throught
 * Apr 26: Michael - QBO work
-* May 3: Nicole - RL with Nengo
+* May 3: Nicole - RL with Nengo (PhD Seminar)
 * 
