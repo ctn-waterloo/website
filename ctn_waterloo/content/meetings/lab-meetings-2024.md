@@ -22,6 +22,7 @@ This year's meetings:
 * Apr 5: Karim - diffusion with SSPs
 * Apr 12: Michael - two NICE papers
 * Apr 19: Varun - tree of throught
-* Apr 26: Michael - QBO work
+* Apr 26: Roundtable
 * May 3: Nicole - RL with Nengo (PhD Seminar)
-* 
+* May 11: Michael - QBO work  (and NICE summary)
+* May 18: 
