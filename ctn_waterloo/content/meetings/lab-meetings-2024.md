@@ -24,5 +24,10 @@ This year's meetings:
 * Apr 19: Varun - tree of throught
 * Apr 26: Roundtable
 * May 3: Nicole - RL with Nengo (PhD Seminar)
-* May 11: Michael - QBO work  (and NICE summary)
-* May 18: 
+* May 10: Michael - NICE summary
+* May 17: Michael - QBO work
+* May 24: Roundtable
+* May 31: Pete - his speed accuracy tradeoff paper
+* Jun 7: no meeting - summer school
+* Jun 14: no meeting - summer school
+* Jun 21: 
