@@ -30,4 +30,6 @@ This year's meetings:
 * May 31: Pete - his speed accuracy tradeoff paper
 * Jun 7: no meeting - summer school
 * Jun 14: no meeting - summer school
-* Jun 21:  
+* Jun 21: no meeting - chris away
+* Jun 28: summer school debrief
+* 
