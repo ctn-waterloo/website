@@ -32,4 +32,11 @@ This year's meetings:
 * Jun 14: no meeting - summer school
 * Jun 21: no meeting - chris away
 * Jun 28: summer school debrief
-* 
+* Jul 5:
+* Jul 12:
+* Jul 19:
+* Jul 26: Ryan poster practice
+* Aug 2: No meeting - Chris away
+* Aug 9:
+* Aug 16: No meeting - Chris away
+* Aug 23: No meeting - Chris away
