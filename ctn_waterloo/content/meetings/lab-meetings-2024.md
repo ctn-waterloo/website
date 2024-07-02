@@ -3,7 +3,7 @@ year: 2024
 
 Here we will post slides/discussions/papers related to recent or upcoming lab meetings. Subject to change, of course.
 
-Meetings take place in E7 6323, Friday at 12:00a.
+Meetings take place in E7 6333B, Friday at 12:00a.
 
 This year's meetings:
 
@@ -32,7 +32,7 @@ This year's meetings:
 * Jun 14: no meeting - summer school
 * Jun 21: no meeting - chris away
 * Jun 28: summer school debrief
-* Jul 5:
+* Jul 5: roundtable
 * Jul 12:
 * Jul 19:
 * Jul 26: Ryan poster practice
