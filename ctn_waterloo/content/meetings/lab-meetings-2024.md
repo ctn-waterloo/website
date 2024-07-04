@@ -35,7 +35,7 @@ This year's meetings:
 * Jul 5: roundtable
 * Jul 12:
 * Jul 19:
-* Jul 26: Ryan poster practice
+* Jul 26: Ryan poster practice & Telluride debrief
 * Aug 2: No meeting - Chris away
 * Aug 9:
 * Aug 16: No meeting - Chris away
