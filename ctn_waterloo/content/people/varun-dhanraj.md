@@ -1,6 +1,6 @@
 name: Varun Dhanraj
 email: vdhanraj@uwaterloo.ca
-<! --- one_liner:  ---> 
+one_liner: Planning and Reasoning
 group: Grad students
 title: Masters Student in Computer Science
 picture: https://i.postimg.cc/6pZdVrZt/1576522295343.jpg
