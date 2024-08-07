@@ -5,7 +5,7 @@ title: SYDE 556 Course Outline
 -   **Course title**  
     Simulating Neurobiological Systems (SYDE 556/750)
 
--   **Course syllabus**  
+-   **Official course syllabus**  
     -  https://outline.uwaterloo.ca/view/nwh9u7
 
 -   **Course website**  
