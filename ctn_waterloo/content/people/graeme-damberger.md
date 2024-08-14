@@ -4,7 +4,6 @@ one_liner: Model Predictive Control
 group: Grad students
 title: MASc Student in System Design Engineering
 picture: https://i.postimg.cc/L6fYXMFK/LAND8869-Crop-pfp.jpg
-
 links:
     - text: LinkedIn
       url: https://ca.linkedin.com/in/graeme-damberger-546b73269
