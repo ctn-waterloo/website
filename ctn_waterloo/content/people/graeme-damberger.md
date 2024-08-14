@@ -1,6 +1,6 @@
 name: Graeme Damberger
 email: graemedamberger@gmail.com
-<! --- one_liner:  ---> 
+one_liner: Model Predictive Control
 group: Grad students
 title: MASc Student in System Design Engineering
 picture: https://i.postimg.cc/L6fYXMFK/LAND8869-Crop-pfp.jpg
