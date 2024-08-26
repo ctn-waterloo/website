@@ -40,3 +40,6 @@ This year's meetings:
 * Aug 9: Karim on GFlowNets
 * Aug 16: No meeting - Chris away
 * Aug 23: No meeting - Chris away
+* Aug 30: roundtable
+* Sept 6: Ryan - Conference summary
+* Sept 13: 
