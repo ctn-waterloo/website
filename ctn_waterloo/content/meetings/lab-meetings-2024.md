@@ -42,4 +42,18 @@ This year's meetings:
 * Aug 23: No meeting - Chris away
 * Aug 30: roundtable
 * Sept 6: Ryan - Conference summary
-* Sept 13: 
+* Sept 13: Graeme - MPC results
+* Sept 20: Jake & Isaac - recent cool project
+* Sept 27: Michael - autoregressive [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/186b690e29892f137b4c34cfa40a3a4d-Paper.pdf)
+* Oct 4: roundtable
+* Oct 11: Chris - continuous backprop for RL [paper](https://www.nature.com/articles/s41586-024-07711-7)
+* Oct 18: Michael - risk aware RL proposal
+* Oct 25: roundtable
+* Nov 1:
+* Nov 8:
+* Nov 15:
+* Nov 22:
+* Nov 29: nicole practice defense
+* Dec 6:
+* Dec 13: 
+* Dec 20: end of year (no meeting)
