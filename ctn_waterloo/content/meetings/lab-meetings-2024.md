@@ -46,8 +46,8 @@ This year's meetings:
 * Sept 20: Varun - poster presentation and conference summary
 * Sept 27: Jake & Isaac - recent cool project
 * Oct 11: Chris - continuous backprop for RL [paper](https://www.nature.com/articles/s41586-024-07711-7)
-* Oct 18: Michael - autoregressive [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/186b690e29892f137b4c34cfa40a3a4d-Paper.pdf)
-* Oct 4: roundtable
+* Oct 18: roundtable
+* Oct 4: Michael - autoregressive [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/186b690e29892f137b4c34cfa40a3a4d-Paper.pdf)
 * Oct 25: roundtable
 * Nov 1: Michael - risk aware RL proposal
 * Nov 8:
