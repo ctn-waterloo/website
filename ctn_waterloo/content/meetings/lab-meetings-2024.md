@@ -54,6 +54,6 @@ This year's meetings:
 * Nov 15:
 * Nov 22:
 * Nov 29: nicole practice defense
-* Dec 6:
+* Dec 6: 
 * Dec 13: 
 * Dec 20: end of year (no meeting)
