@@ -35,7 +35,7 @@ This year's meetings:
 * Jul 5: roundtable
 * Jul 12: no meeting - Chris away
 * Jul 19: Masters class in all things academic
-* Jul 26: Ryan poster practice & Telluride debrief
+* Jul 26: Ryan poster practice & Telluride debrief 
 * Aug 2: No meeting - Chris away
 * Aug 9: Karim on GFlowNets
 * Aug 16: No meeting - Chris away
