@@ -14,7 +14,7 @@ This year's meetings:
 * Feb 9: Ryan (whiskers) and Graeme (finger)
 * Feb 16: Maddy - basal ganglia paper; conferences revisit
 * Feb 23: no meeting - reading week
-* Mar 1: Michael & Nicole - aistats paper (SSP sampling) 
+* Mar 1: Michael & Nicole - aistats paper (SSP sampling)
 * Mar 8: no meeting - Chris away
 * Mar 15: no meeting - Chris away 
 * Mar 22: no meeting - Chris away
