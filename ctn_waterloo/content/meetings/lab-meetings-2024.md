@@ -52,7 +52,7 @@ This year's meetings:
 * Nov 1: Michael - risk aware RL proposal
 * Nov 8:
 * Nov 15:
-* Nov 22:
+* Nov 22: tester
 * Nov 29: nicole practice defense
 * Dec 6: 
 * Dec 13: 
