@@ -44,7 +44,7 @@ This year's meetings:
 * Sept 6: Ryan - Conference summary
 * Sept 13: Graeme - MPC results
 * Sept 20: Varun - poster presentation and conference summary
-* Sept 27: Jake & Isaac - recent cool project
+* Sept 27: Michael on ICANN conference; Jake & Isaac - recent cool project
 * Oct 11: Conference project planning discussion
 * Oct 18: Chris - continuous backprop for RL [paper](https://www.nature.com/articles/s41586-024-07711-7)
 * Oct 4: Michael - autoregressive [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/186b690e29892f137b4c34cfa40a3a4d-Paper.pdf)
