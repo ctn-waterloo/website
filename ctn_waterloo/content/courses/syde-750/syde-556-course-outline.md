@@ -39,7 +39,7 @@ title: SYDE 556 Course Outline
 
     Main resource: “Neural Engineering: Representation, Computation and Dynamics in Neurobiological Systems”, Chris Eliasmith and Charles Anderson, 2003. MIT Press. On Reserve in Library.
 
-    Optional: “How to Build a Brain”, Chris Eliasmith, 2012
+    Optional: “How to Build a Brain”, Chris Eliasmith, 2012. Oxford University Press.
 
 -   **Course Description**  
     This course examines a general framework for modeling
