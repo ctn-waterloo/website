@@ -50,10 +50,10 @@ This year's meetings:
 * Oct 18: roundtable
 * Oct 25: Chris - continuous backprop for RL [paper](https://www.nature.com/articles/s41586-024-07711-7)
 * Nov 1: Michael - risk aware RL proposal
-* Nov 8: Ryan defense practice
-* Nov 15: 
-* Nov 22: 
-* Nov 29: 
-* Dec 6: Graeme adaptive control with SSPs & Karim on SSPs for image processing
-* Dec 13: 
+* Nov 8: Jake - concepts
+* Nov 15: Ryan - defense practice
+* Nov 22: Michael - robustness of neural networks
+* Nov 29: Nicole - seminar
+* Dec 6: Graeme - adaptive control with SSPs 
+* Dec 13: Karim - SSPs for image processing
 * Dec 20: end of year (no meeting)
