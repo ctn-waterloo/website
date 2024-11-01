@@ -52,8 +52,8 @@ This year's meetings:
 * Nov 1: Michael - risk aware RL proposal
 * Nov 8: Jake - concepts
 * Nov 15: Ryan - defense practice
-* Nov 22: Michael - robustness of neural networks
-* Nov 29: Nicole - seminar
+* Nov 22: Nicole - seminar
+* Nov 29: Michael - robustness of neural networks
 * Dec 6: Graeme - adaptive control with SSPs 
 * Dec 13: Karim - SSPs for image processing
 * Dec 20: end of year (no meeting)
