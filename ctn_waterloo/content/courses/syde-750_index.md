@@ -48,7 +48,7 @@ The final project for the course consists of picking a neurobiological system an
 building a model for it. Projects are mandatory for 750 and optional (in place of the final assignment) for 556 (max group size of 2). There is a list of possible projects, expectations for the project and more info at [this link](/courses/syde-750/syde-750-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
 Please have your projects approved by Oct 21st.  To do so, you will need to submit a short summary of your project earlier. Have a look at [this document](
-https://raw.githubusercontent.com/celiasmith/syde556-w23/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information
+https://raw.githubusercontent.com/celiasmith/syde556-f24/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information
 
 ### Project Format
 
@@ -58,12 +58,12 @@ Implementation), see the [project page](/courses/syde-750/syde-750-possible-proj
 
 The final document should be between, at least ten, and (at the very most) twenty content pages at 12pt, 1.25 line spacing. Have a look at the following project template for more information.
 
-* **[Project Report Template PDF File](https://github.com/celiasmith/syde556-w23/raw/master/project/template/syde556_project_template.pdf)**  
+* **[Project Report Template PDF File](https://github.com/celiasmith/syde556-f24/raw/master/project/template/syde556_project_template.pdf)**  
   Contains some advice on how to structure the report, the formating, as well as some example uses of LaTeX.
-* **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-w23/raw/master/project/template.zip)**  
+* **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-f24/raw/master/project/template.zip)**  
   Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service such as Overleaf.
 
-Students are expected to provide a short, 5-10 min project presentation on the last two days of class. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-w23/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
+Students are expected to provide a short, 5-10 min project presentation on the last two days of class. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f24/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
 
 
 * * *
