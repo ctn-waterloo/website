@@ -1,7 +1,7 @@
 name: P. Michael Furlong
 email: michael.furlong@uwaterloo.ca
 one_liner: Probability Modelling and Action Selection, Neurorobotics
-group: Postdocs
+group: Collaborators
 title: Research Associate
 picture: 
 links:
