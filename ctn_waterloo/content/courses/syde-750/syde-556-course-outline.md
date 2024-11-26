@@ -57,7 +57,7 @@ See the course syllabus provided above.
 
 ## Grading
 
-The course requires five assignments from all students (100% for 556, 80% for 750) and a final project (20%) from students taking 750. There is an option for 556 students to do a project in place of the final assignment. Assignments are due electronically by 11:50pm of the due date. Late assignments lose 1 mark per day and may be at most seven days late. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
+The course requires five assignments from all students (100% for 556, 80% for 750) and a final project (20%) from students taking 750. There is an option for 556 students to do a project in place of the final assignment. Assignments are due electronically by 11:59pm of the due date. Late assignments lose 1 mark per day and may be at most seven days late. Assignments are to be done individually (everyone writes their own code and answers questions themselves).
 
 ## Policies
 
