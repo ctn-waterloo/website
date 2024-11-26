@@ -63,7 +63,7 @@ The final document should be between, at least ten, and (at the very most) twent
 * **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-f24/raw/master/project/template.zip)**  
   Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service such as Overleaf.
 
-Students are expected to provide a short, 5-10 min project presentation on the last two days of class. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f24/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
+Students are expected to provide a short, 5-10 min project presentation on the last two days of class. Marks are not assigned for the presentation, although a skipped or very poor presentation will result in the loss of up to 4 marks on the project report. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f24/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
 
 
 * * *
