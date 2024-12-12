@@ -1,5 +1,9 @@
 title: People
 alumni:
+    - text: Ryan Laube (2024 Masters)
+      url: people/ryan-laube.html
+    - text: Natarajan Vaidyanathan (2024 PhD)
+      url: people/natarajan-vaidyanathan.html
     - text: Peter Duggins (2023 PhD)
       url: people/peter-duggins.html
     - text: Pawel Jaworksi (2023 Masters)
