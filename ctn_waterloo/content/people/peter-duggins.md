@@ -1,7 +1,7 @@
 name: Peter Duggins
 email: psipeter@gmail.com
 one_liner: Biologically detailed neuron models; Social Learning and Decision Making; Agent-based models
-group: Grad students
+group: Alumnus
 title: PhD Student in Systems Design Engineering
 picture: http://compneuro.uwaterloo.ca/files/peter_duggins_profile2.JPG
 
