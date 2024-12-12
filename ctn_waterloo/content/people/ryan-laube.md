@@ -1,7 +1,7 @@
 name: Ryan Laube
 email: rlaube@uwaterloo.ca
 one_liner: LLMs and semantic pointers
-group: Grad students
+group: Alumnus
 title: Masters Student in Computer Science
 picture: https://i.postimg.cc/GpvXgSj9/IMG-5330.jpg
 links:
