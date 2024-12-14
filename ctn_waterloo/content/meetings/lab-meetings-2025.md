@@ -10,4 +10,4 @@ This year's meetings:
 * Jan 10: Welcome back! Nicole's PhD Practice talk
 * Jan 17: Karim and Graeme on their MPC-Diffusion project
 * Jan 24: Isaac on his mental multiplication model
-* Jan 31: TBD
+* Jan 31: TBDs
