@@ -3,7 +3,7 @@ email: jakeb.chouinard@uwaterloo.ca
 one_liner: Biologically-Plausible Memory Mechanisms
 group: Grad students
 title: MASc Student in Systems Design Engineering
-picture: https://github.com/jkbchouinard/jkbchouinard/blob/main/PXL_20240523_072223584.jpg
+picture: https://raw.githubusercontent.com/jkbchouinard/jkbchouinard/refs/heads/main/PXL_20240523_072223584.jpg
 links: 
     - text: Github
       url: https://github.com/jkbchouinard
