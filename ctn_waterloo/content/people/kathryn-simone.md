@@ -7,8 +7,8 @@ picture: https://i.postimg.cc/KvYtJXd8/PXL-20250131-163450510-2.jpg
 links:
     - text: GitHub
       url: https://github.com/kpc-simone
-	- text: Scholar
-	  url: https://scholar.google.ca/citations?user=HwcoAIIAAAAJ&hl=en
+    - text: Scholar
+      url: https://scholar.google.ca/citations?user=HwcoAIIAAAAJ&hl=en
 
 I joined the lab in January 2025 as a postdoctoral fellow to help build the next version of Spaun, towards eluciding the neural mechanisms underlying the essential capacities of brains embedded in an interactive and dynamic environment. 
 Before this, I conducted postdoctoral research into biologically-plausible anomaly detection and reinforcement learning algorithms with Dr. Jeff Orchard (Cheriton School of Computer Science) and Dr. Terrence C. Stewart (Natural Research Council of Canada).
