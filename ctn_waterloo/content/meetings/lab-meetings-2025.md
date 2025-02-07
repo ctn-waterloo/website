@@ -10,4 +10,12 @@ This year's meetings:
 * Jan 10: Welcome back! Nicole's PhD Practice talk
 * Jan 17: Karim and Graeme on their MPC-Diffusion project
 * Jan 24: Isaac on his mental multiplication model
-* Jan 31: TBDs
+* Jan 31: roundtable
+* Feb 7: Varun LLM reasoning paper
+* Feb 14:
+* Feb 21:
+* Feb 28:
+* Mar 7:
+* Mar 14:
+* Mar 21: No meeting Chris away
+* Mar 28: No meeting Chris away
