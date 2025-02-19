@@ -16,7 +16,7 @@ This year's meetings:
 * Feb 21: Reading week (no meeting)
 * Feb 28: Jake on memory adjacent neuroanatomy 
 * Mar 7: Michael on BO for space
-* Mar 13 (Thurs!): Summer School Ranking & Graeme and Kathryn on SSPs for adaptive control (practice talk)
+* Mar 13 (Thurs noon, E7- 7411): Summer School Ranking & Graeme and Kathryn on SSPs for adaptive control (practice talk)
 * Mar 21: No meeting Chris away
 * Mar 28: No meeting Chris away
 * Apr 4: Michael and nicole on BO paper as resubmitted
