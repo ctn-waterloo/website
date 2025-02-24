@@ -3,7 +3,7 @@ email: ns2dumon@uwaterloo.ca
 one_liner: Grid cells and spatial navigation
 group: Grad students
 title: PhD Student
-picture: https://i.postimg.cc/28mWtsQj/dumont.jpg
+picture: https://nsdumont.github.io/assets/img/dumont2.jpeg
 links:
     - text: Github
       url: https://github.com/nsdumont
@@ -14,6 +14,11 @@ links:
     - text: Scholar
       url: https://scholar.google.com/citations?user=2hnh9gkAAAAJ&hl=en
     - text: CV
-      url: https://github.com/nsdumont/CV/blob/master/dumont-cv.pdf
+      url: https://nsdumont.github.io/assets/pdf/CV.pdf
+    - text: Website
+      url: https://nsdumont.github.io
 
-I joined the lab in September 2019 as a PhD student. I completed my Masters in Computational Mathematics at UW in April 2019 and my Honours BSc in Mathematics and Physics at McMaster University. I am interested in grids cells, spatial mapping, and reinforcement learning. 
+I joined the CRNG lab in September 2019 as a PhD student in Computer Science and was co-supervised by Jeff Orchard from the Neurocognitive Computing Lab. The focus of my thesis was modelling spatial cognition in the brain with neurosymbolic methods. I hypothesized that particular neurosymbolic methods -- namely, Holographic Reduced Representations (Plate, 1995) extended to include dynamics -- were a good model of spatial encoding in the medial entorhinal cortex. These representations can be used to model grids cells, path integration, cognitive mapping, and SLAM. I additionally studied biologically-plausible reinforcement learning and successor representations.
+
+I obtained a M.Math in the computational mathematics program at the University of Waterloo, where I researched continuous optimization and was advised by Thomas Coleman. I obtained my B.Sc. in mathematics and physics from McMaster University. 
+
