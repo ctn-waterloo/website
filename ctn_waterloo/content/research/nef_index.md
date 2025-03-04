@@ -19,6 +19,8 @@ toc:
     - Challenges for the NEF
     - Extensions to the NEF
 
+**NOTE:** The NEF book is now *[FREE](https://compneuro.uwaterloo.ca/files/Eliasmith.Anderson.2003.Neural.Engineering.Full.Book.pdf)* to download!
+
 The NEF is the main method we use for constructing neural simulations. A quick
 overview of the framework can be found below. The book [Neural
 Engineering](http://www.amazon.com/Neural-Engineering-Representation-
