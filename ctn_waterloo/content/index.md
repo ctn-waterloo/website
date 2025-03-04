@@ -1,6 +1,6 @@
 title: Introduction
 teaser:
-  - Home of the <br><a href="http://compneuro.uwaterloo.ca/research/nef.html"><em>Neural Engineering Framework</em></a><br> and <br><a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/"><em>How to Build a Brain</em></a>.
+  - Home of the <br><a href="http://compneuro.uwaterloo.ca/research/nef.html"><em>Neural Engineering Framework</em></a> ([Free Book](https://compneuro.uwaterloo.ca/files/Eliasmith.Anderson.2003.Neural.Engineering.Full.Book.pdf))<br>  and <br><a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/"><em>How to Build a Brain</em></a>.
 teaser_image: https://i.imgur.com/dqOwB1H.png?1
 video: P_WRCyNQ9KY
 
