@@ -20,4 +20,5 @@ This year's meetings:
 * Mar 21: No meeting Chris away
 * Mar 28: No meeting Chris away
 * Apr 4: Michael and nicole on BO paper as resubmitted
-* Apr 11: roundtable
+* Apr 11: Graeme on NICE highlights
+* Apr 18: roundtable
