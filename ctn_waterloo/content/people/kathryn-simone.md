@@ -1,7 +1,7 @@
 name: Kathryn Simone
 email: kpsimone@uwaterloo.ca
 one_liner: Large-scale models of embodied cognition
-group: Post-Doctoral Fellows
+group: Postdocs
 title: Post-Doctoral Fellow in Systems Design Engineering
 picture: https://i.postimg.cc/KvYtJXd8/PXL-20250131-163450510-2.jpg
 links:
