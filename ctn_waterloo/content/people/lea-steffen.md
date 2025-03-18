@@ -3,12 +3,16 @@ email: lsteffen@uwaterloo.ca
 one_liner: Neurorobotics and Cognitive Modelling
 group: Postdocs
 title: Post-Doctoral Fellow in Systems Design Engineering
-picture: 
+picture: https://postimg.cc/c6r7Hb2h
 links:
-    - text: GitHub
-      url: https://github.com/LeaStef
     - text: Scholar
       url: https://scholar.google.com/citations?user=4ZtW9JcAAAAJ&hl=en
+    - text: GitHub
+      url: https://github.com/LeaStef
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/lea-steffen/
+    - text: ORCID 
+      url: https://orcid.org/0000-0002-7485-6915  
 
 I joined the lab in March 2025 as a postdoctoral researcher to help build the next version of Spaun. I focus on spiking deep neural networks, motor control, navigation, perception and cognition to develop a large-scale spiking whole-brain model.
 
