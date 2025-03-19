@@ -3,7 +3,7 @@ email: lsteffen@uwaterloo.ca
 one_liner: Neurorobotics and Cognitive Modelling
 group: Postdocs
 title: Post-Doctoral Fellow in Systems Design Engineering
-picture: https://postimg.cc/c6r7Hb2h
+picture: https://i.postimg.cc/Wp759R7B/Adobe-Express-file.jpg 
 links:
     - text: Scholar
       url: https://scholar.google.com/citations?user=4ZtW9JcAAAAJ&hl=en
