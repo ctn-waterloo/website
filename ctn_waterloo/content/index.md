@@ -22,4 +22,4 @@ on how to use Nengo to build large-scale brain models.
 
 You can find and download our [publications](/publications.html) on this site.
 
-<center><img src="http://i.imgur.com/yxWzoWA.jpg" alt="Lab Photo" /></center>
+<center><img src="https://imgur.com/a/4nTxqEG" alt="Lab Photo" /></center>
