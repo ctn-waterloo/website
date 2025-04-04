@@ -22,3 +22,8 @@ This year's meetings:
 * Apr 4: Michael and nicole on BO paper as resubmitted
 * Apr 11: Graeme on NICE highlights
 * Apr 18: roundtable
+* Apr 25:
+* May 2:
+* May 9:
+* May 16: Isaac and Varun posters
+* May 23:
