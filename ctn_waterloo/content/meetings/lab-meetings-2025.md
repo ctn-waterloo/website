@@ -24,6 +24,6 @@ This year's meetings:
 * Apr 18: roundtable
 * Apr 25:
 * May 2:
-* May 9:
+* May 9: Isaac on scene decomposition
 * May 16: Isaac and Varun posters
 * May 23:
