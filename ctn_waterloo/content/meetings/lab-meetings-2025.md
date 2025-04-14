@@ -22,8 +22,9 @@ This year's meetings:
 * Apr 4: Michael and nicole on BO paper as resubmitted
 * Apr 11: Graeme on NICE highlights
 * Apr 18: roundtable
-* Apr 25:
-* May 2:
-* May 9: Isaac on scene decomposition
+* Apr 25: good friay (no meeting)
+* May 2: roundtable
+* May 9: Katherine, Lea, Hudson on Spaun 3
 * May 16: Isaac and Varun posters
-* May 23:
+* May 23: Isaac on scene decomposition
+* 
