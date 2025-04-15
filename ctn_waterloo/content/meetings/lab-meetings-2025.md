@@ -21,8 +21,8 @@ This year's meetings:
 * Mar 28: No meeting Chris away
 * Apr 4: Michael and nicole on BO paper as resubmitted
 * Apr 11: Graeme on NICE highlights
-* Apr 18: roundtable
-* Apr 25: good friay (no meeting)
+* Apr 18: good friay (no meeting)
+* Apr 25: roundtable
 * May 2: roundtable
 * May 9: Katherine, Lea, Hudson on Spaun 3
 * May 16: Isaac and Varun posters
