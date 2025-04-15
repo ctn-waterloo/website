@@ -23,7 +23,7 @@ This year's meetings:
 * Apr 11: Graeme on NICE highlights
 * Apr 18: good friay (no meeting)
 * Apr 25: roundtable
-* May 2: roundtable
+* May 2: roundtable (sprint preparation)
 * May 9: Katherine, Lea, Hudson on Spaun 3
 * May 16: Isaac and Varun posters
 * May 23: Isaac on scene decomposition
