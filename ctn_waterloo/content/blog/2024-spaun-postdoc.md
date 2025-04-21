@@ -4,6 +4,8 @@ date: 2024-10-29 10:30
 
 Job Ad – Postdoctoral Researcher in Theoretical Neuroscience 
 
+[This position is now closed]
+
 Prof Chris Eliasmith, who holds the Canada Research Chair in Theoretical Neuroscience and heads the Computational Neuroscience Research Group (CNRG) in the Centre for Theoretical Neuroscience (CTN) at the University of Waterloo, is seeking a postdoctoral researcher in Theoretical Neuroscience for a fixed-term appointment.
 
 Description
