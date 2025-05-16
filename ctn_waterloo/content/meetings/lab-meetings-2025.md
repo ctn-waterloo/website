@@ -27,4 +27,8 @@ This year's meetings:
 * May 9: Katherine, Lea, Hudson on Spaun 3
 * May 16: Isaac and Varun posters
 * May 23: Isaac on scene decomposition
+* May 30: Anna and Michael visual working memory SSP poster
+* Jun 6 & 13: No meeting, Nengo Summer School!
+* Jun 20: Summer School debrief, roundtable
+* Jun 27:
 * 
