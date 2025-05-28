@@ -30,5 +30,5 @@ This year's meetings:
 * May 30: Anna and Michael visual working memory SSP poster
 * Jun 6 & 13: No meeting, Nengo Summer School!
 * Jun 20: Summer School debrief, roundtable
-* Jun 27:
+* Jun 27: tbd
 * 
