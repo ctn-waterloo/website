@@ -31,4 +31,14 @@ This year's meetings:
 * Jun 6 & 13: No meeting, Nengo Summer School!
 * Jun 20: Summer School debrief, roundtable
 * Jun 27: tbd
+* July 4:
+* July 11: no meeting (chris, michael, nicole away)
+* July 18:
+* July 25: no meeting (chris away)
+* Aug 1:
+* Aug 8: no meeting (chris away)
+* Aug 15:
+* Aug 22: no meeting (chris away)
+* Aug 29
+* Sept 5:
 * 
