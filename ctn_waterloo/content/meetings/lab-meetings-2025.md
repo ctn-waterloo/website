@@ -30,8 +30,8 @@ This year's meetings:
 * May 30: Anna and Michael visual working memory SSP poster
 * Jun 6 & 13: No meeting, Nengo Summer School!
 * Jun 20: Summer School debrief, roundtable
-* Jun 27: Varun and Isaac on croatia conference, Graeme poster
-* July 4:
+* Jun 27: Varun on croatia conference, Graeme poster
+* July 4: Isaac on croatia
 * July 11: no meeting (chris, michael, nicole away)
 * July 18:
 * July 25: no meeting (chris away)
