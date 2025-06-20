@@ -35,7 +35,7 @@ This year's meetings:
 * July 11: no meeting (chris, michael, nicole away)
 * July 18:
 * July 25: no meeting (chris away)
-* Aug 1:
+* Aug 1: report from Telluride (nicole, varun, michael, chris)
 * Aug 8: no meeting (chris away)
 * Aug 15:
 * Aug 22: no meeting (chris away)
