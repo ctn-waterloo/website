@@ -33,7 +33,7 @@ This year's meetings:
 * Jun 27: Varun on croatia conference, Graeme poster
 * July 4: Isaac on croatia
 * July 11: no meeting (chris, michael, nicole away)
-* July 18:
+* July 18: Graeme on ACC
 * July 25: no meeting (chris away)
 * Aug 1: report from Telluride (nicole, varun, michael, chris)
 * Aug 8: no meeting (chris away)
