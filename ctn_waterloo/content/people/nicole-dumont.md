@@ -1,8 +1,8 @@
 name: Nicole Dumont
 email: ns2dumon@uwaterloo.ca
-one_liner: Grid cells and spatial navigation
-group: Grad students
-title: PhD Student
+one_liner: Grid cells and neurosymbolic models of spatial cognition
+group: Alumnus
+title: PhD Student in Computer Science
 picture: https://nsdumont.github.io/assets/img/dumont2.jpeg
 links:
     - text: Github
