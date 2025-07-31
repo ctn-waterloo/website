@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Nicole Sandra-Yaffa Dumont (2025 PhD)
+      url: people/nicole-dumont.html
     - text: Ryan Laube (2024 Masters)
       url: people/ryan-laube.html
     - text: Natarajan Vaidyanathan (2024 PhD)
