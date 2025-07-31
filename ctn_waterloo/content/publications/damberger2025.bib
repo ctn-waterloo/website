@@ -3,5 +3,14 @@
     title = {Model Predictive Control in the Legendre Domain},
     booktitle = {Proceedings of the 2025 American Control Conference (ACC)},
     year = {2025},
-    note = {Accepted, to appear}
+    abstract = {We present a reformulation of the model predictive control problem using a Legendre basis. To do so, we use a
+    Legendre representation both for prediction and optimization.
+    For prediction, we use a neural network to approximate the
+    dynamics by mapping a compressed Legendre representation
+    of the control trajectory and initial conditions to the corresponding compressed state trajectory. We then reformulate the
+    optimization problem in the Legendre domain and demonstrate
+    methods for including optimization constraints. We present simulation results demonstrating that our implementation provides
+    a speedup of 31-40 times for comparable or lower tracking
+    errors with or without constraints on a benchmark task.},
+    pdf = {http://compneuro.uwaterloo.ca/files/publications/damberger2025.pdf}
 }
