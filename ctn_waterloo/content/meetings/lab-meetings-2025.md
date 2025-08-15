@@ -3,7 +3,7 @@ year: 2025
 
 Here we will post slides/discussions/papers related to recent or upcoming lab meetings. Subject to change, of course.
 
-Meetings take place in E7 6443, Friday at 12:30p-130p.
+As of Aug 28th, meetings take place in EC 2101a (Boardroom), Thurs at 12:30p.
 
 This year's meetings:
 
@@ -37,8 +37,11 @@ This year's meetings:
 * July 25: no meeting (chris away)
 * Aug 1: report from Telluride (nicole, varun, michael, chris)
 * Aug 8: no meeting (chris away)
-* Aug 15:
+* Aug 15: roundtable
 * Aug 22: no meeting (chris away)
-* Aug 29
-* Sept 5:
+* Aug 28: round table
+* Sept 4: Karim on lastest ssp cleanup
+* Sept 11: no meeting (chris away)
+* Sept 18:
+* Sept 25:
 * 
