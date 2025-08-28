@@ -43,5 +43,5 @@ This year's meetings:
 * Sept 4: Karim on lastest ssp cleanup
 * Sept 11: no meeting (chris away)
 * Sept 18:
-* Sept 25:
+* Sept 25: kathryn, lea, nicole, cici - Spaun 3 update
 * 
