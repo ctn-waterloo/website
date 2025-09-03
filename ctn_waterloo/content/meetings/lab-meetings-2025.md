@@ -40,8 +40,8 @@ This year's meetings:
 * Aug 15: roundtable
 * Aug 22: no meeting (chris away)
 * Aug 28: round table
-* Sept 4: Karim on lastest ssp cleanup
+* Sept 4: intros, new students, roundtable
 * Sept 11: no meeting (chris away)
-* Sept 18:
+* Sept 18: Karim on lastest ssp cleanup
 * Sept 25: kathryn, lea, nicole, cici - Spaun 3 update
-* 
+* Oct 2: 
