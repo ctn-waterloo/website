@@ -44,4 +44,5 @@ This year's meetings:
 * Sept 11: no meeting (chris away)
 * Sept 18: Karim on lastest ssp cleanup
 * Sept 25: kathryn, lea, nicole, cici - Spaun 3 update
-* Oct 2: 
+* Oct 2: samarth on optical neural networks
+* Oct 9: 
