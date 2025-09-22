@@ -45,4 +45,5 @@ This year's meetings:
 * Sept 18: Karim on lastest ssp cleanup
 * Sept 25: kathryn, lea, nicole, cici - Spaun 3 update
 * Oct 2: samarth on optical neural networks
-* Oct 9: 
+* Oct 9: kathryn on neural circuits for threat representation
+* Oct 19: 
