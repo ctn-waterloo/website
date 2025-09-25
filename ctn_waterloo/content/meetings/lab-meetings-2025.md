@@ -47,3 +47,7 @@ This year's meetings:
 * Oct 2: samarth on optical neural networks
 * Oct 9: kathryn on neural circuits for threat representation
 * Oct 16: moxu on robot arm and vision system he built
+* Oct 23:
+* Oct 30: no meeting (chris away)
+* Nov 6: michael survey of state of the art for VSAs
+* 
