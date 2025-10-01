@@ -44,10 +44,10 @@ This year's meetings:
 * Sept 11: no meeting (chris away)
 * Sept 18: Karim on lastest ssp cleanup
 * Sept 25: kathryn, lea, nicole, cici - Spaun 3 update
-* Oct 2: samarth on optical neural networks
+* Oct 2: roundtable
 * Oct 9: kathryn on neural circuits for threat representation
 * Oct 16: moxu on robot arm and vision system he built
-* Oct 23:
+* Oct 23: samarth on optical neural networks
 * Oct 30: no meeting (chris away)
 * Nov 6: michael survey of state of the art for VSAs
 * 
