@@ -46,8 +46,9 @@ This year's meetings:
 * Sept 25: kathryn, lea, nicole, cici - Spaun 3 update
 * Oct 2: roundtable
 * Oct 9: kathryn on neural circuits for threat representation
-* Oct 16: moxu on robot arm and vision system he built
+* Oct 16: no meeting (reading week)
 * Oct 23: samarth on optical neural networks
 * Oct 30: no meeting (chris away)
 * Nov 6: michael survey of state of the art for VSAs
+* Nov 13: moxu on robot arm and vision system he built
 * 
