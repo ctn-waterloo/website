@@ -49,6 +49,6 @@ This year's meetings:
 * Oct 16: no meeting (reading week)
 * Oct 23: samarth on optical neural networks
 * Oct 30: no meeting (chris away)
-* Nov 6: michael survey of state of the art for VSAs
+* Nov 6: no meeting (chris away)
 * Nov 13: moxu on robot arm and vision system he built
-* 
+* Nov 20: michael survey of state of the art for VSAs
