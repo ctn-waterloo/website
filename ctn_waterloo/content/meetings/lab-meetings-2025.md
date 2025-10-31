@@ -51,4 +51,6 @@ This year's meetings:
 * Oct 30: no meeting (chris away)
 * Nov 6: no meeting (chris away)
 * Nov 13: moxu on robot arm and vision system he built
-* Nov 20: michael survey of state of the art for VSAs
+* Nov 20: graeme practice PhD comprehensive talk
+* Nov 27: michael survey of state of the art for VSAs
+* 
