@@ -53,4 +53,5 @@ This year's meetings:
 * Nov 13: moxu on robot arm and vision system he built
 * Nov 20: graeme practice PhD comprehensive talk
 * Nov 27: michael survey of state of the art for VSAs
+* Dec 4: varun on EMNLP in china
 * 
