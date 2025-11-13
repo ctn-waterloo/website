@@ -51,7 +51,8 @@ This year's meetings:
 * Oct 30: no meeting (chris away)
 * Nov 6: no meeting (chris away)
 * Nov 13: moxu on robot arm and vision system he built
-* Nov 20: graeme practice PhD comprehensive talk
+* Nov 18: (Tuesday 12p-1p) graeme practice talk for comp (optional)
+* Nov 20: no meeting (graeme PhD comprehensive)
 * Nov 27: michael survey of state of the art for VSAs
 * Dec 4: varun on EMNLP in china
 * 
