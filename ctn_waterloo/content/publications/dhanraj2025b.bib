@@ -1,10 +1,19 @@
-@InProceedings{dhanraj2025neurosymbolicLLM,
-  title = 	 {Improving Rule-based Reasoning in LLMs using Neurosymbolic Representations},
-  author =       {Varun Dhanraj and Chris Eliasmith},
-  booktitle    = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  location     = {Suzhou, China},
-  year         = {2025},
-  publisher    = {Association for Computational Linguistics},
-  url          = {https://arxiv.org/abs/2502.01657},
-  note         = {arXiv:2502.01657},
+@inproceedings{dhanrajneurosymbolicllm,
+    title = "Improving Rule-based Reasoning in {LLM}s using Neurosymbolic Representations",
+    author = "Dhanraj, Varun  and
+      Eliasmith, Chris",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1556/",
+    doi = "10.18653/v1/2025.emnlp-main.1556",
+    pages = "30577--30596",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Large language models (LLMs) continue to face challenges in reliably solving reasoning tasks, particularly tasks that involve precise rule following, as often found in mathematical reasoning tasks. This paper introduces a novel neurosymbolic method that improves LLM reasoning by encoding hidden states into neurosymbolic vectors, enabling problem-solving within a neurosymbolic vector space. The results are decoded and merged with the original hidden state, significantly boosting the model{'}s performance on numerical reasoning tasks. By offloading computation through neurosymbolic representations, this method enhances efficiency, reliability, and interpretability. Our experimental results demonstrate an average of 88.6{\%} lower cross-entropy loss and 15.4 times more problems correctly solved on a suite of mathematical reasoning tasks compared to chain-of-thought prompting and supervised fine-tuning (LoRA), while not hindering the LLM{'}s performance on other tasks. We make our code available at https://github.com/vdhanraj/Neurosymbolic-LLM."
 }
