@@ -55,4 +55,5 @@ This year's meetings:
 * Nov 20: no meeting (graeme PhD comprehensive)
 * Nov 27: michael survey of state of the art for VSAs
 * Dec 4: varun on EMNLP in china
-* 
+* Dec 11: isaac on latest arc model/paper
+* Dec 18: 
