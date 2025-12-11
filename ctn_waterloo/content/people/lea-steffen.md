@@ -10,7 +10,7 @@ links:
     - text: GitHub
       url: https://github.com/LeaStef
     - text: LinkedIn
-      url: www.linkedin.com/in/lea-steffen-96643b98
+      url: https://ca.linkedin.com/in/lea-steffen-96643b98
     - text: ORCID 
       url: https://orcid.org/0000-0002-7485-6915  
 
