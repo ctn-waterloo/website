@@ -3,5 +3,6 @@
     title = {Fully Spiking Linear Quadratic Regulator Control via a Neuromorphic Solver for the Continuous Algebraic Riccati Equation},
     booktitle = {2026 Neuro Inspired Computational Elements Conference (NICE)},
     year = {2026},
-    note = {Accepted, to appear}
+    note = {Accepted, to appear},
+    abstract = {A recurrent spiking neural network (SNN) architecture is introduced to dynamically solve the Continuous Algebraic Riccati Equation (CARE), enabling an online, fully spiking implementation of the continuous Linear Quadratic Regulator (LQR). Using a framework that allows dynamical system representation using spiking neurons, the CARE dynamics are embedded directly within a recurrent SNN, yielding a causal controller that computes the LQR solution in real time. A Lyapunov-based analysis provides conditions that ensure the stability of both the spiking CARE solver and the resulting closed-loop system. Increasing the neuronal population used to approximate the Riccati differential equation is shown to reduce the tracking error and improve the accuracy of the solution. Numerical simulations of the yaw dynamics of a constrained quadrotor test platform validate the approach. The proposed controller achieves tracking performance comparable to the ideal non-spiking LQR while preserving the convergent behavior of the CARE within the spiking framework.}
 }
