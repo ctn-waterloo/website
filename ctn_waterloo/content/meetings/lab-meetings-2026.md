@@ -9,5 +9,8 @@ This year's meetings:
 
 * Jan 15: Welcome back! Varun master's practice talk
 * Jan 22: Reviewing summer school applications
-* Jan 29:
-* 
+* Jan 29: roundtable
+* Feb 5:
+* Feb 12:
+* Feb 19:
+* Feb 26:
