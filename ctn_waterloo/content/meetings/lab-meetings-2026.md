@@ -10,7 +10,11 @@ This year's meetings:
 * Jan 15: Welcome back! Varun master's practice talk
 * Jan 22: Reviewing summer school applications
 * Jan 29: roundtable
-* Feb 5:
-* Feb 12:
-* Feb 19:
-* Feb 26:
+* Feb 5: jake talk on memory/SSPs
+* Feb 12: moxu on preparation for trip to australia
+* Feb 19: no meeting (reading week)
+* Feb 26: samarth on risk aware planning
+* Mar 5:
+* Mar 12:
+* Mar 19:
+* Mar 26:
