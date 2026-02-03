@@ -15,6 +15,6 @@ This year's meetings:
 * Feb 19: no meeting (reading week)
 * Feb 26: samarth on risk aware planning
 * Mar 5:
-* Mar 12:
+* Mar 12: graeme practice talk for NICE
 * Mar 19:
 * Mar 26:
