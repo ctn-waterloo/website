@@ -16,5 +16,5 @@ This year's meetings:
 * Feb 26: samarth on risk aware planning
 * Mar 5:
 * Mar 12: graeme practice talk for NICE
-* Mar 19:
+* Mar 19: kathryn on foraging research
 * Mar 26:
