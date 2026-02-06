@@ -17,4 +17,9 @@ This year's meetings:
 * Mar 5:
 * Mar 12: graeme practice talk for NICE
 * Mar 19: kathryn on foraging research
-* Mar 26:
+* Mar 26: spaun3 project update
+* Apr 2:
+* Apr 9:
+* Apr 16:
+* Apr 23:
+* Apr 30:
