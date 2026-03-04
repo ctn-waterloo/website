@@ -17,8 +17,8 @@ This year's meetings:
 * Mar 5: michael on his trip to csiro
 * Mar 12: graeme practice talk for NICE
 * Mar 19: kathryn on foraging research
-* Mar 26: spaun3 project update
-* Apr 2:
+* Mar 26: 
+* Apr 2: spaun3 project update
 * Apr 9:
 * Apr 16:
 * Apr 23:
