@@ -20,6 +20,6 @@ This year's meetings:
 * Mar 26: 
 * Apr 2: graeme and cici on the nice conference
 * Apr 9: spaun3 project update
-* Apr 16:
+* Apr 16: terry on nengo sprint planning
 * Apr 23:
 * Apr 30:
