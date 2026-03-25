@@ -19,7 +19,7 @@ This year's meetings:
 * Mar 19: kathryn on foraging research
 * Mar 26: 
 * Apr 2: graeme and cici on the nice conference
-* Apr 9: spaun3 project update
+* Apr 9: varun on something interesting
 * Apr 16: terry on nengo sprint planning
-* Apr 23:
+* Apr 23: spaun3 project update
 * Apr 30:
