@@ -17,9 +17,13 @@ This year's meetings:
 * Mar 5: michael on his trip to csiro
 * Mar 12: graeme practice talk for NICE
 * Mar 19: kathryn on foraging research
-* Mar 26: 
+* Mar 26: roundtable
 * Apr 2: graeme and cici on the nice conference
 * Apr 9: varun on something interesting
 * Apr 16: terry on nengo sprint planning
 * Apr 23: spaun3 project update
-* Apr 30:
+* Apr 30: graeme on I&I mpc
+* May 7:
+* May 14:
+* May 21:
+* May 28: 
