@@ -23,7 +23,7 @@ This year's meetings:
 * Apr 16: terry on nengo sprint planning
 * Apr 23: spaun3 project update
 * Apr 30: graeme on I&I mpc
-* May 7:
+* May 7: sspspace library next steps discussion
 * May 14:
-* May 21:
+* May 21: nengo network distribution discussion
 * May 28: 
