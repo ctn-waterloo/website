@@ -24,6 +24,6 @@ This year's meetings:
 * Apr 23: spaun3 project update
 * Apr 30: graeme on I&I mpc
 * May 7: sspspace library next steps discussion
-* May 14:
+* May 14: roundtable (& summer school org)
 * May 21: nengo network distribution discussion
 * May 28: 
