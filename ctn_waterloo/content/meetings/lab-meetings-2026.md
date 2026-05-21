@@ -26,4 +26,13 @@ This year's meetings:
 * May 7: sspspace library next steps discussion
 * May 14: roundtable (& summer school org)
 * May 21: nengo network distribution discussion
-* May 28: 
+* May 28:
+* Jun 4
+* Jun 11
+* Jun 18
+* Jun 25
+* Jul 2
+* Jul 9
+* Jul 16
+* Jul 23
+* Jul 30: lea icons practice talk 
