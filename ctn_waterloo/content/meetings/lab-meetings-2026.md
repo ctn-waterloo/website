@@ -26,7 +26,7 @@ This year's meetings:
 * May 7: sspspace library next steps discussion
 * May 14: roundtable (& summer school org)
 * May 21: nengo network distribution discussion
-* May 28:
+* May 28: no meeting (chris away)
 * Jun 4: no meeting (summer school)
 * Jun 11: no meeting (summer school)
 * Jun 18
