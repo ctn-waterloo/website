@@ -29,7 +29,7 @@ This year's meetings:
 * May 28: no meeting (chris away)
 * Jun 4: no meeting (summer school)
 * Jun 11: no meeting (summer school)
-* Jun 18
+* Jun 18: summer school debrief
 * Jun 25
 * Jul 2
 * Jul 9
