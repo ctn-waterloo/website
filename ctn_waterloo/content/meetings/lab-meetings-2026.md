@@ -30,7 +30,7 @@ This year's meetings:
 * Jun 4: no meeting (summer school)
 * Jun 11: no meeting (summer school)
 * Jun 18: summer school debrief
-* Jun 25
+* Jun 25: no meeting (cnew and other stuff)
 * Jul 2
 * Jul 9
 * Jul 16: no meeting (chris away)
