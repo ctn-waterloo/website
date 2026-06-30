@@ -31,7 +31,7 @@ This year's meetings:
 * Jun 11: no meeting (summer school)
 * Jun 18: summer school debrief
 * Jun 25: no meeting (cnew and other stuff)
-* Jul 2
+* Jul 2: terry, michael and friends on cnew debrief
 * Jul 9
 * Jul 16: no meeting (chris away)
 * Jul 23: no meeting (chris away)
