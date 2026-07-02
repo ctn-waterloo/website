@@ -1,4 +1,4 @@
-name: Shiyun (Iris)
+name: Shiyun (Iris) Dong
 email: shiyun.dong@etu.u-paris.fr
 one_liner: Neural Semantics, Vector Symbolic Architectures
 group: Grad students
