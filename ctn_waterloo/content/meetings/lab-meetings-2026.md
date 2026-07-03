@@ -35,9 +35,9 @@ This year's meetings:
 * Jul 9: cogsci practice talks (kathryn, jake, isaac)
 * Jul 16: no meeting (chris away)
 * Jul 23: no meeting (chris away)
-* Jul 30: lea icons practice talk
+* Jul 30: lea icons practice talk jake seminar practice talks
 * Aug 6: no meeting (chris away)
 * Aug 13: cogsci recaps (jake, kathryn, isaac)
-* Aug 20: jake and isaac practice seminars
+* Aug 20: isaac practice seminar
 * Aug 27: icons and icml recaps (karim, lea)
 * Sept 3:
