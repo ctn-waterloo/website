@@ -32,7 +32,12 @@ This year's meetings:
 * Jun 18: summer school debrief
 * Jun 25: no meeting (cnew and other stuff)
 * Jul 2: terry, michael and friends on cnew debrief
-* Jul 9
+* Jul 9: cogsci practice talks (kathryn, jake, isaac)
 * Jul 16: no meeting (chris away)
 * Jul 23: no meeting (chris away)
-* Jul 30: lea icons practice talk 
+* Jul 30: lea icons practice talk
+* Aug 6: no meeting (chris away)
+* Aug 13: cogsci recaps (jake, kathryn, isaac)
+* Aug 20: jake and isaac practice seminars
+* Aug 27: icons and icml recaps (karim, lea)
+* Sept 3:
