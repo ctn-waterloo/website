@@ -40,4 +40,6 @@ This year's meetings:
 * Aug 13: isaac practice seminar and jake seminar practice talks
 * Aug 20: cogsci recaps (jake, kathryn, isaac)
 * Aug 27: icons and icml recaps (karim, lea)
-* Sept 3:
+* Sept 3: moritz on telluride and his work
+* Moving to Mondays at Noon: Sept 7 is a holiday
+* Sept 14:
