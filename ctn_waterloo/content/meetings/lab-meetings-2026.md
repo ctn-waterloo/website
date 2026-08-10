@@ -3,7 +3,7 @@ year: 2026
 
 Here we will post slides/discussions/papers related to recent or upcoming lab meetings. Subject to change, of course.
 
-As of Aug 28th, meetings take place in EC4 2101a (Boardroom), Thurs at 12:30p.
+Meetings take place in EC4 2101a (Boardroom), Thurs at 12:30p, until Sept 14th when it moves to Monday at 12:30p.
 
 This year's meetings:
 
