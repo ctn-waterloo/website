@@ -1,5 +1,7 @@
 title: People
 alumni:
+    - text: Isaac Joffe (2026 Masters)
+      url: people/isaac-joffe.html
     - text: Nicole Sandra-Yaffa Dumont (2025 PhD)
       url: people/nicole-dumont.html
     - text: Ryan Laube (2024 Masters)
