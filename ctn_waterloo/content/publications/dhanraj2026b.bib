@@ -1,0 +1,13 @@
+@mastersthesis{dhanraj2026b,
+    author = {Varun Dhanraj},
+    year = {2026},
+    title = {Integrating Symbolic Reasoning into Large Language Models},
+    type = {Masters Thesis},
+    school = {University of Waterloo},
+    url = {https://uwspace.uwaterloo.ca/items/76e43b90-08a4-45c7-b28c-c1437d6e6b60},
+    abstract = {Large language models (LLMs) face fundamental challenges in symbolic reasoning, struggling with tasks requiring precise rule-following, logical consistency, and manipulation of structured representations. This thesis introduces a comprehensive neurosymbolic framework that addresses these limitations by integrating Vector Symbolic Algebras (VSAs) directly into the computational flow of transformer-based language models. Our core method encodes LLM hidden states into compositional neurosymbolic vectors, enabling symbolic algorithms to operate within a high-dimensional vector space before decoding results back into the neural network's processing pipeline.
+We demonstrate that LLMs naturally develop internally separable representations for symbolic concepts, which our linear and transformer-based encoders can extract with high fidelity. On mathematical reasoning tasks, our approach achieves 88.6 percent lower cross-entropy loss and solves 15.4 times more problems correctly compared to chain-of-thought prompting and LoRA fine-tuning, while preserving performance on non-mathematical tasks through selective intervention.
+Beyond arithmetic, we extend this framework to three applications. First, we enable language-only models to perform visual question answering by encoding segmented images as queryable VSA representations, achieving 92 percent accuracy without requiring multimodal architectures. Second, we demonstrate environment navigation where LLMs use spatial semantic pointers to interpret and act upon grid-based worlds according to natural language instructions. Third, we address the context length limitations of LLMs by compressing reasoning histories into VSA representations, maintaining performance on iterative problem-solving tasks while avoiding quadratic scaling costs.
+Our results establish VSA-based neurosymbolic integration as a practical approach for augmenting neural language models with symbolic reasoning capabilities, providing both theoretical insights into LLM representations and practical improvements across diverse reasoning tasks. This work contributes to the broader goal of creating AI systems that combine the flexibility of neural networks with the precision and interpretability of symbolic computation. Code and data are available at https://github.com/vdhanraj/Neurosymbolic-LLM.
+},
+}
