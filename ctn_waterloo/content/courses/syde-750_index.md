@@ -1,7 +1,7 @@
 title: SYDE 556/750 - Simulating Neurobiological Systems
 picture: http://i.imgur.com/f5JyChE.png
 intro: >
-    Course information for SYDE 556/750, taught Fall 2024.
+    Course information for SYDE 556/750, taught Fall 2026.
 people:
     - Chris Eliasmith
     - Terry Stewart
@@ -23,13 +23,13 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
     
 -   **Teaching Assistant**  
     Graeme Damberger   
-    Office: E7-6339
+    Office: EC4-2011
     Email: [graeme.damberger@uwaterloo.ca](graeme.damberger@uwaterloo.ca)
 
 -   **Course times and location**  
-    Monday: 12:30-2:20 in E5-6008 (SYDE 556/750)  
-    Wednesday: 2:30-3:20 in E5-6008 (SYDE 556/750)  
-    Wednesday: 3:30-4:20 in E5-6008 (SYDE 750, optional for 556)  
+    Tuesday: 12:00-1:50 in EC5-2004 (SYDE 556/750)  
+    Thursday: 12:00-12:50 in EC5-2004 (SYDE 556/750)  
+    Thursday: 1:00-1:50 in EC5-2004 (SYDE 750 optional 556)  
 
 -   **Office hours**  
     Please make an appointment by email.
@@ -38,16 +38,16 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 
 ## Lecture Notes and Assignments
 
-All lecture notes and assignments are available on [github](https://github.com/celiasmith/syde556-f24). The lecture notes will be posted there before each class. While everything is available earlier on github, all material is subject to change until it is explicitly linked from the github README.
+All lecture notes and assignments are available on [github](https://github.com/celiasmith/syde556-f26). The lecture notes will be posted there before each class. While everything is available earlier on github, all material is subject to change until it is explicitly linked from the github README.
   
 * * *
 
 ## Project Ideas
 
 The final project for the course consists of picking a neurobiological system and
-building a model for it. Projects are mandatory for 750 and optional (in place of the final assignment) for 556 (max group size of 2). There is a list of possible projects, expectations for the project and more info at [this link](/courses/syde-750/syde-750-possible-projects.html),
+building a model for it. Projects are mandatory for 750. There is a list of possible projects, expectations for the project and more info at [this link](/courses/syde-750/syde-750-possible-projects.html),
 but is not intended to be comprehensive, so feel free to come up with your own ideas.
-Please have your projects approved by Oct 21st.  To do so, you will need to submit a short summary of your project earlier. Have a look at [this document](
+Please have your projects approved by Oct 29th.  To do so, you will need to submit a short summary of your project earlier. Have a look at [this document](
 https://raw.githubusercontent.com/celiasmith/syde556-f24/master/project/interim_report_template/syde556_project_interim_report_template.pdf) for more information
 
 ### Project Format
@@ -58,19 +58,19 @@ Implementation), see the [project page](/courses/syde-750/syde-750-possible-proj
 
 The final document should be between, at least ten, and (at the very most) twenty content pages at 12pt, 1.25 line spacing. Have a look at the following project template for more information.
 
-* **[Project Report Template PDF File](https://github.com/celiasmith/syde556-f24/raw/master/project/template/syde556_project_template.pdf)**  
+* **[Project Report Template PDF File](https://github.com/celiasmith/syde556-f26/raw/master/project/template/syde556_project_template.pdf)**  
   Contains some advice on how to structure the report, the formating, as well as some example uses of LaTeX.
-* **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-f24/raw/master/project/template.zip)**  
+* **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-f26/raw/master/project/template.zip)**  
   Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service such as Overleaf.
 
-Students are expected to provide a short, 5-10 min project presentation on the last two days of class. Marks are not assigned for the presentation, although a skipped or very poor presentation will result in the loss of up to 4 marks on the project report. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f24/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
+Students are expected to provide a short, 5-10 min project presentation on the last two days of class. Marks are not assigned for the presentation, although a skipped or very poor presentation will result in the loss of up to 4 marks on the project report. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f26/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
 
 
 * * *
 
 ## Course Format
 
-Two lectures per week and homework assignments consisting of computer
+Two lectures per week and practice notebooks consisting of computer
 exercises using Python. For SYDE 750 (optional for 556) a larger class project is required, usually a
 computer simulation developed based on significant neuroscientific research
 and/or collaboration with a neurophysiologist. This course examines a general
