@@ -74,7 +74,7 @@ The final document should be between, at least ten, and (at the very most) twent
 * **[Project Report Template Source ZIP File](https://github.com/celiasmith/syde556-f26/raw/master/project/template.zip)**  
   Containing the LaTeX source code. This ZIP file can be directly uploaded to an online service such as Overleaf.
 
-Students are expected to provide a short, 5-10 min project presentation on the last two days of class. Marks are not assigned for the presentation, although a skipped or very poor presentation will result in the loss of up to 4 marks on the project report. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f26/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
+Students are expected to provide a short, 5-10 min project presentation near the end of term. Marks are not assigned for the presentation, although a skipped or very poor presentation will result in the loss of up to 4 marks on the project report. The schedule will be set later in the term. Contents can follow the recommendations in the [project summary document](https://raw.githubusercontent.com/celiasmith/syde556-f26/master/project/interim_report_template/syde556_project_interim_report_template.pdf).
 
 
 * * *
@@ -82,7 +82,7 @@ Students are expected to provide a short, 5-10 min project presentation on the l
 ## Course Format
 
 Two lectures per week and practice notebooks consisting of computer
-exercises using Python. For SYDE 750 (optional for 556) a larger class project is required, usually a
+exercises using Python. For SYDE 750 a larger class project is required, usually a
 computer simulation developed based on significant neuroscientific research
 and/or collaboration with a neurophysiologist. This course examines a general
 framework for modeling computation by neurobiological systems with an emphasis
