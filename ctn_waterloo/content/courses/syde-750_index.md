@@ -25,9 +25,9 @@ toc:
     Email: [graeme.damberger@uwaterloo.ca](graeme.damberger@uwaterloo.ca)
 
 -   **Course times and location**  
-    Tuesday: 12:00-1:50 in EC5-2004 (SYDE 556/750)  
-    Thursday: 12:00-12:50 in EC5-2004 (SYDE 556/750)  
-    Thursday: 1:00-1:50 in EC5-2004 (SYDE 750 optional 556)  
+    Tuesday: 12:00-1:50 in E5-2004 (SYDE 556/750)  
+    Thursday: 12:00-12:50 in E5-2004 (SYDE 556/750)  
+    Thursday: 1:00-1:50 in E5-2004 (SYDE 750 optional 556)  
 
 -   **Office hours**  
     Please make an appointment by email.
