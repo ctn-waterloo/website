@@ -36,7 +36,7 @@ toc:
 
 ## Syllabus
 
-The course syllabus is [here](https://outline.uwaterloo.ca/view/nwh9u7).
+The course syllabus is [here](https://outline.uwaterloo.ca/view/nry5dy).
     
 ## Lecture Notes and Assignments
 
