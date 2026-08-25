@@ -7,7 +7,6 @@ people:
     - Terry Stewart
     - Andreas Stöckel
 toc:
-    - SYDE 556 Course Outline
     - SYDE 750 Possible Projects
 
 #  SYDE 556: Simulating Neurobiological Systems
