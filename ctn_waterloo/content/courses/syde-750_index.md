@@ -12,8 +12,6 @@ toc:
 
 #  SYDE 556: Simulating Neurobiological Systems
 
-See the [course outline](/courses/syde-750/syde-556-course-outline.html) for more information.
-
 -   **Instructor**  
     Chris Eliasmith  
     Office: E7-6324   
@@ -36,10 +34,23 @@ See the [course outline](/courses/syde-750/syde-556-course-outline.html) for mor
 
 * * *
 
+## Syllabus
+
+The course syllabus is [here](https://outline.uwaterloo.ca/view/nwh9u7).
+    
 ## Lecture Notes and Assignments
 
 All lecture notes and assignments are available on [github](https://github.com/celiasmith/syde556-f26). The lecture notes will be posted there before each class. While everything is available earlier on github, all material is subject to change until it is explicitly linked from the github README.
-  
+
+## Readings
+
+- Main resource: “Neural Engineering: Representation, Computation and Dynamics in Neurobiological Systems”, Chris Eliasmith and Charles Anderson, 2003. MIT Press. [Free](https://compneuro.uwaterloo.ca/files/Eliasmith.Anderson.2003.Neural.Engineering.Full.Book.pdf).
+- Optional: “How to Build a Brain”, Chris Eliasmith, 2012. Oxford University Press.
+
+## Grading
+
+Grading will be based on writing six tests, keeping the top 5 scores. This comprises 100% of the grade for 556, and 80% for 750. For 750, the remaining 20% is determined by the final project. Late projects lose 1 mark per day and may be at most seven days late. Practice notebooks are provided on which the tests will be based. You are expected to do these notebooks individually to prepare for the tests.
+
 * * *
 
 ## Project Ideas
