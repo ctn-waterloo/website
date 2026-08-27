@@ -1,6 +1,6 @@
 name: Jakeb Chouinard
 email: jakeb.chouinard@uwaterloo.ca
-one_liner: Biologically-Plausible Memory Mechanisms
+one_liner: Biologically-Plausible Memory and Representations
 group: Grad students
 title: MASc Student in Systems Design Engineering
 picture: https://raw.githubusercontent.com/jkbchouinard/jkbchouinard/refs/heads/main/PXL_20240523_072223584.jpg
@@ -12,7 +12,7 @@ links:
 
 ## Background
 
-I started as a Masters Student here at the University of Waterloo conducting research under the Computational Neuroscience Research Group (CNRG) in September 2024. I was awarded my BASc in June 2023 from the University of Waterloo in Mechatronics Engineering with a Computing Option. I have particular interests in neuroscience and software development, making CNRG an ideal place for me to pursue my Masters research.
+I started as a Masters Student here at the University of Waterloo conducting research under the Computational Neuroscience Research Group (CNRG) in September 2024. I was awarded my BASc in June 2024 from the University of Waterloo in Mechatronics Engineering with a Computing Option. I have particular interests in neuroscience and software development, making CNRG an ideal place for me to pursue my Masters research.
 
 ## Research 
 
