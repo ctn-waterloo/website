@@ -3,7 +3,7 @@ year: 2026
 
 Here we will post slides/discussions/papers related to recent or upcoming lab meetings. Subject to change, of course.
 
-Meetings take place in EC4 2101a (Boardroom), Thurs at 12:30p, until Sept 14th when it moves to Monday at 12:30p.
+Meetings take place in EC4 2101a (Boardroom), Monday at 12:30p.
 
 This year's meetings:
 
@@ -41,5 +41,7 @@ This year's meetings:
 * Aug 20: cogsci recaps (jake, kathryn, isaac)
 * Aug 27: icons and icml recaps (karim, lea)
 * Sept 3: moritz on telluride and his work
-* Moving to Mondays at Noon: Sept 7 is a holiday
-* Sept 14:
+* Moving to Mondays at 12:30p: Sept 7 is a holiday
+* Sept 14: roundtable
+* Sept 21: pete duggins on decision models
+* Sept 28: 
