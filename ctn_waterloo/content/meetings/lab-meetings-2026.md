@@ -44,4 +44,9 @@ This year's meetings:
 * Moving to Mondays at 12:30p: Sept 7 is a holiday
 * Sept 14: roundtable
 * Sept 21: pete duggins on decision models
-* Sept 28: 
+* Sept 28: graeme on optimal control for neuromorphic systems
+* Oct 5: karim on ssp-jepa
+* Oct 12: leon on autonomous driving perception
+* Oct 19: kathryn live notebook demo (nengo widget)
+* Oct 26: jake spinnaker2 demo and setup
+* 
