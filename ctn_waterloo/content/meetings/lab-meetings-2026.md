@@ -46,7 +46,7 @@ This year's meetings:
 * Sept 21: pete duggins on decision models
 * Sept 28: graeme on optimal control for neuromorphic systems
 * Oct 5: karim on ssp-jepa
-* Oct 12: leon on autonomous driving perception
-* Oct 19: kathryn live notebook demo (nengo widget)
+* Oct 12: no meeting (reading week)
+* Oct 19: leon on autonomous driving perception
 * Oct 26: jake spinnaker2 demo and setup
-* 
+* Nov 2: kathryn live notebook demo (nengo widget)
