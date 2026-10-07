@@ -50,3 +50,7 @@ This year's meetings:
 * Oct 19: leon on autonomous driving perception
 * Oct 26: jake spinnaker2 demo and setup
 * Nov 2: kathryn live notebook demo (nengo widget)
+* Nov 9:
+* Nov 16:
+* Nov 23: discussion of [this paper](https://www.nature.com/articles/s41467-026-71386-z) (led by kathryn)
+* Nov 30:
