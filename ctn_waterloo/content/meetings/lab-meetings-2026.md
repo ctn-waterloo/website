@@ -48,9 +48,10 @@ This year's meetings:
 * Oct 5: karim on ssp-jepa
 * Oct 12: no meeting (reading week) - Oct 13th 11a - lea job talk
 * Oct 19: leon on autonomous driving perception
-* Oct 26: jake spinnaker2 demo and setup
+* Oct 26: research day practice talks
 * Nov 2: kathryn live notebook demo (nengo widget)
-* Nov 9:
-* Nov 16:
+* Nov 9: jake spinnaker2 demo and setup
+* Nov 16: moritz on yana (fpga)
 * Nov 23: discussion of [this paper](https://www.nature.com/articles/s41467-026-71386-z) (led by kathryn)
-* Nov 30:
+* Nov 30: spiking MPC
+* 
